@@ -779,7 +779,7 @@ export default function PremiumPaywall({
         </div>
 
         {/* Kartu tier */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full">
+        <div className="flex flex-col gap-6 w-full max-w-md mx-auto">
           {/* BASIC */}
           <div
             onClick={() => setSelectedTier("basic")}
