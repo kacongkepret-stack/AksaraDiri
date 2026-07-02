@@ -1,15 +1,19 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 
 export default function AnimatedBackground() {
   return (
     <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
       {/* 1. Base Image with Breathing Animation */}
-      <img
+      <Image
         src="/images/mystic_bg.png"
-        alt=""
-        className="absolute inset-0 w-full h-full object-cover animate-[breath_20s_ease-in-out_infinite]"
+        alt="Background"
+        fill
+        priority
+        quality={60}
+        className="object-cover animate-[breath_20s_ease-in-out_infinite]"
       />
 
       {/* 2. Glassmorphism Overlay */}
