@@ -1,0 +1,458 @@
+{
+  "title": "Edad Mental",
+  "description": "Descubre tu edad mental según tu forma de pensar.",
+  "timeEstimation": "15 Minutos",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "ma1",
+      "question": "Cuando enfrentas un problema, tiendes a...",
+      "options": [
+        { "text": "Buscar soluciones creativas y espontáneas", "type": "Y" },
+        { "text": "Analizar y hacer un plan maduro", "type": "A" },
+        { "text": "Mantener la calma, esto ya ha pasado a menudo", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma2",
+      "question": "¿Cómo respondes a un cambio repentino?",
+      "options": [
+        { "text": "Con entusiasmo, ¡algo nuevo!", "type": "Y" },
+        { "text": "Un poco estresado/a pero puedo adaptarme", "type": "A" },
+        { "text": "Molesto/a, no me gustan los cambios", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma3",
+      "question": "Los fines de semana, prefieres...",
+      "options": [
+        { "text": "Probar nuevas actividades y salir fuera", "type": "Y" },
+        { "text": "Equilibrar entre descansar en casa y ser un poco productivo/a", "type": "A" },
+        { "text": "Descansar tranquilo/a en casa todo el día", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma4",
+      "question": "Tu opinión sobre las reglas...",
+      "options": [
+        { "text": "A menudo reprimen la creatividad y la libertad", "type": "Y" },
+        { "text": "Son necesarias para el orden, pero pueden ser flexibles", "type": "A" },
+        { "text": "Deben seguirse estrictamente sin compromiso", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma5",
+      "question": "Cuando alguien te ofende...",
+      "options": [
+        { "text": "Respondes de inmediato y muestras emoción", "type": "Y" },
+        { "text": "Hablas con él/ella amablemente después de calmarte", "type": "A" },
+        { "text": "Te quedas callado/a, no hay que alargar el problema", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma6",
+      "question": "¿Cómo gestionas tus finanzas?",
+      "options": [
+        { "text": "A menudo impulsivo/a, compro lo que me gusta", "type": "Y" },
+        { "text": "Tengo un presupuesto mensual, aunque a veces me desvío un poco", "type": "A" },
+        { "text": "Muy planificado/a, ahorrativo/a y centrado/a en el ahorro", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma7",
+      "question": "Cuando conoces gente nueva, tú...",
+      "options": [
+        { "text": "Entusiasta, te haces amigo/a fácilmente y hablas mucho", "type": "Y" },
+        { "text": "Amable pero mantienes tus límites al principio", "type": "A" },
+        { "text": "Educado/a, formal y tiendes a observar primero", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma8",
+      "question": "Tu opinión sobre el futuro...",
+      "options": [
+        { "text": "Lleno de posibilidades, sorpresas y aventuras", "type": "Y" },
+        { "text": "Optimista con planes realistas y medibles", "type": "A" },
+        { "text": "Ojalá sea seguro, estable y lejos del caos", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma9",
+      "question": "Cuando estás triste o con el corazón roto, tú...",
+      "options": [
+        { "text": "Lloras fuerte, te desahogas por todas partes y luego superas rápido", "type": "Y" },
+        { "text": "Reflexionas, procesas emociones y buscas el error", "type": "A" },
+        { "text": "Te lo guardas, no quieres parecer débil delante de los demás", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma10",
+      "question": "¿Cuál es tu prioridad principal ahora mismo?",
+      "options": [
+        { "text": "Diversión, nuevas experiencias y libertad", "type": "Y" },
+        { "text": "Equilibrio entre carrera, familia y tiempo personal", "type": "A" },
+        { "text": "Seguridad financiera, paz y estabilidad vital", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma11",
+      "question": "Al planificar unas vacaciones, eliges...",
+      "options": [
+        { "text": "Destinos de moda, virales y llenos de actividades divertidas", "type": "Y" },
+        { "text": "Una mezcla de exploración cultural y relajación", "type": "A" },
+        { "text": "Lugares tranquilos, cómodos y con instalaciones garantizadas", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma12",
+      "question": "¿Qué consejo te escuchas más a menudo de los demás?",
+      "options": [
+        { "text": "Eres todavía muy infantil / demasiado descuidado/a", "type": "Y" },
+        { "text": "Eres bastante sabio/a y fiable", "type": "A" },
+        { "text": "Eres demasiado rígido/a / demasiado serio/a", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma13",
+      "question": "Sale al mercado un nuevo gadget o tecnología. Tu reacción...",
+      "options": [
+        { "text": "Muy entusiasta (FOMO) y quiero comprarlo ya", "type": "Y" },
+        { "text": "Estudio las especificaciones, compro solo si lo necesito", "type": "A" },
+        { "text": "Escéptico/a, me siento más cómodo/a con lo viejo que aún funciona", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma14",
+      "question": "Tu estilo de moda diario...",
+      "options": [
+        { "text": "Sigue las últimas tendencias, llamativo o expresivo", "type": "Y" },
+        { "text": "Cómodo, ordenado y apropiado para la situación", "type": "A" },
+        { "text": "Clásico, formal o no me importan las tendencias", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma15",
+      "question": "El tipo de humor que más te hace reír...",
+      "options": [
+        { "text": "Memes absurdos, vídeos virales o chistes tontos", "type": "Y" },
+        { "text": "Sarcasmo inteligente, comedia de situación o humor negro", "type": "A" },
+        { "text": "Chistes clásicos, viejos o muy rara vez te ríes a carcajadas", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma16",
+      "question": "Tu actitud hacia el pasado...",
+      "options": [
+        { "text": "Rara vez pienso en él, me centro más en el hoy y el mañana", "type": "Y" },
+        { "text": "Lo tomo como lección para no repetir errores", "type": "A" },
+        { "text": "A menudo me da nostalgia y creo que los viejos tiempos eran mucho mejores", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma17",
+      "question": "Tu elección de entretenimiento visual suele ser...",
+      "options": [
+        { "text": "Vídeos cortos rápidos (TikTok/Reels) o vloggers favoritos", "type": "Y" },
+        { "text": "Películas o series (Netflix) con tramas sólidas", "type": "A" },
+        { "text": "Noticias de TV, documentales históricos o programas antiguos", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma18",
+      "question": "Cuando tienes una pelea con un amigo cercano...",
+      "options": [
+        { "text": "Te enfadas, te enfurruñas o lo bloqueas en redes sociales", "type": "Y" },
+        { "text": "Te tomas un respiro y luego tienes una discusión madura", "type": "A" },
+        { "text": "Te alejas lentamente y dejas que la amistad se desvanezca sin drama", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma19",
+      "question": "Tu objetivo profesional o laboral actual es...",
+      "options": [
+        { "text": "Perseguir la pasión, buscar diversión y libertad", "type": "Y" },
+        { "text": "Equilibrar un buen salario con una carrera racional", "type": "A" },
+        { "text": "Preparar una jubilación tranquila y estabilidad sin estrés", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma20",
+      "question": "Si te ves obligado/a a trasnochar hasta la mañana, suele ser por...",
+      "options": [
+        { "text": "Jugar, ver series o salir con amigos", "type": "Y" },
+        { "text": "Terminar trabajo con fecha límite cercana o darle muchas vueltas a las cosas", "type": "A" },
+        { "text": "No puedo trasnochar, a las 10 PM ya tengo mucho sueño", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma21",
+      "question": "Cuando estás muy aburrido/a en casa...",
+      "options": [
+        { "text": "Buscas distracción jugando sin parar con el móvil o sales de inmediato", "type": "Y" },
+        { "text": "Haces un hobby relajante, lees o ordenas la casa", "type": "A" },
+        { "text": "El aburrimiento es normal, disfruto de la paz mientras me siento tranquilamente", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma22",
+      "question": "Ver a un niño pequeño patalear (llorar y revolcarse) en el centro comercial...",
+      "options": [
+        { "text": "Te molesta mucho, te incomoda y te alejas de inmediato", "type": "Y" },
+        { "text": "Comprendes la situación y sientes empatía por los padres", "type": "A" },
+        { "text": "Sientes pena, pero en el fondo piensas que los estilos de crianza son diferentes hoy en día", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma23",
+      "question": "La lista de reproducción de música que más escuchas contiene...",
+      "options": [
+        { "text": "Los últimos éxitos, EDM o canciones virales de internet", "type": "Y" },
+        { "text": "Canciones Pop/Indie, según el humor, o canciones de la época del instituto/universidad", "type": "A" },
+        { "text": "Viejas canciones nostálgicas, instrumentales o música de relajación", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma24",
+      "question": "El almacenamiento de tu móvil está lleno. Harás...",
+      "options": [
+        { "text": "Borrar aplicaciones/fotos al azar con tal de poder usar el móvil ya", "type": "Y" },
+        { "text": "Mover los datos a la nube o a un disco duro externo ordenadamente", "type": "A" },
+        { "text": "No sé cómo borrar, lo dejo hasta que el móvil se estropee", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma25",
+      "question": "Tu actitud para cumplir citas...",
+      "options": [
+        { "text": "A menudo llegas tarde o cancelas de repente por el humor", "type": "Y" },
+        { "text": "Intentas llegar puntual, si llegas tarde avisas con mucha antelación", "type": "A" },
+        { "text": "Disciplina absoluta, a menudo llegas 15-30 minutos antes", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma26",
+      "question": "Invitado/a a una boda o gran evento social...",
+      "options": [
+        { "text": "Muy emocionado/a por arreglarte al máximo y hacer contenido", "type": "Y" },
+        { "text": "Vas sin más, charlas con conocidos y te vas después de comer", "type": "A" },
+        { "text": "Te sientes cansado/a solo de imaginar el bullicio, buscas una excusa para no ir", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma27",
+      "question": "En cuanto a tus preferencias alimenticias diarias...",
+      "options": [
+        { "text": "Comida basura, extremadamente picante o dulces virales", "type": "Y" },
+        { "text": "Comida nutritiva equilibrada aunque a veces hagas 'trampa' con algo rico", "type": "A" },
+        { "text": "Comida casera, hervidos, saludable y evitas lo prohibido", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma28",
+      "question": "Alguien escribe un comentario negativo/crítica dura en tus redes sociales...",
+      "options": [
+        { "text": "Te enfadas y te lo tomas a pecho, respondes con agresividad", "type": "Y" },
+        { "text": "Evalúas brevemente, si no tiene sentido (tóxico) lo ignoras/borras", "type": "A" },
+        { "text": "Rara vez estoy activo/a en redes, así que no le doy importancia a lo virtual", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma29",
+      "question": "Llueve intensamente el fin de semana...",
+      "options": [
+        { "text": "Te molesta mucho porque los planes de salir se arruinan por completo", "type": "Y" },
+        { "text": "Lo consideras el momento perfecto para tiempo a solas y ordenar la casa", "type": "A" },
+        { "text": "Disfrutas de la paz del sonido de la lluvia mientras tomas un café/té caliente", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma30",
+      "question": "La definición de 'Amor Verdadero' en tu mente es...",
+      "options": [
+        { "text": "Muy romántico, emocionante y dramático como en las películas", "type": "Y" },
+        { "text": "Trabajo en equipo, compromiso fuerte y complementar las debilidades del otro", "type": "A" },
+        { "text": "Costumbre, comodidad y acompañarse hasta la vejez", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma31",
+      "question": "Cuando te enfrentas a una tarea muy aburrida...",
+      "options": [
+        { "text": "La pospones hasta el último segundo porque no tienes ganas", "type": "Y" },
+        { "text": "La haces poco a poco entre otras actividades", "type": "A" },
+        { "text": "La haces de inmediato hasta terminarla para que la carga mental desaparezca rápido", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma32",
+      "question": "¿Cómo consumes noticias o temas políticos?",
+      "options": [
+        { "text": "Sigo las tendencias de opinión en Twitter/TikTok y reacciono reactivamente", "type": "Y" },
+        { "text": "Leo de múltiples fuentes para encontrar un punto de vista objetivo", "type": "A" },
+        { "text": "Me mantengo fiel a las opiniones conservadoras que he tenido desde siempre", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma33",
+      "question": "Cómo te sientes en tu cumpleaños...",
+      "options": [
+        { "text": "Muy emocionado/a, esperando regalos, sorpresas y mensajes de mucha gente", "type": "Y" },
+        { "text": "Agradecido/a, celebras en privado con las personas más cercanas", "type": "A" },
+        { "text": "Indiferente, es solo un día más que te recuerda que la edad disminuye", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma34",
+      "question": "Si de repente recibes 10 millones de rupias inesperados...",
+      "options": [
+        { "text": "Compro los objetos soñados o los gasto en unas vacaciones lujosas", "type": "Y" },
+        { "text": "Una parte la ahorro/invierto, una pequeña la disfruto como recompensa", "type": "A" },
+        { "text": "Lo guardo todo de forma segura para emergencias/salud", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma35",
+      "question": "Te equivocas de tren/autobús cuando viajas solo/a...",
+      "options": [
+        { "text": "Entras en pánico, te confundes queriendo llorar y llamas a un amigo", "type": "Y" },
+        { "text": "Abres mapas, buscas la ruta alternativa más rápida para dar la vuelta", "type": "A" },
+        { "text": "Mantienes la calma, te bajas en la siguiente parada y preguntas a lugareños/personal", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma36",
+      "question": "Tu opinión sobre la jerga actual que usan los jóvenes...",
+      "options": [
+        { "text": "La uso cada día para seguir siendo relevante y guay", "type": "Y" },
+        { "text": "Entiendo el significado, pero rara vez la uso en mis conversaciones reales", "type": "A" },
+        { "text": "No la entiendo, el idioma es raro y arruina la buena estructura del lenguaje", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma37",
+      "question": "Tu actitud hacia tu condición física y salud...",
+      "options": [
+        { "text": "Me siento fuerte, como de todo y rara vez me importa el horario de sueño", "type": "Y" },
+        { "text": "Empiezo a darme cuenta de la importancia del ejercicio regular y de limitar el azúcar", "type": "A" },
+        { "text": "Muy cuidadoso/a, tomo vitaminas a menudo y me hago chequeos médicos regulares", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma38",
+      "question": "La elección de regalo que más te haría feliz ahora mismo...",
+      "options": [
+        { "text": "Objetos de moda, entradas de concierto o ropa de tendencia", "type": "Y" },
+        { "text": "Electrónica o mobiliario funcional que necesito ahora", "type": "A" },
+        { "text": "Vales de comida, suplementos para articulaciones o simplemente tranquilidad", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma39",
+      "question": "Cuando se produce una larga discusión...",
+      "options": [
+        { "text": "Me obstino e insisto en que los demás reconozcan que tengo razón", "type": "Y" },
+        { "text": "Busco un término medio o acordamos estar en desacuerdo", "type": "A" },
+        { "text": "Cedo, me callo y me voy porque discutir es perder energía", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma40",
+      "question": "Los artículos esenciales que debes llevar en tu bolso al viajar...",
+      "options": [
+        { "text": "Batería externa grande, auriculares y productos de cuidado facial/maquillaje", "type": "Y" },
+        { "text": "Cartera, llaves de casa, cargador y medicación personal suficiente", "type": "A" },
+        { "text": "Aceite de linimento, toallitas húmedas, paraguas y aceite de masaje", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma41",
+      "question": "Cuando sabes que has cometido un gran error...",
+      "options": [
+        { "text": "Te disculpas pero buscas justificaciones (pones excusas)", "type": "Y" },
+        { "text": "Admites el error honestamente y ofreces una solución para arreglarlo", "type": "A" },
+        { "text": "Te persigue la culpa y el arrepentimiento profundo durante mucho tiempo", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma42",
+      "question": "Tu opinión sobre los círculos de amistad...",
+      "options": [
+        { "text": "Cuantos más amigos/círculos, más divertido y popular", "type": "Y" },
+        { "text": "Pocos amigos pero de alta calidad y apoyo mutuo", "type": "A" },
+        { "text": "Mis viejos amigos de hace muchos años son los únicos en los que confío", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma43",
+      "question": "La pantalla de inicio de tu móvil...",
+      "options": [
+        { "text": "Desordenada, muchas notificaciones rojas y widgets bonitos", "type": "Y" },
+        { "text": "Ordenada, aplicaciones agrupadas en carpetas por función", "type": "A" },
+        { "text": "Muy estándar de fábrica, la letra agrandada para leer fácil", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma44",
+      "question": "Cuando el WiFi se desconecta o ralentiza drásticamente...",
+      "options": [
+        { "text": "Te quejas, te pones nervioso/a y reinicias el módem repetidamente", "type": "Y" },
+        { "text": "Buscas actividades sin conexión mientras esperas que se recupere", "type": "A" },
+        { "text": "Te tomas con calma, la vida sin internet unas horas no es un gran problema", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma45",
+      "question": "La definición de 'Éxito' según tus estándares de vida actuales...",
+      "options": [
+        { "text": "Ser popular, rico/a y poder viajar por el mundo libremente", "type": "Y" },
+        { "text": "Estabilidad financiera, crecimiento profesional y una familia que te apoya", "type": "A" },
+        { "text": "Vivir una vida tranquila en el pueblo, sano/a y sin deber ni un céntimo", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma46",
+      "question": "Enfrentarte a padres mayores que son lentos usando cajeros o móviles delante de ti...",
+      "options": [
+        { "text": "Te molestas, chistas y te impacientas esperando", "type": "Y" },
+        { "text": "Ofreces ayuda amablemente para acelerar el proceso", "type": "A" },
+        { "text": "Esperas pacientemente sin quejarte, consciente de que la edad ralentiza a las personas", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma47",
+      "question": "Tu hábito de despertarte los fines de semana/festivos...",
+      "options": [
+        { "text": "Te levantas muy tarde (pasadas las 10 AM) porque te has vengado trasnochando", "type": "Y" },
+        { "text": "Te levantas a la misma hora que entre semana, pero te quedas un rato en la cama", "type": "A" },
+        { "text": "Todavía te levantas a las 5 AM automáticamente aunque no tengas alarma", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma48",
+      "question": "Si tus amigos te invitan a salir hasta la medianoche...",
+      "options": [
+        { "text": "¡Vamos! No pienso volver a casa hasta que amanezca", "type": "Y" },
+        { "text": "Vale, siempre que mañana sea festivo y no esté cansado/a", "type": "A" },
+        { "text": "Rechazo amablemente, a las 9 PM mi cuerpo ya pide cama", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma49",
+      "question": "Tu reacción al ver a un par de adolescentes mostrándose demasiado cariñosos en público...",
+      "options": [
+        { "text": "Lo grabas a escondidas o cotilleas con el amigo de al lado", "type": "Y" },
+        { "text": "Te sientes incómodo/a, miras hacia otro lado y lo ignoras", "type": "A" },
+        { "text": "Niega con la cabeza lamentando la moral de la generación actual", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma50",
+      "question": "Honestamente desde el fondo de tu corazón, sientes que tu edad mental es...",
+      "options": [
+        { "text": "Todavía como un adolescente que se niega a madurar", "type": "Y" },
+        { "text": "Bastante alineada con mi edad biológica en mi carnet de identidad", "type": "A" },
+        { "text": "Muy vieja, cansada del mundo, y con un alma realmente anciana", "type": "O" }
+      ]
+    }
+  ]
+}

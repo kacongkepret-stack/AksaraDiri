@@ -1,0 +1,26 @@
+{
+  "y": {
+    "type": "Joven",
+    "name": "Alma Infantil",
+    "description": "Estás lleno de curiosidad y espontaneidad.",
+    "traits": { "Creativo": 88, "Espontáneo": 85 },
+    "strengths": ["Imaginativo", "Aprendizaje rápido"],
+    "weaknesses": ["No suficientemente serio", "Te aburres fácilmente"]
+  },
+  "a": {
+    "type": "Adulto",
+    "name": "Mente Madura",
+    "description": "Estás equilibrado entre responsabilidad y flexibilidad.",
+    "traits": { "Sabio": 80, "Responsable": 82 },
+    "strengths": ["Digno de confianza", "Calmado"],
+    "weaknesses": ["A veces demasiado serio"]
+  },
+  "o": {
+    "type": "Viejo",
+    "name": "Sabiduría Ancestral",
+    "description": "Eres muy maduro, paciente y reflexivo.",
+    "traits": { "Paciente": 90, "Reflexivo": 85 },
+    "strengths": ["Consejos profundos", "Confiabilidad"],
+    "weaknesses": ["Tiende a ser rígido", "Falta de espontaneidad"]
+  }
+}

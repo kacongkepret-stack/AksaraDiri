@@ -1,0 +1,608 @@
+{
+  "title": "Tes IQ Mini Lengkap",
+  "description": "Uji kemampuan logika, penalaran visual, dan matematika dasar. Pilih jawaban yang paling tepat.",
+  "timeEstimation": "25 Menit",
+  "scoringType": "correct",
+  "questions": [
+    {
+      "id": "q1",
+      "dimension": "logic",
+      "question": "Manakah yang tidak sesuai dengan pola?",
+      "options": [
+        { "text": "Segitiga", "type": "A" },
+        { "text": "Lingkaran", "type": "B" },
+        { "text": "Persegi", "type": "C" },
+        { "text": "Kubus", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q2",
+      "dimension": "math",
+      "question": "2, 4, 8, 16, ... Angka selanjutnya adalah?",
+      "options": [
+        { "text": "24", "type": "A" },
+        { "text": "32", "type": "B" },
+        { "text": "30", "type": "C" },
+        { "text": "20", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q3",
+      "dimension": "logic",
+      "question": "Jika A > B dan B > C, maka...",
+      "options": [
+        { "text": "C > A", "type": "A" },
+        { "text": "A > C", "type": "B" },
+        { "text": "A = C", "type": "C" },
+        { "text": "Tidak bisa ditentukan", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q4",
+      "dimension": "math",
+      "question": "Sebuah apel dan dua jeruk seharga 10.000. Dua apel dan satu jeruk seharga 11.000. Berapa harga satu apel?",
+      "options": [
+        { "text": "3.000", "type": "A" },
+        { "text": "4.000", "type": "B" },
+        { "text": "5.000", "type": "C" },
+        { "text": "6.000", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q5",
+      "dimension": "visual",
+      "question": "Apa bentuk selanjutnya dalam urutan: 🔴🔵🔴🔵...?",
+      "options": [
+        { "text": "🔴", "type": "A" },
+        { "text": "🔵", "type": "B" },
+        { "text": "🟢", "type": "C" },
+        { "text": "🟡", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q6",
+      "dimension": "math",
+      "question": "Jika 3x + 5 = 20, maka nilai x adalah?",
+      "options": [
+        { "text": "3", "type": "A" },
+        { "text": "4", "type": "B" },
+        { "text": "5", "type": "C" },
+        { "text": "6", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q7",
+      "dimension": "logic",
+      "question": "Semua kucing adalah mamalia. Semua mamalia bernafas dengan paru-paru. Jadi...",
+      "options": [
+        { "text": "Semua kucing bernafas dengan insang", "type": "A" },
+        { "text": "Semua kucing bernafas dengan paru-paru", "type": "B" },
+        { "text": "Tidak ada hubungannya", "type": "C" },
+        { "text": "Beberapa kucing tidak bernafas", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q8",
+      "dimension": "visual",
+      "question": "Berapakah jumlah sudut pada segitiga?",
+      "options": [
+        { "text": "90°", "type": "A" },
+        { "text": "180°", "type": "B" },
+        { "text": "270°", "type": "C" },
+        { "text": "360°", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q9",
+      "dimension": "math",
+      "question": "1, 1, 2, 3, 5, 8, ... Angka berikutnya?",
+      "options": [
+        { "text": "10", "type": "A" },
+        { "text": "11", "type": "B" },
+        { "text": "12", "type": "C" },
+        { "text": "13", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q10",
+      "dimension": "logic",
+      "question": "Mana yang paling berbeda?",
+      "options": [
+        { "text": "Apel", "type": "A" },
+        { "text": "Jeruk", "type": "B" },
+        { "text": "Pisang", "type": "C" },
+        { "text": "Wortel", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q11",
+      "dimension": "math",
+      "question": "Berapakah 15% dari 200?",
+      "options": [
+        { "text": "20", "type": "A" },
+        { "text": "25", "type": "B" },
+        { "text": "30", "type": "C" },
+        { "text": "35", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q12",
+      "dimension": "logic",
+      "question": "Beberapa burung bisa terbang. Semua burung adalah hewan. Jadi...",
+      "options": [
+        { "text": "Semua hewan bisa terbang", "type": "A" },
+        { "text": "Beberapa hewan bisa terbang", "type": "B" },
+        { "text": "Tidak ada hewan yang bisa terbang", "type": "C" },
+        { "text": "Semua yang terbang adalah burung", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q13",
+      "dimension": "visual",
+      "question": "Bayangan cermin dari huruf 'p' adalah?",
+      "options": [
+        { "text": "q", "type": "A" },
+        { "text": "b", "type": "B" },
+        { "text": "d", "type": "C" },
+        { "text": "p", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q14",
+      "dimension": "math",
+      "question": "Jika 5 pekerja menyelesaikan tugas dalam 6 hari, berapa pekerja yang dibutuhkan untuk selesai dalam 3 hari?",
+      "options": [
+        { "text": "8 pekerja", "type": "A" },
+        { "text": "10 pekerja", "type": "B" },
+        { "text": "12 pekerja", "type": "C" },
+        { "text": "15 pekerja", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q15",
+      "dimension": "logic",
+      "question": "Mana yang bukan merupakan planet dalam tata surya kita?",
+      "options": [
+        { "text": "Mars", "type": "A" },
+        { "text": "Venus", "type": "B" },
+        { "text": "Pluto", "type": "C" },
+        { "text": "Saturnus", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q16",
+      "dimension": "visual",
+      "question": "Sebuah dadu memiliki sisi depan 2, atas 1, kanan 3. Berapa sisi kiri?",
+      "options": [
+        { "text": "4", "type": "A" },
+        { "text": "5", "type": "B" },
+        { "text": "6", "type": "C" },
+        { "text": "Tidak bisa ditentukan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q17",
+      "dimension": "math",
+      "question": "Urutkan dari terkecil: 0.5, 1/3, 25%, 2/5",
+      "options": [
+        { "text": "0.5, 1/3, 25%, 2/5", "type": "A" },
+        { "text": "25%, 0.5, 2/5, 1/3", "type": "B" },
+        { "text": "25%, 2/5, 1/3, 0.5", "type": "C" },
+        { "text": "25%, 1/3, 2/5, 0.5", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q18",
+      "dimension": "logic",
+      "question": "Jika hari ini Rabu, 50 hari lagi adalah...",
+      "options": [
+        { "text": "Senin", "type": "A" },
+        { "text": "Selasa", "type": "B" },
+        { "text": "Kamis", "type": "C" },
+        { "text": "Sabtu", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q19",
+      "dimension": "visual",
+      "question": "Pola selanjutnya: ♠♥♠♥...",
+      "options": [
+        { "text": "♠", "type": "A" },
+        { "text": "♥", "type": "B" },
+        { "text": "♣", "type": "C" },
+        { "text": "♦", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q20",
+      "dimension": "math",
+      "question": "Sebuah buku dibeli seharga Rp40.000 dan dijual lagi seharga Rp50.000. Persentase keuntungannya?",
+      "options": [
+        { "text": "20%", "type": "A" },
+        { "text": "25%", "type": "B" },
+        { "text": "30%", "type": "C" },
+        { "text": "10%", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q21",
+      "dimension": "logic",
+      "question": "Semua pohon memiliki daun. Kaktus adalah pohon. Kesimpulannya?",
+      "options": [
+        { "text": "Kaktus berduri", "type": "A" },
+        { "text": "Kaktus memiliki daun", "type": "B" },
+        { "text": "Kaktus bukan pohon", "type": "C" },
+        { "text": "Tidak ada kesimpulan valid", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q22",
+      "dimension": "math",
+      "question": "Deret angka: 3, 6, 12, 24, ... Angka selanjutnya adalah?",
+      "options": [
+        { "text": "36", "type": "A" },
+        { "text": "42", "type": "B" },
+        { "text": "48", "type": "C" },
+        { "text": "60", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q23",
+      "dimension": "visual",
+      "question": "Berapakah sudut terkecil yang dibentuk jarum jam dan menit pada pukul 03:00?",
+      "options": [
+        { "text": "45°", "type": "A" },
+        { "text": "90°", "type": "B" },
+        { "text": "120°", "type": "C" },
+        { "text": "180°", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q24",
+      "dimension": "logic",
+      "question": "Anton lebih tinggi dari Budi. Cici lebih tinggi dari Anton. Siapa yang paling pendek?",
+      "options": [
+        { "text": "Anton", "type": "A" },
+        { "text": "Budi", "type": "B" },
+        { "text": "Cici", "type": "C" },
+        { "text": "Tidak diketahui", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q25",
+      "dimension": "math",
+      "question": "Harga sebuah baju setelah diskon 20% adalah Rp 80.000. Harga awalnya adalah?",
+      "options": [
+        { "text": "Rp 90.000", "type": "A" },
+        { "text": "Rp 96.000", "type": "B" },
+        { "text": "Rp 100.000", "type": "C" },
+        { "text": "Rp 120.000", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q26",
+      "dimension": "visual",
+      "question": "Bentuk datar yang terdiri dari 5 sisi lurus disebut?",
+      "options": [
+        { "text": "Segitiga", "type": "A" },
+        { "text": "Segiempat", "type": "B" },
+        { "text": "Pentagon", "type": "C" },
+        { "text": "Heksagon", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q27",
+      "dimension": "logic",
+      "question": "Jika hujan, maka jalanan basah. Saat ini jalanan basah. Kesimpulannya?",
+      "options": [
+        { "text": "Pasti sedang hujan", "type": "A" },
+        { "text": "Belum tentu karena hujan", "type": "B" },
+        { "text": "Jalanan licin", "type": "C" },
+        { "text": "Terjadi banjir", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q28",
+      "dimension": "math",
+      "question": "Akar kuadrat dari 144 adalah?",
+      "options": [
+        { "text": "10", "type": "A" },
+        { "text": "12", "type": "B" },
+        { "text": "14", "type": "C" },
+        { "text": "16", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q29",
+      "dimension": "visual",
+      "question": "Dalam sebuah kubus, berapakah jumlah total rusuknya?",
+      "options": [
+        { "text": "8", "type": "A" },
+        { "text": "10", "type": "B" },
+        { "text": "12", "type": "C" },
+        { "text": "16", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q30",
+      "dimension": "logic",
+      "question": "Lawan kata (antonim) dari 'Progresif' adalah...",
+      "options": [
+        { "text": "Regresif", "type": "A" },
+        { "text": "Agresif", "type": "B" },
+        { "text": "Inovatif", "type": "C" },
+        { "text": "Pasif", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q31",
+      "dimension": "math",
+      "question": "Berapakah hasil dari 5 + 5 x 5?",
+      "options": [
+        { "text": "50", "type": "A" },
+        { "text": "30", "type": "B" },
+        { "text": "25", "type": "C" },
+        { "text": "125", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q32",
+      "dimension": "logic",
+      "question": "Jika P = Q dan Q ≠ R, maka hubungan P dan R adalah?",
+      "options": [
+        { "text": "P = R", "type": "A" },
+        { "text": "P ≠ R", "type": "B" },
+        { "text": "P > R", "type": "C" },
+        { "text": "P < R", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q33",
+      "dimension": "visual",
+      "question": "Manakah huruf kapital berikut yang TIDAK memiliki simetri lipat vertikal?",
+      "options": [
+        { "text": "A", "type": "A" },
+        { "text": "M", "type": "B" },
+        { "text": "O", "type": "C" },
+        { "text": "J", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q34",
+      "dimension": "math",
+      "question": "Sebuah mobil menempuh jarak 120 km dalam waktu 2 jam. Kecepatan rata-ratanya adalah?",
+      "options": [
+        { "text": "50 km/jam", "type": "A" },
+        { "text": "60 km/jam", "type": "B" },
+        { "text": "70 km/jam", "type": "C" },
+        { "text": "80 km/jam", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q35",
+      "dimension": "logic",
+      "question": "Semua dokter bisa menyembuhkan pasien. Ani adalah seorang dokter. Kesimpulannya?",
+      "options": [
+        { "text": "Ani adalah perawat", "type": "A" },
+        { "text": "Ani sangat pintar", "type": "B" },
+        { "text": "Ani bisa menyembuhkan pasien", "type": "C" },
+        { "text": "Ani bekerja di rumah sakit", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q36",
+      "dimension": "visual",
+      "question": "Berapa jumlah total titik pada sepasang dadu standar?",
+      "options": [
+        { "text": "21", "type": "A" },
+        { "text": "36", "type": "B" },
+        { "text": "42", "type": "C" },
+        { "text": "48", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q37",
+      "dimension": "math",
+      "question": "Jarak kota X ke Y adalah 100 km. Jika skala peta 1 : 1.000.000, jarak pada peta adalah?",
+      "options": [
+        { "text": "1 cm", "type": "A" },
+        { "text": "10 cm", "type": "B" },
+        { "text": "100 cm", "type": "C" },
+        { "text": "0.1 cm", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q38",
+      "dimension": "logic",
+      "question": "A adalah saudara laki-laki B. B adalah saudara perempuan C. Apakah hubungan A dengan C?",
+      "options": [
+        { "text": "Paman", "type": "A" },
+        { "text": "Keponakan", "type": "B" },
+        { "text": "Saudara laki-laki", "type": "C" },
+        { "text": "Saudara perempuan", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q39",
+      "dimension": "visual",
+      "question": "Bayangan cermin dari kata 'WOW' jika diletakkan di depan cermin datar adalah?",
+      "options": [
+        { "text": "MOM", "type": "A" },
+        { "text": "WOW", "type": "B" },
+        { "text": "VUV", "type": "C" },
+        { "text": "WMW", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q40",
+      "dimension": "math",
+      "question": "Lanjutkan deret berikut: 10, 9, 7, 4, ...",
+      "options": [
+        { "text": "0", "type": "A" },
+        { "text": "1", "type": "B" },
+        { "text": "2", "type": "C" },
+        { "text": "-1", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q41",
+      "dimension": "logic",
+      "question": "Burung terbang di udara, Ikan berenang di...",
+      "options": [
+        { "text": "Darat", "type": "A" },
+        { "text": "Danau", "type": "B" },
+        { "text": "Air", "type": "C" },
+        { "text": "Laut", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q42",
+      "dimension": "visual",
+      "question": "Sebuah papan catur standar memiliki total berapa kotak kecil (hitam dan putih)?",
+      "options": [
+        { "text": "64", "type": "A" },
+        { "text": "81", "type": "B" },
+        { "text": "100", "type": "C" },
+        { "text": "144", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q43",
+      "dimension": "math",
+      "question": "20% dari X adalah 50. Berapakah nilai X?",
+      "options": [
+        { "text": "100", "type": "A" },
+        { "text": "200", "type": "B" },
+        { "text": "250", "type": "C" },
+        { "text": "500", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q44",
+      "dimension": "logic",
+      "question": "Manakah dari benda-benda berikut yang tidak termasuk dalam kelompoknya?",
+      "options": [
+        { "text": "Meja", "type": "A" },
+        { "text": "Kursi", "type": "B" },
+        { "text": "Lemari", "type": "C" },
+        { "text": "Sepatu", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q45",
+      "dimension": "visual",
+      "question": "Bentuk bangun ruang tiga dimensi dari sebuah lingkaran adalah...",
+      "options": [
+        { "text": "Bola", "type": "A" },
+        { "text": "Tabung", "type": "B" },
+        { "text": "Kerucut", "type": "C" },
+        { "text": "Elips", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q46",
+      "dimension": "math",
+      "question": "Suhu ruangan naik dari -5°C menjadi 12°C. Berapa derajat total kenaikan suhu tersebut?",
+      "options": [
+        { "text": "7°C", "type": "A" },
+        { "text": "17°C", "type": "B" },
+        { "text": "-17°C", "type": "C" },
+        { "text": "12°C", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q47",
+      "dimension": "logic",
+      "question": "Emas adalah logam. Semua logam keras. Berdasarkan pernyataan ini...",
+      "options": [
+        { "text": "Emas itu murah", "type": "A" },
+        { "text": "Emas itu lunak", "type": "B" },
+        { "text": "Emas itu keras", "type": "C" },
+        { "text": "Emas adalah perhiasan", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q48",
+      "dimension": "visual",
+      "question": "Jika sebuah jam analog menunjukkan tepat pukul 06:00, kedua jarum jam membentuk garis...",
+      "options": [
+        { "text": "Lengkung", "type": "A" },
+        { "text": "Lurus", "type": "B" },
+        { "text": "Siku-siku", "type": "C" },
+        { "text": "Sejajar", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q49",
+      "dimension": "math",
+      "question": "Dalam satu kelas yang berisi 40 siswa, 25 siswa menyukai Matematika dan sisanya menyukai IPA. Berapa persentase siswa yang menyukai IPA?",
+      "options": [
+        { "text": "37.5%", "type": "A" },
+        { "text": "40%", "type": "B" },
+        { "text": "50%", "type": "C" },
+        { "text": "62.5%", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q50",
+      "dimension": "logic",
+      "question": "Lengkapi analogi berikut: Hutan : Pohon = Gurun : ...",
+      "options": [
+        { "text": "Panas", "type": "A" },
+        { "text": "Unta", "type": "B" },
+        { "text": "Pasir", "type": "C" },
+        { "text": "Kering", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

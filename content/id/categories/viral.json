@@ -1,0 +1,89 @@
+{
+  "title": "Hiburan Viral",
+  "icon": "🎭",
+  "desc": "Kumpulan alat hiburan ringan yang sedang tren di media sosial, sangat cocok untuk dibagikan.",
+  "bgGradient": "from-pink-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-pink-500/10",
+  "features": [
+    {
+      "name": "Kalkulator Cinta",
+      "id": "love-calculator",
+      "info": "Tes kecocokan nama pasangan",
+      "time": "1 mnt",
+      "q": "Hiburan",
+      "icon": "💘"
+    },
+    {
+      "name": "Pembuat Nama Pasangan",
+      "id": "ship-name-generator",
+      "info": "Gabungan nama yang unik & lucu",
+      "time": "Instan",
+      "q": "Generator",
+      "icon": "🚢"
+    },
+    {
+      "name": "Inisial Jodoh",
+      "id": "soulmate-initials",
+      "info": "Prediksi inisial pasangan hidupmu",
+      "time": "1 mnt",
+      "q": "Acak",
+      "icon": "🔤"
+    },
+    {
+      "name": "Hewan Pelindung",
+      "id": "spirit-animal",
+      "info": "Ketahui hewan penjaga auramu",
+      "time": "3 mnt",
+      "q": "Kuis",
+      "icon": "🐺"
+    },
+    {
+      "name": "Warna Aura",
+      "id": "aura-color",
+      "info": "Deteksi energi warna hari ini",
+      "time": "2 mnt",
+      "q": "Pemindai",
+      "icon": "🌈"
+    },
+    {
+      "name": "Bakat Terpendam",
+      "id": "hidden-talent",
+      "info": "Temukan keahlian tersembunyimu",
+      "time": "3 mnt",
+      "q": "Kuis",
+      "icon": "🎭"
+    },
+    {
+      "name": "Negara Ideal",
+      "id": "which-country",
+      "info": "Negara yang paling cocok untukmu",
+      "time": "2 mnt",
+      "q": "Kuis",
+      "icon": "🌍"
+    },
+    {
+      "name": "Kehidupan Masa Lalu",
+      "id": "past-life",
+      "info": "Misteri reinkarnasi kehidupanmu",
+      "time": "2 mnt",
+      "q": "Generator",
+      "icon": "⏳"
+    },
+    {
+      "name": "Roda Keberuntungan",
+      "id": "fortune-wheel",
+      "info": "Putar roda penentu takdir",
+      "time": "Instan",
+      "q": "Putaran",
+      "icon": "🎡"
+    },
+    {
+      "name": "Kartu Takdir Acak",
+      "id": "destiny-card",
+      "info": "Tarik pesan rahasia dari semesta",
+      "time": "Instan",
+      "q": "Penarikan",
+      "icon": "🃏"
+    }
+  ]
+}

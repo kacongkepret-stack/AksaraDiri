@@ -1,0 +1,458 @@
+{
+  "title": "Stress Type",
+  "description": "Kenali tipe stresmu dan cara terbaik menghadapinya.",
+  "timeEstimation": "15 Menit",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "st1",
+      "question": "Saat deadline mendekat, kamu...",
+      "options": [
+        { "text": "Terjaga semalaman memikirkan semua kemungkinan yang bisa salah", "type": "O" },
+        { "text": "Menunda sampai saat terakhir sambil mencari pelarian", "type": "A" },
+        { "text": "Langsung action, ambil alih kendali, dan kerjakan dengan cepat", "type": "F" }
+      ]
+    },
+    {
+      "id": "st2",
+      "question": "Reaksi fisikmu saat stres...",
+      "options": [
+        { "text": "Sulit tidur, sakit kepala, pikiran terus berputar", "type": "O" },
+        { "text": "Mengantuk berlebihan, lesu, dan ingin rebahan saja", "type": "A" },
+        { "text": "Jantung berdetak kencang, otot tegang, ingin segera bertindak", "type": "F" }
+      ]
+    },
+    {
+      "id": "st3",
+      "question": "Saat terjadi konflik dengan seseorang, kamu...",
+      "options": [
+        { "text": "Menganalisis semua sisi dan merangkai kata di otak hingga lelah sendiri", "type": "O" },
+        { "text": "Menghindar, mendiamkan, berharap masalahnya menguap sendiri", "type": "A" },
+        { "text": "Menghadapi langsung, berdebat keras agar cepat selesai", "type": "F" }
+      ]
+    },
+    {
+      "id": "st4",
+      "question": "Saat banyak tugas menumpuk di satu waktu, kamu...",
+      "options": [
+        { "text": "Kebingungan, panik, dan lumpuh tidak tahu harus mulai dari mana", "type": "O" },
+        { "text": "Mengerjakan yang sangat mudah dulu, atau malah main HP", "type": "A" },
+        { "text": "Buat list ketat, mode robot aktif, dan babat habis satu per satu", "type": "F" }
+      ]
+    },
+    {
+      "id": "st5",
+      "question": "Apa pemicu stres terbesarmu?",
+      "options": [
+        { "text": "Ketidakpastian dan tidak tahu apa yang akan terjadi besok", "type": "O" },
+        { "text": "Tekanan, ekspektasi berat, dan konfrontasi dari orang lain", "type": "A" },
+        { "text": "Hambatan, inefisiensi, dan orang-orang yang bekerja lambat", "type": "F" }
+      ]
+    },
+    {
+      "id": "st6",
+      "question": "Saat stres melanda, kamu cenderung...",
+      "options": [
+        { "text": "Overthinking dan terjebak dalam pikiran sendiri", "type": "O" },
+        { "text": "Mengisolasi diri dan menyibukkan diri dengan hal yang tidak penting", "type": "A" },
+        { "text": "Menjadi lebih agresif, mudah marah (cranky), dan hyper-fokus", "type": "F" }
+      ]
+    },
+    {
+      "id": "st7",
+      "question": "Cara paling alami bagimu untuk menenangkan diri...",
+      "options": [
+        { "text": "Curhat panjang lebar, jurnaling, atau mencari kepastian", "type": "O" },
+        { "text": "Menonton film, main game, tidur, atau 'me time' total", "type": "A" },
+        { "text": "Olahraga keras, bersih-bersih rumah, atau aktivitas fisik", "type": "F" }
+      ]
+    },
+    {
+      "id": "st8",
+      "question": "Saat seseorang mengkritik hasil kerjamu...",
+      "options": [
+        { "text": "Aku memasukkannya ke hati dan memikirkannya berhari-hari", "type": "O" },
+        { "text": "Aku mengabaikannya, pura-pura tidak peduli untuk melindungi ego", "type": "A" },
+        { "text": "Aku langsung defensif, merespons, dan membuktikan mereka salah", "type": "F" }
+      ]
+    },
+    {
+      "id": "st9",
+      "question": "Hubunganmu dengan pekerjaan/tugas...",
+      "options": [
+        { "text": "Aku selalu khawatir hasilnya tidak cukup sempurna (Perfeksionis cemas)", "type": "O" },
+        { "text": "Aku bekerja sebatas kewajiban, tidak mau mengambil pusing", "type": "A" },
+        { "text": "Aku selalu memberikan 100% dan mengambil alih tugas orang jika mereka lambat", "type": "F" }
+      ]
+    },
+    {
+      "id": "st10",
+      "question": "Saat menghadapi perubahan mendadak yang membatalkan rencanamu...",
+      "options": [
+        { "text": "Stres berat memikirkan semua skenario baru yang berantakan", "type": "O" },
+        { "text": "Pasrah, kecewa diam-diam, dan membiarkan arus membawaku", "type": "A" },
+        { "text": "Langsung mencari alternatif, membuat plan B, C, dan D saat itu juga", "type": "F" }
+      ]
+    },
+    {
+      "id": "st11",
+      "question": "Di mata orang lain, saat tertekan kamu terlihat...",
+      "options": [
+        { "text": "Gelisah, banyak bertanya, dan tampak ragu-ragu", "type": "O" },
+        { "text": "Diam, dingin, sulit dihubungi, dan cuek", "type": "A" },
+        { "text": "Tegang, mengintimidasi, kaku, dan memerintah", "type": "F" }
+      ]
+    },
+    {
+      "id": "st12",
+      "question": "Saat semuanya terasa di luar kendali...",
+      "options": [
+        { "text": "Aku merasa hancur, menangis, dan membayangkan hal terburuk", "type": "O" },
+        { "text": "Aku menarik diri secara emosional dan masuk ke mode 'mati rasa'", "type": "A" },
+        { "text": "Aku memaksa untuk memegang kendali sekecil apapun secara agresif", "type": "F" }
+      ]
+    },
+    {
+      "id": "st13",
+      "question": "Apa yang paling kamu butuhkan saat sedang sangat stres?",
+      "options": [
+        { "text": "Seseorang yang mendengarkan, memvalidasi, dan memberi kepastian", "type": "O" },
+        { "text": "Ruang sendiri tanpa gangguan dari siapa pun", "type": "A" },
+        { "text": "Solusi nyata, sumber daya, dan kebebasan untuk bertindak", "type": "F" }
+      ]
+    },
+    {
+      "id": "st14",
+      "question": "Setelah periode stres yang panjang selesai, kamu...",
+      "options": [
+        { "text": "Masih menyisakan sisa kecemasan dan takut masalah itu kembali", "type": "O" },
+        { "text": "Tidur seharian dan malas melakukan apapun (Burnout pasif)", "type": "A" },
+        { "text": "Langsung mencari target/kesibukan baru karena tidak bisa diam", "type": "F" }
+      ]
+    },
+    {
+      "id": "st15",
+      "question": "Saran yang paling sering kamu dengar dari teman-temanmu...",
+      "options": [
+        { "text": "'Jangan terlalu dipikirkan (overthinking), santai sedikit.'", "type": "O" },
+        { "text": "'Jangan lari dari masalah, selesaikan sekarang.'", "type": "A" },
+        { "text": "'Sabar, jangan emosi, pelan-pelan saja.'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st16",
+      "question": "Melihat ratusan email/pesan yang belum dibaca...",
+      "options": [
+        { "text": "Cemas ada hal penting yang terlewat, membacanya berulang-ulang", "type": "O" },
+        { "text": "Menandai 'sudah dibaca' semua atau mengabaikannya sama sekali", "type": "A" },
+        { "text": "Membabat habis membalasnya dengan singkat, cepat, dan tegas", "type": "F" }
+      ]
+    },
+    {
+      "id": "st17",
+      "question": "Saat presentasi atau meeting tiba-tiba ada kendala teknis (mati lampu/proyektor rusak)...",
+      "options": [
+        { "text": "Gemetar, panik merasa presentasiku akan hancur berantakan", "type": "O" },
+        { "text": "Merasa lega dalam hati, berharap presentasinya ditunda saja", "type": "A" },
+        { "text": "Langsung improvisasi bicara tanpa alat bantu, the show must go on", "type": "F" }
+      ]
+    },
+    {
+      "id": "st18",
+      "question": "Terjebak macet total padahal ada jadwal yang sangat mendesak...",
+      "options": [
+        { "text": "Terus melihat jam, stres memikirkan alasan keterlambatan", "type": "O" },
+        { "text": "Pasrah, memutar musik, dan meyakinkan diri 'bukan salahku'", "type": "A" },
+        { "text": "Membunyikan klakson, emosi, mencari jalan tikus ekstrem", "type": "F" }
+      ]
+    },
+    {
+      "id": "st19",
+      "question": "Pasangan mengirim pesan: 'Kita perlu bicara serius nanti malam.'",
+      "options": [
+        { "text": "Menganalisis semua kesalahan masa lalu sejak 3 tahun lalu", "type": "O" },
+        { "text": "Membalas 'Aku sibuk lembur' untuk menunda pembicaraan itu", "type": "A" },
+        { "text": "Membalas 'Bicara sekarang saja, ada masalah apa?'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st20",
+      "question": "Tidak sengaja melakukan kesalahan transfer uang...",
+      "options": [
+        { "text": "Merutuki kebodohan diri sendiri tiada henti sepanjang hari", "type": "O" },
+        { "text": "Menghibur diri 'Ya sudahlah, anggap saja buang sial'", "type": "A" },
+        { "text": "Langsung telepon bank, datangi cabang, urus detik itu juga", "type": "F" }
+      ]
+    },
+    {
+      "id": "st21",
+      "question": "Hari libur tiba, tapi pekerjaan proyekmu belum selesai...",
+      "options": [
+        { "text": "Fisik liburan, tapi otak tersiksa terus memikirkan kerjaan", "type": "O" },
+        { "text": "Matikan notifikasi HP, lupakan total dunia kerja", "type": "A" },
+        { "text": "Bawa laptop ke tempat liburan, paksakan mencicil kerjaan", "type": "F" }
+      ]
+    },
+    {
+      "id": "st22",
+      "question": "Rekan kerja satu timmu ternyata sangat *toxic* dan malas...",
+      "options": [
+        { "text": "Kepikiran terus dan stres bagaimana cara menghadapinya", "type": "O" },
+        { "text": "Menjauhinya sejauh mungkin dan meminimalisir interaksi", "type": "A" },
+        { "text": "Melabraknya atau melaporkannya langsung ke atasan", "type": "F" }
+      ]
+    },
+    {
+      "id": "st23",
+      "question": "Lupa membawa dompet/kartu saat sudah di kasir mau membayar...",
+      "options": [
+        { "text": "Malu luar biasa, cemas ditatap orang, dan meminta maaf berkali-kali", "type": "O" },
+        { "text": "Batal beli, tinggalkan barang, dan langsung pulang", "type": "A" },
+        { "text": "Cepat cari solusi: transfer via HP, Qris, atau telepon teman terdekat", "type": "F" }
+      ]
+    },
+    {
+      "id": "st24",
+      "question": "Gagal mencapai target diet atau olahraga minggu ini...",
+      "options": [
+        { "text": "Merasa sangat bersalah dan menganggap diri gagal total", "type": "O" },
+        { "text": "Merasionalkan kegagalan dan lanjut makan enak", "type": "A" },
+        { "text": "Besoknya balas dendam olahraga ekstrem 3 jam berturut-turut", "type": "F" }
+      ]
+    },
+    {
+      "id": "st25",
+      "question": "WiFi mati mendadak saat sedang presentasi *online* (Zoom)...",
+      "options": [
+        { "text": "Panik memikirkan peserta menganggapku tidak profesional", "type": "O" },
+        { "text": "Menunggu pasrah sampai nyala, kalau tidak ya tutup laptop", "type": "A" },
+        { "text": "Langsung tethering HP, restart modem, marah pada provider", "type": "F" }
+      ]
+    },
+    {
+      "id": "st26",
+      "question": "Seseorang menyela saat kamu sedang menjelaskan ide penting...",
+      "options": [
+        { "text": "Terdiam, overthinking apakah ideku tadi memang jelek/membosankan", "type": "O" },
+        { "text": "Berhenti bicara sepenuhnya dan malas melanjutkannya lagi", "type": "A" },
+        { "text": "Menegurnya langsung: 'Maaf, saya belum selesai bicara.'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st27",
+      "question": "Baju kesayanganmu ketumpahan kopi sesaat sebelum acara...",
+      "options": [
+        { "text": "Stres, malu luar biasa membayangkan semua orang akan melihatnya", "type": "O" },
+        { "text": "Menutupi noda pakai tas/jaket dan berharap tidak ada yang sadar", "type": "A" },
+        { "text": "Langsung lari ke toilet, gosok pakai sabun sampai bersih/beli baju baru", "type": "F" }
+      ]
+    },
+    {
+      "id": "st28",
+      "question": "Diberi tanggung jawab proyek baru yang belum pernah kamu lakukan...",
+      "options": [
+        { "text": "Cemas memikirkan kemungkinan gagal dan mengecewakan atasan", "type": "O" },
+        { "text": "Malas membayangkan beban kerjanya bertambah", "type": "A" },
+        { "text": "Melihatnya sebagai tantangan untuk ditaklukkan dan dikuasai", "type": "F" }
+      ]
+    },
+    {
+      "id": "st29",
+      "question": "Melihat tagihan bulanan membengkak di luar perkiraan...",
+      "options": [
+        { "text": "Langsung overthinking memikirkan kebangkrutan di masa depan", "type": "O" },
+        { "text": "Tutup mata, bayar cicilan minimum, lupakan sejenak", "type": "A" },
+        { "text": "Buka Excel, periksa mutasi, dan potong anggaran bulan depan secara radikal", "type": "F" }
+      ]
+    },
+    {
+      "id": "st30",
+      "question": "Ada nomor tak dikenal menelepon berkali-kali...",
+      "options": [
+        { "text": "Takut itu kabar buruk, penipuan, atau tagihan, dan hanya melihat layarnya", "type": "O" },
+        { "text": "Me-reject panggilan atau men-silent (bisukan) HP", "type": "A" },
+        { "text": "Langsung angkat dan menyapa dengan nada tegas menuntut identitas", "type": "F" }
+      ]
+    },
+    {
+      "id": "st31",
+      "question": "Baterai HP sisa 2% padahal sedang di luar rumah...",
+      "options": [
+        { "text": "Cemas kalau-kalau ada kondisi darurat atau orang penting mencari", "type": "O" },
+        { "text": "Pasrah, biarkan mati, sekalian 'detox digital' sejenak", "type": "A" },
+        { "text": "Lari cari colokan, pinjam powerbank teman, atau mampir ke kafe terdekat", "type": "F" }
+      ]
+    },
+    {
+      "id": "st32",
+      "question": "Kamu ketahuan berbohong kecil oleh teman...",
+      "options": [
+        { "text": "Panik mencari alasan dan penjelasan panjang lebar untuk pembenaran", "type": "O" },
+        { "text": "Senyum canggung dan langsung mengubah topik pembicaraan", "type": "A" },
+        { "text": "Mengakuinya secara blak-blakan atau malah berbalik defensif", "type": "F" }
+      ]
+    },
+    {
+      "id": "st33",
+      "question": "Pesanan makanan di restoran salah dan tidak sesuai yang diminta...",
+      "options": [
+        { "text": "Diam saja, takut merepotkan pelayan atau membuat keributan", "type": "O" },
+        { "text": "Makan saja apa adanya, malas harus menunggu lama lagi", "type": "A" },
+        { "text": "Panggil pelayan dengan tegas dan minta diganti sesuai pesanan", "type": "F" }
+      ]
+    },
+    {
+      "id": "st34",
+      "question": "Kamu menyadari teman-teman geng-mu kumpul tanpa mengajakmu...",
+      "options": [
+        { "text": "Menganalisis diri sendiri: 'Apa aku punya salah sama mereka?'", "type": "O" },
+        { "text": "Bodo amat, mending cari kesibukan sendiri atau main game", "type": "A" },
+        { "text": "Langsung chat di grup: 'Wah pada kumpul nggak ngajak-ngajak nih!'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st35",
+      "question": "Kunci motor/mobil tertinggal di dalam atau hilang...",
+      "options": [
+        { "text": "Merutuki kebodohan sendiri terus-menerus sambil membayangkan repotnya", "type": "O" },
+        { "text": "Duduk lemas, menelepon orang rumah untuk minta diuruskan", "type": "A" },
+        { "text": "Cari kawat, paksa buka jendela, atau panggil tukang kunci detik itu juga", "type": "F" }
+      ]
+    },
+    {
+      "id": "st36",
+      "question": "Ketinggalan jadwal pesawat atau kereta api...",
+      "options": [
+        { "text": "Menangis/panik meratapi uang yang hangus dan rencana yang hancur", "type": "O" },
+        { "text": "Pulang ke rumah dan tidur, menganggap itu bukan rezeki", "type": "A" },
+        { "text": "Langsung ke loket/buka HP beli tiket baru jadwal terdekat berapapun harganya", "type": "F" }
+      ]
+    },
+    {
+      "id": "st37",
+      "question": "Investasi atau tabunganmu mengalami kerugian besar...",
+      "options": [
+        { "text": "Menyesal tiada akhir dan terus memantau grafik sambil stres", "type": "O" },
+        { "text": "Hapus aplikasi, tutup mata, tidak mau melihat portofolio lagi", "type": "A" },
+        { "text": "Cari cara untuk Cut-Loss atau cari pekerjaan sampingan untuk menutup rugi", "type": "F" }
+      ]
+    },
+    {
+      "id": "st38",
+      "question": "Kamar/meja kerjamu sangat berantakan parah...",
+      "options": [
+        { "text": "Stres melihatnya tapi bingung mulai beres-beres dari mana", "type": "O" },
+        { "text": "Biarkan saja, tidur di sisa ruang kosong yang ada", "type": "A" },
+        { "text": "Mendadak ngamuk membersihkan semuanya secara kilat dan buang barang", "type": "F" }
+      ]
+    },
+    {
+      "id": "st39",
+      "question": "Ada teman yang mengingatkan hutang padamu padahal kamu belum ada uang...",
+      "options": [
+        { "text": "Cemas, malu parah, dan panik memikirkan pinjaman dari tempat lain", "type": "O" },
+        { "text": "Pura-pura belum baca pesannya (Ghosting) sampai gajian turun", "type": "A" },
+        { "text": "Balas jujur belum ada, minta waktu tambahan, dan janji tanggal pasti", "type": "F" }
+      ]
+    },
+    {
+      "id": "st40",
+      "question": "Cuaca sangat buruk/badai padahal sudah merencanakan acara *outdoor*...",
+      "options": [
+        { "text": "Sangat sedih dan terus mengeluhkan nasib buruk sepanjang hari", "type": "O" },
+        { "text": "Batal total, balik masuk selimut dan tidur lagi", "type": "A" },
+        { "text": "Langsung pindahkan acara ke *indoor* atau paksa pakai jas hujan", "type": "F" }
+      ]
+    },
+    {
+      "id": "st41",
+      "question": "Dalam rapat, bos mencari sukarelawan untuk proyek sulit...",
+      "options": [
+        { "text": "Menunduk, menimbang-nimbang risiko gagal jika mengambilnya", "type": "O" },
+        { "text": "Pura-pura sibuk mencatat agar tidak ditunjuk", "type": "A" },
+        { "text": "Langsung angkat tangan mengambil peluang tersebut", "type": "F" }
+      ]
+    },
+    {
+      "id": "st42",
+      "question": "Berbeda pendapat prinsip dengan orang tua/mertua...",
+      "options": [
+        { "text": "Memendamnya tapi merasa sangat sakit hati dan *overthinking*", "type": "O" },
+        { "text": "Iya-iyakan saja dari luar agar cepat selesai, tapi tidak dikerjakan", "type": "A" },
+        { "text": "Berdiametral, berdebat dan mempertahankan prinsip dengan keras", "type": "F" }
+      ]
+    },
+    {
+      "id": "st43",
+      "question": "Kamu hanya tidur kurang dari 3 jam semalam...",
+      "options": [
+        { "text": "Cemas dan mensugesti diri sendiri bahwa hari ini pasti akan kacau", "type": "O" },
+        { "text": "Menelepon sakit dan membolos kerja/kuliah untuk lanjut tidur", "type": "A" },
+        { "text": "Minum kopi hitam pekat 3 gelas dan memaksakan diri bekerja ekstra keras", "type": "F" }
+      ]
+    },
+    {
+      "id": "st44",
+      "question": "Saat ada orang terdekat yang terus-menerus mengeluh (curhat *toxic*)...",
+      "options": [
+        { "text": "Menyerap energi negatifnya dan ikut merasa stres serta terbebani", "type": "O" },
+        { "text": "Mulai jarang membalas pesannya dan menghindar bertemu", "type": "A" },
+        { "text": "Memotong curhatannya dan memaksanya melakukan solusi yang kamu sarankan", "type": "F" }
+      ]
+    },
+    {
+      "id": "st45",
+      "question": "Terjadi keadaan darurat fisik (misal: alarm kebakaran bunyi)...",
+      "options": [
+        { "text": "Panik, bingung, dan otak membeku (*freeze*)", "type": "O" },
+        { "text": "Lari menyelamatkan diri secepat mungkin ke zona aman tanpa pikir panjang", "type": "A" },
+        { "text": "Berteriak memberi instruksi pada orang lain dan mencari APAR", "type": "F" }
+      ]
+    },
+    {
+      "id": "st46",
+      "question": "Barang elektronik mahal (laptop/HP) mendadak *blank* saat dipakai...",
+      "options": [
+        { "text": "Stres memikirkan data yang belum di-save dan biaya servis", "type": "O" },
+        { "text": "Tutup laptop/HP, biarkan saja dulu sambil berharap besok sembuh sendiri", "type": "A" },
+        { "text": "Pencet tombol power paksa berkali-kali, tepuk-tepuk keras, atau bongkar sendiri", "type": "F" }
+      ]
+    },
+    {
+      "id": "st47",
+      "question": "Ketika membaca berita negatif/krisis di media sosial...",
+      "options": [
+        { "text": "Terus *doomscrolling*, membaca komentar, dan ikut cemas soal masa depan", "type": "O" },
+        { "text": "Tutup aplikasi, block kata kunci, tidak mau tahu urusan dunia", "type": "A" },
+        { "text": "Ikut berdebat panas di kolom komentar untuk membela yang benar", "type": "F" }
+      ]
+    },
+    {
+      "id": "st48",
+      "question": "Saat dihadapkan pada pilihan sulit (A atau B)...",
+      "options": [
+        { "text": "Membuat daftar panjang *pro* dan *kontra* tapi tetap tidak bisa memilih", "type": "O" },
+        { "text": "Menyerahkan keputusan pada orang lain agar tidak perlu menanggung beban", "type": "A" },
+        { "text": "Mengandalkan insting, pilih satu, dan bersiap menerjang risikonya", "type": "F" }
+      ]
+    },
+    {
+      "id": "st49",
+      "question": "Jika kamu gagal dalam sebuah wawancara kerja yang penting...",
+      "options": [
+        { "text": "Mengingat-ingat kembali jawaban bodoh yang kamu ucapkan saat wawancara", "type": "O" },
+        { "text": "Berhenti melamar kerja untuk sementara waktu karena kehilangan motivasi", "type": "A" },
+        { "text": "Marah pada sistem rekrutmen dan langsung melamar ke 10 perusahaan lain", "type": "F" }
+      ]
+    },
+    {
+      "id": "st50",
+      "question": "Pada akhirnya, apa arti 'Stres' bagimu?",
+      "options": [
+        { "text": "Siksaan mental yang membuat hidupku terasa berat dan menakutkan", "type": "O" },
+        { "text": "Gangguan kenyamanan yang sebisa mungkin harus aku hindari", "type": "A" },
+        { "text": "Bahan bakar pendorong (adrenalin) yang memaksaku untuk bergerak maju", "type": "F" }
+      ]
+    }
+  ]
+}

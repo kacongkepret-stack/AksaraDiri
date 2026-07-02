@@ -1,0 +1,458 @@
+{
+  "title": "Creativity Test",
+  "description": "Temukan bagaimana kreativitasmu terwujud dalam kehidupan sehari-hari.",
+  "timeEstimation": "15 Menit",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "cr1",
+      "question": "Saat menghadapi masalah, kamu biasanya...",
+      "options": [
+        { "text": "Mencari solusi unik yang belum pernah dicoba", "type": "I" },
+        { "text": "Membayangkan kemungkinan tak terbatas", "type": "D" },
+        { "text": "Mengekspresikan ide lewat gambar atau coretan", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr2",
+      "question": "Di waktu luang, kamu suka...",
+      "options": [
+        { "text": "Membuat sesuatu dari barang bekas", "type": "I" },
+        { "text": "Menulis cerita atau puisi", "type": "D" },
+        { "text": "Menggambar, melukis, atau fotografi", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr3",
+      "question": "Bagaimana caramu menuangkan ide?",
+      "options": [
+        { "text": "Langsung mencoba dan bereksperimen", "type": "I" },
+        { "text": "Membayangkan secara detail di pikiran", "type": "D" },
+        { "text": "Membuat sketsa atau diagram visual", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr4",
+      "question": "Saat brainstorming, kamu...",
+      "options": [
+        { "text": "Mengusulkan ide-ide praktis tapi out of the box", "type": "I" },
+        { "text": "Mengalirkan ide liar tanpa batasan logika", "type": "D" },
+        { "text": "Membantu visualisasi ide dengan coretan/gambar", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr5",
+      "question": "Apa yang kamu lakukan dengan barang yang rusak?",
+      "options": [
+        { "text": "Mencoba memperbaiki dengan cara/alat seadanya", "type": "I" },
+        { "text": "Membayangkan barang itu bisa diubah jadi alat lain", "type": "D" },
+        { "text": "Mengubahnya jadi dekorasi atau karya seni", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr6",
+      "question": "Saat harus melakukan presentasi, kamu...",
+      "options": [
+        { "text": "Membuat alat peraga interaktif yang unik", "type": "I" },
+        { "text": "Membuka dengan narasi cerita yang imajinatif", "type": "D" },
+        { "text": "Mendesain slide yang sangat rapi dan estetis", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr7",
+      "question": "Kamu lebih suka bekerja...",
+      "options": [
+        { "text": "Dengan metode eksperimen dan trial-error", "type": "I" },
+        { "text": "Dengan kebebasan penuh tanpa aturan baku", "type": "D" },
+        { "text": "Di lingkungan yang indah, wangi, dan inspiratif", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr8",
+      "question": "Inspirasi biasanya datang dari...",
+      "options": [
+        { "text": "Masalah rumit yang perlu dipecahkan", "type": "I" },
+        { "text": "Lamunan dan mimpi-mimpi di malam hari", "type": "D" },
+        { "text": "Keindahan alam, museum, atau pameran seni", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr9",
+      "question": "Kamu biasanya dikagumi teman-teman karena...",
+      "options": [
+        { "text": "Solusi cerdikmu (Life-hack)", "type": "I" },
+        { "text": "Imajinasi dan cerita liarmu", "type": "D" },
+        { "text": "Selera estetika dan gayamu", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr10",
+      "question": "Proyek impianmu adalah...",
+      "options": [
+        { "text": "Menciptakan produk inovatif yang berguna", "type": "I" },
+        { "text": "Menulis novel best-seller atau skenario film", "type": "D" },
+        { "text": "Mengadakan pameran seni atau desain tunggal", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr11",
+      "question": "Saat ide baru muncul mendadak, kamu...",
+      "options": [
+        { "text": "Langsung mencari cara logis untuk mewujudkannya", "type": "I" },
+        { "text": "Mengembangkannya dalam imajinasi menjadi sangat besar", "type": "D" },
+        { "text": "Mencatat atau menggambarnya agar bentuknya tak hilang", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr12",
+      "question": "Yang paling kamu hargai dalam sebuah karya...",
+      "options": [
+        { "text": "Fungsionalitas dan kegunaan praktisnya", "type": "I" },
+        { "text": "Makna filosofis dan cerita di baliknya", "type": "D" },
+        { "text": "Keindahan visual dan harmoni warnanya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr13",
+      "question": "Saat menata meja kerjamu, kamu fokus pada...",
+      "options": [
+        { "text": "Tata letak alat agar mudah dijangkau dan efisien", "type": "I" },
+        { "text": "Menempelkan quotes dan hal-hal yang memicu ingatan", "type": "D" },
+        { "text": "Warna meja, pajangan estetik, dan pencahayaan", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr14",
+      "question": "Jika membuat kado untuk sahabat, kamu akan...",
+      "options": [
+        { "text": "Merakit barang DIY yang mempermudah hidupnya", "type": "I" },
+        { "text": "Menulis puisi atau surat panjang yang menyentuh", "type": "D" },
+        { "text": "Membuat scrapbook atau kerajinan tangan yang cantik", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr15",
+      "question": "Saat merencanakan liburan, kamu suka...",
+      "options": [
+        { "text": "Mencari rute rahasia dan trik liburan hemat (hack)", "type": "I" },
+        { "text": "Membayangkan petualangan seru tanpa itinerary ketat", "type": "D" },
+        { "text": "Mencari lokasi dengan pemandangan paling bagus untuk difoto", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr16",
+      "question": "Cara terbaik bagimu untuk menghafal sesuatu adalah...",
+      "options": [
+        { "text": "Membuat sistem rumus atau jembatan keledai", "type": "I" },
+        { "text": "Merangkainya menjadi sebuah cerita konyol", "type": "D" },
+        { "text": "Menggambar mind-map dengan spidol warna-warni", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr17",
+      "question": "Ketika menonton film Sci-Fi (Fiksi Ilmiah), kamu fokus pada...",
+      "options": [
+        { "text": "Logika teknologi dan mesin yang ditampilkan", "type": "I" },
+        { "text": "Dunia alternatif dan kebebasan naskahnya", "type": "D" },
+        { "text": "Efek CGI, kostum, dan sinematografinya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr18",
+      "question": "Mencoba rute baru ke kantor/kampus, alasanmu adalah...",
+      "options": [
+        { "text": "Mencari tahu apakah rute ini menghemat waktu 5 menit", "type": "I" },
+        { "text": "Ingin melihat apakah ada kejadian acak yang menarik", "type": "D" },
+        { "text": "Ingin melihat pemandangan gedung atau pohon yang berbeda", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr19",
+      "question": "Jika melihat setumpuk balok Lego acak, kamu akan...",
+      "options": [
+        { "text": "Membangun struktur menara atau jembatan yang kokoh", "type": "I" },
+        { "text": "Mengarang cerita tentang pahlawan di kota Lego", "type": "D" },
+        { "text": "Menyusunnya membentuk pola gradasi warna", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr20",
+      "question": "Kamu merasa paling frustrasi jika...",
+      "options": [
+        { "text": "Harus mengikuti prosedur yang tidak efisien", "type": "I" },
+        { "text": "Dibatasi oleh aturan yang mengekang ide-ide liarmu", "type": "D" },
+        { "text": "Ditempatkan di ruangan yang jelek, berantakan, dan kusam", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr21",
+      "question": "Saat membaca buku resep masakan, kamu...",
+      "options": [
+        { "text": "Memodifikasi takaran agar rasanya lebih optimal", "type": "I" },
+        { "text": "Membayangkan rasa baru yang belum pernah diciptakan", "type": "D" },
+        { "text": "Lebih peduli pada cara menata piring sajiannya (plating)", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr22",
+      "question": "Jika kamu mengisi buku jurnal, isinya lebih banyak...",
+      "options": [
+        { "text": "Tabel pelacak kebiasaan (habit tracker) dan grafik", "type": "I" },
+        { "text": "Narasi panjang tentang perasaan dan ide acak", "type": "D" },
+        { "text": "Doodle, stiker, dan tulisan kaligrafi", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr23",
+      "question": "Jika terjebak di pulau terpencil, kontribusimu adalah...",
+      "options": [
+        { "text": "Membuat alat penyaring air dan perangkap hewan", "type": "I" },
+        { "text": "Bercerita di api unggun agar semua tetap semangat", "type": "D" },
+        { "text": "Membuat kerajinan dari kerang untuk memperindah bivak", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr24",
+      "question": "Saat bermain video game, kamu paling suka...",
+      "options": [
+        { "text": "Mencari celah sistem (glitch) atau meracik item terkuat", "type": "I" },
+        { "text": "Mengeksplorasi cerita dunia fantasi (Lore/RPG)", "type": "D" },
+        { "text": "Mengagumi detail grafis dan desain karakternya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr25",
+      "question": "Saat disuruh membuat laporan tugas...",
+      "options": [
+        { "text": "Membuat tabel data dan rumus otomatis yang canggih", "type": "I" },
+        { "text": "Membuat paragraf pembuka yang memancing rasa penasaran", "type": "D" },
+        { "text": "Memilih kombinasi font dan warna laporan agar elegan", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr26",
+      "question": "Ketika mendengar lagu instrumen tanpa lirik, kamu...",
+      "options": [
+        { "text": "Menganalisis tempo, struktur, dan alat musiknya", "type": "I" },
+        { "text": "Secara otomatis membayangkan sebuah adegan film di otak", "type": "D" },
+        { "text": "Mengaitkan nada tersebut dengan emosi atau warna lukisan", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr27",
+      "question": "Pakaian favoritmu biasanya...",
+      "options": [
+        { "text": "Fungsional, nyaman dipakai bergerak, dan multi-kantong", "type": "I" },
+        { "text": "Unik, eksentrik, atau memiliki pesan tulisan yang aneh", "type": "D" },
+        { "text": "Warnanya serasi, potongannya estetik, dan stylish", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr28",
+      "question": "Jika kamu jadi sutradara film, fokus utamamu adalah...",
+      "options": [
+        { "text": "Efek khusus, trik kamera, dan cara pengambilan gambar", "type": "I" },
+        { "text": "Kedalaman naskah dan plot-twist cerita", "type": "D" },
+        { "text": "Tata artistik panggung, makeup, dan kostum aktor", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr29",
+      "question": "Melihat benda antik misterius di pasar loak...",
+      "options": [
+        { "text": "Memikirkan mekanisme bagaimana barang ini bekerja", "type": "I" },
+        { "text": "Membayangkan siapa pemilik aslinya 100 tahun lalu", "type": "D" },
+        { "text": "Mengagumi ukiran, warna usang, dan bentuk klasiknya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr30",
+      "question": "Dalam diskusi tim, kamu sering mengeluarkan celetukan...",
+      "options": [
+        { "text": "'Bagaimana kalau kita ubah alurnya agar lebih cepat?'", "type": "I" },
+        { "text": "'Bayangkan kalau kita melakukan hal gila ini!'", "type": "D" },
+        { "text": "'Bagaimana kalau presentasinya kita buat lebih cantik?'", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr31",
+      "question": "Menjelaskan arah jalan ke orang asing, kamu...",
+      "options": [
+        { "text": "Memberi patokan jarak (meter) dan arah (Utara/Selatan)", "type": "I" },
+        { "text": "Bercerita ('Nanti ada warung warna merah, di situ ada kucing...')", "type": "D" },
+        { "text": "Menggambarkan peta kecil di kertas dengan cepat", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr32",
+      "question": "Ketika kamarmu terasa membosankan, kamu...",
+      "options": [
+        { "text": "Merapikan kabel-kabel dan merakit rak fungsional baru", "type": "I" },
+        { "text": "Membayangkan seandainya kamar ini adalah kabin pesawat luar angkasa", "type": "D" },
+        { "text": "Mengganti sprei, mengatur tata lampu, dan memasang poster", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr33",
+      "question": "Saat bersantai melihat awan di langit...",
+      "options": [
+        { "text": "Memperkirakan tekanan angin dan potensi hujan", "type": "I" },
+        { "text": "Melihat bentuk hewan atau naga dari gumpalan awan", "type": "D" },
+        { "text": "Terpesona oleh komposisi cahaya jingga pada awan sore", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr34",
+      "question": "Melihat deretan aplikasi di HP-mu, yang paling banyak adalah...",
+      "options": [
+        { "text": "Aplikasi produktivitas, alat ukur, smart home, atau finansial", "type": "I" },
+        { "text": "Aplikasi membaca cerita, menulis, atau game naratif", "type": "D" },
+        { "text": "Aplikasi edit foto, ilustrasi, atau Pinterest", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr35",
+      "question": "Hobi yang paling mungkin kamu tekuni...",
+      "options": [
+        { "text": "Coding, merakit PC, atau pertukangan kayu (woodworking)", "type": "I" },
+        { "text": "Bermain Role-Play (RPG), menulis fiksi, atau debat", "type": "D" },
+        { "text": "Melukis, fotografi, atau merancang busana (fashion)", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr36",
+      "question": "Cara kamu belajar hal baru yang paling cepat adalah...",
+      "options": [
+        { "text": "Membongkar dan mempraktikkan cara kerjanya secara langsung", "type": "I" },
+        { "text": "Membuat analogi dan menghubungkannya dengan konsep lain", "type": "D" },
+        { "text": "Menonton video tutorial yang sangat visual", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr37",
+      "question": "Jika disuruh membuat YouTube Channel, kontenmu adalah...",
+      "options": [
+        { "text": "Eksperimen sains, review gadget, atau life-hacks", "type": "I" },
+        { "text": "Membahas teori konspirasi, cerita misteri, atau bedah buku", "type": "D" },
+        { "text": "Vlog estetik tanpa suara (cinematic), atau tutorial seni", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr38",
+      "question": "Sisi kreatifmu saat memasak mie instan...",
+      "options": [
+        { "text": "Menemukan metode merebus 2 menit agar kekenyalannya sempurna", "type": "I" },
+        { "text": "Mencampurkan bahan aneh yang rasanya tak terbayangkan sebelumnya", "type": "D" },
+        { "text": "Menyusun sayur, telur, dan saus agar tampak seperti masakan restoran", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr39",
+      "question": "Saat menghadapi jalan buntu (creative block), kamu...",
+      "options": [
+        { "text": "Mengganti software kerja atau merapikan alat kerja", "type": "I" },
+        { "text": "Tidur atau melamun berharap dapat 'Aha! moment'", "type": "D" },
+        { "text": "Mencari referensi visual segar di galeri atau museum", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr40",
+      "question": "Jika diberi selembar kertas kosong saat sedang bosan...",
+      "options": [
+        { "text": "Melipatnya menjadi pesawat origami yang aerodinamis", "type": "I" },
+        { "text": "Menulis daftar ide liar atau puisi singkat", "type": "D" },
+        { "text": "Mencoret-coret (doodling) pola mata atau bunga", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr41",
+      "question": "Mainan masa kecil yang paling kamu suka...",
+      "options": [
+        { "text": "Balok susun mekanik, mobil Tamiya, atau rubik", "type": "I" },
+        { "text": "Boneka atau action figure untuk membuat cerita perang/kerajaan", "type": "D" },
+        { "text": "Buku mewarnai, pensil warna, atau lilin mainan (Play-Doh)", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr42",
+      "question": "Kado ulang tahun yang paling ingin kamu terima...",
+      "options": [
+        { "text": "Gadget canggih multifungsi keluaran terbaru", "type": "I" },
+        { "text": "Buku novel tebal dengan cerita fantasi yang epik", "type": "D" },
+        { "text": "Peralatan melukis premium atau hiasan dinding estetik", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr43",
+      "question": "Cara kreatifmu saat merapikan lemari pakaian...",
+      "options": [
+        { "text": "Menyusunnya berdasarkan kategori jenis dan kemudahan akses", "type": "I" },
+        { "text": "Sambil mengenang cerita di balik setiap baju bekas", "type": "D" },
+        { "text": "Mengurutkannya berdasarkan gradasi warna gelap ke terang", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr44",
+      "question": "Dalam sebuah acara festival, kamu paling tertarik pada...",
+      "options": [
+        { "text": "Stand pameran teknologi, robotika, dan inovasi", "type": "I" },
+        { "text": "Pertunjukan teater, dongeng, atau stand-up comedy", "type": "D" },
+        { "text": "Pameran seni rupa, kerajinan tangan, atau instalasi cahaya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr45",
+      "question": "Mengomentari mobil baru milik teman, kamu membahas...",
+      "options": [
+        { "text": "Kapasitas mesin, fitur pintar, dan efisiensi bahan bakarnya", "type": "I" },
+        { "text": "Membayangkan serunya mobil ini dipakai road-trip ke gunung", "type": "D" },
+        { "text": "Memuji warna cat yang elegan dan desain lekukan bodinya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr46",
+      "question": "Kalau kamu jadi arsitek rumah impianmu...",
+      "options": [
+        { "text": "Membuat rumah dengan teknologi Smart Home dan panel surya", "type": "I" },
+        { "text": "Membuat ruang bawah tanah rahasia di balik rak buku", "type": "D" },
+        { "text": "Membuat rumah berkonsep terbuka dengan cahaya alami yang indah", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr47",
+      "question": "Saat membeli buku catatan (notebook) di toko...",
+      "options": [
+        { "text": "Mencari yang kertasnya grid (kotak-kotak) dan ada slot pena", "type": "I" },
+        { "text": "Mencari yang kover kulitnya terlihat misterius seperti buku sihir", "type": "D" },
+        { "text": "Mencari kover dengan ilustrasi desain paling cantik", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr48",
+      "question": "Mengomentari tatanan sebuah kota...",
+      "options": [
+        { "text": "Sangat kesal jika tata letak transportasinya tidak logis/macet", "type": "I" },
+        { "text": "Suka dengan kota tua yang punya mitos dan legenda urban", "type": "D" },
+        { "text": "Mengagumi arsitektur gedung bersejarah dan keindahan tamannya", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr49",
+      "question": "Gaya postinganmu di media sosial biasanya...",
+      "options": [
+        { "text": "Membagikan artikel, infografis, atau tips-trik kehidupan", "type": "I" },
+        { "text": "Menulis opini panjang (thread) atau cerita tentang keseharian", "type": "D" },
+        { "text": "Mengunggah foto-foto estetik yang sudah diedit dengan tone sempurna", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr50",
+      "question": "Pada akhirnya, kreativitas bagi kamu adalah...",
+      "options": [
+        { "text": "Kemampuan meretas masalah untuk menemukan solusi yang lebih baik", "type": "I" },
+        { "text": "Kemampuan pikiran untuk melampaui batas realitas yang membosankan", "type": "D" },
+        { "text": "Kemampuan menciptakan harmoni dan keindahan yang bisa dirasakan", "type": "A" }
+      ]
+    }
+  ]
+}

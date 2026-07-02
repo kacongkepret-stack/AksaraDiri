@@ -1,0 +1,40 @@
+{
+  "extrovert": {
+    "type": "Extrovertido",
+    "name": "La Mariposa Social",
+    "description": "Obtienes energía de la interacción social. El bullicio es tu mundo. Te gusta compartir historias y te vuelves familiar fácilmente.",
+    "traits": { 
+      "Social": 85, 
+      "Energía": 80, 
+      "Hablar": 90 
+    },
+    "strengths": [
+      "Afable", 
+      "Energético", 
+      "Comunicador nato"
+    ],
+    "weaknesses": [
+      "A veces hablas demasiado", 
+      "Difícil estar solo"
+    ]
+  },
+  "introvert": {
+    "type": "Introvertido",
+    "name": "El Pensador Silencioso",
+    "description": "Procesas el mundo desde dentro. El tiempo a solas es un tesoro. Eres un oyente profundo y un amigo leal.",
+    "traits": { 
+      "Reflexivo": 85, 
+      "Calma": 80, 
+      "Escucha": 90 
+    },
+    "strengths": [
+      "Gran oyente", 
+      "Pensamiento profundo", 
+      "Independiente"
+    ],
+    "weaknesses": [
+      "A menudo te confunden con frío", 
+      "Dificultad con la pequeña charla"
+    ]
+  }
+}

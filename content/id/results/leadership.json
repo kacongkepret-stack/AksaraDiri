@@ -1,0 +1,26 @@
+{
+  "v": {
+    "type": "Visioner",
+    "name": "Pemimpin Inspiratif",
+    "description": "Kamu memimpin dengan visi besar. Orang mengikutimu karena terinspirasi.",
+    "traits": { "Visi": 90, "Karisma": 85, "Strategi": 80 },
+    "strengths": ["Motivator", "Berpikir jauh"],
+    "weaknesses": ["Kurang detail"]
+  },
+  "c": {
+    "type": "Pelatih",
+    "name": "Pemimpin Pembangun",
+    "description": "Kamu mengembangkan potensi tim. Kamu fokus pada pertumbuhan individu.",
+    "traits": { "Empati": 88, "Kesabaran": 85, "Keterampilan Mengajar": 82 },
+    "strengths": ["Pendengar baik", "Penyemangat"],
+    "weaknesses": ["Sulit mengambil keputusan tegas"]
+  },
+  "d": {
+    "type": "Komandan",
+    "name": "Pemimpin Tegas",
+    "description": "Kamu memimpin dengan efisiensi. Target harus tercapai.",
+    "traits": { "Ketegasan": 95, "Disiplin": 90 },
+    "strengths": ["Cepat putuskan", "Jelas instruksi"],
+    "weaknesses": ["Kurang fleksibel", "Kadang ditakuti"]
+  }
+}

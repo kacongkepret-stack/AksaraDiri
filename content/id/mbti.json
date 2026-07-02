@@ -1,0 +1,1507 @@
+{
+  "title": "Tes Kepribadian 16 Tipe (MBTI)",
+  "description": "Temukan tipe kepribadianmu dari 16 tipe berdasarkan preferensi psikologismu. Jawab dengan jujur, bukan yang ideal.",
+  "timeEstimation": "5 Menit",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Saat di acara ramai, kamu biasanya...",
+      "options": [
+        {
+          "text": "Berbicara dengan banyak orang, merasa berenergi",
+          "type": "E"
+        },
+        {
+          "text": "Hanya dengan 1-2 teman dekat, lalu ingin pulang",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q2",
+      "question": "Mana yang lebih menggambarkan dirimu?",
+      "options": [
+        {
+          "text": "Kamu lebih suka fakta dan detail konkret",
+          "type": "S"
+        },
+        {
+          "text": "Kamu lebih suka ide dan kemungkinan abstrak",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q3",
+      "question": "Saat mengambil keputusan sulit, kamu lebih mengandalkan...",
+      "options": [
+        {
+          "text": "Logika dan analisis objektif",
+          "type": "T"
+        },
+        {
+          "text": "Perasaan dan dampak pada orang lain",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q4",
+      "question": "Kamu merasa lebih nyaman jika...",
+      "options": [
+        {
+          "text": "Jadwal sudah terencana rapi",
+          "type": "J"
+        },
+        {
+          "text": "Fleksibel, mengalir sesuai situasi",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q5",
+      "question": "Saat mengisi ulang energi, kamu...",
+      "options": [
+        {
+          "text": "Bertemu banyak teman dan bersosialisasi",
+          "type": "E"
+        },
+        {
+          "text": "Menyendiri dengan buku atau hobi",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q6",
+      "question": "Kamu lebih tertarik pada...",
+      "options": [
+        {
+          "text": "Apa yang nyata dan bisa dibuktikan",
+          "type": "S"
+        },
+        {
+          "text": "Apa yang mungkin dan inovatif",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q7",
+      "question": "Jika teman curhat, kamu cenderung...",
+      "options": [
+        {
+          "text": "Memberi solusi praktis",
+          "type": "T"
+        },
+        {
+          "text": "Mendengarkan dan berempati",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q8",
+      "question": "Menjelang deadline, kamu...",
+      "options": [
+        {
+          "text": "Bekerja sesuai jadwal",
+          "type": "J"
+        },
+        {
+          "text": "Menunda lalu menyelesaikan mendekati deadline",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q9",
+      "question": "Di tempat baru, kamu...",
+      "options": [
+        {
+          "text": "Mudah memulai percakapan",
+          "type": "E"
+        },
+        {
+          "text": "Menunggu orang lain mendekatimu",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q10",
+      "question": "Kamu lebih suka belajar dengan...",
+      "options": [
+        {
+          "text": "Instruksi langkah-demi-langkah",
+          "type": "S"
+        },
+        {
+          "text": "Memahami konsep besar dulu",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q11",
+      "question": "Dalam diskusi, kamu biasanya...",
+      "options": [
+        {
+          "text": "Fokus pada logika dan kebenaran",
+          "type": "T"
+        },
+        {
+          "text": "Fokus pada harmoni dan perasaan",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q12",
+      "question": "Kamu lebih suka...",
+      "options": [
+        {
+          "text": "Menyelesaikan satu tugas dulu sebelum yang lain",
+          "type": "J"
+        },
+        {
+          "text": "Mengerjakan beberapa hal sekaligus",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q13",
+      "question": "Orang lain sering menggambarkanmu sebagai...",
+      "options": [
+        {
+          "text": "Enerjik dan antusias",
+          "type": "E"
+        },
+        {
+          "text": "Tenang dan mendengarkan baik-baik",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q14",
+      "question": "Saat menyelesaikan masalah, kamu...",
+      "options": [
+        {
+          "text": "Menggunakan pengalaman lampau",
+          "type": "S"
+        },
+        {
+          "text": "Mencari pendekatan baru",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q15",
+      "question": "Kritik yang membangun...",
+      "options": [
+        {
+          "text": "Berguna, asal objektif",
+          "type": "T"
+        },
+        {
+          "text": "Bisa menyakitkan, perlu disampaikan halus",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q16",
+      "question": "Liburan idealmu...",
+      "options": [
+        {
+          "text": "Itinerary lengkap, semua terencana",
+          "type": "J"
+        },
+        {
+          "text": "Pergi lalu putuskan di tempat",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q17",
+      "question": "Setelah seharian kerja, kamu...",
+      "options": [
+        {
+          "text": "Mengajak teman hangout",
+          "type": "E"
+        },
+        {
+          "text": "Menikmati waktu sendiri",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q18",
+      "question": "Kamu lebih percaya pada...",
+      "options": [
+        {
+          "text": "Informasi yang sudah teruji dan pasti",
+          "type": "S"
+        },
+        {
+          "text": "Firasat dan intuisi",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q19",
+      "question": "Keadilan adalah...",
+      "options": [
+        {
+          "text": "Perlakuan yang sama untuk semua",
+          "type": "T"
+        },
+        {
+          "text": "Memahami situasi tiap orang",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q20",
+      "question": "Kamu lebih menghargai...",
+      "options": [
+        {
+          "text": "Keteraturan dan struktur",
+          "type": "J"
+        },
+        {
+          "text": "Kebebasan dan spontanitas",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q21",
+      "question": "Saat presentasi, kamu...",
+      "options": [
+        {
+          "text": "Bicara lancar dan menikmati audiens",
+          "type": "E"
+        },
+        {
+          "text": "Gugup dan lebih suka mengirim laporan tertulis",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q22",
+      "question": "Petunjuk perakitan...",
+      "options": [
+        {
+          "text": "Kamu baca dulu tuntas, baru merakit",
+          "type": "S"
+        },
+        {
+          "text": "Langsung coba-coba, lihat gambar seperlunya",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q23",
+      "question": "Film favoritmu biasanya...",
+      "options": [
+        {
+          "text": "Berisi konflik yang logis dan thriller",
+          "type": "T"
+        },
+        {
+          "text": "Drama yang menyentuh emosi",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q24",
+      "question": "Meja kerja kamu...",
+      "options": [
+        {
+          "text": "Rapi dan tertata",
+          "type": "J"
+        },
+        {
+          "text": "Sedikit berantakan tapi tahu letaknya",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q25",
+      "question": "Telepon mendadak dari teman...",
+      "options": [
+        {
+          "text": "Kamu angkat dan ngobrol lama",
+          "type": "E"
+        },
+        {
+          "text": "Kamu berpikir dulu, kadang kirim pesan saja",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q26",
+      "question": "Saat memasak, kamu...",
+      "options": [
+        {
+          "text": "Ikuti resep dengan ketat",
+          "type": "S"
+        },
+        {
+          "text": "Improvisasi dengan bahan yang ada",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q27",
+      "question": "Jika ada konflik tim, kamu...",
+      "options": [
+        {
+          "text": "Mengusulkan aturan baru yang adil",
+          "type": "T"
+        },
+        {
+          "text": "Mediasi dan memastikan semua didengar",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q28",
+      "question": "Sebelum tidur, kamu...",
+      "options": [
+        {
+          "text": "Cek agenda besok",
+          "type": "J"
+        },
+        {
+          "text": "Biarkan besok mengalir apa adanya",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q29",
+      "question": "Di pesta, kamu...",
+      "options": [
+        {
+          "text": "Jadi pusat perhatian",
+          "type": "E"
+        },
+        {
+          "text": "Nikmati dari pinggir",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q30",
+      "question": "Kamu lebih percaya pada...",
+      "options": [
+        {
+          "text": "Pengalaman pribadi",
+          "type": "S"
+        },
+        {
+          "text": "Teori yang belum tentu terbukti",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q31",
+      "question": "Kamu memilih karier karena...",
+      "options": [
+        {
+          "text": "Gaji dan prospek yang jelas",
+          "type": "T"
+        },
+        {
+          "text": "Passion dan makna",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q32",
+      "question": "Dalam proyek kelompok, kamu...",
+      "options": [
+        {
+          "text": "Ingin ada pembagian tugas jelas",
+          "type": "J"
+        },
+        {
+          "text": "Fleksibel, bantu di mana perlu",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q33",
+      "question": "Ketika ide muncul, kamu...",
+      "options": [
+        {
+          "text": "Segera diskusikan dengan orang sekitar",
+          "type": "E"
+        },
+        {
+          "text": "Renungkan dulu sendiri",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q34",
+      "question": "Mata kuliah favorit...",
+      "options": [
+        {
+          "text": "Akuntansi atau prosedur",
+          "type": "S"
+        },
+        {
+          "text": "Filsafat atau sastra",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q35",
+      "question": "Saat teman salah, kamu...",
+      "options": [
+        {
+          "text": "Tunjukkan kesalahannya langsung",
+          "type": "T"
+        },
+        {
+          "text": "Bicara baik-baik agar tidak tersinggung",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q36",
+      "question": "Akhir pekan...",
+      "options": [
+        {
+          "text": "Terencana dari jauh-jauh hari",
+          "type": "J"
+        },
+        {
+          "text": "Mendadak ajak teman",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q37",
+      "question": "Di grup obrolan, kamu...",
+      "options": [
+        {
+          "text": "Aktif kirim pesan",
+          "type": "E"
+        },
+        {
+          "text": "Baca saja, sesekali balas",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q38",
+      "question": "Buku yang kamu pilih...",
+      "options": [
+        {
+          "text": "Non-fiksi, panduan praktis",
+          "type": "S"
+        },
+        {
+          "text": "Novel fantasi atau spekulatif",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q39",
+      "question": "Kamu menghormati orang yang...",
+      "options": [
+        {
+          "text": "Kompeten dan objektif",
+          "type": "T"
+        },
+        {
+          "text": "Peduli dan pengertian",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q40",
+      "question": "Tugas baru datang dadakan...",
+      "options": [
+        {
+          "text": "Kamu kesal karena mengacaukan rencana",
+          "type": "J"
+        },
+        {
+          "text": "Semangat, variasi baru",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q41",
+      "question": "Bertemu orang baru, kamu...",
+      "options": [
+        {
+          "text": "Tertarik mendengar cerita mereka",
+          "type": "E"
+        },
+        {
+          "text": "Menjaga jarak sampai kenal lebih dalam",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q42",
+      "question": "Saat belajar skill baru, kamu...",
+      "options": [
+        {
+          "text": "Ikuti tutorial step-by-step",
+          "type": "S"
+        },
+        {
+          "text": "Eksperimen langsung, tutorial nanti",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q43",
+      "question": "Kamu lebih...",
+      "options": [
+        {
+          "text": "Adil meskipun menyakiti",
+          "type": "T"
+        },
+        {
+          "text": "Baik meskipun kurang adil",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q44",
+      "question": "Perubahan mendadak...",
+      "options": [
+        {
+          "text": "Mengganggu ritme",
+          "type": "J"
+        },
+        {
+          "text": "Menyenangkan, tidak monoton",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q45",
+      "question": "Di dalam tim, kamu...",
+      "options": [
+        {
+          "text": "Bicara paling banyak",
+          "type": "E"
+        },
+        {
+          "text": "Lebih banyak mendengarkan",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q46",
+      "question": "Pertanyaan \"bagaimana jika\"...",
+      "options": [
+        {
+          "text": "Kurang menarik, lebih suka \"apa\" dan \"kapan\"",
+          "type": "S"
+        },
+        {
+          "text": "Memantik imajinasi",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q47",
+      "question": "Kamu terkesan dengan...",
+      "options": [
+        {
+          "text": "Orang yang sangat logis",
+          "type": "T"
+        },
+        {
+          "text": "Orang yang sangat berempati",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q48",
+      "question": "Mengatur keuangan...",
+      "options": [
+        {
+          "text": "Budget terperinci",
+          "type": "J"
+        },
+        {
+          "text": "Asal cukup, fleksibel",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q49",
+      "question": "Saat sendiri di kafe, kamu...",
+      "options": [
+        {
+          "text": "Ngobrol dengan barista atau pengunjung",
+          "type": "E"
+        },
+        {
+          "text": "Asyik dengan pikiran sendiri",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q50",
+      "question": "Mimpi masa depanmu...",
+      "options": [
+        {
+          "text": "Jelas dan bertahap",
+          "type": "S"
+        },
+        {
+          "text": "Penuh kemungkinan tak terbatas",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q51",
+      "question": "Saat libur panjang, kamu lebih suka...",
+      "options": [
+        {
+          "text": "Pergi bersama banyak orang",
+          "type": "E"
+        },
+        {
+          "text": "Menikmati waktu sendiri atau dengan 1-2 orang",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q52",
+      "question": "Kamu lebih mudah memahami sesuatu lewat...",
+      "options": [
+        {
+          "text": "Contoh nyata",
+          "type": "S"
+        },
+        {
+          "text": "Analogi dan konsep",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q53",
+      "question": "Saat menilai keputusan orang lain, kamu...",
+      "options": [
+        {
+          "text": "Melihat logikanya",
+          "type": "T"
+        },
+        {
+          "text": "Melihat niat dan perasaannya",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q54",
+      "question": "Rumah atau kamar idealmu...",
+      "options": [
+        {
+          "text": "Selalu rapi dan teratur",
+          "type": "J"
+        },
+        {
+          "text": "Nyaman walau agak acak",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q55",
+      "question": "Saat rapat, kamu...",
+      "options": [
+        {
+          "text": "Aktif menyampaikan pendapat",
+          "type": "E"
+        },
+        {
+          "text": "Lebih memilih mendengar dulu",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q56",
+      "question": "Kamu lebih tertarik pada...",
+      "options": [
+        {
+          "text": "Apa yang sedang terjadi sekarang",
+          "type": "S"
+        },
+        {
+          "text": "Apa yang mungkin terjadi nanti",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q57",
+      "question": "Teman meminta saran, kamu...",
+      "options": [
+        {
+          "text": "Jujur apa adanya meski pahit",
+          "type": "T"
+        },
+        {
+          "text": "Memilih kata agar tetap nyaman",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q58",
+      "question": "Belanja ke supermarket, kamu...",
+      "options": [
+        {
+          "text": "Bawa daftar belanja",
+          "type": "J"
+        },
+        {
+          "text": "Lihat-lihat lalu putuskan spontan",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q59",
+      "question": "Dalam reuni sekolah, kamu...",
+      "options": [
+        {
+          "text": "Menyapa banyak orang",
+          "type": "E"
+        },
+        {
+          "text": "Hanya bicara dengan teman dekat",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q60",
+      "question": "Saat membaca berita, kamu lebih fokus pada...",
+      "options": [
+        {
+          "text": "Fakta dan data",
+          "type": "S"
+        },
+        {
+          "text": "Makna di balik kejadian",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q61",
+      "question": "Jika ada debat, kamu...",
+      "options": [
+        {
+          "text": "Menikmati adu argumen",
+          "type": "T"
+        },
+        {
+          "text": "Menghindari konflik emosional",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q62",
+      "question": "Cara kerjamu...",
+      "options": [
+        {
+          "text": "Sistematis dan berurutan",
+          "type": "J"
+        },
+        {
+          "text": "Lompat-lompat sesuai mood",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q63",
+      "question": "Saat mendapat ide bagus, kamu...",
+      "options": [
+        {
+          "text": "Langsung cerita ke orang lain",
+          "type": "E"
+        },
+        {
+          "text": "Simpan dulu untuk dipikirkan",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q64",
+      "question": "Kamu lebih nyaman dengan...",
+      "options": [
+        {
+          "text": "Instruksi jelas",
+          "type": "S"
+        },
+        {
+          "text": "Eksplorasi bebas",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q65",
+      "question": "Dalam konflik, kamu lebih...",
+      "options": [
+        {
+          "text": "Membela yang benar",
+          "type": "T"
+        },
+        {
+          "text": "Membela yang terluka",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q66",
+      "question": "Saat bepergian, kamu...",
+      "options": [
+        {
+          "text": "Pesan semua dari awal",
+          "type": "J"
+        },
+        {
+          "text": "Cari di jalan sesuai situasi",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q67",
+      "question": "Kamu merasa hidup saat...",
+      "options": [
+        {
+          "text": "Bersama banyak aktivitas sosial",
+          "type": "E"
+        },
+        {
+          "text": "Punya waktu tenang untuk diri sendiri",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q68",
+      "question": "Kamu lebih percaya...",
+      "options": [
+        {
+          "text": "Apa yang terlihat",
+          "type": "S"
+        },
+        {
+          "text": "Apa yang terasa benar",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q69",
+      "question": "Dalam kerja tim, kamu menilai orang dari...",
+      "options": [
+        {
+          "text": "Kinerja",
+          "type": "T"
+        },
+        {
+          "text": "Sikap dan niat",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q70",
+      "question": "Deadline mendadak...",
+      "options": [
+        {
+          "text": "Membuat stres",
+          "type": "J"
+        },
+        {
+          "text": "Memacu semangat",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q71",
+      "question": "Saat di perjalanan jauh, kamu...",
+      "options": [
+        {
+          "text": "Senang ngobrol dengan orang baru",
+          "type": "E"
+        },
+        {
+          "text": "Lebih suka diam sambil lihat pemandangan",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q72",
+      "question": "Saat memilih gadget, kamu lihat...",
+      "options": [
+        {
+          "text": "Spesifikasi detail",
+          "type": "S"
+        },
+        {
+          "text": "Potensi penggunaan kreatif",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q73",
+      "question": "Kamu lebih sering...",
+      "options": [
+        {
+          "text": "Mengkritik secara rasional",
+          "type": "T"
+        },
+        {
+          "text": "Menyemangati secara emosional",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q74",
+      "question": "Saat hari kosong, kamu...",
+      "options": [
+        {
+          "text": "Isi dengan rencana produktif",
+          "type": "J"
+        },
+        {
+          "text": "Biarkan mengalir tanpa agenda",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q75",
+      "question": "Saat ada tamu datang mendadak...",
+      "options": [
+        {
+          "text": "Senang, rumah jadi ramai",
+          "type": "E"
+        },
+        {
+          "text": "Agak terganggu",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q76",
+      "question": "Kamu lebih suka pekerjaan yang...",
+      "options": [
+        {
+          "text": "Jelas prosedurnya",
+          "type": "S"
+        },
+        {
+          "text": "Memberi ruang inovasi",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q77",
+      "question": "Saat memilih pemimpin, kamu pilih yang...",
+      "options": [
+        {
+          "text": "Tegas dan objektif",
+          "type": "T"
+        },
+        {
+          "text": "Bijak dan peduli",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q78",
+      "question": "File di laptopmu...",
+      "options": [
+        {
+          "text": "Tersusun rapi di folder",
+          "type": "J"
+        },
+        {
+          "text": "Kadang tersimpan di desktop semua",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q79",
+      "question": "Saat menghadiri seminar...",
+      "options": [
+        {
+          "text": "Mudah bertanya di depan umum",
+          "type": "E"
+        },
+        {
+          "text": "Lebih memilih diam",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q80",
+      "question": "Kamu lebih tertarik membaca...",
+      "options": [
+        {
+          "text": "Panduan praktis",
+          "type": "S"
+        },
+        {
+          "text": "Teori atau masa depan",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q81",
+      "question": "Ketika ada aturan tidak adil, kamu...",
+      "options": [
+        {
+          "text": "Membantah secara logis",
+          "type": "T"
+        },
+        {
+          "text": "Memikirkan dampaknya pada orang",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q82",
+      "question": "Kamu biasanya bangun pagi...",
+      "options": [
+        {
+          "text": "Dengan rutinitas tetap",
+          "type": "J"
+        },
+        {
+          "text": "Tergantung mood",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q83",
+      "question": "Di media sosial, kamu...",
+      "options": [
+        {
+          "text": "Sering posting/interaksi",
+          "type": "E"
+        },
+        {
+          "text": "Jarang posting, lebih melihat",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q84",
+      "question": "Saat memperbaiki barang rusak...",
+      "options": [
+        {
+          "text": "Ikuti petunjuk",
+          "type": "S"
+        },
+        {
+          "text": "Coba-coba sendiri",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q85",
+      "question": "Kamu lebih menghargai...",
+      "options": [
+        {
+          "text": "Kebenaran",
+          "type": "T"
+        },
+        {
+          "text": "Kebaikan",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q86",
+      "question": "Pekerjaan mendadak di akhir hari...",
+      "options": [
+        {
+          "text": "Mengganggu jadwal",
+          "type": "J"
+        },
+        {
+          "text": "Tidak masalah",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q87",
+      "question": "Saat di kelas/training, kamu...",
+      "options": [
+        {
+          "text": "Sering bertanya",
+          "type": "E"
+        },
+        {
+          "text": "Mencatat diam-diam",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q88",
+      "question": "Saat mendengar cerita, kamu tertarik pada...",
+      "options": [
+        {
+          "text": "Detail kejadian",
+          "type": "S"
+        },
+        {
+          "text": "Makna tersembunyi",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q89",
+      "question": "Saat menilai diri sendiri, kamu...",
+      "options": [
+        {
+          "text": "Kritis dan objektif",
+          "type": "T"
+        },
+        {
+          "text": "Merenung dari sisi emosional",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q90",
+      "question": "Kalender atau agenda...",
+      "options": [
+        {
+          "text": "Sering dipakai",
+          "type": "J"
+        },
+        {
+          "text": "Jarang dibuka",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q91",
+      "question": "Saat makan bersama, kamu...",
+      "options": [
+        {
+          "text": "Sering memulai topik",
+          "type": "E"
+        },
+        {
+          "text": "Menunggu diajak bicara",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q92",
+      "question": "Saat menghadapi masalah, kamu...",
+      "options": [
+        {
+          "text": "Cari solusi yang pernah berhasil",
+          "type": "S"
+        },
+        {
+          "text": "Mencari ide yang belum pernah dicoba",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q93",
+      "question": "Dalam menilai karya seni, kamu...",
+      "options": [
+        {
+          "text": "Melihat teknik dan struktur",
+          "type": "T"
+        },
+        {
+          "text": "Melihat emosi yang disampaikan",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q94",
+      "question": "Tas atau dompetmu...",
+      "options": [
+        {
+          "text": "Tersusun rapi",
+          "type": "J"
+        },
+        {
+          "text": "Campur tapi masih ketemu",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q95",
+      "question": "Saat ada acara keluarga besar...",
+      "options": [
+        {
+          "text": "Senang ramai",
+          "type": "E"
+        },
+        {
+          "text": "Cepat lelah sosial",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q96",
+      "question": "Kamu lebih suka membicarakan...",
+      "options": [
+        {
+          "text": "Pengalaman nyata",
+          "type": "S"
+        },
+        {
+          "text": "Ide dan kemungkinan",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q97",
+      "question": "Ketika teman membuat kesalahan, kamu...",
+      "options": [
+        {
+          "text": "Menjelaskan letak salahnya",
+          "type": "T"
+        },
+        {
+          "text": "Menenangkan dulu perasaannya",
+          "type": "F"
+        }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q98",
+      "question": "Saat proyek selesai, kamu...",
+      "options": [
+        {
+          "text": "Lega karena target tercapai",
+          "type": "J"
+        },
+        {
+          "text": "Kadang ingin mengubah lagi",
+          "type": "P"
+        }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q99",
+      "question": "Di lingkungan baru, kamu...",
+      "options": [
+        {
+          "text": "Cepat akrab",
+          "type": "E"
+        },
+        {
+          "text": "Butuh waktu adaptasi",
+          "type": "I"
+        }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q100",
+      "question": "Hidup menurutmu lebih baik jika...",
+      "options": [
+        {
+          "text": "Stabil dan terprediksi",
+          "type": "S"
+        },
+        {
+          "text": "Penuh kejutan dan kemungkinan",
+          "type": "N"
+        }
+      ],
+      "dimension": "SN"
+    }
+  ]
+}

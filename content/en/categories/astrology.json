@@ -1,0 +1,89 @@
+{
+  "title": "Astrology & Fate",
+  "icon": "⭐",
+  "desc": "Star signs, numerology, and destiny mapping based on cosmic configurations.",
+  "bgGradient": "from-purple-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-purple-500/10",
+  "features": [
+    {
+      "name": "Zodiac Profile",
+      "id": "zodiac",
+      "info": "Your constellation characteristics",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "♈"
+    },
+    {
+      "name": "Zodiac Compatibility",
+      "id": "zodiac-match",
+      "info": "Love compatibility between star signs",
+      "time": "2 min",
+      "q": "Matching",
+      "icon": "💞"
+    },
+    {
+      "name": "Chinese Zodiac",
+      "id": "shio",
+      "info": "Zodiac character & element predictions",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "🐉"
+    },
+    {
+      "name": "Name Numerology",
+      "id": "numerology",
+      "info": "Meaning behind your life numbers",
+      "time": "3 min",
+      "q": "Calculation",
+      "icon": "🔢"
+    },
+    {
+      "name": "Life Path Number",
+      "id": "life-path",
+      "info": "Numerological life direction",
+      "time": "2 min",
+      "q": "Computation",
+      "icon": "🛤️"
+    },
+    {
+      "name": "Birthday Meaning",
+      "id": "birth-meaning",
+      "info": "Hidden meaning of your birth date",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "📅"
+    },
+    {
+      "name": "Lucky Number",
+      "id": "lucky-number",
+      "info": "Your fortune-bringing number",
+      "time": "Instant",
+      "q": "Generator",
+      "icon": "🍀"
+    },
+    {
+      "name": "Lucky Color",
+      "id": "lucky-color",
+      "info": "Color that radiates positive aura",
+      "time": "Instant",
+      "q": "Generator",
+      "icon": "🎨"
+    },
+    {
+      "name": "Today's Horoscope",
+      "id": "horoscope",
+      "info": "Daily star sign predictions",
+      "time": "Instant",
+      "q": "Daily Update",
+      "icon": "📰"
+    },
+    {
+      "name": "Name Meaning",
+      "id": "name-meaning",
+      "info": "Name significance & innate energy",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "📛"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Personality Tests",
+  "icon": "🧠",
+  "desc": "In-depth analysis of character psychology, emotional intelligence, and your mindset.",
+  "bgGradient": "from-indigo-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-cyan-500/10",
+  "features": [
+    {
+      "name": "16 Personality Types",
+      "id": "mbti",
+      "info": "Discover your true personality pattern",
+      "time": "5 min",
+      "q": "20 Questions",
+      "icon": "🧩"
+    },
+    {
+      "name": "Mini IQ Test",
+      "id": "iq",
+      "info": "Measure your visual logic ability",
+      "time": "10 min",
+      "q": "15 Questions",
+      "icon": "🧠"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "id": "eq",
+      "info": "Emotion control & social interaction",
+      "time": "5 min",
+      "q": "12 Questions",
+      "icon": "💖"
+    },
+    {
+      "name": "Introvert / Extrovert",
+      "id": "introvert-extrovert",
+      "info": "Measure your social energy spectrum",
+      "time": "3 min",
+      "q": "10 Questions",
+      "icon": "🌗"
+    },
+    {
+      "name": "Love Language",
+      "id": "love-language",
+      "info": "Your dominant way of expressing affection",
+      "time": "5 min",
+      "q": "10 Questions",
+      "icon": "💌"
+    },
+    {
+      "name": "Attachment Style",
+      "id": "attachment-style",
+      "info": "Your emotional bonding pattern",
+      "time": "4 min",
+      "q": "10 Questions",
+      "icon": "🔗"
+    },
+    {
+      "name": "Mental Age",
+      "id": "mental-age",
+      "info": "Your mindset maturity level",
+      "time": "3 min",
+      "q": "10 Questions",
+      "icon": "🎂"
+    },
+    {
+      "name": "Creativity Test",
+      "id": "creativity",
+      "info": "Measure your imagination potential",
+      "time": "5 min",
+      "q": "10 Questions",
+      "icon": "🎨"
+    },
+    {
+      "name": "Leadership Style",
+      "id": "leadership",
+      "info": "How you lead and make decisions",
+      "time": "5 min",
+      "q": "12 Questions",
+      "icon": "🏆"
+    },
+    {
+      "name": "Stress Type",
+      "id": "stress-type",
+      "info": "Your stress patterns & coping strategies",
+      "time": "4 min",
+      "q": "10 Questions",
+      "icon": "😰"
+    }
+  ]
+}

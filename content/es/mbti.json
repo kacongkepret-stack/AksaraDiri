@@ -1,0 +1,907 @@
+{
+  "title": "Test de 16 Tipos de Personalidad (MBTI)",
+  "description": "Descubre tu tipo de personalidad entre 16 según tus preferencias psicológicas. Responde con honestidad, no como te gustaría ser.",
+  "timeEstimation": "5 Minutos",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "En un evento concurrido, normalmente...",
+      "options": [
+        { "text": "Hablas con mucha gente, te sientes con energía", "type": "E" },
+        { "text": "Solo con 1-2 amigos cercanos, luego quieres irte", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q2",
+      "question": "¿Qué te describe mejor?",
+      "options": [
+        { "text": "Prefieres hechos y detalles concretos", "type": "S" },
+        { "text": "Prefieres ideas y posibilidades abstractas", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q3",
+      "question": "Al tomar decisiones difíciles, te basas más en...",
+      "options": [
+        { "text": "La lógica y el análisis objetivo", "type": "T" },
+        { "text": "Los sentimientos y el impacto en los demás", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q4",
+      "question": "Te sientes más cómodo/a si...",
+      "options": [
+        { "text": "El horario está bien planificado", "type": "J" },
+        { "text": "Eres flexible, te dejas llevar", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q5",
+      "question": "Al recargar energías, tú...",
+      "options": [
+        { "text": "Te reúnes con muchos amigos y socializas", "type": "E" },
+        { "text": "Pasas tiempo a solas con un libro o hobby", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q6",
+      "question": "Te interesa más...",
+      "options": [
+        { "text": "Lo que es real y se puede probar", "type": "S" },
+        { "text": "Lo que es posible e innovador", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q7",
+      "question": "Si un amigo se desahoga contigo, tiendes a...",
+      "options": [
+        { "text": "Dar soluciones prácticas", "type": "T" },
+        { "text": "Escuchar y empatizar", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q8",
+      "question": "Al acercarse una fecha límite, tú...",
+      "options": [
+        { "text": "Trabajas según lo planificado", "type": "J" },
+        { "text": "Dejas para después y terminas cerca del plazo", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q9",
+      "question": "En un lugar nuevo, tú...",
+      "options": [
+        { "text": "Inicias conversaciones fácilmente", "type": "E" },
+        { "text": "Esperas a que otros se te acerquen", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q10",
+      "question": "Prefieres aprender...",
+      "options": [
+        { "text": "Con instrucciones paso a paso", "type": "S" },
+        { "text": "Entendiendo primero el concepto general", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q11",
+      "question": "En una discusión, normalmente...",
+      "options": [
+        { "text": "Te centras en la lógica y la verdad", "type": "T" },
+        { "text": "Te centras en la armonía y los sentimientos", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q12",
+      "question": "Prefieres...",
+      "options": [
+        { "text": "Terminar una tarea antes de empezar otra", "type": "J" },
+        { "text": "Hacer varias cosas a la vez", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q13",
+      "question": "Los demás suelen describirte como...",
+      "options": [
+        { "text": "Enérgico/a y entusiasta", "type": "E" },
+        { "text": "Tranquilo/a y buen oyente", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q14",
+      "question": "Al resolver un problema, tú...",
+      "options": [
+        { "text": "Usas la experiencia pasada", "type": "S" },
+        { "text": "Buscas un nuevo enfoque", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q15",
+      "question": "La crítica constructiva...",
+      "options": [
+        { "text": "Es útil, siempre que sea objetiva", "type": "T" },
+        { "text": "Puede doler, necesita ser comunicada con suavidad", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q16",
+      "question": "Tus vacaciones ideales...",
+      "options": [
+        { "text": "Itinerario completo, todo planificado", "type": "J" },
+        { "text": "Ir y decidir sobre la marcha", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q17",
+      "question": "Después de un día de trabajo, tú...",
+      "options": [
+        { "text": "Invitas a amigos a salir", "type": "E" },
+        { "text": "Disfrutas del tiempo a solas", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q18",
+      "question": "Confías más en...",
+      "options": [
+        { "text": "La información probada y segura", "type": "S" },
+        { "text": "Las corazonadas y la intuición", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q19",
+      "question": "La justicia es...",
+      "options": [
+        { "text": "Trato igual para todos", "type": "T" },
+        { "text": "Entender la situación de cada persona", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q20",
+      "question": "Valoras más...",
+      "options": [
+        { "text": "El orden y la estructura", "type": "J" },
+        { "text": "La libertad y la espontaneidad", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q21",
+      "question": "Al dar una presentación, tú...",
+      "options": [
+        { "text": "Hablas con fluidez y disfrutas del público", "type": "E" },
+        { "text": "Te pones nervioso/a y prefieres enviar un informe escrito", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q22",
+      "question": "Instrucciones de montaje...",
+      "options": [
+        { "text": "Las lees completas primero, luego montas", "type": "S" },
+        { "text": "Te lanzas a probar, miras los dibujos solo si es necesario", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q23",
+      "question": "Tu película favorita suele ser...",
+      "options": [
+        { "text": "De conflicto lógico y suspense", "type": "T" },
+        { "text": "Un drama que toca las emociones", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q24",
+      "question": "Tu escritorio...",
+      "options": [
+        { "text": "Está ordenado y organizado", "type": "J" },
+        { "text": "Está un poco desordenado pero sabes dónde está todo", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q25",
+      "question": "Una llamada repentina de un amigo...",
+      "options": [
+        { "text": "La contestas y charlas largo rato", "type": "E" },
+        { "text": "Piensas primero, a veces solo respondes por mensaje", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q26",
+      "question": "Al cocinar, tú...",
+      "options": [
+        { "text": "Sigues la receta estrictamente", "type": "S" },
+        { "text": "Improvisas con los ingredientes disponibles", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q27",
+      "question": "Si hay conflicto en el equipo, tú...",
+      "options": [
+        { "text": "Propones nuevas reglas justas", "type": "T" },
+        { "text": "Medias y te aseguras de que todos sean escuchados", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q28",
+      "question": "Antes de dormir, tú...",
+      "options": [
+        { "text": "Revisas la agenda del día siguiente", "type": "J" },
+        { "text": "Dejas que el mañana fluya como venga", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q29",
+      "question": "En una fiesta, tú...",
+      "options": [
+        { "text": "Eres el centro de atención", "type": "E" },
+        { "text": "Disfrutas desde un lado", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q30",
+      "question": "Confías más en...",
+      "options": [
+        { "text": "La experiencia personal", "type": "S" },
+        { "text": "Teorías aún no probadas", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q31",
+      "question": "Eliges tu carrera por...",
+      "options": [
+        { "text": "El salario y las perspectivas claras", "type": "T" },
+        { "text": "La pasión y el significado", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q32",
+      "question": "En un proyecto grupal, tú...",
+      "options": [
+        { "text": "Quieres una división clara de tareas", "type": "J" },
+        { "text": "Eres flexible, ayudas donde sea necesario", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q33",
+      "question": "Cuando se te ocurre una idea, tú...",
+      "options": [
+        { "text": "La discutes de inmediato con los que te rodean", "type": "E" },
+        { "text": "La reflexionas solo/a primero", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q34",
+      "question": "Tu asignatura favorita...",
+      "options": [
+        { "text": "Contabilidad o procedimientos", "type": "S" },
+        { "text": "Filosofía o literatura", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q35",
+      "question": "Cuando un amigo se equivoca, tú...",
+      "options": [
+        { "text": "Señalas su error directamente", "type": "T" },
+        { "text": "Hablas amablemente para que no se ofenda", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q36",
+      "question": "El fin de semana...",
+      "options": [
+        { "text": "Lo planificas con mucha antelación", "type": "J" },
+        { "text": "Invitas a amigos espontáneamente", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q37",
+      "question": "En un chat grupal, tú...",
+      "options": [
+        { "text": "Envías mensajes activamente", "type": "E" },
+        { "text": "Solo lees, respondes de vez en cuando", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q38",
+      "question": "El libro que eliges...",
+      "options": [
+        { "text": "No ficción, guía práctica", "type": "S" },
+        { "text": "Novela fantástica o especulativa", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q39",
+      "question": "Respetas a las personas que son...",
+      "options": [
+        { "text": "Competentes y objetivas", "type": "T" },
+        { "text": "Empáticas y comprensivas", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q40",
+      "question": "Una nueva tarea repentina...",
+      "options": [
+        { "text": "Te molesta porque altera tus planes", "type": "J" },
+        { "text": "Te emociona, una nueva variante", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q41",
+      "question": "Al conocer gente nueva, tú...",
+      "options": [
+        { "text": "Te interesa escuchar sus historias", "type": "E" },
+        { "text": "Mantienes distancia hasta conocerlos mejor", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q42",
+      "question": "Al aprender una nueva habilidad, tú...",
+      "options": [
+        { "text": "Sigues tutoriales paso a paso", "type": "S" },
+        { "text": "Experimentas directamente, los tutoriales después", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q43",
+      "question": "Eres más...",
+      "options": [
+        { "text": "Justo/a aunque duela", "type": "T" },
+        { "text": "Amable aunque sea menos justo", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q44",
+      "question": "Los cambios repentinos...",
+      "options": [
+        { "text": "Alteran tu ritmo", "type": "J" },
+        { "text": "Te gustan, no son monótonos", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q45",
+      "question": "En un equipo, tú...",
+      "options": [
+        { "text": "Hablas más", "type": "E" },
+        { "text": "Escuchas más", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q46",
+      "question": "La pregunta '¿y si...?'...",
+      "options": [
+        { "text": "No te interesa, prefieres el 'qué' y 'cuándo'", "type": "S" },
+        { "text": "Despierta tu imaginación", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q47",
+      "question": "Te impresionan las personas...",
+      "options": [
+        { "text": "Muy lógicas", "type": "T" },
+        { "text": "Muy empáticas", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q48",
+      "question": "Gestionar las finanzas...",
+      "options": [
+        { "text": "Presupuesto detallado", "type": "J" },
+        { "text": "Mientras alcance, flexible", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q49",
+      "question": "Cuando estás solo/a en una cafetería, tú...",
+      "options": [
+        { "text": "Charlas con el camarero u otros clientes", "type": "E" },
+        { "text": "Disfrutas de tus propios pensamientos", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q50",
+      "question": "Tus sueños de futuro...",
+      "options": [
+        { "text": "Claros y por etapas", "type": "S" },
+        { "text": "Llenos de posibilidades infinitas", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q51",
+      "question": "Durante unas largas vacaciones, prefieres...",
+      "options": [
+        { "text": "Salir con mucha gente", "type": "E" },
+        { "text": "Disfrutar del tiempo a solas o con 1-2 personas", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q52",
+      "question": "Entiendes algo más fácilmente mediante...",
+      "options": [
+        { "text": "Ejemplos concretos", "type": "S" },
+        { "text": "Analogías y conceptos", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q53",
+      "question": "Al juzgar las decisiones de otros, tú...",
+      "options": [
+        { "text": "Observas la lógica", "type": "T" },
+        { "text": "Observas sus intenciones y sentimientos", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q54",
+      "question": "Tu casa o habitación ideal...",
+      "options": [
+        { "text": "Siempre ordenada y limpia", "type": "J" },
+        { "text": "Cómoda aunque un poco desordenada", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q55",
+      "question": "Durante una reunión, tú...",
+      "options": [
+        { "text": "Opinas activamente", "type": "E" },
+        { "text": "Prefieres escuchar primero", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q56",
+      "question": "Te interesa más...",
+      "options": [
+        { "text": "Lo que está pasando ahora", "type": "S" },
+        { "text": "Lo que podría pasar después", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q57",
+      "question": "Un amigo te pide consejo, tú...",
+      "options": [
+        { "text": "Eres honesto/a aunque sea duro", "type": "T" },
+        { "text": "Eliges las palabras para que se sienta cómodo", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q58",
+      "question": "Al comprar en el supermercado, tú...",
+      "options": [
+        { "text": "Llevas una lista de la compra", "type": "J" },
+        { "text": "Miras y decides sobre la marcha", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q59",
+      "question": "En una reunión de antiguos alumnos, tú...",
+      "options": [
+        { "text": "Saludas a mucha gente", "type": "E" },
+        { "text": "Solo hablas con amigos cercanos", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q60",
+      "question": "Al leer las noticias, te centras más en...",
+      "options": [
+        { "text": "Los hechos y los datos", "type": "S" },
+        { "text": "El significado detrás del suceso", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q61",
+      "question": "Si hay un debate, tú...",
+      "options": [
+        { "text": "Disfrutas discutiendo", "type": "T" },
+        { "text": "Evitas el conflicto emocional", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q62",
+      "question": "Tu forma de trabajar...",
+      "options": [
+        { "text": "Sistemática y secuencial", "type": "J" },
+        { "text": "Saltas de una cosa a otra según el humor", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q63",
+      "question": "Cuando tienes una buena idea, tú...",
+      "options": [
+        { "text": "Se la cuentas a otros de inmediato", "type": "E" },
+        { "text": "La guardas para reflexionar primero", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q64",
+      "question": "Te sientes más cómodo/a con...",
+      "options": [
+        { "text": "Instrucciones claras", "type": "S" },
+        { "text": "Exploración libre", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q65",
+      "question": "En un conflicto, es más probable que...",
+      "options": [
+        { "text": "Defiendas lo correcto", "type": "T" },
+        { "text": "Defiendas al que está herido", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q66",
+      "question": "Al viajar, tú...",
+      "options": [
+        { "text": "Reservas todo desde el principio", "type": "J" },
+        { "text": "Lo decides sobre la marcha según la situación", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q67",
+      "question": "Te sientes vivo/a cuando...",
+      "options": [
+        { "text": "Estás rodeado/a de muchas actividades sociales", "type": "E" },
+        { "text": "Tienes tiempo tranquilo para ti mismo/a", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q68",
+      "question": "Crees más en...",
+      "options": [
+        { "text": "Lo que es visible", "type": "S" },
+        { "text": "Lo que se siente correcto", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q69",
+      "question": "En el trabajo en equipo, juzgas a las personas por...",
+      "options": [
+        { "text": "Su rendimiento", "type": "T" },
+        { "text": "Su actitud e intenciones", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q70",
+      "question": "Un plazo de entrega repentino...",
+      "options": [
+        { "text": "Te estresa", "type": "J" },
+        { "text": "Te motiva", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q71",
+      "question": "En un viaje largo, tú...",
+      "options": [
+        { "text": "Disfrutas charlando con gente nueva", "type": "E" },
+        { "text": "Prefieres quedarte callado/a mirando el paisaje", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q72",
+      "question": "Al elegir un gadget, te fijas en...",
+      "options": [
+        { "text": "Las especificaciones detalladas", "type": "S" },
+        { "text": "El potencial de uso creativo", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q73",
+      "question": "Sueles...",
+      "options": [
+        { "text": "Criticar racionalmente", "type": "T" },
+        { "text": "Animar emocionalmente", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q74",
+      "question": "En un día libre, tú...",
+      "options": [
+        { "text": "Lo llenas con planes productivos", "type": "J" },
+        { "text": "Lo dejas fluir sin agenda", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q75",
+      "question": "Cuando llega un invitado inesperado...",
+      "options": [
+        { "text": "Te alegras, la casa se anima", "type": "E" },
+        { "text": "Te molesta un poco", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q76",
+      "question": "Prefieres un trabajo que...",
+      "options": [
+        { "text": "Tenga procedimientos claros", "type": "S" },
+        { "text": "Dé espacio a la innovación", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q77",
+      "question": "Al elegir un líder, eliges a alguien que sea...",
+      "options": [
+        { "text": "Firme y objetivo", "type": "T" },
+        { "text": "Sabio y atento", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q78",
+      "question": "Los archivos de tu portátil...",
+      "options": [
+        { "text": "Están ordenados en carpetas", "type": "J" },
+        { "text": "A veces están todos en el escritorio", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q79",
+      "question": "Al asistir a un seminario...",
+      "options": [
+        { "text": "Preguntas fácilmente en público", "type": "E" },
+        { "text": "Prefieres quedarte callado/a", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q80",
+      "question": "Prefieres leer...",
+      "options": [
+        { "text": "Guías prácticas", "type": "S" },
+        { "text": "Teorías o temas de futuro", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q81",
+      "question": "Cuando hay una norma injusta, tú...",
+      "options": [
+        { "text": "Discutes con lógica", "type": "T" },
+        { "text": "Piensas en su impacto en las personas", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q82",
+      "question": "Sueles levantarte por la mañana...",
+      "options": [
+        { "text": "Con una rutina fija", "type": "J" },
+        { "text": "Según el humor", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q83",
+      "question": "En redes sociales, tú...",
+      "options": [
+        { "text": "Publicas e interactúas a menudo", "type": "E" },
+        { "text": "Publicas poco, solo miras", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q84",
+      "question": "Al arreglar un objeto roto...",
+      "options": [
+        { "text": "Sigues las instrucciones", "type": "S" },
+        { "text": "Intentas por tu cuenta", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q85",
+      "question": "Valoras más...",
+      "options": [
+        { "text": "La verdad", "type": "T" },
+        { "text": "La bondad", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q86",
+      "question": "Una tarea repentina al final del día...",
+      "options": [
+        { "text": "Altera tu horario", "type": "J" },
+        { "text": "No hay problema", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q87",
+      "question": "En clase o formación, tú...",
+      "options": [
+        { "text": "Preguntas a menudo", "type": "E" },
+        { "text": "Tomas notas en silencio", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q88",
+      "question": "Al escuchar una historia, te interesa...",
+      "options": [
+        { "text": "Los detalles del suceso", "type": "S" },
+        { "text": "Los significados ocultos", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q89",
+      "question": "Al evaluarte a ti mismo/a, tú...",
+      "options": [
+        { "text": "Eres crítico/a y objetivo/a", "type": "T" },
+        { "text": "Reflexionas desde el lado emocional", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q90",
+      "question": "Tu calendario o agenda...",
+      "options": [
+        { "text": "Lo usas a menudo", "type": "J" },
+        { "text": "Casi nunca lo abres", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q91",
+      "question": "Al comer juntos, tú...",
+      "options": [
+        { "text": "Sueles iniciar temas", "type": "E" },
+        { "text": "Esperas a que te hablen", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q92",
+      "question": "Al enfrentar un problema, tú...",
+      "options": [
+        { "text": "Buscas una solución que haya funcionado antes", "type": "S" },
+        { "text": "Buscas una idea que no se haya probado", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q93",
+      "question": "Al juzgar una obra de arte, tú...",
+      "options": [
+        { "text": "Observas la técnica y la estructura", "type": "T" },
+        { "text": "Observas la emoción transmitida", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q94",
+      "question": "Tu bolso o cartera...",
+      "options": [
+        { "text": "Está ordenado", "type": "J" },
+        { "text": "Está mezclado pero encuentras las cosas", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q95",
+      "question": "En una gran reunión familiar...",
+      "options": [
+        { "text": "Disfrutas del bullicio", "type": "E" },
+        { "text": "Te cansas rápido socialmente", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q96",
+      "question": "Prefieres hablar de...",
+      "options": [
+        { "text": "Experiencias reales", "type": "S" },
+        { "text": "Ideas y posibilidades", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q97",
+      "question": "Cuando un amigo comete un error, tú...",
+      "options": [
+        { "text": "Le explicas en qué se equivocó", "type": "T" },
+        { "text": "Primero calmas sus sentimientos", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q98",
+      "question": "Cuando un proyecto termina, tú...",
+      "options": [
+        { "text": "Te alivia haber cumplido el objetivo", "type": "J" },
+        { "text": "A veces quieres volver a cambiarlo", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q99",
+      "question": "En un entorno nuevo, tú...",
+      "options": [
+        { "text": "Te integras rápido", "type": "E" },
+        { "text": "Necesitas tiempo para adaptarte", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q100",
+      "question": "En tu opinión, la vida es mejor si es...",
+      "options": [
+        { "text": "Estable y predecible", "type": "S" },
+        { "text": "Llena de sorpresas y posibilidades", "type": "N" }
+      ],
+      "dimension": "SN"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "intj": {
+    "type": "INTJ",
+    "name": "Arsitek",
+    "description": "INTJ adalah pemikir strategis yang imajinatif dan memiliki rencana untuk segalanya. Mereka mandiri, percaya diri, dan suka bekerja sendiri.",
+    "traits": { "introvert": 80, "intuitive": 90, "thinking": 85, "judging": 75 },
+    "strengths": ["Pemikir Strategis", "Mandiri", "Percaya Diri"],
+    "weaknesses": ["Terlalu Perfeksionis", "Sulit Mengekspresikan Emosi"]
+  },
+  "infj": {
+    "type": "INFJ",
+    "name": "Advokat",
+    "description": "INFJ adalah idealis yang pendiam dan misterius, namun mampu menginspirasi orang lain. Mereka memiliki visi kuat dan sangat peduli pada makna hidup.",
+    "traits": { "introvert": 70, "intuitive": 95, "feeling": 80, "judging": 70 },
+    "strengths": ["Visioner", "Kreatif", "Penuh Inspirasi"],
+    "weaknesses": ["Perfeksionis", "Rentan Stres"]
+  },
+  "entj": {
+    "type": "ENTJ",
+    "name": "Komandan",
+    "description": "ENTJ adalah pemimpin alami yang tegas, berani, dan berkarisma. Mereka suka tantangan dan mencapai tujuan dengan efisien.",
+    "traits": { "extravert": 85, "intuitive": 80, "thinking": 90, "judging": 85 },
+    "strengths": ["Pemimpin Hebat", "Percaya Diri", "Berorientasi Tujuan"],
+    "weaknesses": ["Dominan", "Tidak Sabar"]
+  },
+  "enfj": {
+    "type": "ENFJ",
+    "name": "Protagonis",
+    "description": "ENFJ adalah pendidik dan pembimbing yang karismatik. Mereka mampu melihat potensi terbaik orang lain dan penuh empati.",
+    "traits": { "extravert": 80, "intuitive": 75, "feeling": 85, "judging": 75 },
+    "strengths": ["Empati Tinggi", "Karismatik", "Menginspirasi"],
+    "weaknesses": ["Terlalu Peduli", "Kelelahan Sosial"]
+  },
+  "istj": {
+    "type": "ISTJ",
+    "name": "Logistik",
+    "description": "ISTJ adalah individu yang praktis, terstruktur, dan penuh tanggung jawab. Mereka mengandalkan fakta dan keteraturan.",
+    "traits": { "introvert": 75, "sensing": 80, "thinking": 85, "judging": 90 },
+    "strengths": ["Disiplin", "Setia", "Teliti"],
+    "weaknesses": ["Kaku", "Kurang Fleksibel"]
+  },
+  "isfj": {
+    "type": "ISFJ",
+    "name": "Pembela",
+    "description": "ISFJ adalah pelindung yang hangat dan penuh perhatian. Mereka sangat setia dan siap membantu orang di sekitarnya.",
+    "traits": { "introvert": 70, "sensing": 75, "feeling": 85, "judging": 80 },
+    "strengths": ["Setia", "Perhatian", "Pekerja Keras"],
+    "weaknesses": ["Terlalu Altruis", "Sulit Berkata Tidak"]
+  },
+  "estj": {
+    "type": "ESTJ",
+    "name": "Eksekutif",
+    "description": "ESTJ adalah administrator yang handal, menyukai aturan dan struktur. Mereka sangat efisien dalam menjalankan tugas.",
+    "traits": { "extravert": 75, "sensing": 80, "thinking": 85, "judging": 90 },
+    "strengths": ["Pemimpin yang Efisien", "Pekerja Keras", "Praktis"],
+    "weaknesses": ["Kaku terhadap Perubahan", "Terlalu Kritis"]
+  },
+  "esfj": {
+    "type": "ESFJ",
+    "name": "Konsul",
+    "description": "ESFJ adalah orang yang supel dan peduli. Mereka sangat menghargai keharmonisan dan populer di lingkungan sosial.",
+    "traits": { "extravert": 85, "sensing": 70, "feeling": 80, "judging": 75 },
+    "strengths": ["Ramah", "Peduli", "Organisator Baik"],
+    "weaknesses": ["Terlalu Bergantung pada Pengakuan", "Menghindari Konflik"]
+  },
+  "istp": {
+    "type": "ISTP",
+    "name": "Virtuoso",
+    "description": "ISTP adalah pengamat yang tenang dan analitis. Mereka unggul dalam memahami cara kerja sesuatu dan menyukai tantangan praktis.",
+    "traits": { "introvert": 75, "sensing": 80, "thinking": 80, "perceiving": 70 },
+    "strengths": ["Kreatif secara Teknis", "Adaptif", "Mandiri"],
+    "weaknesses": ["Sulit Berkomitmen", "Tidak Terlalu Emosional"]
+  },
+  "isfp": {
+    "type": "ISFP",
+    "name": "Petualang",
+    "description": "ISFP adalah seniman yang lembut, penuh imajinasi, dan menghargai keindahan. Mereka hidup dengan nilai pribadi yang kuat.",
+    "traits": { "introvert": 70, "sensing": 75, "feeling": 80, "perceiving": 75 },
+    "strengths": ["Kreatif", "Penuh Empati", "Fleksibel"],
+    "weaknesses": ["Terlalu Sensitif", "Sulit Membuat Keputusan Cepat"]
+  },
+  "estp": {
+    "type": "ESTP",
+    "name": "Entrepreneur",
+    "description": "ESTP adalah pengambil risiko yang enerjik dan spontan. Mereka tanggap, pandai bernegosiasi, dan suka aksi langsung.",
+    "traits": { "extravert": 85, "sensing": 80, "thinking": 75, "perceiving": 80 },
+    "strengths": ["Berani", "Cepat Bertindak", "Mudah Bergaul"],
+    "weaknesses": ["Impulsif", "Mudah Bosan"]
+  },
+  "esfp": {
+    "type": "ESFP",
+    "name": "Penghibur",
+    "description": "ESFP adalah penghibur alami yang ceria dan penuh semangat. Mereka mencintai pengalaman baru dan berbagi kebahagiaan.",
+    "traits": { "extravert": 90, "sensing": 75, "feeling": 80, "perceiving": 80 },
+    "strengths": ["Spontan", "Ramah", "Pandai Menghibur"],
+    "weaknesses": ["Mudah Bosan", "Kurang Disiplin"]
+  },
+  "intp": {
+    "type": "INTP",
+    "name": "Logikus",
+    "description": "INTP adalah pemikir inovatif yang suka menemukan pola dan teori. Mereka sangat analitis dan sering tenggelam dalam pikirannya sendiri.",
+    "traits": { "introvert": 85, "intuitive": 85, "thinking": 85, "perceiving": 80 },
+    "strengths": ["Analitis", "Inovatif", "Kreatif secara Abstrak"],
+    "weaknesses": ["Sulit Bersosialisasi", "Terlalu Perfeksionis"]
+  },
+  "infp": {
+    "type": "INFP",
+    "name": "Mediator",
+    "description": "INFP adalah idealis yang setia pada nilai dan orang yang mereka cintai. Mereka tertarik pada makna mendalam dan harmoni.",
+    "traits": { "introvert": 75, "intuitive": 85, "feeling": 85, "perceiving": 75 },
+    "strengths": ["Berempati", "Kreatif", "Setia pada Prinsip"],
+    "weaknesses": ["Terlalu Idealis", "Rentan Overthinking"]
+  },
+  "entp": {
+    "type": "ENTP",
+    "name": "Inovator",
+    "description": "ENTP adalah pemikir yang cerdas dan suka berdebat. Mereka penuh ide baru dan terampil dalam memecahkan masalah rumit.",
+    "traits": { "extravert": 80, "intuitive": 90, "thinking": 80, "perceiving": 85 },
+    "strengths": ["Kreatif", "Pandai Berargumen", "Berwawasan Luas"],
+    "weaknesses": ["Kurang Fokus", "Sering Menggoda"]
+  },
+  "enfp": {
+    "type": "ENFP",
+    "name": "Kampanye",
+    "description": "ENFP adalah pemimpi yang antusias dan penuh imajinasi. Mereka melihat hidup sebagai panggung kemungkinan.",
+    "traits": { "extravert": 85, "intuitive": 85, "feeling": 75, "perceiving": 85 },
+    "strengths": ["Kreatif", "Bersemangat", "Mudah Bergaul"],
+    "weaknesses": ["Sulit Fokus", "Terlalu Emosional"]
+  }
+}

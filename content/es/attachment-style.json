@@ -1,0 +1,458 @@
+{
+  "title": "Estilo de Apego",
+  "description": "Descubre tu estilo de apego en las relaciones. Elige la respuesta que te describa con honestidad.",
+  "timeEstimation": "15 Minutos",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "as1",
+      "question": "Cuando tu pareja no responde tu mensaje de inmediato, tú...",
+      "options": [
+        { "text": "Normal, debe estar ocupado/a", "type": "S" },
+        { "text": "Te preocupas, piensas de más y revisas el teléfono repetidamente", "type": "A" },
+        { "text": "No te importa, tú también respondes tarde", "type": "V" }
+      ]
+    },
+    {
+      "id": "as2",
+      "question": "Para ti, la pareja ideal es quien...",
+      "options": [
+        { "text": "Da libertad y confianza equilibrada", "type": "S" },
+        { "text": "Siempre está presente, responde y da atención plena", "type": "A" },
+        { "text": "No exige demasiado y respeta mucho la privacidad", "type": "V" }
+      ]
+    },
+    {
+      "id": "as3",
+      "question": "Cuando enfrentas un conflicto con tu pareja, prefieres...",
+      "options": [
+        { "text": "Discutir el problema con calma hasta resolverlo", "type": "S" },
+        { "text": "Ponerte muy emocional, llorar y querer reconciliarte de inmediato", "type": "A" },
+        { "text": "Retirarte, dar el tratamiento silencioso y necesitar tiempo a solas", "type": "V" }
+      ]
+    },
+    {
+      "id": "as4",
+      "question": "¿Cómo te sientes cuando estás soltero/a?",
+      "options": [
+        { "text": "Cómodo/a, puedo disfrutar bien mi tiempo a solas", "type": "S" },
+        { "text": "Inquieto/a, solo/a y siento que algo falta en mi vida", "type": "A" },
+        { "text": "Muy aliviado/a, prefiero la libertad antes que atarme", "type": "V" }
+      ]
+    },
+    {
+      "id": "as5",
+      "question": "Cuando alguien intenta acercarse demasiado emocionalmente a ti, tú...",
+      "options": [
+        { "text": "Te alegras, sientes que es normal para construir una conexión", "type": "S" },
+        { "text": "Te entusiasmas mucho, ansías cercanía y validación", "type": "A" },
+        { "text": "Te sientes incómodo/a, retrocedes lentamente porque pierdes espacio privado", "type": "V" }
+      ]
+    },
+    {
+      "id": "as6",
+      "question": "Tu nivel general de confianza en tu pareja es...",
+      "options": [
+        { "text": "Alto, confío en él/ella hasta que demuestre lo contrario", "type": "S" },
+        { "text": "Variable, a menudo sospecho y necesito ser tranquilizado/a constantemente", "type": "A" },
+        { "text": "Bajo, me cuesta confiar plenamente en alguien que no sea yo mismo/a", "type": "V" }
+      ]
+    },
+    {
+      "id": "as7",
+      "question": "Cuando tu pareja quiere pasar tiempo con sus amigos sin ti, tú...",
+      "options": [
+        { "text": "Apoyas completamente, tener una vida social propia es saludable", "type": "S" },
+        { "text": "Sientes celos y abandono, '¿por qué no me llevas?'", "type": "A" },
+        { "text": "Te sientes aliviado/a, significa que también tienes tiempo para ti", "type": "V" }
+      ]
+    },
+    {
+      "id": "as8",
+      "question": "¿Cómo expresas el amor?",
+      "options": [
+        { "text": "Abierta y naturalmente, digo 'te quiero' con facilidad", "type": "S" },
+        { "text": "Muy intensamente, pero siempre exijo la misma afirmación a cambio", "type": "A" },
+        { "text": "Verbalmente difícil, prefiero mantener una distancia segura", "type": "V" }
+      ]
+    },
+    {
+      "id": "as9",
+      "question": "Cuando una relación termina, tu reacción principal es...",
+      "options": [
+        { "text": "Tristeza, proceso la desilusión de manera normal, luego sigo adelante", "type": "S" },
+        { "text": "Destrozado/a, siento que el mundo se acaba, y ruego para volver", "type": "A" },
+        { "text": "Actúo frío/a, supero rápido y me convenzo de que estoy bien", "type": "V" }
+      ]
+    },
+    {
+      "id": "as10",
+      "question": "En tu opinión, la dependencia emocional de la pareja es...",
+      "options": [
+        { "text": "Normal dentro de límites saludables (interdependencia)", "type": "S" },
+        { "text": "Muy importante, necesito de él/ella para sentirme completo/a y seguro/a", "type": "A" },
+        { "text": "Una señal de debilidad, me niego a depender de nadie", "type": "V" }
+      ]
+    },
+    {
+      "id": "as11",
+      "question": "Cuando tu pareja está muy triste o estresada, tú...",
+      "options": [
+        { "text": "Escuchas, estás presente emocionalmente y ofreces apoyo", "type": "S" },
+        { "text": "Te asustas mucho, también te estresas y sientes que puede ser tu culpa", "type": "A" },
+        { "text": "Te sientes incómodo/a y prefieres darle espacio", "type": "V" }
+      ]
+    },
+    {
+      "id": "as12",
+      "question": "Cuando tú estás deprimido/a, esperas que tu pareja...",
+      "options": [
+        { "text": "Esté a mi lado y quiera escuchar mis quejas", "type": "S" },
+        { "text": "Deje todo para consolarme en ese momento", "type": "A" },
+        { "text": "No intervenga demasiado, puedo resolverlo solo/a", "type": "V" }
+      ]
+    },
+    {
+      "id": "as13",
+      "question": "¿Cómo defines una relación ideal?",
+      "options": [
+        { "text": "Dos individuos independientes que se complementan y crecen juntos", "type": "S" },
+        { "text": "Dos almas completamente fusionadas sin secretos", "type": "A" },
+        { "text": "Dos personas que viven juntas pero mantienen independencia absoluta", "type": "V" }
+      ]
+    },
+    {
+      "id": "as14",
+      "question": "Cuando te sientes inseguro/a en una relación, tú...",
+      "options": [
+        { "text": "Lo hablas con tu pareja honesta y abiertamente", "type": "S" },
+        { "text": "Te vuelves muy pegajoso/a y buscas validación excesiva", "type": "A" },
+        { "text": "Te retiras emocionalmente y te preparas para el peor escenario", "type": "V" }
+      ]
+    },
+    {
+      "id": "as15",
+      "question": "¿Cuál es tu mayor miedo en un compromiso amoroso?",
+      "options": [
+        { "text": "Estar en una relación insana llena de conflictos sin resolver", "type": "S" },
+        { "text": "Ser abandonado/a, rechazado/a o reemplazado/a por alguien más", "type": "A" },
+        { "text": "Perder la libertad, ser controlado/a y perder la identidad", "type": "V" }
+      ]
+    },
+    {
+      "id": "as16",
+      "question": "Si tu pareja quiere hablar sobre planes serios de boda/futuro...",
+      "options": [
+        { "text": "Respondes con entusiasmo y realismo", "type": "S" },
+        { "text": "Muy feliz porque es la seguridad que he estado deseando", "type": "A" },
+        { "text": "Te sientes presionado/a, evitas o intentas cambiar de tema", "type": "V" }
+      ]
+    },
+    {
+      "id": "as17",
+      "question": "Si tienes un secreto o trauma pasado, tú...",
+      "options": [
+        { "text": "Lo contarás naturalmente cuando te sientas lo suficientemente seguro/a", "type": "S" },
+        { "text": "Lo cuentas todo al principio para que no te abandonen después", "type": "A" },
+        { "text": "Lo guardas herméticamente, nadie necesita saber mis debilidades", "type": "V" }
+      ]
+    },
+    {
+      "id": "as18",
+      "question": "Cuando tu pareja está callada y parece enfurruñada sin razón aparente...",
+      "options": [
+        { "text": "Le preguntas suavemente si quiere hablar", "type": "S" },
+        { "text": "Entras en pánico y asumes que has cometido un error fatal", "type": "A" },
+        { "text": "Lo dejas solo, no quieres lidiar con dramas emocionales", "type": "V" }
+      ]
+    },
+    {
+      "id": "as19",
+      "question": "¿Cómo te sientes cuando tu pareja te da cumplidos excesivos?",
+      "options": [
+        { "text": "Feliz y agradecido/a sinceramente", "type": "S" },
+        { "text": "Feliz pero a menudo dudas de si es honesto/a", "type": "A" },
+        { "text": "Te sientes incómodo/a, te da vergüenza ajena", "type": "V" }
+      ]
+    },
+    {
+      "id": "as20",
+      "question": "Con respecto a la contraseña del teléfono de tu pareja...",
+      "options": [
+        { "text": "Nos conocemos pero nunca revisamos porque confiamos", "type": "S" },
+        { "text": "Debo saberla para asegurarme de que no me sea infiel", "type": "A" },
+        { "text": "Eso es privacidad absoluta, no quiero saber y él/ella no debe saber la mía", "type": "V" }
+      ]
+    },
+    {
+      "id": "as21",
+      "question": "Un amigo dice que tu pareja es muy atractiva y que a muchos les gusta...",
+      "options": [
+        { "text": "Orgulloso/a porque soy la persona elegida", "type": "S" },
+        { "text": "Inmediatamente te sientes inseguro/a y vigilas sus movimientos extra", "type": "A" },
+        { "text": "No te importa, si quiere ser infiel que lo sea", "type": "V" }
+      ]
+    },
+    {
+      "id": "as22",
+      "question": "Tu pareja recibe un gran ascenso que la vuelve mucho más ocupada...",
+      "options": [
+        { "text": "Apoyas su carrera y buscas nuevas formas de organizar el tiempo", "type": "S" },
+        { "text": "Temes que encuentre a alguien mejor y te abandone", "type": "A" },
+        { "text": "Te alegras porque así tienes más tiempo para ti", "type": "V" }
+      ]
+    },
+    {
+      "id": "as23",
+      "question": "Cuando sientes celos, tu reacción natural es...",
+      "options": [
+        { "text": "Comunicarte honestamente sin tono acusador", "type": "S" },
+        { "text": "Enojarte, ponerte de mal humor o hacer comentarios sarcásticos para que se dé cuenta", "type": "A" },
+        { "text": "Suprimir el sentimiento profundamente y actuar fríamente", "type": "V" }
+      ]
+    },
+    {
+      "id": "as24",
+      "question": "Cuando te invitan a conocer a su familia nuclear por primera vez...",
+      "options": [
+        { "text": "Entusiasmado/a y te preparas con calma", "type": "S" },
+        { "text": "Muy estresado/a, temes que no les gustes y arruines la relación", "type": "A" },
+        { "text": "Lo ves como una carga y buscas excusas para posponer", "type": "V" }
+      ]
+    },
+    {
+      "id": "as25",
+      "question": "Si no se ponen de acuerdo sobre los hobbies del fin de semana...",
+      "options": [
+        { "text": "Se comprometen o a veces hacen sus hobbies por separado", "type": "S" },
+        { "text": "Acepto seguir su hobby aunque no me guste, con tal de estar juntos", "type": "A" },
+        { "text": "Cada uno hace lo suyo, no quiero complicaciones", "type": "V" }
+      ]
+    },
+    {
+      "id": "as26",
+      "question": "Cuando tu pareja te da una crítica constructiva sobre tu actitud...",
+      "options": [
+        { "text": "Te evalúas y la aceptas si es cierta", "type": "S" },
+        { "text": "Te sientes atacado/a, no amado/a e inmediatamente te sientes inútil", "type": "A" },
+        { "text": "Te enfadas, te cierras y respondes criticando sus defectos", "type": "V" }
+      ]
+    },
+    {
+      "id": "as27",
+      "question": "Cuando realmente necesitas ayuda...",
+      "options": [
+        { "text": "Se la pides directamente sin sentirte culpable", "type": "S" },
+        { "text": "Das señales fuertes y te enfadas si no es lo suficientemente sensible para ayudarte", "type": "A" },
+        { "text": "Te esfuerzas por resolverlo solo/a sin involucrarle", "type": "V" }
+      ]
+    },
+    {
+      "id": "as28",
+      "question": "¿Con qué frecuencia piensas en el estado de tu relación?",
+      "options": [
+        { "text": "Lo normal, disfruto del proceso tal como va", "type": "S" },
+        { "text": "Casi todo el tiempo, a menudo analizo cada uno de sus movimientos", "type": "A" },
+        { "text": "Rara vez, tengo muchos otros enfoques en la vida", "type": "V" }
+      ]
+    },
+    {
+      "id": "as29",
+      "question": "Tu opinión sobre el 'Tiempo para mí' en el noviazgo...",
+      "options": [
+        { "text": "Una necesidad saludable para mantener el equilibrio personal", "type": "S" },
+        { "text": "Sientes que es una amenaza, como si quisiera alejarse de ti", "type": "A" },
+        { "text": "Una necesidad absoluta, me volvería loco/a si tuviéramos que estar pegados todo el tiempo", "type": "V" }
+      ]
+    },
+    {
+      "id": "as30",
+      "question": "Si tu pareja dice 'Necesito un tiempo a solas' durante una discusión...",
+      "options": [
+        { "text": "Le das espacio y acuerdan discutirlo después", "type": "S" },
+        { "text": "Entras en pánico extremo y le obligas a resolver el problema en ese momento", "type": "A" },
+        { "text": "Adelante, de hecho preferiría que no tuviéramos que volver a hablarlo", "type": "V" }
+      ]
+    },
+    {
+      "id": "as31",
+      "question": "Cuando hay un problema, normalmente...",
+      "options": [
+        { "text": "Llamas o te reúnes directamente para una comunicación clara", "type": "S" },
+        { "text": "Envías un mensaje largo lleno de emociones y exigencias", "type": "A" },
+        { "text": "Lees el mensaje y lo dejas en visto hasta que estés de humor", "type": "V" }
+      ]
+    },
+    {
+      "id": "as32",
+      "question": "Si un ex pareja te contacta de repente...",
+      "options": [
+        { "text": "Se lo dices a tu pareja actual para evitar malentendidos", "type": "S" },
+        { "text": "Entras en pánico y lo escondes por miedo a que tu pareja se enoje y te abandone", "type": "A" },
+        { "text": "Lo borras en silencio, es mi asunto personal y no necesita saberlo", "type": "V" }
+      ]
+    },
+    {
+      "id": "as33",
+      "question": "Ver a tu pareja muy independiente y exitosa te hace sentir...",
+      "options": [
+        { "text": "Admiración y afortunado/a de tenerle", "type": "S" },
+        { "text": "Miedo de que se dé cuenta de que realmente no me necesita", "type": "A" },
+        { "text": "Muy aliviado/a porque seguro que no será una carga para mí", "type": "V" }
+      ]
+    },
+    {
+      "id": "as34",
+      "question": "Las muestras de cariño en público (PDA) para ti son...",
+      "options": [
+        { "text": "Normales siempre que sean dentro de los límites de la decencia", "type": "S" },
+        { "text": "Muy importantes para mostrar al mundo que nos pertenecemos", "type": "A" },
+        { "text": "Muy incómodas y exageradas", "type": "V" }
+      ]
+    },
+    {
+      "id": "as35",
+      "question": "La responsabilidad de la felicidad en la relación...",
+      "options": [
+        { "text": "Ambos intentamos crear esa felicidad juntos", "type": "S" },
+        { "text": "Es tarea de mi pareja hacerme sentir seguro/a y feliz", "type": "A" },
+        { "text": "Solo soy responsable de mi propia felicidad", "type": "V" }
+      ]
+    },
+    {
+      "id": "as36",
+      "question": "Tu pareja olvida celebrar el aniversario...",
+      "options": [
+        { "text": "Un poco decepcionado/a pero se lo recuerdas en tono de broma", "type": "S" },
+        { "text": "Lloras y sientes que es prueba definitiva de que ya no te ama", "type": "A" },
+        { "text": "No importa en absoluto, también odio las celebraciones molestas", "type": "V" }
+      ]
+    },
+    {
+      "id": "as37",
+      "question": "Cuando no estás de acuerdo con una gran decisión de tu pareja...",
+      "options": [
+        { "text": "Expresas tu lógica claramente pero respetando su elección", "type": "S" },
+        { "text": "Aceptas a regañadientes y cedes por miedo a provocar una gran pelea", "type": "A" },
+        { "text": "Lo ignoras y sigues haciendo lo que crees correcto en secreto", "type": "V" }
+      ]
+    },
+    {
+      "id": "as38",
+      "question": "Tu opinión sobre la lealtad absoluta...",
+      "options": [
+        { "text": "Es la base del respeto mutuo", "type": "S" },
+        { "text": "Es la promesa que más me angustia si se rompe", "type": "A" },
+        { "text": "Es solo un concepto que a menudo limita la libertad de uno", "type": "V" }
+      ]
+    },
+    {
+      "id": "as39",
+      "question": "Tu pareja tiene un amigo/a íntimo/a del sexo opuesto...",
+      "options": [
+        { "text": "Normal, siempre que conozcan los límites profesionales/de amistad", "type": "S" },
+        { "text": "Muy celoso/a, siempre sospechoso/a, y a menudo vigilas su cercanía", "type": "A" },
+        { "text": "Bien, así hay alguien más que le aguante cuando está pesado/a", "type": "V" }
+      ]
+    },
+    {
+      "id": "as40",
+      "question": "Cuando estás en una relación a larga distancia (LDR) o se ven poco...",
+      "options": [
+        { "text": "Se comunican razonablemente y se centran en sus actividades", "type": "S" },
+        { "text": "Atormentado/a por la nostalgia y exiges llamadas a cada momento para sentirte seguro/a", "type": "A" },
+        { "text": "De hecho te sientes más cómodo/a porque no tienes que verle todos los días", "type": "V" }
+      ]
+    },
+    {
+      "id": "as41",
+      "question": "Si la relación empieza a sentirse plana y aburrida...",
+      "options": [
+        { "text": "Tomas la iniciativa de invitar a tu pareja a probar nuevas actividades juntos", "type": "S" },
+        { "text": "Entras en pánico y sobrepiensas que su amor se está desvaneciendo", "type": "A" },
+        { "text": "Naturalmente empiezas a buscar otras actividades o nuevos amigos fuera", "type": "V" }
+      ]
+    },
+    {
+      "id": "as42",
+      "question": "Sobre prestar un objeto muy valioso/gran cantidad de dinero a tu pareja...",
+      "options": [
+        { "text": "Le ayudas si la razón es racional y no arruina tus finanzas", "type": "S" },
+        { "text": "Sin duda se lo doy aunque me cueste, para que sepa mi sacrificio", "type": "A" },
+        { "text": "Te niegas rotundamente, el romance y las finanzas deben estar totalmente separados", "type": "V" }
+      ]
+    },
+    {
+      "id": "as43",
+      "question": "Sobre cambiar tus hábitos/apariencia por tu pareja...",
+      "options": [
+        { "text": "Solo quiero cambiar si eso me hace mejor persona", "type": "S" },
+        { "text": "Dispuesto/a a cambiar 180 grados con tal de que le siga gustando", "type": "A" },
+        { "text": "Te niegas rotundamente, 'tómalo o déjalo'", "type": "V" }
+      ]
+    },
+    {
+      "id": "as44",
+      "question": "¿Con qué frecuencia te pasa por la cabeza el pensamiento 'me va a dejar'?",
+      "options": [
+        { "text": "Rara vez, confío bastante en los cimientos de nuestra relación", "type": "S" },
+        { "text": "Muy a menudo, es una pesadilla que siempre acecha mi mente", "type": "A" },
+        { "text": "No me importa, si quiere irse que se vaya, puedo vivir solo/a", "type": "V" }
+      ]
+    },
+    {
+      "id": "as45",
+      "question": "En cuanto a pedir disculpas después de una gran pelea...",
+      "options": [
+        { "text": "No me da vergüenza pedir disculpas primero si realmente me equivoqué", "type": "S" },
+        { "text": "A menudo me disculpo aunque no tenga la culpa, solo para que no se enfade", "type": "A" },
+        { "text": "Me cuesta mucho disculparme y prefiero dar el tratamiento silencioso durante días", "type": "V" }
+      ]
+    },
+    {
+      "id": "as46",
+      "question": "Cuando tu pareja cancela un plan porque se enfermó repentinamente...",
+      "options": [
+        { "text": "Lo entiendes, ofreces ayuda o le visitas", "type": "S" },
+        { "text": "Sospechas si está realmente enfermo/a o solo es una excusa para evitarte", "type": "A" },
+        { "text": "Está bien, inmediatamente hago planes divertidos con mis amigos", "type": "V" }
+      ]
+    },
+    {
+      "id": "as47",
+      "question": "Si tienes que mudarte a otra ciudad lejana por tu carrera...",
+      "options": [
+        { "text": "Lo discuten a fondo juntos para encontrar una solución en la que ambos ganen", "type": "S" },
+        { "text": "Dispuesto/a a sacrificar mi carrera con tal de no separarme de él/ella", "type": "A" },
+        { "text": "Me voy inmediatamente, mi carrera es mi prioridad, el amor viene después", "type": "V" }
+      ]
+    },
+    {
+      "id": "as48",
+      "question": "Ver a padres o amigos divorciarse/romper mal...",
+      "options": [
+        { "text": "Lo tomas como una lección para ser mejor en la comunicación", "type": "S" },
+        { "text": "Te vuelves más ansioso/a y temes que lo mismo te ocurrirá a ti", "type": "A" },
+        { "text": "Refuerzas tu creencia de que el compromiso es una tontería que oprime", "type": "V" }
+      ]
+    },
+    {
+      "id": "as49",
+      "question": "La peor cosa que una pareja podría hacerte es...",
+      "options": [
+        { "text": "Mentir y manipular la realidad", "type": "S" },
+        { "text": "Abandonarte sin una palabra (Ghosting)", "type": "A" },
+        { "text": "Restringirte, sentir celos ciegos y leer tu teléfono a escondidas", "type": "V" }
+      ]
+    },
+    {
+      "id": "as50",
+      "question": "Para ti, la intimidad es...",
+      "options": [
+        { "text": "Un lugar donde dos personas pueden ser vulnerables sin miedo a ser juzgadas", "type": "S" },
+        { "text": "Un santuario absoluto donde finalmente me siento completamente aceptado/a", "type": "A" },
+        { "text": "Un área peligrosa que puede ser utilizada para lastimarme", "type": "V" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "em": {
+    "type": "The Empath",
+    "name": "Sangat Berempati",
+    "description": "Kamu punya kepekaan luar biasa terhadap perasaan orang lain. Kamu mudah memahami apa yang mereka alami, dan sering menjadi tempat bersandar. Hati-hati jangan sampai terlalu larut dalam emosi orang lain ya.",
+    "traits": {"Kesadaran Diri": 60, "Kendali Diri": 50, "Empati": 95, "Keterampilan Sosial": 70},
+    "strengths": ["Peka terhadap emosi orang lain", "Pendengar yang baik", "Mudah dipercaya"],
+    "weaknesses": ["Mudah terbawa perasaan", "Sulit berkata tidak"]
+  },
+  "sr": {
+    "type": "The Regulator",
+    "name": "Sangat Terkendali",
+    "description": "Kamu sangat baik dalam mengelola emosi. Jarang terbawa amarah atau panik. Orang lain menganggapmu tenang dan stabil. Pastikan kamu tidak terlalu menahan emosi sampai meledak nanti.",
+    "traits": {"Kesadaran Diri": 65, "Kendali Diri": 90, "Empati": 55, "Keterampilan Sosial": 60},
+    "strengths": ["Tenang di bawah tekanan", "Bisa berpikir jernih", "Jarang konflik"],
+    "weaknesses": ["Kadang tampak acuh", "Sulit mengekspresikan perasaan"]
+  },
+  "ss": {
+    "type": "The Socializer",
+    "name": "Sangat Supel",
+    "description": "Kamu jagonya bergaul! Membangun hubungan, mencairkan suasana, dan berkomunikasi adalah keahlianmu. Orang betah di dekatmu. Pastikan kamu juga peka pada emosi yang lebih dalam, ya.",
+    "traits": {"Kesadaran Diri": 55, "Kendali Diri": 60, "Empati": 70, "Keterampilan Sosial": 90},
+    "strengths": ["Mudah bergaul", "Komunikator handal", "Pembawa suasana positif"],
+    "weaknesses": ["Kadang terlalu dangkal", "Kurang mendengarkan secara mendalam"]
+  },
+  "sa": {
+    "type": "The Self-Aware",
+    "name": "Sangat Sadar Diri",
+    "description": "Kamu sangat mengenal dirimu sendiri. Kamu tahu apa yang kamu rasakan, mengapa, dan bagaimana mengelolanya. Ini fondasi EQ yang kuat. Tingkatkan lagi kemampuan sosial dan empati.",
+    "traits": {"Kesadaran Diri": 90, "Kendali Diri": 65, "Empati": 60, "Keterampilan Sosial": 55},
+    "strengths": ["Mengenali emosi sendiri", "Reflektif", "Punya prinsip"],
+    "weaknesses": ["Kadang terlalu fokus ke diri sendiri", "Sulit membaca kebutuhan sosial"]
+  }
+}

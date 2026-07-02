@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "badge": "Psychology & Entertainment Portal",
+    "title": "Discover Your True Potential Now",
+    "subtitle": "Portal of psychology and modern divination. Understand your character, career, and destiny.",
+    "ctaText": "Start Exploring",
+    "ctaLink": "/id/test/mbti"
+  },
+  "categories": [
+    {
+      "id": "personality",
+      "icon": "🧠",
+      "title": "Personality Tests",
+      "desc": "MBTI, EQ, and more",
+      "href": "/id/category/personality",
+      "color": "from-cyan-500/20 to-indigo-500/20"
+    },
+    {
+      "id": "astrology",
+      "icon": "⭐",
+      "title": "Astrology",
+      "desc": "Zodiac and numerology",
+      "href": "/id/category/astrology",
+      "color": "from-purple-500/20 to-pink-500/20"
+    },
+    {
+      "id": "local",
+      "icon": "📜",
+      "title": "Local Culture",
+      "desc": "Javanese Weton and Primbon",
+      "href": "/id/category/local",
+      "color": "from-amber-500/20 to-yellow-500/20"
+    },
+    {
+      "id": "viral",
+      "icon": "🎭",
+      "title": "Viral Entertainment",
+      "desc": "Love calculator and fun",
+      "href": "/id/category/viral",
+      "color": "from-pink-500/20 to-rose-500/20"
+    }
+  ],
+  "popular": [
+    {
+      "id": "mbti",
+      "icon": "🧠",
+      "title": "16 Personalities MBTI Test",
+      "users": "2.1M",
+      "href": "/id/test/mbti"
+    },
+    {
+      "id": "love-calc",
+      "icon": "💘",
+      "title": "Love Calculator",
+      "users": "3.6M",
+      "href": "/id/tools/love-calculator"
+    },
+    {
+      "id": "weton",
+      "icon": "📜",
+      "title": "Javanese Weton Calculator",
+      "users": "1.4M",
+      "href": "/id/tools/weton"
+    }
+  ],
+  "popularTitle": "🔥 Most Popular"
+}

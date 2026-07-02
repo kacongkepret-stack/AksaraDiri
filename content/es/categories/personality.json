@@ -1,0 +1,89 @@
+{
+  "title": "Pruebas de Personalidad",
+  "icon": "🧠",
+  "desc": "Análisis profundo de la psicología del carácter, inteligencia emocional y forma de pensar.",
+  "bgGradient": "from-indigo-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-cyan-500/10",
+  "features": [
+    {
+      "name": "16 Tipos de Personalidad",
+      "id": "mbti",
+      "info": "Descubre tu patrón de personalidad",
+      "time": "5 min",
+      "q": "20 Preguntas",
+      "icon": "🧩"
+    },
+    {
+      "name": "Mini Test de CI",
+      "id": "iq",
+      "info": "Mide tu habilidad lógica visual",
+      "time": "10 min",
+      "q": "15 Preguntas",
+      "icon": "🧠"
+    },
+    {
+      "name": "Inteligencia Emocional",
+      "id": "eq",
+      "info": "Control emocional e interacción social",
+      "time": "5 min",
+      "q": "12 Preguntas",
+      "icon": "💖"
+    },
+    {
+      "name": "Introvertido / Extrovertido",
+      "id": "introvert-extrovert",
+      "info": "Mide tu espectro de energía social",
+      "time": "3 min",
+      "q": "10 Preguntas",
+      "icon": "🌗"
+    },
+    {
+      "name": "Lenguaje del Amor",
+      "id": "love-language",
+      "info": "Tu forma dominante de expresar cariño",
+      "time": "5 min",
+      "q": "10 Preguntas",
+      "icon": "💌"
+    },
+    {
+      "name": "Estilo de Apego",
+      "id": "attachment-style",
+      "info": "Tu patrón de vínculo emocional",
+      "time": "4 min",
+      "q": "10 Preguntas",
+      "icon": "🔗"
+    },
+    {
+      "name": "Edad Mental",
+      "id": "mental-age",
+      "info": "Nivel de madurez de tu mentalidad",
+      "time": "3 min",
+      "q": "10 Preguntas",
+      "icon": "🎂"
+    },
+    {
+      "name": "Test de Creatividad",
+      "id": "creativity",
+      "info": "Mide tu potencial imaginativo",
+      "time": "5 min",
+      "q": "10 Preguntas",
+      "icon": "🎨"
+    },
+    {
+      "name": "Estilo de Liderazgo",
+      "id": "leadership",
+      "info": "Cómo lideras y tomas decisiones",
+      "time": "5 min",
+      "q": "12 Preguntas",
+      "icon": "🏆"
+    },
+    {
+      "name": "Tipo de Estrés",
+      "id": "stress-type",
+      "info": "Tus patrones de estrés y estrategias",
+      "time": "4 min",
+      "q": "10 Preguntas",
+      "icon": "😰"
+    }
+  ]
+}

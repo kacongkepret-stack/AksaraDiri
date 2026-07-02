@@ -1,0 +1,34 @@
+{
+  "em": {
+    "type": "El Empatizante",
+    "name": "Altamente Empático",
+    "description": "Tienes una sensibilidad extraordinaria hacia los sentimientos de los demás. Entiendes fácilmente lo que están pasando y a menudo te conviertes en un refugio seguro. Ten cuidado de no dejarte atrapar demasiado por las emociones ajenas.",
+    "traits": { "Autoconciencia": 60, "Autocontrol": 50, "Empatía": 95, "Habilidades sociales": 70 },
+    "strengths": ["Sensible a las emociones ajenas", "Buen oyente", "Inspira confianza"],
+    "weaknesses": ["Fácilmente arrastrado por los sentimientos", "Difícil decir no"]
+  },
+  "sr": {
+    "type": "El Regulador",
+    "name": "Altamente Controlado",
+    "description": "Eres muy bueno gestionando emociones. Rara vez te dejas llevar por la ira o el pánico. Los demás te ven calmado y estable. Asegúrate de no reprimir las emociones hasta que exploten.",
+    "traits": { "Autoconciencia": 65, "Autocontrol": 90, "Empatía": 55, "Habilidades sociales": 60 },
+    "strengths": ["Tranquilo bajo presión", "Puedes pensar con claridad", "Rara vez en conflicto"],
+    "weaknesses": ["A veces pareces indiferente", "Dificultad para expresar sentimientos"]
+  },
+  "ss": {
+    "type": "El Socializador",
+    "name": "Muy Sociable",
+    "description": "¡Eres genial socializando! Construir relaciones, animar el ambiente y comunicarte son tus puntos fuertes. La gente se siente a gusto a tu alrededor. Asegúrate de ser también sensible a las emociones más profundas.",
+    "traits": { "Autoconciencia": 55, "Autocontrol": 60, "Empatía": 70, "Habilidades sociales": 90 },
+    "strengths": ["Fácil llevarse bien", "Comunicador hábil", "Creador de ambiente positivo"],
+    "weaknesses": ["A veces demasiado superficial", "Falta de escucha profunda"]
+  },
+  "sa": {
+    "type": "El Consciente de Sí Mismo",
+    "name": "Altamente Autoconsciente",
+    "description": "Te conoces muy bien a ti mismo. Sabes lo que sientes, por qué y cómo manejarlo. Esta es una base sólida de IE. Mejora aún más tus habilidades sociales y empatía.",
+    "traits": { "Autoconciencia": 90, "Autocontrol": 65, "Empatía": 60, "Habilidades sociales": 55 },
+    "strengths": ["Reconocer tus propias emociones", "Reflexivo", "Tienes principios"],
+    "weaknesses": ["A veces demasiado egocéntrico", "Dificultad para leer necesidades sociales"]
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "title": "Leadership Style",
+  "description": "Discover your natural leadership style.",
+  "timeEstimation": "15 Minutes",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "ls1",
+      "question": "When leading a team, the first thing you do is...",
+      "options": [
+        { "text": "Communicate a big, inspiring vision", "type": "V" },
+        { "text": "Recognize the individual strengths of each member", "type": "C" },
+        { "text": "Set clear rules and targets", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls2",
+      "question": "When conflict arises, you...",
+      "options": [
+        { "text": "Guide towards a solution aligned with the vision", "type": "V" },
+        { "text": "Act as a mediator and listen to all parties", "type": "C" },
+        { "text": "Make a firm decision for the sake of efficiency", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls3",
+      "question": "A team member fails to meet a target. You...",
+      "options": [
+        { "text": "Remind them of the importance of their contribution to the vision", "type": "V" },
+        { "text": "Guide them to improve their skills", "type": "C" },
+        { "text": "Evaluate and give clear consequences", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls4",
+      "question": "In a meeting, you prefer to...",
+      "options": [
+        { "text": "Motivate and inspire the team", "type": "V" },
+        { "text": "Ensure everyone has a chance to speak", "type": "C" },
+        { "text": "Get straight to the point and make decisions", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls5",
+      "question": "You are respected because of...",
+      "options": [
+        { "text": "Your big ideas", "type": "V" },
+        { "text": "Your care for team development", "type": "C" },
+        { "text": "Your firmness and results", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls6",
+      "question": "When facing major change, you...",
+      "options": [
+        { "text": "See it as an opportunity for a new vision", "type": "V" },
+        { "text": "Ensure everyone is comfortable with the change", "type": "C" },
+        { "text": "Make a detailed and measurable action plan", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls7",
+      "question": "How do you give rewards?",
+      "options": [
+        { "text": "Public recognition and inspiring stories", "type": "V" },
+        { "text": "Personalized gifts according to their interests", "type": "C" },
+        { "text": "Bonuses or promotions based on metrics", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls8",
+      "question": "Under high pressure, you...",
+      "options": [
+        { "text": "Stay focused on the big picture", "type": "V" },
+        { "text": "Ensure the team's mental health", "type": "C" },
+        { "text": "Increase intensity and discipline", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls9",
+      "question": "For important decisions, you...",
+      "options": [
+        { "text": "Involve the team to align with the vision", "type": "V" },
+        { "text": "Listen to everyone's input before deciding", "type": "C" },
+        { "text": "Decide alone with data and logic", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls10",
+      "question": "Your team is demotivated, you...",
+      "options": [
+        { "text": "Tell success stories and the big vision", "type": "V" },
+        { "text": "Find out the cause and give personal support", "type": "C" },
+        { "text": "Give new deadlines and challenges", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls11",
+      "question": "A new team member needs guidance, you...",
+      "options": [
+        { "text": "Explain the vision and let them find their own way", "type": "V" },
+        { "text": "Guide them step by step patiently", "type": "C" },
+        { "text": "Give clear SOPs and targets", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls12",
+      "question": "What are you most proud of as a leader?",
+      "options": [
+        { "text": "The impact and change we made", "type": "V" },
+        { "text": "The individual growth within my team", "type": "C" },
+        { "text": "The targets and results we achieved", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls13",
+      "question": "When a team member has a new idea, you...",
+      "options": [
+        { "text": "See if it aligns with the vision", "type": "V" },
+        { "text": "Appreciate and encourage them to develop it", "type": "C" },
+        { "text": "Evaluate with data before agreeing", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls14",
+      "question": "You are best suited to lead a team that...",
+      "options": [
+        { "text": "Needs direction and inspiration", "type": "V" },
+        { "text": "Needs development and support", "type": "C" },
+        { "text": "Needs structure and efficiency", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls15",
+      "question": "The leadership legacy you want to leave behind...",
+      "options": [
+        { "text": "A big vision that changes the industry", "type": "V" },
+        { "text": "Great people that I helped grow", "type": "C" },
+        { "text": "Systems and results that last", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls16",
+      "question": "When delegating an important task, your approach is...",
+      "options": [
+        { "text": "Delegate the end result and let them be creative", "type": "V" },
+        { "text": "Choose the person who most needs to learn that thing to grow", "type": "C" },
+        { "text": "Give detailed instructions and a strict deadline", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls17",
+      "question": "When recruiting new team members, you look most for...",
+      "options": [
+        { "text": "Their passion and belief in the company's mission", "type": "V" },
+        { "text": "Attitude, empathy, and cultural fit with the team", "type": "C" },
+        { "text": "Track record, technical skills, and solid portfolio", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls18",
+      "question": "On Monday morning, you start the week by...",
+      "options": [
+        { "text": "Giving a short pep talk to fire up the team", "type": "V" },
+        { "text": "Greeting everyone and asking about their weekend", "type": "C" },
+        { "text": "Immediately reviewing weekly targets and dividing tasks", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls19",
+      "question": "If the company has to make budget cuts...",
+      "options": [
+        { "text": "Use this moment to innovate and pivot strategy", "type": "V" },
+        { "text": "Try hard to protect employee welfare and facilities", "type": "C" },
+        { "text": "Cut inefficiencies firmly and quickly without hesitation", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls20",
+      "question": "A project is behind schedule. You will...",
+      "options": [
+        { "text": "Remind them again how important this project is for the future", "type": "V" },
+        { "text": "Check if the team is exhausted and help overcome their obstacles", "type": "C" },
+        { "text": "Ask for overtime and overhaul the process to be faster", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls21",
+      "question": "For you, the definition of 'success' in a project is...",
+      "options": [
+        { "text": "Creating a new breakthrough in the market", "type": "V" },
+        { "text": "A solid, happy team that learns many new things", "type": "C" },
+        { "text": "Achieving or exceeding KPIs and revenue targets", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls22",
+      "question": "When organizing a team building event, you choose...",
+      "options": [
+        { "text": "A hackathon or vision board session", "type": "V" },
+        { "text": "A relaxing retreat or deep sharing session", "type": "C" },
+        { "text": "Competitive sports or an Escape Room that gets adrenaline pumping", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls23",
+      "question": "Your biggest weakness as a leader might be...",
+      "options": [
+        { "text": "Often missing small technical details", "type": "V" },
+        { "text": "Too soft and often avoid conflict", "type": "C" },
+        { "text": "Too harsh, demanding, and lacking empathy", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls24",
+      "question": "There is a brilliant team member (High Performer) but with a toxic attitude...",
+      "options": [
+        { "text": "Try to realign their values with the company's mission", "type": "V" },
+        { "text": "Conduct an in-depth counseling session to find the root of their behavior", "type": "C" },
+        { "text": "Issue a warning or fire them if it ruins team efficiency", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls25",
+      "question": "When someone breaks office rules...",
+      "options": [
+        { "text": "Evaluate whether the rule is outdated and needs to be changed", "type": "V" },
+        { "text": "Ask them privately why they did it", "type": "C" },
+        { "text": "Enforce sanctions according to the handbook to be fair", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls26",
+      "question": "Dealing with negative rumors or gossip at the office...",
+      "options": [
+        { "text": "Hold a Town Hall to speak transparently and clarify the vision", "type": "V" },
+        { "text": "Approach the relevant parties personally to ease the atmosphere", "type": "C" },
+        { "text": "Send a firm email reminding about work professionalism", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls27",
+      "question": "If a top employee resigns...",
+      "options": [
+        { "text": "Remind them of the dreams we haven't achieved together", "type": "V" },
+        { "text": "Ask if there's anything you can do for their future career", "type": "C" },
+        { "text": "Accept it and immediately ask them to prepare handover documents", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls28",
+      "question": "Your office door policy is...",
+      "options": [
+        { "text": "Open anytime for crazy ideas and innovation", "type": "V" },
+        { "text": "Open anytime for venting or personal issues", "type": "C" },
+        { "text": "Closed when focused, open only for urgent matters", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls29",
+      "question": "The work culture you want to build is...",
+      "options": [
+        { "text": "Bold, innovative, and boundary-breaking", "type": "V" },
+        { "text": "Inclusive, supportive, and family-like", "type": "C" },
+        { "text": "Competitive, highly disciplined, and results-oriented", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls30",
+      "question": "When a subordinate asks something you don't know...",
+      "options": [
+        { "text": "Frame it as 'a mystery for us to solve together'", "type": "V" },
+        { "text": "Ask for help and input from the team openly", "type": "C" },
+        { "text": "Ask for a moment to research it and give a definitive answer", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls31",
+      "question": "Your role analogy in the company is like...",
+      "options": [
+        { "text": "A captain steering the ship to a new continent", "type": "V" },
+        { "text": "A gardener tending plants until they bear fruit", "type": "C" },
+        { "text": "A war general leading troops to victory", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls32",
+      "question": "If a meeting is too quiet, you will...",
+      "options": [
+        { "text": "Throw out a provocative idea to get them debating enthusiastically", "type": "V" },
+        { "text": "Gently call on each person by name to ask for their opinion", "type": "C" },
+        { "text": "Assume everyone agrees and close the meeting", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls33",
+      "question": "Your view on failure is...",
+      "options": [
+        { "text": "A stepping stone to greater discovery", "type": "V" },
+        { "text": "A valuable moment to learn and mature the team", "type": "C" },
+        { "text": "A waste of resources that should be avoided as much as possible", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls34",
+      "question": "When an employee is often late...",
+      "options": [
+        { "text": "Ask if they've lost passion for our vision", "type": "V" },
+        { "text": "Check if they have personal problems at home", "type": "C" },
+        { "text": "Give a warning letter for violating discipline", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls35",
+      "question": "Your strongest communication style is...",
+      "options": [
+        { "text": "Charismatic large presentations", "type": "V" },
+        { "text": "In-depth one-on-one sessions", "type": "C" },
+        { "text": "Short, concise, and to-the-point emails/memos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls36",
+      "question": "When two departments blame each other...",
+      "options": [
+        { "text": "Gather them and remind them of the shared ultimate goal", "type": "V" },
+        { "text": "Act as a facilitator so they can empathize with each other", "type": "C" },
+        { "text": "Clarify the boundaries of SOPs and SLAs between divisions in writing", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls37",
+      "question": "The thing that keeps you up at night is...",
+      "options": [
+        { "text": "Fear that the company is falling behind innovation trends", "type": "V" },
+        { "text": "Thinking about a team member who might be unhappy/stressed", "type": "C" },
+        { "text": "Anxiety about not meeting the end-of-quarter target", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls38",
+      "question": "When welcoming a big new client...",
+      "options": [
+        { "text": "Present the dreams and big impact we will achieve together", "type": "V" },
+        { "text": "Build personal relationships and strong trust", "type": "C" },
+        { "text": "Present detailed timelines, cost structures, and metrics", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls39",
+      "question": "When monitoring remote work (Work From Home)...",
+      "options": [
+        { "text": "Often hold virtual town halls to keep spirits up", "type": "V" },
+        { "text": "More often call to ask how they're doing", "type": "C" },
+        { "text": "Use strict tracker software and daily reports", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls40",
+      "question": "If the team is celebrating a small win (Quick Win)...",
+      "options": [
+        { "text": "Use the euphoria to challenge them to a bigger goal", "type": "V" },
+        { "text": "Treat them to a casual meal to strengthen bonding", "type": "C" },
+        { "text": "Give brief praise then immediately refocus on the main target", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls41",
+      "question": "When choosing a project management tool...",
+      "options": [
+        { "text": "Choose a tool with a cool, futuristic interface", "type": "V" },
+        { "text": "Choose the tool easiest for the whole team to learn", "type": "C" },
+        { "text": "Choose a tool with the best analytics and reporting features", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls42",
+      "question": "When you are very stressed as a leader...",
+      "options": [
+        { "text": "Isolate yourself to imagine a better future vision", "type": "V" },
+        { "text": "Seek a trusted friend or mentor to vent to", "type": "C" },
+        { "text": "Go crazy in work and increase work hours (hustle)", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls43",
+      "question": "You will be very disappointed if a team member is...",
+      "options": [
+        { "text": "Pessimistic, cynical, and doesn't believe in the shared goal", "type": "V" },
+        { "text": "Selfish, undermines others, and unwilling to share knowledge", "type": "C" },
+        { "text": "Lazy, makes excuses, and doesn't meet KPIs", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls44",
+      "question": "A brilliant idea is rejected by investors/boss...",
+      "options": [
+        { "text": "Still believe it's a good idea and find another way to realize it", "type": "V" },
+        { "text": "Comfort the disappointed team and reassure them that we tried", "type": "C" },
+        { "text": "Analyze the rejection reasons and revise the numbers/data", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls45",
+      "question": "How do you position yourself in a team photo?",
+      "options": [
+        { "text": "In the middle or slightly in front as a leadership symbol", "type": "V" },
+        { "text": "On the edge or behind so the team stands out", "type": "C" },
+        { "text": "Anywhere as long as the formation looks neat and symmetrical", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls46",
+      "question": "The ultimate goal of your leadership is...",
+      "options": [
+        { "text": "To leave a legacy recognized by the world", "type": "V" },
+        { "text": "To produce new leaders who are even greater than me", "type": "C" },
+        { "text": "To dominate the market and be the most profitable", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls47",
+      "question": "When you have to lay someone off...",
+      "options": [
+        { "text": "Explain that this is a difficult step to save the ship", "type": "V" },
+        { "text": "Give empathy, best severance, and recommend them elsewhere", "type": "C" },
+        { "text": "Do it professionally, quickly, and without too much emotional drama", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls48",
+      "question": "Your favorite books or shows are usually in the genre of...",
+      "options": [
+        { "text": "Biographies of great figures or predictions of future trends", "type": "V" },
+        { "text": "Psychology, emotional intelligence, or self-improvement", "type": "C" },
+        { "text": "Business strategy, finance, or military tactics", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls49",
+      "question": "A client complains loudly to your team...",
+      "options": [
+        { "text": "Reassure the client with promises of better quality", "type": "V" },
+        { "text": "Calm the client and ensure the team's mental health isn't down", "type": "C" },
+        { "text": "Immediately find the root of the technical problem and fix it that same day", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls50",
+      "question": "What is the best advice you would give to a young leader?",
+      "options": [
+        { "text": "Never be afraid to dream too big", "type": "V" },
+        { "text": "Take care of your people, and they will take care of your business", "type": "C" },
+        { "text": "Focus on the numbers and don't let feelings override logic", "type": "D" }
+      ]
+    }
+  ]
+}

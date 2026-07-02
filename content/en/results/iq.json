@@ -1,0 +1,26 @@
+{
+  "genius": {
+    "type": "Genius",
+    "name": "Very Intelligent",
+    "description": "You have extraordinary logical abilities. Analytical mindset and problem-solving are very sharp.",
+    "traits": { "logic": 90, "visual": 85 },
+    "strengths": ["Sharp analysis", "Fast problem solving"],
+    "weaknesses": ["Sometimes overthinking"]
+  },
+  "average": {
+    "type": "Average",
+    "name": "Good Enough",
+    "description": "Your logical abilities are above average. You can understand patterns well and solve problems.",
+    "traits": { "logic": 65, "visual": 60 },
+    "strengths": ["Balanced", "Quick learner"],
+    "weaknesses": ["Need more practice"]
+  },
+  "beginner": {
+    "type": "Beginner",
+    "name": "Just Starting",
+    "description": "You are still honing your logical skills. Don't be discouraged – everyone has their own uniqueness.",
+    "traits": { "logic": 30, "visual": 25 },
+    "strengths": ["Creative in other areas", "Enthusiastic to learn"],
+    "weaknesses": ["Need a lot of logic practice"]
+  }
+}

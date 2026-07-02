@@ -1,0 +1,89 @@
+{
+  "title": "Tes Kepribadian",
+  "icon": "🧠",
+  "desc": "Analisis mendalam mengenai psikologi karakter, kecerdasan emosional, dan pola pikir Anda.",
+  "bgGradient": "from-indigo-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-cyan-500/10",
+  "features": [
+    {
+      "name": "16 Tipe Kepribadian",
+      "id": "mbti",
+      "info": "Temukan pola kepribadian sejatimu",
+      "time": "5 mnt",
+      "q": "20 Soal",
+      "icon": "🧩"
+    },
+    {
+      "name": "Tes Mini IQ",
+      "id": "iq",
+      "info": "Ukur kemampuan logika visual",
+      "time": "10 mnt",
+      "q": "15 Soal",
+      "icon": "🧠"
+    },
+    {
+      "name": "Kecerdasan Emosional",
+      "id": "eq",
+      "info": "Kendali emosi & interaksi sosial",
+      "time": "5 mnt",
+      "q": "12 Soal",
+      "icon": "💖"
+    },
+    {
+      "name": "Introvert / Ekstrovert",
+      "id": "introvert-extrovert",
+      "info": "Ukur spektrum energi sosialmu",
+      "time": "3 mnt",
+      "q": "10 Soal",
+      "icon": "🌗"
+    },
+    {
+      "name": "Bahasa Cinta",
+      "id": "love-language",
+      "info": "Cara dominan mengekspresikan kasih",
+      "time": "5 mnt",
+      "q": "10 Soal",
+      "icon": "💌"
+    },
+    {
+      "name": "Gaya Keterikatan",
+      "id": "attachment-style",
+      "info": "Pola hubungan ikatan emosional",
+      "time": "4 mnt",
+      "q": "10 Soal",
+      "icon": "🔗"
+    },
+    {
+      "name": "Usia Mental",
+      "id": "mental-age",
+      "info": "Tingkat kedewasaan pola pikir",
+      "time": "3 mnt",
+      "q": "10 Soal",
+      "icon": "🎂"
+    },
+    {
+      "name": "Tes Kreativitas",
+      "id": "creativity",
+      "info": "Ukur potensi dan imajinasimu",
+      "time": "5 mnt",
+      "q": "10 Soal",
+      "icon": "🎨"
+    },
+    {
+      "name": "Gaya Kepemimpinan",
+      "id": "leadership",
+      "info": "Cara memimpin & mengambil keputusan",
+      "time": "5 mnt",
+      "q": "12 Soal",
+      "icon": "🏆"
+    },
+    {
+      "name": "Tipe Stres",
+      "id": "stress-type",
+      "info": "Pola stres & strategi mengatasinya",
+      "time": "4 mnt",
+      "q": "10 Soal",
+      "icon": "😰"
+    }
+  ]
+}

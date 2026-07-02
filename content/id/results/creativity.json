@@ -1,0 +1,26 @@
+{
+  "i": {
+    "type": "Inovatif",
+    "name": "Inovator Kreatif",
+    "description": "Kreativitasmu terwujud dalam solusi unik. Kamu adalah pemecah masalah dengan sentuhan orisinal.",
+    "traits": { "Problem Solving": 90, "Keunikan": 85 },
+    "strengths": ["Solusi out-of-the-box", "Efisien"],
+    "weaknesses": ["Kurang sabar dengan rutinitas"]
+  },
+  "d": {
+    "type": "Pemimpi",
+    "name": "Visioner Imajinatif",
+    "description": "Imajinasimu tanpa batas. Kamu hidup di dunia ide dan kemungkinan, selalu bermimpi besar.",
+    "traits": { "Visi": 92, "Fantasi": 90 },
+    "strengths": ["Ide besar", "Menginspirasi"],
+    "weaknesses": ["Sulit eksekusi", "Mudah terdistraksi"]
+  },
+  "a": {
+    "type": "Artistik",
+    "name": "Seniman Ekspresif",
+    "description": "Kreativitasmu mengalir lewat ekspresi visual dan estetika. Duniamu penuh warna dan keindahan.",
+    "traits": { "Estetika": 90, "Imajinasi Visual": 88 },
+    "strengths": ["Original", "Berani bereksperimen"],
+    "weaknesses": ["Kadang tidak praktis"]
+  }
+}

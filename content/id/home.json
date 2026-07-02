@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "badge": "Portal Psikologi & Hiburan",
+    "title": "Kenali Potensi Aslimu Sekarang",
+    "subtitle": "Tes kepribadian, ramalan bintang, dan budaya lokal dalam satu platform.",
+    "ctaText": "Mulai Tes MBTI",
+    "ctaLink": "/id/test/mbti"
+  },
+  "categories": [
+    {
+      "id": "personality",
+      "icon": "🧠",
+      "title": "Tes Kepribadian",
+      "desc": "MBTI, EQ, dan lainnya",
+      "href": "/id/category/personality",
+      "color": "from-cyan-500/20 to-indigo-500/20"
+    },
+    {
+      "id": "astrology",
+      "icon": "⭐",
+      "title": "Astrologi",
+      "desc": "Zodiak & numerologi",
+      "href": "/id/category/astrology",
+      "color": "from-purple-500/20 to-pink-500/20"
+    },
+    {
+      "id": "local",
+      "icon": "📜",
+      "title": "Budaya Lokal",
+      "desc": "Weton & primbon Jawa",
+      "href": "/id/category/local",
+      "color": "from-amber-500/20 to-yellow-500/20"
+    },
+    {
+      "id": "viral",
+      "icon": "🎭",
+      "title": "Hiburan Viral",
+      "desc": "Kalkulator cinta & seru",
+      "href": "/id/category/viral",
+      "color": "from-pink-500/20 to-rose-500/20"
+    }
+  ],
+  "popular": [
+    {
+      "id": "mbti",
+      "icon": "🧠",
+      "title": "Tes MBTI 16 Kepribadian",
+      "users": "2.1M",
+      "href": "/id/test/mbti"
+    },
+    {
+      "id": "love-calc",
+      "icon": "💘",
+      "title": "Kalkulator Cinta",
+      "users": "3.6M",
+      "href": "/id/tools/love-calculator"
+    },
+    {
+      "id": "weton",
+      "icon": "📜",
+      "title": "Kalkulator Weton Jawa",
+      "users": "1.4M",
+      "href": "/id/tools/weton"
+    }
+  ],
+  "popularTitle": "🔥 Paling Populer"
+}

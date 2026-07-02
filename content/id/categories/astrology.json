@@ -1,0 +1,89 @@
+{
+  "title": "Astrologi & Nasib",
+  "icon": "⭐",
+  "desc": "Ramalan bintang, ilmu numerologi, dan pemetaan takdir berdasarkan konfigurasi alam semesta.",
+  "bgGradient": "from-purple-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-purple-500/10",
+  "features": [
+    {
+      "name": "Profil Zodiak",
+      "id": "zodiac",
+      "info": "Karakteristik rasi bintangmu",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "♈"
+    },
+    {
+      "name": "Kecocokan Zodiak",
+      "id": "zodiac-match",
+      "info": "Kecocokan asmara antar bintang",
+      "time": "2 mnt",
+      "q": "Pencocokan",
+      "icon": "💞"
+    },
+    {
+      "name": "Shio Tiongkok",
+      "id": "shio",
+      "info": "Ramalan karakter Shio & elemen",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "🐉"
+    },
+    {
+      "name": "Numerologi Nama",
+      "id": "numerology",
+      "info": "Arti di balik angka kehidupanmu",
+      "time": "3 mnt",
+      "q": "Kalkulasi",
+      "icon": "🔢"
+    },
+    {
+      "name": "Angka Jalan Takdir",
+      "id": "life-path",
+      "info": "Arah perjalanan hidup numerologi",
+      "time": "2 mnt",
+      "q": "Perhitungan",
+      "icon": "🛤️"
+    },
+    {
+      "name": "Makna Tanggal Lahir",
+      "id": "birth-meaning",
+      "info": "Arti tersembunyi hari kelahiran",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "📅"
+    },
+    {
+      "name": "Angka Keberuntungan",
+      "id": "lucky-number",
+      "info": "Nomor hoki yang membawa untung",
+      "time": "Instan",
+      "q": "Generator",
+      "icon": "🍀"
+    },
+    {
+      "name": "Warna Keberuntungan",
+      "id": "lucky-color",
+      "info": "Warna pemancar aura positif",
+      "time": "Instan",
+      "q": "Generator",
+      "icon": "🎨"
+    },
+    {
+      "name": "Horoskop Hari Ini",
+      "id": "horoscope",
+      "info": "Prediksi nasib bintang harian",
+      "time": "Instan",
+      "q": "Pembaruan",
+      "icon": "📰"
+    },
+    {
+      "name": "Arti Nama",
+      "id": "name-meaning",
+      "info": "Makna nama & energi bawaan",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "📛"
+    }
+  ]
+}

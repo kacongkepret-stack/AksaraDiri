@@ -1,0 +1,26 @@
+{
+  "i": {
+    "type": "Innovador",
+    "name": "Innovador Creativo",
+    "description": "Tu creatividad se manifiesta en soluciones únicas. Eres un solucionador de problemas con un toque original.",
+    "traits": { "Resolución de problemas": 90, "Originalidad": 85 },
+    "strengths": ["Soluciones fuera de lo común", "Eficiente"],
+    "weaknesses": ["Impaciente con la rutina"]
+  },
+  "d": {
+    "type": "Soñador",
+    "name": "Visionario Imaginativo",
+    "description": "Tu imaginación no tiene límites. Vives en un mundo de ideas y posibilidades, siempre soñando a lo grande.",
+    "traits": { "Visión": 92, "Fantasía": 90 },
+    "strengths": ["Grandes ideas", "Inspirador"],
+    "weaknesses": ["Dificultad para ejecutar", "Fácil distracción"]
+  },
+  "a": {
+    "type": "Artístico",
+    "name": "Artista Expresivo",
+    "description": "Tu creatividad fluye a través de la expresión visual y la estética. Tu mundo está lleno de color y belleza.",
+    "traits": { "Estética": 90, "Imaginación visual": 88 },
+    "strengths": ["Original", "Audaz para experimentar"],
+    "weaknesses": ["A veces poco práctico"]
+  }
+}

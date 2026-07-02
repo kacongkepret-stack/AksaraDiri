@@ -1,0 +1,563 @@
+{
+  "title": "Test de Inteligencia Emocional (EQ)",
+  "description": "Mide qué tan bien reconoces, manejas y usas las emociones en la vida diaria. Elige la respuesta que más te describa.",
+  "timeEstimation": "15 Minutos",
+  "resultMapping": {
+    "em": "A",
+    "sr": "B",
+    "ss": "C",
+    "sa": "D"
+  },
+  "questions": [
+    {
+      "id": "eq1",
+      "question": "Cuando tu amigo se enoja sin razón aparente, tú...",
+      "options": [
+        { "text": "Escuchas e intentas entender por qué", "type": "A" },
+        { "text": "Te enfadas también porque te sientes menospreciado", "type": "B" },
+        { "text": "Te alejas hasta que se calme solo", "type": "C" },
+        { "text": "Lo culpas por arruinar el ambiente", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq2",
+      "question": "Repruebas un examen importante. Tu primera reacción...",
+      "options": [
+        { "text": "Decepción, luego piensas inmediatamente en cómo mejorar", "type": "A" },
+        { "text": "Te enfadas contigo mismo y con los demás", "type": "B" },
+        { "text": "Te sientes inútil y quieres rendirte", "type": "C" },
+        { "text": "No te importa, porque crees que no es importante", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq3",
+      "question": "Cuando dos de tus amigos discuten, tú...",
+      "options": [
+        { "text": "Escuchas a ambas partes y ayudas a encontrar una solución", "type": "A" },
+        { "text": "Te pones del lado que crees que tiene la razón", "type": "B" },
+        { "text": "Los dejas solos para no involucrarte", "type": "C" },
+        { "text": "Te unes a la discusión para hacerla más emocionante", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq4",
+      "question": "Cuando recibes una crítica dura de tu jefe...",
+      "options": [
+        { "text": "La aceptas con calma y buscas lecciones", "type": "A" },
+        { "text": "Te defiendes con largas excusas", "type": "B" },
+        { "text": "Te sientes herido y te cuesta seguir trabajando", "type": "C" },
+        { "text": "Ignoras la crítica por completo", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq5",
+      "question": "Ves a alguien llorando solo en un lugar público...",
+      "options": [
+        { "text": "Te acercas y ofreces ayuda", "type": "A" },
+        { "text": "Miras brevemente y te vas", "type": "B" },
+        { "text": "Te sientes incómodo y te alejas", "type": "C" },
+        { "text": "Tomas una foto para subirla a redes sociales", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq6",
+      "question": "Los planes de vacaciones cambian totalmente por decisión unilateral de un amigo...",
+      "options": [
+        { "text": "Decepcionado, pero intentas adaptarte y disfrutar", "type": "A" },
+        { "text": "Te enfadas y culpas al amigo", "type": "B" },
+        { "text": "Te quedas callado y no disfrutas las vacaciones", "type": "C" },
+        { "text": "Te vas a casa inmediatamente y cancelas las vacaciones", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq7",
+      "question": "¿Con qué frecuencia notas cambios en tu estado de ánimo?",
+      "options": [
+        { "text": "Bastante a menudo, sé los detonantes", "type": "A" },
+        { "text": "A veces, pero no les presto mucha atención", "type": "B" },
+        { "text": "Rara vez, me centro más en otras cosas", "type": "C" },
+        { "text": "Casi nunca, las emociones vienen y van", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq8",
+      "question": "Alguien cancela una cita sin avisar...",
+      "options": [
+        { "text": "Molesto, pero enseguida busco otra actividad", "type": "A" },
+        { "text": "Muy enfadado y confronto a esa persona", "type": "B" },
+        { "text": "Triste y me siento menospreciado todo el día", "type": "C" },
+        { "text": "No me importa, porque realmente no quería quedar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq9",
+      "question": "Prefieres resolver conflictos...",
+      "options": [
+        { "text": "Hablando con honestidad y buscando una solución juntos", "type": "A" },
+        { "text": "Quedándote callado y esperando que el tiempo lo resuelva", "type": "B" },
+        { "text": "Culpando a la otra parte hasta que ceda", "type": "C" },
+        { "text": "Terminando la relación de inmediato", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq10",
+      "question": "Cuando ves a un amigo triunfar, tú...",
+      "options": [
+        { "text": "Te alegras y te sientes motivado", "type": "A" },
+        { "text": "Sientes envidia y te comparas", "type": "B" },
+        { "text": "Indiferente, no te importa", "type": "C" },
+        { "text": "Te sientes inferior", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq11",
+      "question": "Las tareas del trabajo/universidad se acumulan y se acercan las fechas límite...",
+      "options": [
+        { "text": "Estableces prioridades y las haces una por una", "type": "A" },
+        { "text": "Te enfadas y te quejas a todos", "type": "B" },
+        { "text": "Entras en pánico hasta llorar y quieres rendirte", "type": "C" },
+        { "text": "No te importa y en vez de eso juegas o duermes", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq12",
+      "question": "Un compañero consigue un ascenso que tú deseabas...",
+      "options": [
+        { "text": "Lo felicitas y reflexionas sobre tus propias carencias", "type": "A" },
+        { "text": "Buscas sus defectos a sus espaldas", "type": "B" },
+        { "text": "Te sientes muy tonto y pierdes la motivación laboral", "type": "C" },
+        { "text": "No te importa, piensas que el sistema es injusto", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq13",
+      "question": "Cometes un gran error en el trabajo...",
+      "options": [
+        { "text": "Informas de inmediato, te disculpas y presentas una solución", "type": "A" },
+        { "text": "Ocultas el error y culpas a la situación", "type": "B" },
+        { "text": "Evitas a tu jefe porque tienes mucho miedo", "type": "C" },
+        { "text": "No te importa, la empresa no va a quebrar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq14",
+      "question": "Hay un miembro del equipo que siempre es pasivo...",
+      "options": [
+        { "text": "Hablas con él amablemente para saber sus dificultades", "type": "A" },
+        { "text": "Lo regañas delante de los demás miembros", "type": "B" },
+        { "text": "Haces su parte tú mismo mientras te resientes", "type": "C" },
+        { "text": "Eliminas su nombre de la tarea sin avisar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq15",
+      "question": "Se impone una nueva norma repentinamente y te perjudica...",
+      "options": [
+        { "text": "Buscas la razón e intentas adaptarte", "type": "A" },
+        { "text": "Protestas de inmediato con tono elevado", "type": "B" },
+        { "text": "Te resignas y te sientes víctima", "type": "C" },
+        { "text": "Infringes la norma a propósito", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq16",
+      "question": "Tu pareja o amigo cercano critica un mal hábito tuyo...",
+      "options": [
+        { "text": "Escuchas abiertamente e intentas cambiar", "type": "A" },
+        { "text": "Respondes criticando su mal hábito", "type": "B" },
+        { "text": "Te enfadas y lo ignoras durante días", "type": "C" },
+        { "text": "Le dices que busque otro amigo/pareja", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq17",
+      "question": "Sufres un rechazo (amoroso, laboral o de proyecto)...",
+      "options": [
+        { "text": "Lo aceptas con dignidad y sigues adelante", "type": "A" },
+        { "text": "Hablas mal de la parte que te rechazó", "type": "B" },
+        { "text": "Te aíslas durante días sintiéndote inútil", "type": "C" },
+        { "text": "Actúas con arrogancia como si no lo necesitaras", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq18",
+      "question": "Alguien te interrumpe continuamente mientras hablas...",
+      "options": [
+        { "text": "Le pides amablemente que te deje terminar", "type": "A" },
+        { "text": "Le gritas que se calle", "type": "B" },
+        { "text": "Dejas de hablar por completo y te enfadas en silencio", "type": "C" },
+        { "text": "Subes la voz para ahogar la suya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq19",
+      "question": "Enfrentarte a un cliente o desconocido enfadado...",
+      "options": [
+        { "text": "Mantienes la calma y buscas el centro del problema", "type": "A" },
+        { "text": "Te pones emocional también y respondes a su argumento", "type": "B" },
+        { "text": "Te confundes, tiemblas y no sabes qué hacer", "type": "C" },
+        { "text": "Lo dejas hablando solo", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq20",
+      "question": "Desacuerdo sobre política o principios con un amigo...",
+      "options": [
+        { "text": "Respetas las diferencias sin tener que estar de acuerdo", "type": "A" },
+        { "text": "Discutes con vehemencia hasta que ceda", "type": "B" },
+        { "text": "Te distancias lentamente porque sientes que no son compatibles", "type": "C" },
+        { "text": "Te burlas de su punto de vista continuamente", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq21",
+      "question": "Un amigo te pide prestado tu objeto favorito y lo rompe...",
+      "options": [
+        { "text": "Lo reprendes suavemente y pides responsabilidad", "type": "A" },
+        { "text": "Te enfureces y rompes también sus pertenencias", "type": "B" },
+        { "text": "Lloras en silencio pero dices 'no pasa nada'", "type": "C" },
+        { "text": "Lo insultas con indirectas continuamente en redes sociales", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq22",
+      "question": "Recibes un gran elogio en público...",
+      "options": [
+        { "text": "Agradeces con humildad", "type": "A" },
+        { "text": "Te muestras arrogante y te sientes el mejor", "type": "B" },
+        { "text": "Te da mucha vergüenza y niegas el elogio", "type": "C" },
+        { "text": "Piensas que el elogio es solo cortesía falsa", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq23",
+      "question": "Ver a un amigo acosado o ridiculizado en un chat grupal...",
+      "options": [
+        { "text": "Defiendes al amigo o reprendes en el grupo", "type": "A" },
+        { "text": "Te ríes o añades más burlas", "type": "B" },
+        { "text": "Te quedas callado porque temes que te acosen a ti también", "type": "C" },
+        { "text": "Sales del grupo sin explicación", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq24",
+      "question": "Pierdes un objeto importante por tu propia descuido...",
+      "options": [
+        { "text": "Aceptas la realidad e intentas buscarlo lógicamente", "type": "A" },
+        { "text": "Te enfureces y tiras cosas", "type": "B" },
+        { "text": "Te culpas en exceso todo el día", "type": "C" },
+        { "text": "Buscas un chivo expiatorio para culpar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq25",
+      "question": "Esperas en una larga fila y alguien se cuela...",
+      "options": [
+        { "text": "Lo reprendes con firmeza pero cortésmente", "type": "A" },
+        { "text": "Le gritas de inmediato y lo apartas", "type": "B" },
+        { "text": "Te quedas callado y reprimes tu molestia", "type": "C" },
+        { "text": "Empujas a esa persona por detrás a propósito", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq26",
+      "question": "Sientes mucha ansiedad antes de una gran presentación...",
+      "options": [
+        { "text": "Haces técnicas de respiración y te centras en el material", "type": "A" },
+        { "text": "Desahogas tu nerviosismo gritando a amigos", "type": "B" },
+        { "text": "Tanto miedo que quieres fingir que estás enfermo", "type": "C" },
+        { "text": "Sales sin preparación porque lo subestimas", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq27",
+      "question": "Escuchas rumores malos sobre ti en el trabajo/universidad...",
+      "options": [
+        { "text": "Buscas la fuente y aclaras con calma", "type": "A" },
+        { "text": "Enfrentas a las personas que hablan de ti", "type": "B" },
+        { "text": "Lloras y te niegas a ir al trabajo/universidad", "type": "C" },
+        { "text": "Inventas un rumor opuesto sobre ellos", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq28",
+      "question": "Tienes que dar retroalimentación negativa a un compañero de equipo...",
+      "options": [
+        { "text": "La comunicas profesionalmente y con apoyo", "type": "A" },
+        { "text": "Hablas con dureza para que aprenda", "type": "B" },
+        { "text": "No lo riñes porque no te da la gana", "type": "C" },
+        { "text": "Pides a alguien más que lo haga", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq29",
+      "question": "Un amigo no ha pagado una deuda, pero publica que compra objetos de lujo...",
+      "options": [
+        { "text": "Le reclamas directamente y con firmeza", "type": "A" },
+        { "text": "Te enfadas en los comentarios de sus redes sociales", "type": "B" },
+        { "text": "Solo te enfadas por dentro sin atreverte a reclamar", "type": "C" },
+        { "text": "Publicas indirectas sarcásticas sin etiquetarlo", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq30",
+      "question": "Estás en un entorno nuevo y aún no conoces a nadie...",
+      "options": [
+        { "text": "Tomas la iniciativa de sonreír y saludar primero", "type": "A" },
+        { "text": "Actúas con arrogancia para que te respeten", "type": "B" },
+        { "text": "Te escondes en una esquina y te pasas el móvil", "type": "C" },
+        { "text": "Esperas a que alguien te adore/salude primero", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq31",
+      "question": "Después de trabajar duro, tus esfuerzos son poco apreciados...",
+      "options": [
+        { "text": "Conoces tu propio valor aunque no haya validación externa", "type": "A" },
+        { "text": "Te enfadas y amenazas con renunciar", "type": "B" },
+        { "text": "Te sientes muy triste y empiezas a holgazanear", "type": "C" },
+        { "text": "Saboteas el trabajo de otros para destacar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq32",
+      "question": "Tu jefe/profesor te reprende delante de mucha gente...",
+      "options": [
+        { "text": "Te controlas, te disculpas y evalúas después", "type": "A" },
+        { "text": "Discutes y te peleas allí mismo", "type": "B" },
+        { "text": "Lloras en el lugar porque te da mucha vergüenza", "type": "C" },
+        { "text": "Pones los ojos en blanco y actúas con indiferencia", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq33",
+      "question": "Otra persona se atribuye el mérito de tu idea brillante...",
+      "options": [
+        { "text": "Aclaras los hechos profesionalmente al que decide", "type": "A" },
+        { "text": "Te enfureces y lo insultas delante de todos", "type": "B" },
+        { "text": "Te quedas callado, resignado a ser víctima", "type": "C" },
+        { "text": "Lo hundes en secreto después", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq34",
+      "question": "Atrapado en un atasco total cuando tienes mucha prisa...",
+      "options": [
+        { "text": "Respiras hondo, avisas de tu retraso y lo aceptas", "type": "A" },
+        { "text": "Tocas el claxon sin parar e insultas", "type": "B" },
+        { "text": "Te estresas mucho, entras en pánico y quieres llorar", "type": "C" },
+        { "text": "Adelantas de forma temeraria poniendo en peligro a otros", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq35",
+      "question": "Enfrentarte a fracasos repetidos en lo mismo...",
+      "options": [
+        { "text": "Analizas nuevas estrategias aún no probadas", "type": "A" },
+        { "text": "Te enfadas con el destino y sientes que el mundo es injusto", "type": "B" },
+        { "text": "Te rindes por completo, convencido de que eres tonto", "type": "C" },
+        { "text": "Buscas a alguien más para culpar del fracaso", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq36",
+      "question": "Tienes un día muy malo (todo sale mal)...",
+      "options": [
+        { "text": "Te das un tiempo para descansar un rato", "type": "A" },
+        { "text": "Desahogas tu ira con la familia/amigos", "type": "B" },
+        { "text": "Sientes autocompasión sin parar", "type": "C" },
+        { "text": "Te emborrachas o haces cosas destructivas", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq37",
+      "question": "Alguien llora histéricamente pidiendo ayuda cerca de ti...",
+      "options": [
+        { "text": "Mantienes la calma y preguntas qué ayuda necesita", "type": "A" },
+        { "text": "Le dices que se calle porque hace ruido", "type": "B" },
+        { "text": "También entras en pánico, te confundes y lloras", "type": "C" },
+        { "text": "Solo lo grabas desde lejos sin ayudar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq38",
+      "question": "Estás en un equipo cuyos principios de trabajo no coinciden con los tuyos...",
+      "options": [
+        { "text": "Te comprometes en lo técnico manteniendo la integridad", "type": "A" },
+        { "text": "Fuerzas a todos a seguir tu método", "type": "B" },
+        { "text": "Eres pasivo, sigues la corriente en silencio para estar seguro", "type": "C" },
+        { "text": "Ralentizas el trabajo a propósito para que el equipo fracase", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq39",
+      "question": "Te das cuenta de que has sido muy grosero con un amigo...",
+      "options": [
+        { "text": "Te disculpas sinceramente sin muchas excusas", "type": "A" },
+        { "text": "Lo niegas y piensas que es demasiado sensible", "type": "B" },
+        { "text": "Te da vergüenza y evitas a esa persona para siempre", "type": "C" },
+        { "text": "No te importa, piensas que es normal", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq40",
+      "question": "Ves a un compañero con dificultades mientras tú tienes muchas tareas...",
+      "options": [
+        { "text": "Ofreces pequeña ayuda o consejo sin sacrificar tus prioridades", "type": "A" },
+        { "text": "Te burlas de él por ser lento", "type": "B" },
+        { "text": "Dejas todas tus tareas para ayudarle por completo", "type": "C" },
+        { "text": "Finges no verlo para que no te pidan ayuda", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq41",
+      "question": "Enfrentarte a preguntas muy sensibles/personales en una reunión familiar...",
+      "options": [
+        { "text": "Respondes con diplomacia o desvías con una sonrisa", "type": "A" },
+        { "text": "Te enfadas y gritas al familiar que preguntó", "type": "B" },
+        { "text": "Te sientes triste, presionado y te vas a tu habitación", "type": "C" },
+        { "text": "Respondes preguntando por sus vergüenzas", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq42",
+      "question": "Escuchas quejas de muchos amigos a la vez...",
+      "options": [
+        { "text": "Eres buen oyente pero mantienes tus límites de energía", "type": "A" },
+        { "text": "Les dices a todos que dejen de quejarse", "type": "B" },
+        { "text": "Te contagias de sus emociones negativas hasta estresarte también", "type": "C" },
+        { "text": "Los ignoras, finges escuchar mientras usas el móvil", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq43",
+      "question": "Te excluyen o no te invitan a una reunión de amigos...",
+      "options": [
+        { "text": "No te importa, buscas actividades positivas por tu cuenta", "type": "A" },
+        { "text": "Los confrontas sobre por qué no te invitaron", "type": "B" },
+        { "text": "Te sientes muy deprimido y crees que no tienes amigos", "type": "C" },
+        { "text": "Hablas mal de su evento en otro lugar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq44",
+      "question": "Alguien sigue sacando a relucir tus errores del pasado...",
+      "options": [
+        { "text": "Afirmas tu límite de que el pasado ya pasó", "type": "A" },
+        { "text": "Te enfureces porque no soportas que te lo recuerden", "type": "B" },
+        { "text": "Lloras porque todavía te sientes culpable", "type": "C" },
+        { "text": "Respondes sacando a relucir su pasado", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq45",
+      "question": "Enfrentarte a una ruptura con un amigo íntimo/pareja...",
+      "options": [
+        { "text": "Procesas la tristeza adecuadamente y sigues con la vida", "type": "A" },
+        { "text": "Culpas a la otra persona por completo de la ruptura", "type": "B" },
+        { "text": "Quedas destrozado durante meses sin querer avanzar", "type": "C" },
+        { "text": "Buscas una nueva distracción al día siguiente", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq46",
+      "question": "Ocurre una emergencia (accidente leve, pequeño incendio)...",
+      "options": [
+        { "text": "Actúas rápido, controlas emociones y buscas solución", "type": "A" },
+        { "text": "Te enfureces y culpas a los que están alrededor", "type": "B" },
+        { "text": "Entras en pánico, gritas histéricamente sin hacer nada", "type": "C" },
+        { "text": "Corres a salvarte a ti mismo, dejas a los demás", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq47",
+      "question": "Te dan una tarea fuera de tu responsabilidad principal...",
+      "options": [
+        { "text": "Hablas profesionalmente sobre capacidad y compensación", "type": "A" },
+        { "text": "Rechazas de inmediato con brusquedad", "type": "B" },
+        { "text": "Aceptas a regañadientes mientras te quejas a escondidas", "type": "C" },
+        { "text": "Aceptas pero lo haces mal", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq48",
+      "question": "Ves a alguien ganar haciendo trampa...",
+      "options": [
+        { "text": "Lo denuncias con pruebas sólidas", "type": "A" },
+        { "text": "Lo atacas físicamente directamente", "type": "B" },
+        { "text": "Te resignas, piensas que el mundo es sucio", "type": "C" },
+        { "text": "Empiezas a hacer trampa también la próxima vez", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq49",
+      "question": "Te das cuenta de que estás agotado (fatiga emocional severa)...",
+      "options": [
+        { "text": "Pides permiso, descansas y te atreves a decir 'no'", "type": "A" },
+        { "text": "Desahogas insultos en el lugar de trabajo", "type": "B" },
+        { "text": "Te aíslas socialmente y te sientes insensible", "type": "C" },
+        { "text": "Te fuerzas a seguir trabajando mientras tomas medicamentos", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq50",
+      "question": "Tu objetivo principal al estudiar inteligencia emocional es...",
+      "options": [
+        { "text": "Entenderme a mí mismo y responder a las situaciones con más sabiduría", "type": "A" },
+        { "text": "Poder manipular a los demás", "type": "B" },
+        { "text": "Parecer inteligente psicológicamente", "type": "C" },
+        { "text": "Solo por diversión, hacer un test", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Introvert vs Extrovert",
+  "description": "Find out where you are on the social energy spectrum.",
+  "timeEstimation": "3 Minutes",
+  "resultMapping": {
+    "extrovert": "E",
+    "introvert": "I"
+  },
+  "questions": [
+    { "id": "ie1", "question": "At a party, you...", "options": [{"text": "Talk to many people", "type": "E"}, {"text": "Only talk to close friends", "type": "I"}] },
+    { "id": "ie2", "question": "On weekends, you prefer to...", "options": [{"text": "Go out with friends", "type": "E"}, {"text": "Stay home alone", "type": "I"}] },
+    { "id": "ie3", "question": "A sudden phone call from a friend...", "options": [{"text": "Happy, answer right away", "type": "E"}, {"text": "Think first, sometimes text back", "type": "I"}] },
+    { "id": "ie4", "question": "At work, you are more successful if...", "options": [{"text": "Working in a team", "type": "E"}, {"text": "Working alone", "type": "I"}] },
+    { "id": "ie5", "question": "After a day of socializing, you...", "options": [{"text": "Have more energy", "type": "E"}, {"text": "Feel tired and need to be alone", "type": "I"}] },
+    { "id": "ie6", "question": "You are more comfortable...", "options": [{"text": "Being the center of attention", "type": "E"}, {"text": "Behind the scenes", "type": "I"}] },
+    { "id": "ie7", "question": "In your opinion, silence is...", "options": [{"text": "Awkward", "type": "E"}, {"text": "Golden", "type": "I"}] },
+    { "id": "ie8", "question": "When you have a problem, you...", "options": [{"text": "Tell many friends", "type": "E"}, {"text": "Keep it to yourself and solve it alone", "type": "I"}] },
+    { "id": "ie9", "question": "You more often...", "options": [{"text": "Speak first, think later", "type": "E"}, {"text": "Think first, speak later", "type": "I"}] },
+    { "id": "ie10", "question": "Your circle of friends...", "options": [{"text": "Wide, many friends", "type": "E"}, {"text": "Small, but deep", "type": "I"}] },
+    { "id": "ie11", "question": "During an online meeting, you...", "options": [{"text": "Actively discuss", "type": "E"}, {"text": "More often on mute", "type": "I"}] },
+    { "id": "ie12", "question": "At the gym, you...", "options": [{"text": "Chat with people around", "type": "E"}, {"text": "Focus alone with headphones", "type": "I"}] },
+    { "id": "ie13", "question": "You find it easier to give criticism...", "options": [{"text": "Directly", "type": "E"}, {"text": "In writing", "type": "I"}] },
+    { "id": "ie14", "question": "On vacation, you...", "options": [{"text": "Look for a travel buddy", "type": "E"}, {"text": "Enjoy solo traveling", "type": "I"}] },
+    { "id": "ie15", "question": "On social media, you...", "options": [{"text": "Often post & comment", "type": "E"}, {"text": "Rarely post, just scroll", "type": "I"}] },
+    { "id": "ie16", "question": "Your energy is recharged faster by...", "options": [{"text": "Meeting people", "type": "E"}, {"text": "Time alone", "type": "I"}] }
+  ]
+}

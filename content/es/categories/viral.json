@@ -1,0 +1,89 @@
+{
+  "title": "Entretenimiento Viral",
+  "icon": "🎭",
+  "desc": "Colección de herramientas ligeras y virales, perfectas para compartir en redes sociales.",
+  "bgGradient": "from-pink-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-pink-500/10",
+  "features": [
+    {
+      "name": "Calculadora de Amor",
+      "id": "love-calculator",
+      "info": "Prueba de compatibilidad de nombres",
+      "time": "1 min",
+      "q": "Diversión",
+      "icon": "💘"
+    },
+    {
+      "name": "Generador de Nombres de Pareja",
+      "id": "ship-name-generator",
+      "info": "Fusión de nombres única y divertida",
+      "time": "Instantáneo",
+      "q": "Generador",
+      "icon": "🚢"
+    },
+    {
+      "name": "Inicial de Alma Gemela",
+      "id": "soulmate-initials",
+      "info": "Predice la inicial de tu alma gemela",
+      "time": "1 min",
+      "q": "Aleatorio",
+      "icon": "🔤"
+    },
+    {
+      "name": "Animal Espiritual",
+      "id": "spirit-animal",
+      "info": "Descubre tu animal guardián",
+      "time": "3 min",
+      "q": "Cuestionario",
+      "icon": "🐺"
+    },
+    {
+      "name": "Color de Aura",
+      "id": "aura-color",
+      "info": "Detecta el color de tu energía hoy",
+      "time": "2 min",
+      "q": "Escáner",
+      "icon": "🌈"
+    },
+    {
+      "name": "Talento Oculto",
+      "id": "hidden-talent",
+      "info": "Encuentra tu habilidad secreta",
+      "time": "3 min",
+      "q": "Cuestionario",
+      "icon": "🎭"
+    },
+    {
+      "name": "País Ideal",
+      "id": "which-country",
+      "info": "El mejor país para ti",
+      "time": "2 min",
+      "q": "Cuestionario",
+      "icon": "🌍"
+    },
+    {
+      "name": "Vida Pasada",
+      "id": "past-life",
+      "info": "El misterio de tu reencarnación",
+      "time": "2 min",
+      "q": "Generador",
+      "icon": "⏳"
+    },
+    {
+      "name": "Rueda de la Fortuna",
+      "id": "fortune-wheel",
+      "info": "Gira la rueda del destino",
+      "time": "Instantáneo",
+      "q": "Girar",
+      "icon": "🎡"
+    },
+    {
+      "name": "Carta del Destino Aleatoria",
+      "id": "destiny-card",
+      "info": "Extrae un mensaje secreto del universo",
+      "time": "Instantáneo",
+      "q": "Extracción",
+      "icon": "🃏"
+    }
+  ]
+}

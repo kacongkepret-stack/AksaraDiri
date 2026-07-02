@@ -1,0 +1,89 @@
+{
+  "title": "Astrología y Destino",
+  "icon": "⭐",
+  "desc": "Signos del zodiaco, numerología y mapeo del destino según las configuraciones cósmicas.",
+  "bgGradient": "from-purple-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-purple-500/10",
+  "features": [
+    {
+      "name": "Perfil Zodiacal",
+      "id": "zodiac",
+      "info": "Características de tu constelación",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "♈"
+    },
+    {
+      "name": "Compatibilidad Zodiacal",
+      "id": "zodiac-match",
+      "info": "Compatibilidad amorosa entre signos",
+      "time": "2 min",
+      "q": "Emparejamiento",
+      "icon": "💞"
+    },
+    {
+      "name": "Horóscopo Chino",
+      "id": "shio",
+      "info": "Predicciones del signo y elemento",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "🐉"
+    },
+    {
+      "name": "Numerología del Nombre",
+      "id": "numerology",
+      "info": "Significado detrás de los números de tu vida",
+      "time": "3 min",
+      "q": "Cálculo",
+      "icon": "🔢"
+    },
+    {
+      "name": "Número de Vida",
+      "id": "life-path",
+      "info": "Dirección de vida numerológica",
+      "time": "2 min",
+      "q": "Cómputo",
+      "icon": "🛤️"
+    },
+    {
+      "name": "Significado del Cumpleaños",
+      "id": "birth-meaning",
+      "info": "Significado oculto de tu fecha de nacimiento",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "📅"
+    },
+    {
+      "name": "Número de la Suerte",
+      "id": "lucky-number",
+      "info": "Tu número que trae fortuna",
+      "time": "Instantáneo",
+      "q": "Generador",
+      "icon": "🍀"
+    },
+    {
+      "name": "Color de la Suerte",
+      "id": "lucky-color",
+      "info": "Color que irradia energía positiva",
+      "time": "Instantáneo",
+      "q": "Generador",
+      "icon": "🎨"
+    },
+    {
+      "name": "Horóscopo Diario",
+      "id": "horoscope",
+      "info": "Predicciones diarias del signo zodiacal",
+      "time": "Instantáneo",
+      "q": "Actualización diaria",
+      "icon": "📰"
+    },
+    {
+      "name": "Significado del Nombre",
+      "id": "name-meaning",
+      "info": "Significado del nombre y energía innata",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "📛"
+    }
+  ]
+}

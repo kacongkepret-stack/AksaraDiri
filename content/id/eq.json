@@ -1,0 +1,563 @@
+{
+  "title": "Tes Kecerdasan Emosional (EQ)",
+  "description": "Ukur seberapa baik kamu mengenali, mengelola, dan menggunakan emosi dalam kehidupan sehari-hari. Pilih jawaban yang paling menggambarkan dirimu.",
+  "timeEstimation": "15 Menit",
+  "resultMapping": {
+    "em": "A",
+    "sr": "B",
+    "ss": "C",
+    "sa": "D"
+  },
+  "questions": [
+    {
+      "id": "eq1",
+      "question": "Saat temanmu tiba‑tiba marah tanpa alasan jelas, kamu...",
+      "options": [
+        { "text": "Mendengarkan dan mencoba memahami alasannya", "type": "A" },
+        { "text": "Ikut marah karena merasa tidak dihargai", "type": "B" },
+        { "text": "Menghindar sampai dia tenang sendiri", "type": "C" },
+        { "text": "Menyalahkan dia karena mengganggu suasana", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq2",
+      "question": "Kamu gagal dalam ujian penting. Reaksi pertamamu...",
+      "options": [
+        { "text": "Kecewa, lalu langsung berpikir cara memperbaiki", "type": "A" },
+        { "text": "Marah pada diri sendiri dan orang lain", "type": "B" },
+        { "text": "Merasa tidak berguna dan ingin menyerah", "type": "C" },
+        { "text": "Tidak peduli, karena merasa tidak penting", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq3",
+      "question": "Ketika dua temanmu berdebat, kamu...",
+      "options": [
+        { "text": "Mendengarkan kedua sisi dan membantu mencari solusi", "type": "A" },
+        { "text": "Memihak salah satu yang menurutmu benar", "type": "B" },
+        { "text": "Meninggalkan mereka agar tidak ikut campur", "type": "C" },
+        { "text": "Ikut berdebat agar suasana lebih seru", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq4",
+      "question": "Saat menerima kritik pedas dari atasan...",
+      "options": [
+        { "text": "Menerima dengan tenang dan mencari pelajaran", "type": "A" },
+        { "text": "Membela diri dengan alasan panjang lebar", "type": "B" },
+        { "text": "Merasa sakit hati dan sulit melanjutkan kerja", "type": "C" },
+        { "text": "Mengabaikan kritik itu sepenuhnya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq5",
+      "question": "Kamu melihat seseorang menangis sendirian di tempat umum...",
+      "options": [
+        { "text": "Menghampiri dan menawarkan bantuan", "type": "A" },
+        { "text": "Memandang sekilas lalu pergi", "type": "B" },
+        { "text": "Merasa tidak nyaman dan menjauh", "type": "C" },
+        { "text": "Mengambil foto untuk diunggah ke media sosial", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq6",
+      "question": "Rencana liburan berubah total karena keputusan sepihak teman...",
+      "options": [
+        { "text": "Kecewa, tapi mencoba menyesuaikan dan menikmati", "type": "A" },
+        { "text": "Marah dan menyalahkan teman", "type": "B" },
+        { "text": "Diam dan tidak menikmati liburan sama sekali", "type": "C" },
+        { "text": "Langsung pulang dan membatalkan liburan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq7",
+      "question": "Seberapa sering kamu menyadari perubahan suasana hatimu?",
+      "options": [
+        { "text": "Cukup sering, aku sadar pemicunya", "type": "A" },
+        { "text": "Kadang‑kadang, tapi tidak terlalu dipedulikan", "type": "B" },
+        { "text": "Jarang, aku lebih fokus ke hal lain", "type": "C" },
+        { "text": "Hampir tidak pernah, emosi datang begitu saja", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq8",
+      "question": "Seseorang membatalkan janji tanpa pemberitahuan...",
+      "options": [
+        { "text": "Kesal, tapi segera mencari kegiatan lain", "type": "A" },
+        { "text": "Sangat marah dan mengkonfrontasi orang itu", "type": "B" },
+        { "text": "Sedih dan merasa tidak dihargai sepanjang hari", "type": "C" },
+        { "text": "Tidak peduli, karena memang tidak ingin bertemu", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq9",
+      "question": "Kamu lebih suka menyelesaikan konflik dengan...",
+      "options": [
+        { "text": "Bicara jujur dan mencari solusi bersama", "type": "A" },
+        { "text": "Diam dan berharap waktu menyelesaikannya", "type": "B" },
+        { "text": "Menyalahkan pihak lain sampai mereka mengalah", "type": "C" },
+        { "text": "Memutus hubungan langsung", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq10",
+      "question": "Ketika melihat temanmu sukses, kamu...",
+      "options": [
+        { "text": "Ikut senang dan termotivasi", "type": "A" },
+        { "text": "Merasa iri dan membanding‑bandingkan", "type": "B" },
+        { "text": "Biasa saja, tidak peduli", "type": "C" },
+        { "text": "Merasa rendah diri", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq11",
+      "question": "Tugas kerjaan/kuliah menumpuk dan deadline sudah dekat...",
+      "options": [
+        { "text": "Menyusun prioritas dan mengerjakannya satu per satu", "type": "A" },
+        { "text": "Marah dan mengeluh pada semua orang", "type": "B" },
+        { "text": "Panik sampai menangis dan ingin menyerah", "type": "C" },
+        { "text": "Bodo amat dan malah main game/tidur", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq12",
+      "question": "Kolega mendapat promosi yang sebenarnya kamu incar...",
+      "options": [
+        { "text": "Memberi selamat dan introspeksi kekuranganku", "type": "A" },
+        { "text": "Mencari-cari kesalahannya di belakang", "type": "B" },
+        { "text": "Merasa sangat bodoh dan kehilangan semangat kerja", "type": "C" },
+        { "text": "Cuek, menganggap sistemnya memang tidak adil", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq13",
+      "question": "Kamu melakukan kesalahan besar di tempat kerja...",
+      "options": [
+        { "text": "Segera lapor, minta maaf, dan bawa solusi", "type": "A" },
+        { "text": "Menutupi kesalahan dan menyalahkan keadaan", "type": "B" },
+        { "text": "Menghindar dari atasan karena terlalu takut", "type": "C" },
+        { "text": "Masa bodoh, toh perusahaan tidak akan bangkrut", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq14",
+      "question": "Ada anggota kelompok kerja yang selalu pasif...",
+      "options": [
+        { "text": "Mengajaknya bicara baik-baik untuk tahu kendalanya", "type": "A" },
+        { "text": "Memarahinya di depan anggota lain", "type": "B" },
+        { "text": "Mengerjakan bagiannya sendiri sambil mendongkol", "type": "C" },
+        { "text": "Mengeluarkan namanya dari tugas tanpa peringatan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq15",
+      "question": "Aturan baru mendadak diterapkan dan memberatkanmu...",
+      "options": [
+        { "text": "Mencari tahu alasannya dan mencoba beradaptasi", "type": "A" },
+        { "text": "Langsung protes dengan nada tinggi", "type": "B" },
+        { "text": "Pasrah dan merasa jadi korban", "type": "C" },
+        { "text": "Sengaja melanggar aturan tersebut", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq16",
+      "question": "Pasangan atau teman dekat mengkritik kebiasaan burukmu...",
+      "options": [
+        { "text": "Mendengarkan dengan terbuka dan mencoba berubah", "type": "A" },
+        { "text": "Balas mengkritik kebiasaan buruknya", "type": "B" },
+        { "text": "Ngambek dan mendiamkan dia berhari-hari", "type": "C" },
+        { "text": "Menyuruhnya cari teman/pasangan lain saja", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq17",
+      "question": "Kamu mengalami penolakan (cinta, kerja, atau project)...",
+      "options": [
+        { "text": "Menerima dengan lapang dada dan move on", "type": "A" },
+        { "text": "Menjelek-jelekkan pihak yang menolak", "type": "B" },
+        { "text": "Mengurung diri berhari-hari merasa tidak berharga", "type": "C" },
+        { "text": "Bersikap sombong seolah tidak butuh", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq18",
+      "question": "Seseorang terus menyela saat kamu berbicara...",
+      "options": [
+        { "text": "Memintanya dengan sopan untuk membiarkanmu selesai bicara", "type": "A" },
+        { "text": "Membentaknya agar diam", "type": "B" },
+        { "text": "Berhenti bicara sama sekali dan kesal sendiri", "type": "C" },
+        { "text": "Ikut meninggikan suara agar menutupi suaranya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq19",
+      "question": "Menghadapi pelanggan atau orang asing yang marah-marah...",
+      "options": [
+        { "text": "Tetap tenang dan mencari inti masalahnya", "type": "A" },
+        { "text": "Ikut emosi dan membalas argumennya", "type": "B" },
+        { "text": "Bingung, gemetar, dan tidak tahu harus apa", "type": "C" },
+        { "text": "Meninggalkan dia bicara sendirian", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq20",
+      "question": "Berbeda pandangan politik atau prinsip dengan teman...",
+      "options": [
+        { "text": "Menghargai perbedaannya tanpa harus setuju", "type": "A" },
+        { "text": "Berdebat keras sampai dia mau mengalah", "type": "B" },
+        { "text": "Menjauh pelan-pelan karena merasa tidak cocok", "type": "C" },
+        { "text": "Sengaja mengejek pandangannya terus menerus", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq21",
+      "question": "Teman meminjam barang kesayanganmu dan merusaknya...",
+      "options": [
+        { "text": "Menegurnya baik-baik dan meminta pertanggungjawaban", "type": "A" },
+        { "text": "Ngamuk dan merusak barang miliknya juga", "type": "B" },
+        { "text": "Menangis diam-diam tapi bilang 'tidak apa-apa'", "type": "C" },
+        { "text": "Menyindirnya terus-terusan di media sosial", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq22",
+      "question": "Kamu mendapat pujian besar di depan umum...",
+      "options": [
+        { "text": "Mengucapkan terima kasih dengan rendah hati", "type": "A" },
+        { "text": "Sombong dan merasa paling hebat", "type": "B" },
+        { "text": "Merasa sangat malu dan menyangkal pujian itu", "type": "C" },
+        { "text": "Menganggap pujian itu hanya basa-basi palsu", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq23",
+      "question": "Melihat teman dibully atau diejek di grup chat...",
+      "options": [
+        { "text": "Membela teman tersebut atau menegur di grup", "type": "A" },
+        { "text": "Ikut tertawa atau menambahkan ejekan", "type": "B" },
+        { "text": "Diam saja karena takut ikut dibully", "type": "C" },
+        { "text": "Keluar dari grup tanpa penjelasan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq24",
+      "question": "Kehilangan barang penting karena keteledoran sendiri...",
+      "options": [
+        { "text": "Menerima kenyataan dan berusaha mencarinya logis", "type": "A" },
+        { "text": "Marah-marah dan melempar barang di sekitar", "type": "B" },
+        { "text": "Menyalahkan diri sendiri berlebihan sepanjang hari", "type": "C" },
+        { "text": "Mencari kambing hitam untuk disalahkan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq25",
+      "question": "Menunggu antrean panjang dan ada yang menyerobot...",
+      "options": [
+        { "text": "Menegurnya dengan tegas namun sopan", "type": "A" },
+        { "text": "Langsung membentak dan menarik orang tersebut", "type": "B" },
+        { "text": "Diam saja dan menahan kesal dalam hati", "type": "C" },
+        { "text": "Sengaja mendorong orang tersebut dari belakang", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq26",
+      "question": "Merasa sangat cemas sebelum presentasi besar...",
+      "options": [
+        { "text": "Melakukan teknik pernapasan dan fokus pada materi", "type": "A" },
+        { "text": "Melampiaskan rasa gugup dengan membentak teman", "type": "B" },
+        { "text": "Saking takutnya sampai ingin pura-pura sakit", "type": "C" },
+        { "text": "Maju tanpa persiapan karena menganggap remeh", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq27",
+      "question": "Mendengar rumor buruk tentang dirimu di kantor/kampus...",
+      "options": [
+        { "text": "Mencari sumbernya dan mengklarifikasi dengan tenang", "type": "A" },
+        { "text": "Melabrak orang-orang yang membicarakanku", "type": "B" },
+        { "text": "Menangis dan tidak mau masuk kerja/kuliah", "type": "C" },
+        { "text": "Membuat rumor balik tentang mereka", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq28",
+      "question": "Kamu harus memberikan feedback negatif ke teman setim...",
+      "options": [
+        { "text": "Menyampaikannya secara profesional dan suportif", "type": "A" },
+        { "text": "Bicara kasar agar dia kapok", "type": "B" },
+        { "text": "Tidak jadi menegur karena tidak enak hati", "type": "C" },
+        { "text": "Menyuruh orang lain saja yang menyampaikannya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq29",
+      "question": "Teman berhutang belum bayar, tapi dia update beli barang mewah...",
+      "options": [
+        { "text": "Menagih secara langsung dan tegas padanya", "type": "A" },
+        { "text": "Marah-marah di kolom komentar media sosialnya", "type": "B" },
+        { "text": "Hanya membatin kesal tanpa berani menagih", "type": "C" },
+        { "text": "Menyindirnya pakai status sarkas tanpa tag nama", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq30",
+      "question": "Berada di lingkungan baru dan belum kenal siapa pun...",
+      "options": [
+        { "text": "Mengambil inisiatif tersenyum dan menyapa duluan", "type": "A" },
+        { "text": "Bersikap arogan agar dihormati", "type": "B" },
+        { "text": "Sembunyi di pojok bermain HP terus", "type": "C" },
+        { "text": "Menunggu ada yang menyembah/menyapa duluan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq31",
+      "question": "Setelah bekerja keras, usahamu kurang diapresiasi...",
+      "options": [
+        { "text": "Tahu nilai diri sendiri meski tanpa validasi luar", "type": "A" },
+        { "text": "Marah dan mengancam untuk berhenti", "type": "B" },
+        { "text": "Sangat sedih dan mulai malas-malasan", "type": "C" },
+        { "text": "Mensabotase pekerjaan orang lain agar terlihat", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq32",
+      "question": "Ditegur atasan/dosen di depan banyak orang...",
+      "options": [
+        { "text": "Menahan diri, minta maaf, lalu evaluasi nanti", "type": "A" },
+        { "text": "Melawan balik dan berdebat keras di situ juga", "type": "B" },
+        { "text": "Menangis di tempat karena saking malunya", "type": "C" },
+        { "text": "Memutar bola mata dan bersikap tidak peduli", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq33",
+      "question": "Orang lain sengaja mengambil kredit atas ide brilianmu...",
+      "options": [
+        { "text": "Klarifikasi fakta secara profesional ke pembuat keputusan", "type": "A" },
+        { "text": "Ngamuk dan memaki dia di depan semua orang", "type": "B" },
+        { "text": "Diam saja, pasrah menjadi korban", "type": "C" },
+        { "text": "Menjatuhkannya secara diam-diam nanti", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq34",
+      "question": "Terjebak macet total padahal sedang terburu-buru...",
+      "options": [
+        { "text": "Menarik napas panjang, mengabari keterlambatan, dan pasrah", "type": "A" },
+        { "text": "Membunyikan klakson terus dan mengumpat", "type": "B" },
+        { "text": "Stres berat, panik, dan ingin menangis", "type": "C" },
+        { "text": "Menyalip secara ugal-ugalan membahayakan orang", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq35",
+      "question": "Menghadapi kegagalan berkali-kali pada hal yang sama...",
+      "options": [
+        { "text": "Menganalisis strategi baru yang belum dicoba", "type": "A" },
+        { "text": "Marah pada nasib dan merasa dunia tidak adil", "type": "B" },
+        { "text": "Menyerah sepenuhnya, meyakini diri memang bodoh", "type": "C" },
+        { "text": "Mencari orang lain untuk disalahkan atas kegagalan itu", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq36",
+      "question": "Mengalami hari yang sangat buruk (semua serba salah)...",
+      "options": [
+        { "text": "Memberi waktu diri sendiri untuk istirahat sejenak", "type": "A" },
+        { "text": "Melampiaskan amarah ke orang rumah/teman", "type": "B" },
+        { "text": "Mengasihani diri sendiri tiada henti", "type": "C" },
+        { "text": "Mabuk atau melakukan hal destruktif", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq37",
+      "question": "Seseorang menangis histeris meminta bantuan di dekatmu...",
+      "options": [
+        { "text": "Tetap tenang dan menanyakan apa yang bisa dibantu", "type": "A" },
+        { "text": "Menyuruhnya diam karena berisik", "type": "B" },
+        { "text": "Ikut panik, bingung, dan malah menangis juga", "type": "C" },
+        { "text": "Hanya merekamnya dari jauh tanpa menolong", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq38",
+      "question": "Berada dalam tim yang tidak sejalan dengan prinsip kerjamu...",
+      "options": [
+        { "text": "Berkompromi di hal teknis sambil tetap menjaga integritas", "type": "A" },
+        { "text": "Memaksa semua orang mengikuti caramu", "type": "B" },
+        { "text": "Pasif, diam saja mengikuti arus agar aman", "type": "C" },
+        { "text": "Sengaja memperlambat pekerjaan agar tim gagal", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq39",
+      "question": "Menyadari bahwa kamu telah bersikap sangat kasar pada teman...",
+      "options": [
+        { "text": "Minta maaf secara tulus tanpa banyak alasan", "type": "A" },
+        { "text": "Menyangkal dan merasa dia yang terlalu sensitif", "type": "B" },
+        { "text": "Malu dan sengaja menghindari dia selamanya", "type": "C" },
+        { "text": "Biasa saja, menganggap hal itu wajar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq40",
+      "question": "Melihat rekan kesulitan tapi kamu sendiri sedang banyak tugas...",
+      "options": [
+        { "text": "Menawarkan bantuan kecil atau saran tanpa mengorbankan prioritasku", "type": "A" },
+        { "text": "Mengejeknya karena lambat bekerja", "type": "B" },
+        { "text": "Meninggalkan semua tugasku demi menolongnya sepenuhnya", "type": "C" },
+        { "text": "Pura-pura tidak melihat agar tidak diminta tolong", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq41",
+      "question": "Menghadapi pertanyaan yang sangat sensitif/pribadi di forum kumpul keluarga...",
+      "options": [
+        { "text": "Menjawab diplomatis atau mengalihkan dengan senyum", "type": "A" },
+        { "text": "Marah dan membentak keluarga yang bertanya", "type": "B" },
+        { "text": "Merasa sedih, tertekan, lalu masuk kamar", "type": "C" },
+        { "text": "Membalas dengan menanyakan aib mereka", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq42",
+      "question": "Mendengar keluhan dari banyak teman sekaligus...",
+      "options": [
+        { "text": "Menjadi pendengar yang baik tapi tetap menjaga batas energiku", "type": "A" },
+        { "text": "Menyuruh mereka semua berhenti mengeluh", "type": "B" },
+        { "text": "Terbawa emosi negatif mereka sampai aku ikutan stres", "type": "C" },
+        { "text": "Abaikan, pura-pura dengerin sambil main HP", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq43",
+      "question": "Dikucilkan atau tidak diundang ke acara kumpul teman geng...",
+      "options": [
+        { "text": "Biasa saja, mencari kegiatan positif sendiri", "type": "A" },
+        { "text": "Melabrak mereka kenapa tidak mengajakku", "type": "B" },
+        { "text": "Merasa sangat depresi dan merasa tidak punya teman", "type": "C" },
+        { "text": "Menjelek-jelekkan acara mereka di tempat lain", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq44",
+      "question": "Seseorang terus membahas kesalahan masa lalumu...",
+      "options": [
+        { "text": "Menegaskan batas bahwa masa lalu sudah selesai", "type": "A" },
+        { "text": "Ngamuk karena tak terima diungkit", "type": "B" },
+        { "text": "Menangis karena masih merasa bersalah", "type": "C" },
+        { "text": "Membalas dengan membongkar masa lalunya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq45",
+      "question": "Menghadapi perpisahan dengan sahabat/pasangan...",
+      "options": [
+        { "text": "Memproses kesedihan dengan wajar dan melanjutkan hidup", "type": "A" },
+        { "text": "Menyalahkan dia sepenuhnya atas perpisahan itu", "type": "B" },
+        { "text": "Hancur lebur berbulan-bulan tanpa mau beranjak", "type": "C" },
+        { "text": "Langsung cari pelampiasan baru keesokan harinya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq46",
+      "question": "Terjadi keadaan darurat (kecelakaan ringan, kebakaran kecil)...",
+      "options": [
+        { "text": "Bertindak sigap mengendalikan emosi dan mencari solusi", "type": "A" },
+        { "text": "Marah-marah menyalahkan orang di sekitar", "type": "B" },
+        { "text": "Panik berteriak histeris tanpa melakukan apa-apa", "type": "C" },
+        { "text": "Lari menyelamatkan diri sendiri, biarkan yang lain", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq47",
+      "question": "Diberi tugas di luar tanggung jawab aslimu...",
+      "options": [
+        { "text": "Bicara profesional soal kapasitas dan kompensasi", "type": "A" },
+        { "text": "Langsung menolak dengan ketus", "type": "B" },
+        { "text": "Terpaksa menerima sambil menggerutu di belakang", "type": "C" },
+        { "text": "Menerima tapi mengerjakannya asal-asalan", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq48",
+      "question": "Melihat orang lain menang karena melakukan kecurangan...",
+      "options": [
+        { "text": "Melaporkannya dengan bukti yang solid", "type": "A" },
+        { "text": "Menyerang fisiknya secara langsung", "type": "B" },
+        { "text": "Pasrah, menganggap dunia memang kotor", "type": "C" },
+        { "text": "Ikut-ikutan curang di kesempatan berikutnya", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq49",
+      "question": "Sadar bahwa kamu sedang 'burnout' (kelelahan emosional hebat)...",
+      "options": [
+        { "text": "Meminta cuti, istirahat, dan berani bilang 'tidak'", "type": "A" },
+        { "text": "Melampiaskan sumpah serapah ke tempat kerja", "type": "B" },
+        { "text": "Menutup diri dari pergaulan dan merasa mati rasa", "type": "C" },
+        { "text": "Memaksa diri terus bekerja sambil mengonsumsi obat", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq50",
+      "question": "Tujuan utama kamu mempelajari kecerdasan emosional adalah...",
+      "options": [
+        { "text": "Memahami diri dan merespon keadaan dengan lebih bijak", "type": "A" },
+        { "text": "Agar bisa memanipulasi orang lain", "type": "B" },
+        { "text": "Agar terlihat pintar secara psikologis", "type": "C" },
+        { "text": "Sekadar iseng ikut tes saja", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

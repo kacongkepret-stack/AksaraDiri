@@ -1,0 +1,42 @@
+{
+  "w": {
+    "type": "Palabras de Afirmación",
+    "name": "Elogios y Palabras",
+    "description": "Para ti, las palabras de ánimo significan más que cualquier cosa. Vives de la apreciación verbal.",
+    "traits": { "Elogio": 90, "Apoyo verbal": 85 },
+    "strengths": ["Expresivo", "Fácil de animar"],
+    "weaknesses": ["Sensible a la crítica", "Necesita validación"]
+  },
+  "g": {
+    "type": "Recepción de Regalos",
+    "name": "Regalos",
+    "description": "Te sientes amado a través de los regalos. No es cuestión de precio, sino de la intención detrás de ellos.",
+    "traits": { "Simbolismo": 85, "Atención al detalle": 80 },
+    "strengths": ["Agradecido", "Sabes cómo hacer feliz"],
+    "weaknesses": ["A veces materialista", "Te decepcionas si el regalo no tiene significado"]
+  },
+  "a": {
+    "type": "Actos de Servicio",
+    "name": "Servicio",
+    "description": "Las acciones concretas son prueba de amor para ti. Te sientes amado cuando alguien aligera tu carga.",
+    "traits": { "Práctico": 90, "Dispuesto a ayudar": 85 },
+    "strengths": ["Leal a los demás", "Independiente"],
+    "weaknesses": ["A menudo no pides ayuda", "Dificultad para aceptar ayuda"]
+  },
+  "p": {
+    "type": "Contacto Físico",
+    "name": "Contacto Físico",
+    "description": "Para ti, el amor es más real a través del contacto: abrazos, tomarse de la mano o una palmada en el hombro.",
+    "traits": { "Calidez": 90, "Físico": 85 },
+    "strengths": ["Afectuoso", "Accesible"],
+    "weaknesses": ["Incomodo en algunas culturas", "A veces visto como demasiado agresivo"]
+  },
+  "q": {
+    "type": "Tiempo de Calidad",
+    "name": "Tiempo de Calidad",
+    "description": "Eres más feliz cuando pasas tiempo ininterrumpido con tus seres queridos.",
+    "traits": { "Enfoque": 90, "Compañerismo": 85 },
+    "strengths": ["Buen oyente", "Prioridades claras"],
+    "weaknesses": ["Dificultad para multitarea", "No te gusta que tu pareja esté ocupada"]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "genius": {
+    "type": "Genius",
+    "name": "Sangat Cerdas",
+    "description": "Kamu memiliki kemampuan logika luar biasa. Pola pikir analitis dan pemecahan masalah sangat tajam.",
+    "traits": { "logic": 90, "visual": 85 },
+    "strengths": ["Analisis tajam", "Pemecahan masalah cepat"],
+    "weaknesses": ["Kadang overthinking"]
+  },
+  "average": {
+    "type": "Rata-rata",
+    "name": "Cukup Baik",
+    "description": "Kemampuan logikamu di atas rata-rata. Kamu bisa memahami pola dengan baik dan menyelesaikan masalah.",
+    "traits": { "logic": 65, "visual": 60 },
+    "strengths": ["Seimbang", "Cepat belajar"],
+    "weaknesses": ["Perlu latihan lebih"]
+  },
+  "beginner": {
+    "type": "Pemula",
+    "name": "Baru Mulai",
+    "description": "Kamu masih mengasah kemampuan logika. Jangan berkecil hati – setiap orang punya keunikan masing-masing.",
+    "traits": { "logic": 30, "visual": 25 },
+    "strengths": ["Kreatif di bidang lain", "Semangat belajar"],
+    "weaknesses": ["Perlu banyak latihan logika"]
+  }
+}

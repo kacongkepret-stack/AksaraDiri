@@ -1,0 +1,458 @@
+{
+  "title": "Stress Type",
+  "description": "Identify your stress type and the best way to deal with it.",
+  "timeEstimation": "15 Minutes",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "st1",
+      "question": "When a deadline approaches, you...",
+      "options": [
+        { "text": "Stay awake all night thinking of all the things that could go wrong", "type": "O" },
+        { "text": "Procrastinate until the last moment while looking for distractions", "type": "A" },
+        { "text": "Take immediate action, take control, and work quickly", "type": "F" }
+      ]
+    },
+    {
+      "id": "st2",
+      "question": "Your physical reaction to stress...",
+      "options": [
+        { "text": "Difficulty sleeping, headaches, thoughts racing", "type": "O" },
+        { "text": "Excessive sleepiness, lethargy, and wanting to just lie down", "type": "A" },
+        { "text": "Heart pounding, muscles tense, wanting to act immediately", "type": "F" }
+      ]
+    },
+    {
+      "id": "st3",
+      "question": "When conflict arises with someone, you...",
+      "options": [
+        { "text": "Analyze all sides and arrange words in your head until you're exhausted", "type": "O" },
+        { "text": "Avoid, give silent treatment, hoping the problem will disappear", "type": "A" },
+        { "text": "Confront directly, argue hard so it ends quickly", "type": "F" }
+      ]
+    },
+    {
+      "id": "st4",
+      "question": "When many tasks pile up at once, you...",
+      "options": [
+        { "text": "Confused, panicked, and paralyzed not knowing where to start", "type": "O" },
+        { "text": "Do the very easy ones first, or just play on your phone", "type": "A" },
+        { "text": "Make a strict list, robot mode on, and tackle them one by one", "type": "F" }
+      ]
+    },
+    {
+      "id": "st5",
+      "question": "What is your biggest stress trigger?",
+      "options": [
+        { "text": "Uncertainty and not knowing what will happen tomorrow", "type": "O" },
+        { "text": "Pressure, heavy expectations, and confrontation from others", "type": "A" },
+        { "text": "Obstacles, inefficiency, and slow-working people", "type": "F" }
+      ]
+    },
+    {
+      "id": "st6",
+      "question": "When stress hits, you tend to...",
+      "options": [
+        { "text": "Overthink and get trapped in your own thoughts", "type": "O" },
+        { "text": "Isolate yourself and distract yourself with unimportant things", "type": "A" },
+        { "text": "Become more aggressive, irritable (cranky), and hyper-focused", "type": "F" }
+      ]
+    },
+    {
+      "id": "st7",
+      "question": "Your most natural way to calm down...",
+      "options": [
+        { "text": "Vent at length, journal, or seek certainty", "type": "O" },
+        { "text": "Watch movies, play games, sleep, or total 'me time'", "type": "A" },
+        { "text": "Vigorous exercise, cleaning the house, or physical activity", "type": "F" }
+      ]
+    },
+    {
+      "id": "st8",
+      "question": "When someone criticizes your work...",
+      "options": [
+        { "text": "I take it to heart and think about it for days", "type": "O" },
+        { "text": "I ignore it, pretend not to care to protect my ego", "type": "A" },
+        { "text": "I get defensive immediately, respond, and prove them wrong", "type": "F" }
+      ]
+    },
+    {
+      "id": "st9",
+      "question": "Your relationship with work/tasks...",
+      "options": [
+        { "text": "I always worry that the results won't be perfect enough (anxious perfectionist)", "type": "O" },
+        { "text": "I work just enough, don't want to take on stress", "type": "A" },
+        { "text": "I always give 100% and take over others' tasks if they're slow", "type": "F" }
+      ]
+    },
+    {
+      "id": "st10",
+      "question": "When facing a sudden change that cancels your plans...",
+      "options": [
+        { "text": "Extremely stressed thinking of all the messed up new scenarios", "type": "O" },
+        { "text": "Resigned, silently disappointed, and let the flow carry me", "type": "A" },
+        { "text": "Immediately look for alternatives, make plans B, C, and D on the spot", "type": "F" }
+      ]
+    },
+    {
+      "id": "st11",
+      "question": "In others' eyes, when under pressure you seem...",
+      "options": [
+        { "text": "Restless, asking many questions, and seeming hesitant", "type": "O" },
+        { "text": "Quiet, cold, hard to reach, and indifferent", "type": "A" },
+        { "text": "Tense, intimidating, rigid, and bossy", "type": "F" }
+      ]
+    },
+    {
+      "id": "st12",
+      "question": "When everything feels out of control...",
+      "options": [
+        { "text": "I feel shattered, cry, and imagine the worst", "type": "O" },
+        { "text": "I withdraw emotionally and go into 'numb' mode", "type": "A" },
+        { "text": "I aggressively force to take back whatever little control I can", "type": "F" }
+      ]
+    },
+    {
+      "id": "st13",
+      "question": "What do you need most when you're very stressed?",
+      "options": [
+        { "text": "Someone to listen, validate, and give certainty", "type": "O" },
+        { "text": "Space alone without anyone bothering you", "type": "A" },
+        { "text": "Real solutions, resources, and the freedom to act", "type": "F" }
+      ]
+    },
+    {
+      "id": "st14",
+      "question": "After a long stressful period ends, you...",
+      "options": [
+        { "text": "Still have residual anxiety and fear the problem will return", "type": "O" },
+        { "text": "Sleep all day and feel lazy to do anything (passive burnout)", "type": "A" },
+        { "text": "Immediately look for new targets/activities because you can't sit still", "type": "F" }
+      ]
+    },
+    {
+      "id": "st15",
+      "question": "What advice do you most often hear from friends?",
+      "options": [
+        { "text": "'Don't overthink it, relax a little.'", "type": "O" },
+        { "text": "'Don't run from the problem, solve it now.'", "type": "A" },
+        { "text": "'Be patient, don't get emotional, take it slow.'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st16",
+      "question": "Seeing hundreds of unread emails/messages...",
+      "options": [
+        { "text": "Anxious about missing something important, read them repeatedly", "type": "O" },
+        { "text": "Mark all as read or ignore them completely", "type": "A" },
+        { "text": "Rapidly reply to all with short, fast, firm answers", "type": "F" }
+      ]
+    },
+    {
+      "id": "st17",
+      "question": "During a presentation or meeting, a technical issue suddenly arises (lights out/projector breaks)...",
+      "options": [
+        { "text": "Tremble, panic thinking your presentation will be a mess", "type": "O" },
+        { "text": "Feel secretly relieved, hope the presentation is postponed", "type": "A" },
+        { "text": "Immediately improvise speaking without aids, the show must go on", "type": "F" }
+      ]
+    },
+    {
+      "id": "st18",
+      "question": "Stuck in a total traffic jam when you have an urgent schedule...",
+      "options": [
+        { "text": "Keep checking the time, stressed thinking of excuses for being late", "type": "O" },
+        { "text": "Accept it, play music, and convince yourself 'not my fault'", "type": "A" },
+        { "text": "Honk the horn, get emotional, look for extreme alternative routes", "type": "F" }
+      ]
+    },
+    {
+      "id": "st19",
+      "question": "Your partner sends a message: 'We need to have a serious talk tonight.'",
+      "options": [
+        { "text": "Analyze all your past mistakes from 3 years ago", "type": "O" },
+        { "text": "Reply 'I'm busy working late' to postpone the conversation", "type": "A" },
+        { "text": "Reply 'Let's talk now, what's the problem?'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st20",
+      "question": "Accidentally making a wrong money transfer...",
+      "options": [
+        { "text": "Curse your own stupidity endlessly all day", "type": "O" },
+        { "text": "Comfort yourself 'Oh well, consider it a loss for good luck'", "type": "A" },
+        { "text": "Immediately call the bank, go to the branch, handle it right away", "type": "F" }
+      ]
+    },
+    {
+      "id": "st21",
+      "question": "A holiday arrives, but your project work isn't finished...",
+      "options": [
+        { "text": "Body on vacation, but mind tortured constantly thinking about work", "type": "O" },
+        { "text": "Turn off phone notifications, completely forget the work world", "type": "A" },
+        { "text": "Bring your laptop to the vacation spot, force yourself to chip away at work", "type": "F" }
+      ]
+    },
+    {
+      "id": "st22",
+      "question": "A colleague on your team turns out to be very toxic and lazy...",
+      "options": [
+        { "text": "Keep thinking about it and stress over how to deal with them", "type": "O" },
+        { "text": "Avoid them as far as possible and minimize interaction", "type": "A" },
+        { "text": "Confront them or report them directly to the boss", "type": "F" }
+      ]
+    },
+    {
+      "id": "st23",
+      "question": "Forgetting to bring your wallet/card when you're already at the checkout...",
+      "options": [
+        { "text": "Extremely embarrassed, anxious about being stared at, and apologize repeatedly", "type": "O" },
+        { "text": "Cancel the purchase, leave the items, and go home immediately", "type": "A" },
+        { "text": "Quickly find a solution: transfer via HP, QRIS, or call a nearby friend", "type": "F" }
+      ]
+    },
+    {
+      "id": "st24",
+      "question": "Failing to meet your diet or exercise goal for the week...",
+      "options": [
+        { "text": "Feel very guilty and consider yourself a total failure", "type": "O" },
+        { "text": "Rationalize the failure and continue eating well", "type": "A" },
+        { "text": "The next day, go for revenge extreme exercise for 3 hours straight", "type": "F" }
+      ]
+    },
+    {
+      "id": "st25",
+      "question": "WiFi dies suddenly during an online presentation (Zoom)...",
+      "options": [
+        { "text": "Panic thinking the participants will consider you unprofessional", "type": "O" },
+        { "text": "Wait passively until it comes back, if not, close the laptop", "type": "A" },
+        { "text": "Immediately tether from your phone, restart the modem, get angry at the provider", "type": "F" }
+      ]
+    },
+    {
+      "id": "st26",
+      "question": "Someone interrupts while you're explaining an important idea...",
+      "options": [
+        { "text": "Go silent, overthink whether your idea was indeed bad/boring", "type": "O" },
+        { "text": "Stop speaking completely and lose the desire to continue", "type": "A" },
+        { "text": "Interrupt them back: 'Sorry, I wasn't finished speaking.'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st27",
+      "question": "Your favorite shirt gets coffee spilled on it just before an event...",
+      "options": [
+        { "text": "Stress, extremely embarrassed imagining everyone will see it", "type": "O" },
+        { "text": "Cover the stain with a bag/jacket and hope no one notices", "type": "A" },
+        { "text": "Immediately run to the bathroom, scrub with soap until clean/buy a new shirt", "type": "F" }
+      ]
+    },
+    {
+      "id": "st28",
+      "question": "Given responsibility for a new project you've never done before...",
+      "options": [
+        { "text": "Anxious thinking about the possibility of failing and disappointing the boss", "type": "O" },
+        { "text": "Lazy imagining the added workload", "type": "A" },
+        { "text": "See it as a challenge to be conquered and mastered", "type": "F" }
+      ]
+    },
+    {
+      "id": "st29",
+      "question": "Seeing a monthly bill unexpectedly higher than estimated...",
+      "options": [
+        { "text": "Immediately overthink future bankruptcy", "type": "O" },
+        { "text": "Close your eyes, pay the minimum installment, forget it for a while", "type": "A" },
+        { "text": "Open Excel, check transactions, and radically cut next month's budget", "type": "F" }
+      ]
+    },
+    {
+      "id": "st30",
+      "question": "An unknown number calls repeatedly...",
+      "options": [
+        { "text": "Afraid it's bad news, a scam, or a bill, just stare at the screen", "type": "O" },
+        { "text": "Reject the call or silence your phone", "type": "A" },
+        { "text": "Answer immediately and greet them with a firm tone demanding identity", "type": "F" }
+      ]
+    },
+    {
+      "id": "st31",
+      "question": "Phone battery at 2% while you're out and about...",
+      "options": [
+        { "text": "Worried that there might be an emergency or someone important looking for you", "type": "O" },
+        { "text": "Accept it, let it die, consider it a 'digital detox' for a while", "type": "A" },
+        { "text": "Run looking for an outlet, borrow a friend's power bank, or stop by a nearby cafe", "type": "F" }
+      ]
+    },
+    {
+      "id": "st32",
+      "question": "You're caught in a small lie by a friend...",
+      "options": [
+        { "text": "Panic, look for excuses and long explanations to justify yourself", "type": "O" },
+        { "text": "Smile awkwardly and immediately change the subject", "type": "A" },
+        { "text": "Admit it openly or even turn defensive", "type": "F" }
+      ]
+    },
+    {
+      "id": "st33",
+      "question": "Your food order at a restaurant is wrong and not what you asked for...",
+      "options": [
+        { "text": "Stay silent, afraid of bothering the waiter or causing a scene", "type": "O" },
+        { "text": "Eat it as is, too lazy to wait any longer", "type": "A" },
+        { "text": "Call the waiter firmly and ask for a replacement as ordered", "type": "F" }
+      ]
+    },
+    {
+      "id": "st34",
+      "question": "You realize your friend group is hanging out without inviting you...",
+      "options": [
+        { "text": "Analyze yourself: 'Did I do something wrong to them?'", "type": "O" },
+        { "text": "Don't care, better find your own activity or play games", "type": "A" },
+        { "text": "Immediately message the group: 'Hey, hanging out without inviting me?'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st35",
+      "question": "Your car/motorbike keys are left inside or lost...",
+      "options": [
+        { "text": "Curse your own stupidity repeatedly while imagining the hassle", "type": "O" },
+        { "text": "Sit limply, call home to have someone handle it", "type": "A" },
+        { "text": "Find a wire, force open the window, or call a locksmith right away", "type": "F" }
+      ]
+    },
+    {
+      "id": "st36",
+      "question": "Missing your flight or train schedule...",
+      "options": [
+        { "text": "Cry/panic lamenting the wasted money and ruined plans", "type": "O" },
+        { "text": "Go home and sleep, consider it not your fortune", "type": "A" },
+        { "text": "Immediately go to the counter/open your phone to buy the next available ticket at any price", "type": "F" }
+      ]
+    },
+    {
+      "id": "st37",
+      "question": "Your investment or savings suffer a big loss...",
+      "options": [
+        { "text": "Endless regret and keep monitoring the graph while stressed", "type": "O" },
+        { "text": "Delete the app, close your eyes, don't want to see your portfolio anymore", "type": "A" },
+        { "text": "Find a way to cut loss or find a side job to cover the loss", "type": "F" }
+      ]
+    },
+    {
+      "id": "st38",
+      "question": "Your room/desk is extremely messy...",
+      "options": [
+        { "text": "Stressed seeing it but confused where to start cleaning", "type": "O" },
+        { "text": "Leave it, sleep in the remaining empty space", "type": "A" },
+        { "text": "Suddenly go on a cleaning rampage, clean everything quickly and throw things away", "type": "F" }
+      ]
+    },
+    {
+      "id": "st39",
+      "question": "A friend reminds you of a debt you owe but you don't have the money yet...",
+      "options": [
+        { "text": "Anxious, extremely embarrassed, and panic thinking of borrowing elsewhere", "type": "O" },
+        { "text": "Pretend not to have read the message (ghost) until payday", "type": "A" },
+        { "text": "Reply honestly that you don't have it yet, ask for an extension, and promise a definite date", "type": "F" }
+      ]
+    },
+    {
+      "id": "st40",
+      "question": "Very bad weather/storm when you've planned an outdoor event...",
+      "options": [
+        { "text": "Very sad and keep complaining about bad luck all day", "type": "O" },
+        { "text": "Cancel completely, go back inside your blanket and sleep again", "type": "A" },
+        { "text": "Immediately move the event indoors or force it with raincoats", "type": "F" }
+      ]
+    },
+    {
+      "id": "st41",
+      "question": "In a meeting, the boss asks for volunteers for a difficult project...",
+      "options": [
+        { "text": "Look down, weigh the risks of failure if you take it", "type": "O" },
+        { "text": "Pretend to be busy taking notes so you're not chosen", "type": "A" },
+        { "text": "Immediately raise your hand to take the opportunity", "type": "F" }
+      ]
+    },
+    {
+      "id": "st42",
+      "question": "Disagreeing on principles with parents/in-laws...",
+      "options": [
+        { "text": "Keep it inside but feel very hurt and overthink", "type": "O" },
+        { "text": "Say 'yes yes' on the outside to end it quickly, but don't actually do it", "type": "A" },
+        { "text": "Stand your ground, argue and defend your principles firmly", "type": "F" }
+      ]
+    },
+    {
+      "id": "st43",
+      "question": "You only slept less than 3 hours last night...",
+      "options": [
+        { "text": "Anxious and self-suggest that today will definitely be a mess", "type": "O" },
+        { "text": "Call in sick and skip work/college to continue sleeping", "type": "A" },
+        { "text": "Drink 3 cups of strong black coffee and force yourself to work extra hard", "type": "F" }
+      ]
+    },
+    {
+      "id": "st44",
+      "question": "When a close relative continuously complains (toxic venting)...",
+      "options": [
+        { "text": "Absorb their negative energy and feel stressed and burdened too", "type": "O" },
+        { "text": "Start rarely replying to their messages and avoid meeting", "type": "A" },
+        { "text": "Interrupt their venting and force them to follow the solution you suggest", "type": "F" }
+      ]
+    },
+    {
+      "id": "st45",
+      "question": "A physical emergency occurs (e.g., fire alarm rings)...",
+      "options": [
+        { "text": "Panic, confused, and your mind freezes (freeze)", "type": "O" },
+        { "text": "Run to save yourself as fast as possible to the safe zone without thinking", "type": "A" },
+        { "text": "Shout instructions to others and look for a fire extinguisher", "type": "F" }
+      ]
+    },
+    {
+      "id": "st46",
+      "question": "An expensive electronic item (laptop/phone) suddenly goes blank while being used...",
+      "options": [
+        { "text": "Stressed thinking about unsaved data and repair costs", "type": "O" },
+        { "text": "Close the laptop/phone, leave it for a while hoping it fixes itself tomorrow", "type": "A" },
+        { "text": "Force press the power button repeatedly, slap it hard, or take it apart yourself", "type": "F" }
+      ]
+    },
+    {
+      "id": "st47",
+      "question": "When reading negative news/crisis on social media...",
+      "options": [
+        { "text": "Doomscroll continuously, read comments, and also worry about the future", "type": "O" },
+        { "text": "Close the app, block keywords, don't want to know world affairs", "type": "A" },
+        { "text": "Join heated debates in the comments section to defend what's right", "type": "F" }
+      ]
+    },
+    {
+      "id": "st48",
+      "question": "When faced with a difficult choice (A or B)...",
+      "options": [
+        { "text": "Make a long list of pros and cons but still can't decide", "type": "O" },
+        { "text": "Leave the decision to someone else so you don't have to bear the burden", "type": "A" },
+        { "text": "Trust your gut, choose one, and get ready to face the risks", "type": "F" }
+      ]
+    },
+    {
+      "id": "st49",
+      "question": "If you fail an important job interview...",
+      "options": [
+        { "text": "Keep replaying the stupid answers you gave during the interview", "type": "O" },
+        { "text": "Stop applying for jobs for a while because you've lost motivation", "type": "A" },
+        { "text": "Get angry at the recruitment system and immediately apply to 10 other companies", "type": "F" }
+      ]
+    },
+    {
+      "id": "st50",
+      "question": "In the end, what does 'Stress' mean to you?",
+      "options": [
+        { "text": "Mental torture that makes my life feel heavy and scary", "type": "O" },
+        { "text": "A disturbance of comfort that I should avoid as much as possible", "type": "A" },
+        { "text": "Fuel (adrenaline) that forces me to move forward", "type": "F" }
+      ]
+    }
+  ]
+}

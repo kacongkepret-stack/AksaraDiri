@@ -1,0 +1,97 @@
+{
+  "title": "Budaya Lokal",
+  "icon": "📜",
+  "desc": "Kebijaksanaan leluhur Nusantara, perhitungan Weton Jawa, Pawukon Bali, dan ramalan Primbon.",
+  "bgGradient": "from-amber-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-amber-500/10",
+  "features": [
+    {
+      "name": "Kalkulator Weton",
+      "id": "weton",
+      "info": "Hitung nilai neptu & watak Jawa",
+      "time": "2 mnt",
+      "q": "Kalkulator",
+      "icon": "📅"
+    },
+    {
+      "name": "Primbon Jodoh",
+      "id": "primbon-jodoh",
+      "info": "Kecocokan pasangan masa depan",
+      "time": "3 mnt",
+      "q": "Primbon",
+      "icon": "💍"
+    },
+    {
+      "name": "Hari Baik Pernikahan",
+      "id": "hari-baik-nikah",
+      "info": "Tentukan tanggal sakral pernikahan",
+      "time": "5 mnt",
+      "q": "Kalkulasi",
+      "icon": "📆"
+    },
+    {
+      "name": "Tafsir Mimpi",
+      "id": "arti-mimpi",
+      "info": "Makna tersembunyi bunga tidur",
+      "time": "Instan",
+      "q": "Pencarian",
+      "icon": "🌙"
+    },
+    {
+      "name": "Neptu Jawa",
+      "id": "neptu",
+      "info": "Nilai hari & pasaran kalender",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "🔢"
+    },
+    {
+      "name": "Watak Kelahiran",
+      "id": "watak-kelahiran",
+      "info": "Karakter dominan berdasar weton",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "👶"
+    },
+    {
+      "name": "Arah Rezeki",
+      "id": "arah-rezeki",
+      "info": "Petunjuk mata angin keberuntungan",
+      "time": "2 mnt",
+      "q": "Kalkulasi",
+      "icon": "🧭"
+    },
+    {
+      "name": "Nama Bayi Jawa",
+      "id": "nama-bayi-jawa",
+      "info": "Rekomendasi nama sarat makna",
+      "time": "Instan",
+      "q": "Generator",
+      "icon": "🍼"
+    },
+    {
+      "name": "Siklus Pasaran",
+      "id": "hari-pasaran",
+      "info": "Pahing, Pon, Wage, Legi, Kliwon",
+      "time": "Instan",
+      "q": "Basis Data",
+      "icon": "🗓️"
+    },
+    {
+      "name": "Kalender Jawa",
+      "id": "kalender-jawa",
+      "info": "Penanggalan & hari penting Jawa",
+      "time": "Instan",
+      "q": "Kalender",
+      "icon": "📅"
+    },
+    {
+      "name": "Kalender Bali",
+      "id": "kalender-bali",
+      "info": "Sistem Pawukon & Sasih Bali",
+      "time": "Instan",
+      "q": "Kalender",
+      "icon": "🌺"
+    }
+  ]
+}

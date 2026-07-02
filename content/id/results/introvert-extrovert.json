@@ -1,0 +1,40 @@
+{
+  "extrovert": {
+    "type": "Extrovert",
+    "name": "Si Kupu-Kupu Sosial",
+    "description": "Kamu mendapatkan energi dari interaksi sosial. Ramai adalah duniamu. Kamu suka berbagi cerita dan mudah akrab.",
+    "traits": {
+      "Sosial": 85,
+      "Energi": 80,
+      "Bicara": 90
+    },
+    "strengths": [
+      "Mudah bergaul",
+      "Bersemangat",
+      "Komunikator alami"
+    ],
+    "weaknesses": [
+      "Kadang terlalu banyak bicara",
+      "Sulit sendiri"
+    ]
+  },
+  "introvert": {
+    "type": "Introvert",
+    "name": "Si Pemikir Sunyi",
+    "description": "Kamu memproses dunia dari dalam. Waktu sendiri adalah harta. Kamu pendengar yang dalam dan teman yang setia.",
+    "traits": {
+      "Reflektif": 85,
+      "Tenang": 80,
+      "Mendengar": 90
+    },
+    "strengths": [
+      "Pendengar hebat",
+      "Pikiran dalam",
+      "Mandiri"
+    ],
+    "weaknesses": [
+      "Sering disangka dingin",
+      "Sulit basa-basi"
+    ]
+  }
+}

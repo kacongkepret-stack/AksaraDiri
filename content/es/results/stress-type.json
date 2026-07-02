@@ -1,0 +1,26 @@
+{
+  "o": {
+    "type": "Pensador Excesivo",
+    "name": "Pensador Intenso",
+    "description": "Tu estrés proviene de analizar demasiado. Tu mente nunca se detiene.",
+    "traits": { "Pensamiento": 95, "Alerta": 90 },
+    "strengths": ["Orientado a detalles", "Anticipador"],
+    "weaknesses": ["Ansioso", "Insomnio"]
+  },
+  "a": {
+    "type": "Evitador",
+    "name": "Evitador",
+    "description": "Tiendes a evitar la fuente de estrés. A veces los problemas se acumulan.",
+    "traits": { "Evitación": 88, "Calma falsa": 80 },
+    "strengths": ["Pareces tranquilo", "No te asustas fácilmente"],
+    "weaknesses": ["Procrastinas", "Estallidos emocionales repentinos"]
+  },
+  "f": {
+    "type": "Luchador",
+    "name": "Luchador",
+    "description": "Enfrentas el estrés con la cabeza fría. Orientado a la acción.",
+    "traits": { "Valentía": 88, "Racional": 85 },
+    "strengths": ["Actúas rápido", "Orientado a soluciones"],
+    "weaknesses": ["Impaciente con personas lentas"]
+  }
+}

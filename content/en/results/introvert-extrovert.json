@@ -1,0 +1,40 @@
+{
+  "extrovert": {
+    "type": "Extrovert",
+    "name": "The Social Butterfly",
+    "description": "You gain energy from social interaction. Bustling is your world. You like to share stories and easily become familiar.",
+    "traits": { 
+      "Social": 85, 
+      "Energy": 80, 
+      "Talkative": 90 
+    },
+    "strengths": [
+      "Easygoing", 
+      "Energetic", 
+      "Natural communicator"
+    ],
+    "weaknesses": [
+      "Sometimes talks too much", 
+      "Difficult to be alone"
+    ]
+  },
+  "introvert": {
+    "type": "Introvert",
+    "name": "The Quiet Thinker",
+    "description": "You process the world from within. Alone time is treasure. You are a deep listener and a loyal friend.",
+    "traits": { 
+      "Reflective": 85, 
+      "Calm": 80, 
+      "Listening": 90 
+    },
+    "strengths": [
+      "Great listener", 
+      "Deep thoughts", 
+      "Independent"
+    ],
+    "weaknesses": [
+      "Often mistaken as cold", 
+      "Difficulty with small talk"
+    ]
+  }
+}

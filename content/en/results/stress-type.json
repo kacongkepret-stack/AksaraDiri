@@ -1,0 +1,26 @@
+{
+  "o": {
+    "type": "Overthinker",
+    "name": "Heavy Thinker",
+    "description": "Your stress comes from analyzing too much. Your mind never stops.",
+    "traits": { "Thought": 95, "Alertness": 90 },
+    "strengths": ["Detail-oriented", "Anticipatory"],
+    "weaknesses": ["Anxious", "Insomnia"]
+  },
+  "a": {
+    "type": "Avoider",
+    "name": "Avoider",
+    "description": "You tend to avoid the source of stress. Sometimes problems pile up.",
+    "traits": { "Avoidance": 88, "False calm": 80 },
+    "strengths": ["Looks calm", "Not easily panicked"],
+    "weaknesses": ["Procrastinates", "Sudden emotional outbursts"]
+  },
+  "f": {
+    "type": "Fighter",
+    "name": "Fighter",
+    "description": "You face stress head-on with a cool head. Action-oriented.",
+    "traits": { "Bravery": 88, "Rational": 85 },
+    "strengths": ["Acts quickly", "Solution-oriented"],
+    "weaknesses": ["Impatient with slow people"]
+  }
+}

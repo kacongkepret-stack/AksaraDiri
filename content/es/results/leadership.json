@@ -1,0 +1,26 @@
+{
+  "v": {
+    "type": "Visionario",
+    "name": "Líder Inspirador",
+    "description": "Lideras con una gran visión. La gente te sigue porque se siente inspirada.",
+    "traits": { "Visión": 90, "Carisma": 85, "Estrategia": 80 },
+    "strengths": ["Motivador", "Proactivo"],
+    "weaknesses": ["Falta de detalle"]
+  },
+  "c": {
+    "type": "Entrenador",
+    "name": "Líder Desarrollador",
+    "description": "Desarrollas el potencial del equipo. Te enfocas en el crecimiento individual.",
+    "traits": { "Empatía": 88, "Paciencia": 85, "Habilidad para enseñar": 82 },
+    "strengths": ["Buen oyente", "Animador"],
+    "weaknesses": ["Dificultad para tomar decisiones firmes"]
+  },
+  "d": {
+    "type": "Comandante",
+    "name": "Líder Decisivo",
+    "description": "Lideras con eficiencia. Los objetivos deben cumplirse.",
+    "traits": { "Decisión": 95, "Disciplina": 90 },
+    "strengths": ["Decide rápidamente", "Instrucciones claras"],
+    "weaknesses": ["Inflexible", "A veces temido"]
+  }
+}

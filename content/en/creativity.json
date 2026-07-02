@@ -1,0 +1,458 @@
+{
+  "title": "Creativity Test",
+  "description": "Discover how your creativity manifests in everyday life.",
+  "timeEstimation": "15 Minutes",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "cr1",
+      "question": "When facing a problem, you usually...",
+      "options": [
+        { "text": "Look for a unique solution that hasn't been tried before", "type": "I" },
+        { "text": "Imagine endless possibilities", "type": "D" },
+        { "text": "Express ideas through drawings or doodles", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr2",
+      "question": "In your free time, you like to...",
+      "options": [
+        { "text": "Make something out of used goods", "type": "I" },
+        { "text": "Write stories or poems", "type": "D" },
+        { "text": "Draw, paint, or do photography", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr3",
+      "question": "How do you pour out your ideas?",
+      "options": [
+        { "text": "Directly try them out and experiment", "type": "I" },
+        { "text": "Imagine them in detail in your mind", "type": "D" },
+        { "text": "Make sketches or visual diagrams", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr4",
+      "question": "During brainstorming, you...",
+      "options": [
+        { "text": "Propose practical but out-of-the-box ideas", "type": "I" },
+        { "text": "Flow with wild ideas without logical limits", "type": "D" },
+        { "text": "Help visualize ideas with doodles/drawings", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr5",
+      "question": "What do you do with broken items?",
+      "options": [
+        { "text": "Try to fix them with whatever tools/methods are available", "type": "I" },
+        { "text": "Imagine the item could be turned into another tool", "type": "D" },
+        { "text": "Turn them into decoration or art", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr6",
+      "question": "When you have to give a presentation, you...",
+      "options": [
+        { "text": "Make unique interactive props", "type": "I" },
+        { "text": "Open with an imaginative narrative story", "type": "D" },
+        { "text": "Design very neat and aesthetic slides", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr7",
+      "question": "You prefer to work...",
+      "options": [
+        { "text": "With an experimental and trial-and-error method", "type": "I" },
+        { "text": "With complete freedom without fixed rules", "type": "D" },
+        { "text": "In a beautiful, fragrant, and inspiring environment", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr8",
+      "question": "Inspiration usually comes from...",
+      "options": [
+        { "text": "Complex problems that need solving", "type": "I" },
+        { "text": "Daydreams and dreams at night", "type": "D" },
+        { "text": "The beauty of nature, museums, or art exhibitions", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr9",
+      "question": "You are usually admired by friends for your...",
+      "options": [
+        { "text": "Clever solutions (Life hacks)", "type": "I" },
+        { "text": "Imagination and wild stories", "type": "D" },
+        { "text": "Aesthetic taste and style", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr10",
+      "question": "Your dream project is...",
+      "options": [
+        { "text": "Creating an innovative and useful product", "type": "I" },
+        { "text": "Writing a best-selling novel or movie script", "type": "D" },
+        { "text": "Holding a solo art or design exhibition", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr11",
+      "question": "When a new idea suddenly appears, you...",
+      "options": [
+        { "text": "Immediately look for logical ways to realize it", "type": "I" },
+        { "text": "Develop it in your imagination into something very grand", "type": "D" },
+        { "text": "Write it down or draw it so its form isn't lost", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr12",
+      "question": "What you value most in a work of art...",
+      "options": [
+        { "text": "Functionality and practical usefulness", "type": "I" },
+        { "text": "Philosophical meaning and the story behind it", "type": "D" },
+        { "text": "Visual beauty and color harmony", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr13",
+      "question": "When arranging your desk, you focus on...",
+      "options": [
+        { "text": "The layout of tools for easy access and efficiency", "type": "I" },
+        { "text": "Sticking quotes and things that trigger memory", "type": "D" },
+        { "text": "The color of the desk, aesthetic decorations, and lighting", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr14",
+      "question": "If making a gift for a friend, you will...",
+      "options": [
+        { "text": "Assemble a DIY item that makes their life easier", "type": "I" },
+        { "text": "Write a poem or long letter that touches their heart", "type": "D" },
+        { "text": "Make a scrapbook or beautiful handicraft", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr15",
+      "question": "When planning a vacation, you like to...",
+      "options": [
+        { "text": "Look for secret routes and budget travel hacks", "type": "I" },
+        { "text": "Imagine an exciting adventure without a strict itinerary", "type": "D" },
+        { "text": "Look for locations with the most beautiful scenery to photograph", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr16",
+      "question": "The best way for you to memorize something is...",
+      "options": [
+        { "text": "Create a system of formulas or mnemonics", "type": "I" },
+        { "text": "Weave it into a silly story", "type": "D" },
+        { "text": "Draw a mind map with colorful markers", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr17",
+      "question": "When watching a Sci-Fi movie, you focus on...",
+      "options": [
+        { "text": "The logic of the technology and machines shown", "type": "I" },
+        { "text": "The alternative world and the freedom of the script", "type": "D" },
+        { "text": "The CGI effects, costumes, and cinematography", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr18",
+      "question": "Trying a new route to work/campus, your reason is...",
+      "options": [
+        { "text": "To find out if this route saves 5 minutes", "type": "I" },
+        { "text": "To see if there's any interesting random event", "type": "D" },
+        { "text": "To see different building or tree scenery", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr19",
+      "question": "If you see a pile of random Lego blocks, you will...",
+      "options": [
+        { "text": "Build a sturdy tower or bridge structure", "type": "I" },
+        { "text": "Make up a story about heroes in Lego city", "type": "D" },
+        { "text": "Arrange them into a color gradient pattern", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr20",
+      "question": "You feel most frustrated if...",
+      "options": [
+        { "text": "You have to follow inefficient procedures", "type": "I" },
+        { "text": "You are restricted by rules that stifle your wild ideas", "type": "D" },
+        { "text": "You are placed in an ugly, messy, and dull room", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr21",
+      "question": "When reading a cookbook, you...",
+      "options": [
+        { "text": "Modify the measurements to optimize the taste", "type": "I" },
+        { "text": "Imagine new flavors that have never been created before", "type": "D" },
+        { "text": "Care more about how to arrange the plating", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr22",
+      "question": "If you keep a journal, its contents are mostly...",
+      "options": [
+        { "text": "Tracking tables and graphs", "type": "I" },
+        { "text": "Long narratives about feelings and random ideas", "type": "D" },
+        { "text": "Doodles, stickers, and calligraphic writing", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr23",
+      "question": "If stranded on a deserted island, your contribution is...",
+      "options": [
+        { "text": "Making a water filter and animal traps", "type": "I" },
+        { "text": "Telling stories around the campfire to keep everyone's spirits up", "type": "D" },
+        { "text": "Making shell crafts to beautify the bivouac", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr24",
+      "question": "When playing video games, you most enjoy...",
+      "options": [
+        { "text": "Finding system glitches or crafting the strongest items", "type": "I" },
+        { "text": "Exploring the fantasy world story (Lore/RPG)", "type": "D" },
+        { "text": "Admiring the graphic details and character designs", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr25",
+      "question": "When asked to make a report...",
+      "options": [
+        { "text": "Create data tables and advanced auto-formulas", "type": "I" },
+        { "text": "Write an opening paragraph that sparks curiosity", "type": "D" },
+        { "text": "Choose elegant font and color combinations for the report", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr26",
+      "question": "When listening to instrumental music without lyrics, you...",
+      "options": [
+        { "text": "Analyze the tempo, structure, and instruments used", "type": "I" },
+        { "text": "Automatically imagine a movie scene in your head", "type": "D" },
+        { "text": "Associate the tone with an emotion or painting color", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr27",
+      "question": "Your favorite clothes are usually...",
+      "options": [
+        { "text": "Functional, comfortable to move in, and have many pockets", "type": "I" },
+        { "text": "Unique, eccentric, or have weird printed messages", "type": "D" },
+        { "text": "Harmonious in color, aesthetically cut, and stylish", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr28",
+      "question": "If you were a film director, your main focus would be...",
+      "options": [
+        { "text": "Special effects, camera tricks, and cinematography", "type": "I" },
+        { "text": "The depth of the script and plot twists", "type": "D" },
+        { "text": "Art direction, makeup, and actor costumes", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr29",
+      "question": "Seeing a mysterious antique item at a flea market...",
+      "options": [
+        { "text": "Think about the mechanism of how this item works", "type": "I" },
+        { "text": "Imagine who the original owner was 100 years ago", "type": "D" },
+        { "text": "Admire the carvings, aged colors, and classic shape", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr30",
+      "question": "In team discussions, you often blurt out...",
+      "options": [
+        { "text": "'What if we change the flow to make it faster?'", "type": "I" },
+        { "text": "'Imagine if we did this crazy thing!'", "type": "D" },
+        { "text": "'What if we made the presentation prettier?'", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr31",
+      "question": "Giving directions to a stranger, you...",
+      "options": [
+        { "text": "Give distance markers (meters) and directions (North/South)", "type": "I" },
+        { "text": "Tell a story ('Later there will be a red stall, there's a cat...')", "type": "D" },
+        { "text": "Quickly draw a small map on paper", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr32",
+      "question": "When your room feels boring, you...",
+      "options": [
+        { "text": "Tidy up the cables and assemble new functional shelves", "type": "I" },
+        { "text": "Imagine if this room were a spaceship cabin", "type": "D" },
+        { "text": "Change the bedsheets, adjust the lighting, and put up posters", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr33",
+      "question": "When relaxing watching clouds in the sky...",
+      "options": [
+        { "text": "Estimate wind pressure and potential rain", "type": "I" },
+        { "text": "See animal or dragon shapes in the clouds", "type": "D" },
+        { "text": "Be mesmerized by the composition of orange light on evening clouds", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr34",
+      "question": "Looking at the apps on your phone, the most are...",
+      "options": [
+        { "text": "Productivity apps, measuring tools, smart home, or financial apps", "type": "I" },
+        { "text": "Story reading apps, writing apps, or narrative games", "type": "D" },
+        { "text": "Photo editing apps, illustration apps, or Pinterest", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr35",
+      "question": "The hobby you are most likely to pursue...",
+      "options": [
+        { "text": "Coding, building PCs, or woodworking", "type": "I" },
+        { "text": "Role-Playing (RPG), writing fiction, or debating", "type": "D" },
+        { "text": "Painting, photography, or fashion design", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr36",
+      "question": "Your fastest way to learn something new is...",
+      "options": [
+        { "text": "Taking it apart and practicing how it works directly", "type": "I" },
+        { "text": "Making analogies and connecting it to other concepts", "type": "D" },
+        { "text": "Watching very visual tutorial videos", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr37",
+      "question": "If asked to create a YouTube channel, your content would be...",
+      "options": [
+        { "text": "Science experiments, gadget reviews, or life hacks", "type": "I" },
+        { "text": "Discussing conspiracy theories, mystery stories, or book reviews", "type": "D" },
+        { "text": "Aesthetic vlogs without voice (cinematic), or art tutorials", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr38",
+      "question": "Your creative side when cooking instant noodles...",
+      "options": [
+        { "text": "Finding a 2-minute boiling method for perfect chewiness", "type": "I" },
+        { "text": "Mixing in weird ingredients with unimaginable taste", "type": "D" },
+        { "text": "Arranging vegetables, eggs, and sauce to look like a restaurant dish", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr39",
+      "question": "When facing a creative block, you...",
+      "options": [
+        { "text": "Switch software or tidy up your tools", "type": "I" },
+        { "text": "Sleep or daydream hoping for an 'Aha! moment'", "type": "D" },
+        { "text": "Look for fresh visual references in galleries or museums", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr40",
+      "question": "If given a blank piece of paper when bored...",
+      "options": [
+        { "text": "Fold it into an aerodynamic paper plane", "type": "I" },
+        { "text": "Write a list of wild ideas or a short poem", "type": "D" },
+        { "text": "Doodle patterns of eyes or flowers", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr41",
+      "question": "Your favorite childhood toy...",
+      "options": [
+        { "text": "Building blocks, Tamiya cars, or Rubik's cube", "type": "I" },
+        { "text": "Dolls or action figures to create war/kingdom stories", "type": "D" },
+        { "text": "Coloring books, colored pencils, or Play-Doh", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr42",
+      "question": "The birthday gift you most want to receive...",
+      "options": [
+        { "text": "The latest sophisticated multi-function gadget", "type": "I" },
+        { "text": "A thick novel with an epic fantasy story", "type": "D" },
+        { "text": "Premium painting tools or aesthetic wall decorations", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr43",
+      "question": "Your creative way of tidying the wardrobe...",
+      "options": [
+        { "text": "Arrange them by category type and ease of access", "type": "I" },
+        { "text": "While recalling the story behind each old shirt", "type": "D" },
+        { "text": "Sort them by color gradient from dark to light", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr44",
+      "question": "At a festival, you are most interested in...",
+      "options": [
+        { "text": "Technology, robotics, and innovation exhibition booths", "type": "I" },
+        { "text": "Theatre performances, storytelling, or stand-up comedy", "type": "D" },
+        { "text": "Fine art exhibitions, handicrafts, or light installations", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr45",
+      "question": "Commenting on a friend's new car, you discuss...",
+      "options": [
+        { "text": "Engine capacity, smart features, and fuel efficiency", "type": "I" },
+        { "text": "Imagining how fun this car would be for a mountain road trip", "type": "D" },
+        { "text": "Praising the elegant paint color and body curve design", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr46",
+      "question": "If you were the architect of your dream house...",
+      "options": [
+        { "text": "Build a house with Smart Home technology and solar panels", "type": "I" },
+        { "text": "Create a secret basement behind a bookshelf", "type": "D" },
+        { "text": "Build an open-concept house with beautiful natural light", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr47",
+      "question": "When buying a notebook at a store...",
+      "options": [
+        { "text": "Look for one with grid paper and a pen loop", "type": "I" },
+        { "text": "Look for one with a leather cover that looks mysterious like a spellbook", "type": "D" },
+        { "text": "Look for one with the most beautiful illustrated cover", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr48",
+      "question": "Commenting on a city's layout...",
+      "options": [
+        { "text": "Very annoyed if the transportation layout is illogical/congested", "type": "I" },
+        { "text": "Like old towns that have myths and urban legends", "type": "D" },
+        { "text": "Admire the architecture of historic buildings and the beauty of its parks", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr49",
+      "question": "Your social media posting style is usually...",
+      "options": [
+        { "text": "Share articles, infographics, or life tips", "type": "I" },
+        { "text": "Write long opinion threads or stories about daily life", "type": "D" },
+        { "text": "Upload aesthetic photos edited with perfect tone", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr50",
+      "question": "In the end, creativity for you is...",
+      "options": [
+        { "text": "The ability to hack problems to find better solutions", "type": "I" },
+        { "text": "The mind's ability to transcend boring reality", "type": "D" },
+        { "text": "The ability to create harmony and beauty that can be felt", "type": "A" }
+      ]
+    }
+  ]
+}

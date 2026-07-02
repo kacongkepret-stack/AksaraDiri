@@ -1,0 +1,458 @@
+{
+  "title": "Leadership Style",
+  "description": "Temukan gaya kepemimpinan alami yang kamu miliki.",
+  "timeEstimation": "15 Menit",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "ls1",
+      "question": "Saat memimpin tim, hal pertama yang kamu lakukan...",
+      "options": [
+        { "text": "Menyampaikan visi besar yang menginspirasi", "type": "V" },
+        { "text": "Mengenali kekuatan individu setiap anggota", "type": "C" },
+        { "text": "Membuat aturan dan target yang jelas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls2",
+      "question": "Saat konflik terjadi, kamu...",
+      "options": [
+        { "text": "Mengarahkan ke solusi yang sejalan dengan visi", "type": "V" },
+        { "text": "Menjadi mediator dan mendengarkan semua pihak", "type": "C" },
+        { "text": "Mengambil keputusan tegas demi efisiensi", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls3",
+      "question": "Anggota timmu gagal mencapai target. Kamu...",
+      "options": [
+        { "text": "Mengingatkan pentingnya kontribusi mereka pada visi", "type": "V" },
+        { "text": "Membimbing mereka untuk meningkatkan skill", "type": "C" },
+        { "text": "Evaluasi dan berikan konsekuensi yang jelas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls4",
+      "question": "Dalam rapat, kamu lebih suka...",
+      "options": [
+        { "text": "Memotivasi dan menginspirasi tim", "type": "V" },
+        { "text": "Memastikan semua orang punya kesempatan bicara", "type": "C" },
+        { "text": "Langsung ke poin dan mengambil keputusan", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls5",
+      "question": "Kamu dihormati karena...",
+      "options": [
+        { "text": "Ide-ide besarmu", "type": "V" },
+        { "text": "Kepedulianmu pada pengembangan tim", "type": "C" },
+        { "text": "Ketegasan dan hasil kerjamu", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls6",
+      "question": "Saat menghadapi perubahan besar, kamu...",
+      "options": [
+        { "text": "Melihatnya sebagai peluang untuk visi baru", "type": "V" },
+        { "text": "Memastikan semua orang nyaman dengan perubahan", "type": "C" },
+        { "text": "Membuat rencana aksi yang detail dan terukur", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls7",
+      "question": "Bagaimana kamu memberikan penghargaan?",
+      "options": [
+        { "text": "Pengakuan publik dan cerita inspiratif", "type": "V" },
+        { "text": "Hadiah personal yang sesuai minat", "type": "C" },
+        { "text": "Bonus atau promosi berdasarkan metrik", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls8",
+      "question": "Saat tekanan tinggi, kamu...",
+      "options": [
+        { "text": "Tetap fokus pada gambaran besar", "type": "V" },
+        { "text": "Memastikan kesehatan mental tim", "type": "C" },
+        { "text": "Meningkatkan intensitas dan disiplin", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls9",
+      "question": "Keputusan penting, kamu...",
+      "options": [
+        { "text": "Libatkan tim untuk selaraskan dengan visi", "type": "V" },
+        { "text": "Dengarkan masukan semua sebelum putuskan", "type": "C" },
+        { "text": "Putuskan sendiri dengan data dan logika", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls10",
+      "question": "Timmu terdemotivasi, kamu...",
+      "options": [
+        { "text": "Ceritakan kisah sukses dan visi besar", "type": "V" },
+        { "text": "Cari tahu penyebabnya dan beri dukungan personal", "type": "C" },
+        { "text": "Beri deadline dan tantangan baru", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls11",
+      "question": "Anggota tim baru butuh arahan, kamu...",
+      "options": [
+        { "text": "Jelaskan visi dan biarkan dia temukan caranya", "type": "V" },
+        { "text": "Bimbing step by step dengan sabar", "type": "C" },
+        { "text": "Beri SOP dan target yang jelas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls12",
+      "question": "Apa yang paling kamu banggakan sebagai pemimpin?",
+      "options": [
+        { "text": "Dampak dan perubahan yang kami buat", "type": "V" },
+        { "text": "Pertumbuhan individu dalam timku", "type": "C" },
+        { "text": "Target dan hasil yang kami capai", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls13",
+      "question": "Saat ada ide baru dari anggota tim, kamu...",
+      "options": [
+        { "text": "Lihat apakah sejalan dengan visi", "type": "V" },
+        { "text": "Apresiasi dan dorong untuk dikembangkan", "type": "C" },
+        { "text": "Evaluasi dengan data sebelum setuju", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls14",
+      "question": "Kamu paling cocok memimpin tim yang...",
+      "options": [
+        { "text": "Butuh arah dan inspirasi", "type": "V" },
+        { "text": "Butuh pengembangan dan dukungan", "type": "C" },
+        { "text": "Butuh struktur dan efisiensi", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls15",
+      "question": "Warisan kepemimpinan yang ingin kamu tinggalkan...",
+      "options": [
+        { "text": "Visi besar yang mengubah industri", "type": "V" },
+        { "text": "Orang-orang hebat yang aku bantu tumbuh", "type": "C" },
+        { "text": "Sistem dan hasil yang bertahan lama", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls16",
+      "question": "Saat mendelegasikan tugas penting, pendekatanmu adalah...",
+      "options": [
+        { "text": "Mendelegasikan hasil akhirnya dan membiarkan mereka berkreasi", "type": "V" },
+        { "text": "Memilih orang yang paling butuh belajar hal tersebut untuk berkembang", "type": "C" },
+        { "text": "Memberikan instruksi detail dan *deadline* yang ketat", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls17",
+      "question": "Ketika merekrut anggota tim baru, kamu paling mencari...",
+      "options": [
+        { "text": "Passion dan keyakinan mereka pada misi perusahaan", "type": "V" },
+        { "text": "Attitude, empati, dan kecocokan budaya dengan tim", "type": "C" },
+        { "text": "Track record, skill teknis, dan portofolio yang solid", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls18",
+      "question": "Di hari Senin pagi, caramu memulai minggu adalah dengan...",
+      "options": [
+        { "text": "Memberikan pidato singkat yang membakar semangat", "type": "V" },
+        { "text": "Menyapa setiap orang dan menanyakan kabar akhir pekan mereka", "type": "C" },
+        { "text": "Langsung me-review target mingguan dan membagi tugas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls19",
+      "question": "Jika perusahaan harus melakukan pemotongan anggaran (budget cut)...",
+      "options": [
+        { "text": "Memanfaatkan momen ini untuk berinovasi dan pivot strategi", "type": "V" },
+        { "text": "Berusaha keras melindungi kesejahteraan dan fasilitas karyawan", "type": "C" },
+        { "text": "Memangkas inefisiensi dengan tegas dan cepat tanpa ragu", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls20",
+      "question": "Sebuah proyek tertinggal dari jadwal. Kamu akan...",
+      "options": [
+        { "text": "Mengingatkan kembali betapa pentingnya proyek ini bagi masa depan", "type": "V" },
+        { "text": "Mengecek apakah tim kelelahan dan membantu mengatasi hambatan mereka", "type": "C" },
+        { "text": "Meminta lembur dan merombak proses kerja agar lebih cepat", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls21",
+      "question": "Bagi kamu, definisi 'sukses' dalam sebuah proyek adalah...",
+      "options": [
+        { "text": "Menciptakan gebrakan baru di pasar", "type": "V" },
+        { "text": "Tim yang solid, bahagia, dan belajar banyak hal baru", "type": "C" },
+        { "text": "Mencapai atau melampaui KPI dan target pendapatan", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls22",
+      "question": "Saat mengadakan acara *team building*, kamu memilih...",
+      "options": [
+        { "text": "Hackathon atau sesi merancang mimpi masa depan (Vision Board)", "type": "V" },
+        { "text": "Retreat santai atau sesi berbagi cerita (sharing session) mendalam", "type": "C" },
+        { "text": "Olahraga kompetitif atau *Escape Room* yang memacu adrenalin", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls23",
+      "question": "Kelemahan terbesarmu sebagai pemimpin mungkin adalah...",
+      "options": [
+        { "text": "Sering melewatkan detail-detail teknis yang kecil", "type": "V" },
+        { "text": "Terlalu lunak dan sering menghindari konflik", "type": "C" },
+        { "text": "Terlalu keras, menuntut, dan kurang empati", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls24",
+      "question": "Ada anggota tim yang cemerlang (High Performer) tapi sikapnya *toxic*...",
+      "options": [
+        { "text": "Mencoba menyelaraskan kembali nilai-nilainya dengan misi perusahaan", "type": "V" },
+        { "text": "Melakukan sesi konseling mendalam untuk mencari akar masalah perilakunya", "type": "C" },
+        { "text": "Memberi SP atau memecatnya jika itu merusak efisiensi kerja tim", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls25",
+      "question": "Saat seseorang melanggar aturan kantor...",
+      "options": [
+        { "text": "Mengevaluasi apakah aturan tersebut sudah usang dan perlu diganti", "type": "V" },
+        { "text": "Bertanya secara privat mengapa dia melakukannya", "type": "C" },
+        { "text": "Menegakkan sanksi sesuai buku panduan agar adil", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls26",
+      "question": "Menghadapi rumor atau gosip negatif di kantor...",
+      "options": [
+        { "text": "Mengadakan Town Hall untuk berbicara transparan dan meluruskan visi", "type": "V" },
+        { "text": "Mendekati pihak-pihak terkait secara personal untuk meredakan suasana", "type": "C" },
+        { "text": "Mengirim email tegas peringatan tentang profesionalisme kerja", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls27",
+      "question": "Jika seorang karyawan terbaik mengajukan *resign*...",
+      "options": [
+        { "text": "Mengingatkan kembali mimpi-mimpi yang belum kita capai bersama", "type": "V" },
+        { "text": "Menanyakan apakah ada yang bisa dibantu untuk kariernya ke depan", "type": "C" },
+        { "text": "Menerima dan langsung meminta dia menyiapkan dokumen *handover*", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls28",
+      "question": "Kebijakan pintu ruanganmu (*Door Policy*) adalah...",
+      "options": [
+        { "text": "Terbuka kapan saja untuk ide-ide gila dan inovasi", "type": "V" },
+        { "text": "Terbuka kapan saja untuk curhat atau masalah personal", "type": "C" },
+        { "text": "Tertutup jika sedang fokus, hanya terbuka untuk hal urgen", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls29",
+      "question": "Budaya kerja (*Culture*) yang ingin kamu bangun adalah...",
+      "options": [
+        { "text": "Berani, inovatif, dan pendobrak batas", "type": "V" },
+        { "text": "Inklusif, suportif, dan seperti keluarga", "type": "C" },
+        { "text": "Kompetitif, disiplin tinggi, dan berorientasi hasil", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls30",
+      "question": "Saat bawahan menanyakan sesuatu yang tidak kamu ketahui...",
+      "options": [
+        { "text": "Mengemasnya sebagai 'misteri yang menantang untuk kita pecahkan bersama'", "type": "V" },
+        { "text": "Meminta bantuan dan pendapat tim secara terbuka", "type": "C" },
+        { "text": "Meminta waktu sebentar untuk merisetnya dan memberikan jawaban pasti", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls31",
+      "question": "Analogi peranmu di perusahaan adalah seperti...",
+      "options": [
+        { "text": "Nakhoda yang mengarahkan kapal ke benua baru", "type": "V" },
+        { "text": "Tukang kebun yang merawat tanaman hingga berbuah", "type": "C" },
+        { "text": "Jenderal perang yang memimpin pasukan meraih kemenangan", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls32",
+      "question": "Jika rapat berlangsung terlalu sunyi, kamu akan...",
+      "options": [
+        { "text": "Melontarkan ide provokatif agar mereka semangat berdebat", "type": "V" },
+        { "text": "Menyebut nama satu per satu dengan lembut untuk meminta pendapat", "type": "C" },
+        { "text": "Menganggap semua setuju dan langsung menutup rapat", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls33",
+      "question": "Pandanganmu terhadap kegagalan adalah...",
+      "options": [
+        { "text": "Batu loncatan menuju penemuan yang lebih besar", "type": "V" },
+        { "text": "Momen berharga untuk belajar dan mendewasakan tim", "type": "C" },
+        { "text": "Pemborosan sumber daya yang harus dihindari sebisa mungkin", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls34",
+      "question": "Ketika seorang karyawan sering datang terlambat...",
+      "options": [
+        { "text": "Menanyakan apakah dia kehilangan gairah terhadap visi kita", "type": "V" },
+        { "text": "Mengecek apakah dia memiliki masalah pribadi di rumah", "type": "C" },
+        { "text": "Memberikan surat peringatan karena melanggar disiplin", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls35",
+      "question": "Gaya komunikasimu yang paling kuat adalah...",
+      "options": [
+        { "text": "Presentasi besar yang penuh karisma", "type": "V" },
+        { "text": "Sesi *one-on-one* (empat mata) yang mendalam", "type": "C" },
+        { "text": "Email/memo yang singkat, padat, dan langsung pada intinya", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls36",
+      "question": "Ketika dua departemen saling melempar kesalahan...",
+      "options": [
+        { "text": "Mengumpulkan mereka dan mengingatkan tentang *Ultimate Goal* bersama", "type": "V" },
+        { "text": "Menjadi fasilitator mediasi agar mereka saling berempati", "type": "C" },
+        { "text": "Memperjelas batas SOP dan SLA antar divisi secara tertulis", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls37",
+      "question": "Hal yang paling membuatmu tidak bisa tidur nyenyak adalah...",
+      "options": [
+        { "text": "Ketakutan bahwa perusahaan tertinggal dari tren inovasi", "type": "V" },
+        { "text": "Memikirkan ada anggota tim yang sedang tidak bahagia/stres", "type": "C" },
+        { "text": "Kecemasan tidak bisa memenuhi target akhir kuartal", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls38",
+      "question": "Saat menyambut klien baru yang besar...",
+      "options": [
+        { "text": "Mempresentasikan mimpi dan dampak besar yang akan diraih bersama", "type": "V" },
+        { "text": "Membangun hubungan personal dan kepercayaan yang erat", "type": "C" },
+        { "text": "Menyajikan *timeline*, struktur biaya, dan metrik yang detail", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls39",
+      "question": "Dalam memonitoring pekerjaan jarak jauh (*Work From Home*)...",
+      "options": [
+        { "text": "Sering mengadakan sesi *virtual town hall* untuk menjaga semangat", "type": "V" },
+        { "text": "Lebih sering melakukan panggilan telepon menanyakan kabar mereka", "type": "C" },
+        { "text": "Menggunakan *software tracker* dan *daily report* yang ketat", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls40",
+      "question": "Jika tim sedang merayakan keberhasilan kecil (*Quick Win*)...",
+      "options": [
+        { "text": "Memanfaatkan euforia itu untuk menantang mereka pada tujuan lebih besar", "type": "V" },
+        { "text": "Mentraktir mereka makan-makan santai untuk mempererat *bonding*", "type": "C" },
+        { "text": "Memberikan pujian singkat lalu segera kembali fokus ke target utama", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls41",
+      "question": "Saat memilih alat manajemen proyek (*Project Management Tool*)...",
+      "options": [
+        { "text": "Memilih alat dengan antarmuka futuristik yang terlihat keren", "type": "V" },
+        { "text": "Memilih alat yang paling mudah dipelajari oleh seluruh tim", "type": "C" },
+        { "text": "Memilih alat dengan fitur analitik dan pelaporan (*reporting*) terbaik", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls42",
+      "question": "Ketika kamu sedang stres berat sebagai pemimpin...",
+      "options": [
+        { "text": "Menyendiri untuk membayangkan visi masa depan yang lebih baik", "type": "V" },
+        { "text": "Mencari teman atau mentor terpercaya untuk berkeluh kesah", "type": "C" },
+        { "text": "Menggila dalam pekerjaan dan menambah jam kerja (hustle)", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls43",
+      "question": "Kamu akan sangat kecewa jika anggota timmu...",
+      "options": [
+        { "text": "Pesimis, sinis, dan tidak percaya pada tujuan bersama", "type": "V" },
+        { "text": "Egois, saling menjatuhkan, dan tidak mau berbagi ilmu", "type": "C" },
+        { "text": "Malas, banyak alasan, dan tidak mencapai KPI", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls44",
+      "question": "Sebuah ide brilian ditolak oleh investor/atasan...",
+      "options": [
+        { "text": "Tetap yakin itu ide bagus dan mencari cara lain untuk mewujudkannya", "type": "V" },
+        { "text": "Menghibur tim yang kecewa dan meyakinkan mereka bahwa kita sudah berusaha", "type": "C" },
+        { "text": "Menganalisis alasan penolakan dan merevisi angka/datanya", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls45",
+      "question": "Bagaimana kamu memposisikan dirimu saat foto bersama tim?",
+      "options": [
+        { "text": "Di tengah atau sedikit di depan sebagai simbol kepemimpinan", "type": "V" },
+        { "text": "Di pinggir atau belakang agar tim yang menonjol", "type": "C" },
+        { "text": "Di mana saja asalkan formasinya terlihat rapi dan simetris", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls46",
+      "question": "Tujuan akhir dari kepemimpinanmu adalah...",
+      "options": [
+        { "text": "Meninggalkan *Legacy* (warisan) yang diakui dunia", "type": "V" },
+        { "text": "Mencetak pemimpin-pemimpin baru yang lebih hebat dariku", "type": "C" },
+        { "text": "Mendominasi pasar dan menjadi yang paling *profitable*", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls47",
+      "question": "Saat kamu harus memberhentikan (*Layoff*) seseorang...",
+      "options": [
+        { "text": "Menjelaskan bahwa ini adalah langkah berat demi menyelamatkan kapal", "type": "V" },
+        { "text": "Memberikan empati, pesangon terbaik, dan merekomendasikan ke tempat lain", "type": "C" },
+        { "text": "Melakukannya secara profesional, cepat, dan tanpa terlalu banyak drama emosi", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls48",
+      "question": "Buku bacaan atau tontonan favoritmu biasanya bergenre...",
+      "options": [
+        { "text": "Biografi tokoh besar atau prediksi tren masa depan", "type": "V" },
+        { "text": "Psikologi, kecerdasan emosional, atau *self-improvement*", "type": "C" },
+        { "text": "Strategi bisnis, keuangan, atau taktik militer", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls49",
+      "question": "Klien komplain dengan nada tinggi ke timmu...",
+      "options": [
+        { "text": "Meyakinkan klien kembali dengan janji kualitas yang lebih baik", "type": "V" },
+        { "text": "Menenangkan klien dan memastikan mental tim tidak *down*", "type": "C" },
+        { "text": "Langsung mencari akar masalah teknisnya dan memperbaikinya hari itu juga", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls50",
+      "question": "Apa nasihat terbaik yang akan kamu berikan pada pemimpin muda?",
+      "options": [
+        { "text": "Jangan pernah takut bermimpi terlalu besar", "type": "V" },
+        { "text": "Rawat orang-orangmu, maka mereka akan merawat bisnismu", "type": "C" },
+        { "text": "Fokus pada angka dan jangan biarkan perasaan mengalahkan logika", "type": "D" }
+      ]
+    }
+  ]
+}

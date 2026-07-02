@@ -1,0 +1,26 @@
+{
+  "s": {
+    "type": "Seguro",
+    "name": "Cómodo y Seguro",
+    "description": "Te sientes cómodo con la cercanía. Tu relación es saludable y llena de confianza.",
+    "traits": { "Confianza": 90, "Independencia": 80 },
+    "strengths": ["Seguro de ti mismo", "Comunicativo"],
+    "weaknesses": ["A veces demasiado relajado"]
+  },
+  "a": {
+    "type": "Ansioso",
+    "name": "Ansioso",
+    "description": "Necesitas certeza y a menudo te preocupas. Tus sentimientos son profundos.",
+    "traits": { "Intimidad": 90, "Ansiedad": 80 },
+    "strengths": ["Leal", "Sensible"],
+    "weaknesses": ["Pensar demasiado", "Celoso"]
+  },
+  "v": {
+    "type": "Evitativo",
+    "name": "Evitativo",
+    "description": "Eres muy independiente y reacio a depender de los demás.",
+    "traits": { "Independencia": 90, "Distancia": 80 },
+    "strengths": ["Autosuficiente", "No eres una carga"],
+    "weaknesses": ["Dificultad para comprometerte", "Frío"]
+  }
+}

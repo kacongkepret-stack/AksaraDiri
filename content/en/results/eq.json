@@ -1,0 +1,34 @@
+{
+  "em": {
+    "type": "The Empath",
+    "name": "Highly Empathetic",
+    "description": "You have extraordinary sensitivity to others' feelings. You easily understand what they are going through and often become a safe haven. Be careful not to get too caught up in others' emotions.",
+    "traits": { "Self-awareness": 60, "Self-control": 50, "Empathy": 95, "Social Skills": 70 },
+    "strengths": ["Sensitive to others' emotions", "Good listener", "Easily trusted"],
+    "weaknesses": ["Easily swept away by feelings", "Hard to say no"]
+  },
+  "sr": {
+    "type": "The Regulator",
+    "name": "Highly Controlled",
+    "description": "You are very good at managing emotions. Rarely carried away by anger or panic. Others see you as calm and stable. Make sure you don't hold back emotions until they burst.",
+    "traits": { "Self-awareness": 65, "Self-control": 90, "Empathy": 55, "Social Skills": 60 },
+    "strengths": ["Calm under pressure", "Can think clearly", "Rarely in conflict"],
+    "weaknesses": ["Sometimes seems indifferent", "Difficulty expressing feelings"]
+  },
+  "ss": {
+    "type": "The Socializer",
+    "name": "Very Sociable",
+    "description": "You are great at socializing! Building relationships, lightening the mood, and communicating are your strengths. People feel at ease around you. Make sure you are also sensitive to deeper emotions.",
+    "traits": { "Self-awareness": 55, "Self-control": 60, "Empathy": 70, "Social Skills": 90 },
+    "strengths": ["Easy to get along with", "Skilled communicator", "Positive atmosphere creator"],
+    "weaknesses": ["Sometimes too shallow", "Lack deep listening"]
+  },
+  "sa": {
+    "type": "The Self-Aware",
+    "name": "Highly Self-Aware",
+    "description": "You know yourself very well. You know what you feel, why, and how to manage it. This is a strong EQ foundation. Improve your social skills and empathy further.",
+    "traits": { "Self-awareness": 90, "Self-control": 65, "Empathy": 60, "Social Skills": 55 },
+    "strengths": ["Recognizing own emotions", "Reflective", "Has principles"],
+    "weaknesses": ["Sometimes too self-focused", "Difficulty reading social needs"]
+  }
+}

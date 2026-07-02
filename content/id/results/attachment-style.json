@@ -1,0 +1,26 @@
+{
+  "s": {
+    "type": "Secure",
+    "name": "Aman & Nyaman",
+    "description": "Kamu nyaman dengan kedekatan. Hubunganmu sehat dan penuh kepercayaan.",
+    "traits": { "Kepercayaan": 90, "Kemandirian": 80 },
+    "strengths": ["Percaya diri", "Komunikatif"],
+    "weaknesses": ["Kadang terlalu santai"]
+  },
+  "a": {
+    "type": "Anxious",
+    "name": "Cemas",
+    "description": "Kamu butuh kepastian dan sering khawatir. Perasaanmu dalam.",
+    "traits": { "Keintiman": 90, "Kecemasan": 80 },
+    "strengths": ["Setia", "Peka"],
+    "weaknesses": ["Overthinking", "Cemburu"]
+  },
+  "v": {
+    "type": "Avoidant",
+    "name": "Menghindar",
+    "description": "Kamu sangat mandiri dan enggan bergantung pada orang lain.",
+    "traits": { "Kemandirian": 90, "Jarak": 80 },
+    "strengths": ["Mandiri", "Tidak merepotkan"],
+    "weaknesses": ["Sulit komitmen", "Dingin"]
+  }
+}

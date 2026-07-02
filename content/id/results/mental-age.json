@@ -1,0 +1,26 @@
+{
+  "y": {
+    "type": "Muda",
+    "name": "Jiwa Anak-Anak",
+    "description": "Kamu penuh rasa ingin tahu dan spontan.",
+    "traits": { "Kreatif": 88, "Spontan": 85 },
+    "strengths": ["Imajinatif", "Cepat belajar"],
+    "weaknesses": ["Kurang serius", "Mudah bosan"]
+  },
+  "a": {
+    "type": "Dewasa",
+    "name": "Pikiran Matang",
+    "description": "Kamu seimbang antara tanggung jawab dan fleksibilitas.",
+    "traits": { "Bijaksana": 80, "Bertanggung Jawab": 82 },
+    "strengths": ["Dipercaya", "Tenang"],
+    "weaknesses": ["Kadang terlalu serius"]
+  },
+  "o": {
+    "type": "Tua",
+    "name": "Kebijaksanaan Leluhur",
+    "description": "Kamu sangat matang, sabar, dan reflektif.",
+    "traits": { "Sabar": 90, "Reflektif": 85 },
+    "strengths": ["Nasihat dalam", "Bisa diandalkan"],
+    "weaknesses": ["Cenderung kaku", "Kurang spontan"]
+  }
+}

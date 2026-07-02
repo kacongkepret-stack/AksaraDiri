@@ -1,0 +1,26 @@
+{
+  "genius": {
+    "type": "Genio",
+    "name": "Muy Inteligente",
+    "description": "Tienes habilidades lógicas extraordinarias. Tu mentalidad analítica y resolución de problemas son muy agudas.",
+    "traits": { "lógica": 90, "visual": 85 },
+    "strengths": ["Análisis afilado", "Resolución rápida de problemas"],
+    "weaknesses": ["A veces piensas demasiado"]
+  },
+  "average": {
+    "type": "Promedio",
+    "name": "Bastante Bueno",
+    "description": "Tus habilidades lógicas están por encima del promedio. Puedes entender patrones bien y resolver problemas.",
+    "traits": { "lógica": 65, "visual": 60 },
+    "strengths": ["Equilibrado", "Aprendizaje rápido"],
+    "weaknesses": ["Necesitas más práctica"]
+  },
+  "beginner": {
+    "type": "Principiante",
+    "name": "Recién Comenzando",
+    "description": "Todavía estás perfeccionando tus habilidades lógicas. No te desanimes – cada uno tiene su propia singularidad.",
+    "traits": { "lógica": 30, "visual": 25 },
+    "strengths": ["Creativo en otras áreas", "Entusiasmo por aprender"],
+    "weaknesses": ["Necesitas mucha práctica de lógica"]
+  }
+}

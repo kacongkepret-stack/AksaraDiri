@@ -1,0 +1,458 @@
+{
+  "title": "Attachment Style",
+  "description": "Temukan gaya keterikatanmu dalam hubungan. Pilih jawaban yang paling jujur menggambarkan dirimu.",
+  "timeEstimation": "15 Menit",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "as1",
+      "question": "Saat pasangan tidak segera membalas pesanmu, kamu...",
+      "options": [
+        { "text": "Biasa saja, dia pasti sibuk", "type": "S" },
+        { "text": "Khawatir, overthinking, dan cek ponsel berulang kali", "type": "A" },
+        { "text": "Tidak peduli, kamu juga jarang balas cepat", "type": "V" }
+      ]
+    },
+    {
+      "id": "as2",
+      "question": "Menurutmu, pasangan ideal adalah yang...",
+      "options": [
+        { "text": "Memberikan kebebasan dan kepercayaan seimbang", "type": "S" },
+        { "text": "Selalu ada, responsif, dan memberikan perhatian penuh", "type": "A" },
+        { "text": "Tidak terlalu menuntut dan sangat menghargai privasi", "type": "V" }
+      ]
+    },
+    {
+      "id": "as3",
+      "question": "Saat menghadapi konflik dengan pasangan, kamu lebih suka...",
+      "options": [
+        { "text": "Mendiskusikan masalah dengan tenang sampai selesai", "type": "S" },
+        { "text": "Sangat emosional, menangis, dan ingin segera berbaikan saat itu juga", "type": "A" },
+        { "text": "Menarik diri, mendiamkan (silent treatment), dan butuh waktu sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as4",
+      "question": "Bagaimana perasaanmu saat sendirian (single)?",
+      "options": [
+        { "text": "Nyaman, aku bisa menikmati waktu sendiri dengan baik", "type": "S" },
+        { "text": "Gelisah, kesepian, dan merasa ada yang kurang dalam hidup", "type": "A" },
+        { "text": "Sangat lega, aku lebih suka kebebasan daripada terikat", "type": "V" }
+      ]
+    },
+    {
+      "id": "as5",
+      "question": "Saat seseorang mencoba terlalu dekat secara emosional denganmu, kamu...",
+      "options": [
+        { "text": "Senang, merasa proses itu wajar untuk membangun koneksi", "type": "S" },
+        { "text": "Sangat antusias, aku memang haus akan kedekatan dan validasi", "type": "A" },
+        { "text": "Merasa risih, mundur perlahan karena merasa kehilangan ruang privat", "type": "V" }
+      ]
+    },
+    {
+      "id": "as6",
+      "question": "Tingkat kepercayaanmu pada pasangan secara umum...",
+      "options": [
+        { "text": "Tinggi, aku percaya padanya sampai dia terbukti berbohong", "type": "S" },
+        { "text": "Berubah-ubah, aku sering curiga dan butuh diyakinkan terus-menerus", "type": "A" },
+        { "text": "Rendah, aku sulit percaya penuh pada siapa pun kecuali diriku sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as7",
+      "question": "Saat pasangan ingin menghabiskan waktu bersama teman-temannya tanpamu, kamu...",
+      "options": [
+        { "text": "Mendukung penuh, memiliki kehidupan sosial sendiri itu sehat", "type": "S" },
+        { "text": "Cemburu dan merasa ditinggalkan, kenapa tidak mengajakku?", "type": "A" },
+        { "text": "Lega, itu berarti aku juga punya waktu untuk diriku sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as8",
+      "question": "Bagaimana caramu mengekspresikan rasa cinta?",
+      "options": [
+        { "text": "Terbuka dan natural, aku mudah mengatakan sayang", "type": "S" },
+        { "text": "Sangat intens, tapi aku selalu menuntut pengakuan balik yang sama", "type": "A" },
+        { "text": "Sulit secara verbal, aku lebih suka menjaga jarak aman", "type": "V" }
+      ]
+    },
+    {
+      "id": "as9",
+      "question": "Saat sebuah hubungan berakhir, reaksi utamamu adalah...",
+      "options": [
+        { "text": "Sedih, memproses patah hati sewajarnya, lalu move on", "type": "S" },
+        { "text": "Hancur lebur, merasa dunia berakhir, dan memohon untuk kembali", "type": "A" },
+        { "text": "Bersikap dingin, cepat move on, dan meyakinkan diri aku baik-baik saja", "type": "V" }
+      ]
+    },
+    {
+      "id": "as10",
+      "question": "Menurutmu, ketergantungan emosional pada pasangan itu...",
+      "options": [
+        { "text": "Wajar jika dalam batas yang sehat (interdependen)", "type": "S" },
+        { "text": "Sangat penting, aku butuh dia untuk merasa utuh dan aman", "type": "A" },
+        { "text": "Tanda kelemahan, aku menolak untuk bergantung pada siapa pun", "type": "V" }
+      ]
+    },
+    {
+      "id": "as11",
+      "question": "Saat pasanganmu sedang bersedih atau stres berat, kamu...",
+      "options": [
+        { "text": "Mendengarkan, hadir secara emosional, dan menawarkan dukungan", "type": "S" },
+        { "text": "Sangat panik, ikut stres, dan merasa itu mungkin salahku", "type": "A" },
+        { "text": "Merasa canggung dan lebih memilih memberinya ruang sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as12",
+      "question": "Saat kamu yang sedang terpuruk, kamu berharap pasanganmu...",
+      "options": [
+        { "text": "Ada di sampingku dan bersedia mendengarkan keluh kesahku", "type": "S" },
+        { "text": "Meninggalkan semua urusannya untuk menenangkanku saat itu juga", "type": "A" },
+        { "text": "Tidak terlalu ikut campur, aku bisa menyelesaikannya sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as13",
+      "question": "Bagaimana kamu mendefinisikan hubungan yang ideal?",
+      "options": [
+        { "text": "Dua individu mandiri yang saling melengkapi dan tumbuh bersama", "type": "S" },
+        { "text": "Dua jiwa yang menyatu sepenuhnya tanpa ada rahasia", "type": "A" },
+        { "text": "Dua orang yang hidup bersama tapi tetap menjaga kemandirian absolut", "type": "V" }
+      ]
+    },
+    {
+      "id": "as14",
+      "question": "Saat merasa ragu atau tidak aman (insecure) dalam hubungan, kamu...",
+      "options": [
+        { "text": "Membicarakannya dengan pasangan secara jujur dan terbuka", "type": "S" },
+        { "text": "Menjadi sangat lengket (clingy) dan mencari validasi berlebihan", "type": "A" },
+        { "text": "Menarik diri secara emosional dan bersiap untuk skenario terburuk", "type": "V" }
+      ]
+    },
+    {
+      "id": "as15",
+      "question": "Apa ketakutan terbesarmu dalam sebuah komitmen asmara?",
+      "options": [
+        { "text": "Berada dalam hubungan yang tidak sehat dan penuh konflik tak terselesaikan", "type": "S" },
+        { "text": "Ditinggalkan, ditolak, atau digantikan oleh orang lain", "type": "A" },
+        { "text": "Kehilangan kebebasan, dikontrol, dan kehilangan jati diri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as16",
+      "question": "Jika pasangan mengajak membahas rencana pernikahan/masa depan serius...",
+      "options": [
+        { "text": "Meresponsnya dengan antusias dan realistis", "type": "S" },
+        { "text": "Sangat gembira karena itu adalah jaminan keamanan yang kuinginkan", "type": "A" },
+        { "text": "Merasa tertekan, menghindar, atau berusaha mengganti topik", "type": "V" }
+      ]
+    },
+    {
+      "id": "as17",
+      "question": "Bila kamu memiliki rahasia atau trauma masa lalu, kamu...",
+      "options": [
+        { "text": "Akan menceritakannya secara natural saat sudah merasa cukup aman", "type": "S" },
+        { "text": "Menceritakan semuanya di awal agar dia tidak meninggalkanku nanti", "type": "A" },
+        { "text": "Menyimpannya rapat-rapat, tidak ada yang perlu tahu kelemahanku", "type": "V" }
+      ]
+    },
+    {
+      "id": "as18",
+      "question": "Saat pasanganmu diam dan tampak murung tanpa alasan yang jelas...",
+      "options": [
+        { "text": "Menanyakannya baik-baik apakah dia ingin bercerita", "type": "S" },
+        { "text": "Panik dan berasumsi bahwa aku telah melakukan kesalahan fatal", "type": "A" },
+        { "text": "Membiarkannya saja, malas berurusan dengan drama emosional", "type": "V" }
+      ]
+    },
+    {
+      "id": "as19",
+      "question": "Bagaimana perasaanmu saat pasangan memberikan pujian yang berlebihan?",
+      "options": [
+        { "text": "Senang dan berterima kasih dengan tulus", "type": "S" },
+        { "text": "Senang tapi sering ragu apakah dia benar-benar jujur", "type": "A" },
+        { "text": "Merasa canggung, aneh (cringe), dan tidak nyaman", "type": "V" }
+      ]
+    },
+    {
+      "id": "as20",
+      "question": "Mengenai privasi kata sandi (password) ponsel pasangan...",
+      "options": [
+        { "text": "Kami tahu tapi tidak pernah iseng mengecek karena saling percaya", "type": "S" },
+        { "text": "Aku harus tahu untuk memastikan dia tidak berselingkuh", "type": "A" },
+        { "text": "Itu privasi mutlak, aku tidak mau tahu dan dia tidak boleh tahu milikku", "type": "V" }
+      ]
+    },
+    {
+      "id": "as21",
+      "question": "Ada teman yang bilang bahwa pasanganmu sangat menarik dan banyak yang suka...",
+      "options": [
+        { "text": "Bangga karena aku adalah orang yang dipilihnya", "type": "S" },
+        { "text": "Langsung merasa insecure dan memantau gerak-geriknya ekstra ketat", "type": "A" },
+        { "text": "Biasa saja, kalau dia mau selingkuh ya silakan saja", "type": "V" }
+      ]
+    },
+    {
+      "id": "as22",
+      "question": "Pasangan mendapat promosi besar yang membuatnya jauh lebih sibuk...",
+      "options": [
+        { "text": "Mendukung kariernya dan mencari cara baru untuk mengatur waktu", "type": "S" },
+        { "text": "Takut dia akan menemukan orang yang lebih baik dan meninggalkanku", "type": "A" },
+        { "text": "Malah senang karena aku bisa punya lebih banyak waktu sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as23",
+      "question": "Saat rasa cemburu melanda, respons aslimu adalah...",
+      "options": [
+        { "text": "Berkomunikasi jujur kepadanya tanpa nada menuduh", "type": "S" },
+        { "text": "Marah, ngambek, atau menyindirnya agar dia sadar", "type": "A" },
+        { "text": "Menekan perasaan itu dalam-dalam dan bersikap dingin padanya", "type": "V" }
+      ]
+    },
+    {
+      "id": "as24",
+      "question": "Ketika diajak bertemu dengan keluarga intinya untuk pertama kali...",
+      "options": [
+        { "text": "Antusias dan mempersiapkan diri dengan santai", "type": "S" },
+        { "text": "Sangat stres, takut mereka tidak menyukaiku dan merusak hubunganku", "type": "A" },
+        { "text": "Menganggapnya beban dan mencari-cari alasan untuk menunda", "type": "V" }
+      ]
+    },
+    {
+      "id": "as25",
+      "question": "Jika kalian berbeda pendapat tentang hobi akhir pekan...",
+      "options": [
+        { "text": "Saling kompromi atau sesekali melakukan hobi masing-masing", "type": "S" },
+        { "text": "Aku rela ikut hobinya walau tidak suka, asalkan kami bersama", "type": "A" },
+        { "text": "Lakukan saja sendiri-sendiri, aku tidak mau repot", "type": "V" }
+      ]
+    },
+    {
+      "id": "as26",
+      "question": "Saat pasangan memberikan kritik yang membangun tentang sikapmu...",
+      "options": [
+        { "text": "Mengevaluasi diri dan menerimanya jika memang benar", "type": "S" },
+        { "text": "Merasa diserang, tidak dicintai, dan langsung merasa tak berharga", "type": "A" },
+        { "text": "Marah, menutup diri, dan membalas mengkritik kekurangannya", "type": "V" }
+      ]
+    },
+    {
+      "id": "as27",
+      "question": "Ketika kamu benar-benar membutuhkan bantuan...",
+      "options": [
+        { "text": "Meminta bantuannya secara langsung tanpa rasa bersalah", "type": "S" },
+        { "text": "Memberi kode keras dan marah jika dia tidak peka menolongku", "type": "A" },
+        { "text": "Berusaha keras menyelesaikannya sendiri tanpa melibatkan dia", "type": "V" }
+      ]
+    },
+    {
+      "id": "as28",
+      "question": "Seberapa sering kamu memikirkan status hubungan kalian?",
+      "options": [
+        { "text": "Sewajarnya saja, aku menikmati proses yang berjalan", "type": "S" },
+        { "text": "Hampir setiap saat, aku sering menganalisis setiap gerak-geriknya", "type": "A" },
+        { "text": "Jarang sekali, aku punya banyak fokus lain dalam hidup", "type": "V" }
+      ]
+    },
+    {
+      "id": "as29",
+      "question": "Pandanganmu tentang 'Me Time' (waktu menyendiri) dalam pacaran...",
+      "options": [
+        { "text": "Kebutuhan yang sehat untuk menjaga keseimbangan diri", "type": "S" },
+        { "text": "Merasa itu adalah ancaman, rasanya seperti dia ingin menjauhiku", "type": "A" },
+        { "text": "Kebutuhan mutlak, aku bisa gila jika harus nempel terus-terusan", "type": "V" }
+      ]
+    },
+    {
+      "id": "as30",
+      "question": "Jika pasangan berkata, 'Aku butuh waktu sendiri sebentar' saat bertengkar...",
+      "options": [
+        { "text": "Memberinya ruang dan sepakat untuk membahasnya nanti", "type": "S" },
+        { "text": "Panik luar biasa dan memaksanya menyelesaikan masalah saat itu juga", "type": "A" },
+        { "text": "Silakan saja, aku malah lebih suka kalau kami tidak perlu membahasnya lagi", "type": "V" }
+      ]
+    },
+    {
+      "id": "as31",
+      "question": "Bila ada masalah, kamu lebih sering...",
+      "options": [
+        { "text": "Menelepon atau bertemu langsung agar komunikasi jelas", "type": "S" },
+        { "text": "Mengirim chat panjang lebar yang penuh emosi dan tuntutan", "type": "A" },
+        { "text": "Membaca pesannya (Read) dan mendiamkannya sampai aku mood", "type": "V" }
+      ]
+    },
+    {
+      "id": "as32",
+      "question": "Jika mantan pasangan tiba-tiba menghubungimu...",
+      "options": [
+        { "text": "Memberitahu pasanganku saat ini agar tidak ada salah paham", "type": "S" },
+        { "text": "Panik menyembunyikannya karena takut pasanganku marah dan meninggalkanku", "type": "A" },
+        { "text": "Menghapusnya diam-diam, itu urusan pribadiku dan dia tidak perlu tahu", "type": "V" }
+      ]
+    },
+    {
+      "id": "as33",
+      "question": "Melihat pasangan yang sangat mandiri dan sukses membuatmu...",
+      "options": [
+        { "text": "Kagum dan merasa beruntung memilikinya", "type": "S" },
+        { "text": "Takut dia menyadari bahwa dia sebenarnya tidak membutuhkanku", "type": "A" },
+        { "text": "Sangat lega karena dia pasti tidak akan merepotkanku", "type": "V" }
+      ]
+    },
+    {
+      "id": "as34",
+      "question": "Menunjukkan kemesraan di depan umum (PDA) menurutmu...",
+      "options": [
+        { "text": "Wajar saja asalkan dalam batas kesopanan", "type": "S" },
+        { "text": "Sangat penting untuk menunjukkan pada dunia bahwa kami saling memiliki", "type": "A" },
+        { "text": "Sangat tidak nyaman dan berlebihan", "type": "V" }
+      ]
+    },
+    {
+      "id": "as35",
+      "question": "Tanggung jawab atas kebahagiaan dalam hubungan...",
+      "options": [
+        { "text": "Kita sama-sama berusaha menciptakan kebahagiaan itu", "type": "S" },
+        { "text": "Adalah tugas pasangan untuk membuatku merasa aman dan bahagia", "type": "A" },
+        { "text": "Aku hanya bertanggung jawab atas kebahagiaanku sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as36",
+      "question": "Pasangan lupa merayakan hari jadi (anniversary)...",
+      "options": [
+        { "text": "Sedikit kecewa tapi mengingatkannya dengan nada bercanda", "type": "S" },
+        { "text": "Menangis dan merasa itu bukti pasti bahwa dia tidak lagi mencintaiku", "type": "A" },
+        { "text": "Tidak masalah sama sekali, aku juga benci perayaan yang merepotkan", "type": "V" }
+      ]
+    },
+    {
+      "id": "as37",
+      "question": "Saat kamu sangat tidak setuju dengan keputusan besar pasangan...",
+      "options": [
+        { "text": "Mengutarakan logikaku dengan jelas namun tetap menghargai pilihannya", "type": "S" },
+        { "text": "Terpaksa setuju dan mengalah karena takut memicu pertengkaran besar", "type": "A" },
+        { "text": "Mengabaikannya dan tetap melakukan apa yang menurutku benar diam-diam", "type": "V" }
+      ]
+    },
+    {
+      "id": "as38",
+      "question": "Pandanganmu tentang kesetiaan absolut...",
+      "options": [
+        { "text": "Itu adalah fondasi dari rasa saling menghargai", "type": "S" },
+        { "text": "Itu adalah janji yang paling membuatku cemas jika dia langgar", "type": "A" },
+        { "text": "Itu hanyalah konsep yang seringkali membatasi ruang gerak seseorang", "type": "V" }
+      ]
+    },
+    {
+      "id": "as39",
+      "question": "Pasanganmu memiliki sahabat dekat lawan jenis...",
+      "options": [
+        { "text": "Biasa saja, selama mereka tahu batasan profesional/pertemanan", "type": "S" },
+        { "text": "Sangat cemburu, selalu curiga, dan sering mengecek kedekatan mereka", "type": "A" },
+        { "text": "Baguslah, jadi ada orang lain yang meladeninya kalau dia sedang bawel", "type": "V" }
+      ]
+    },
+    {
+      "id": "as40",
+      "question": "Ketika sedang menjalani LDR (Long Distance Relationship) atau jarang bertemu...",
+      "options": [
+        { "text": "Saling mengabari dengan porsi wajar dan tetap fokus pada aktivitas", "type": "S" },
+        { "text": "Tersiksa oleh rindu dan menuntut telepon setiap saat agar merasa aman", "type": "A" },
+        { "text": "Malah merasa lebih nyaman karena tidak perlu bertemu setiap hari", "type": "V" }
+      ]
+    },
+    {
+      "id": "as41",
+      "question": "Jika hubungan mulai terasa datar dan membosankan...",
+      "options": [
+        { "text": "Berinisiatif mengajak pasangan mencoba aktivitas baru berdua", "type": "S" },
+        { "text": "Panik overthinking merasa cintanya mulai pudar", "type": "A" },
+        { "text": "Secara naluriah mulai mencari kesibukan atau teman baru di luar", "type": "V" }
+      ]
+    },
+    {
+      "id": "as42",
+      "question": "Soal meminjamkan barang sangat berharga/uang dalam jumlah besar ke pasangan...",
+      "options": [
+        { "text": "Membantunya jika alasannya rasional dan tidak merusak finansialku", "type": "S" },
+        { "text": "Pasti kuberikan meski aku kesulitan, agar dia tahu pengorbananku", "type": "A" },
+        { "text": "Menolak tegas, urusan asmara dan finansial harus dipisah total", "type": "V" }
+      ]
+    },
+    {
+      "id": "as43",
+      "question": "Tentang mengubah sifat/penampilan demi pasangan...",
+      "options": [
+        { "text": "Hanya mau berubah jika itu membuatku menjadi pribadi yang lebih baik", "type": "S" },
+        { "text": "Siap mengubah diriku 180 derajat asalkan dia terus menyukaiku", "type": "A" },
+        { "text": "Sangat menolak, take it or leave it (terima aku apa adanya atau pergi)", "type": "V" }
+      ]
+    },
+    {
+      "id": "as44",
+      "question": "Seberapa sering terbesit pikiran bahwa 'dia akan meninggalkanku'?",
+      "options": [
+        { "text": "Jarang, aku cukup yakin dengan pondasi hubungan kami", "type": "S" },
+        { "text": "Sangat sering, itu adalah mimpi buruk yang selalu membayangi otakku", "type": "A" },
+        { "text": "Tidak peduli, kalau dia mau pergi ya pergi saja, aku bisa hidup sendiri", "type": "V" }
+      ]
+    },
+    {
+      "id": "as45",
+      "question": "Dalam hal meminta maaf setelah pertengkaran hebat...",
+      "options": [
+        { "text": "Aku tidak gengsi meminta maaf duluan jika aku memang salah", "type": "S" },
+        { "text": "Aku sering meminta maaf meski tidak salah, hanya agar dia tidak marah lagi", "type": "A" },
+        { "text": "Aku sangat sulit meminta maaf dan lebih memilih mendiamkannya berhari-hari", "type": "V" }
+      ]
+    },
+    {
+      "id": "as46",
+      "question": "Saat pasangan membatalkan janji karena tiba-tiba sakit...",
+      "options": [
+        { "text": "Memahaminya, menawarkan bantuan, atau menjenguknya", "type": "S" },
+        { "text": "Curiga apakah dia benar-benar sakit atau hanya alasan untuk menghindariku", "type": "A" },
+        { "text": "Ya sudah, aku langsung bikin rencana seru dengan teman-temanku", "type": "V" }
+      ]
+    },
+    {
+      "id": "as47",
+      "question": "Jika harus pindah ke kota lain yang jauh demi karier...",
+      "options": [
+        { "text": "Mendiskusikannya matang-matang berdua mencari win-win solution", "type": "S" },
+        { "text": "Rela mengorbankan karierku asalkan tidak berpisah darinya", "type": "A" },
+        { "text": "Langsung berangkat, karier adalah prioritasku, cinta urusan belakangan", "type": "V" }
+      ]
+    },
+    {
+      "id": "as48",
+      "question": "Melihat orang tua atau teman yang bercerai/putus buruk...",
+      "options": [
+        { "text": "Menjadikannya pelajaran agar aku lebih baik dalam berkomunikasi", "type": "S" },
+        { "text": "Semakin cemas dan takut hal yang sama pasti akan menimpaku", "type": "A" },
+        { "text": "Menguatkan keyakinanku bahwa komitmen itu omong kosong yang mengekang", "type": "V" }
+      ]
+    },
+    {
+      "id": "as49",
+      "question": "Hal terburuk yang bisa dilakukan pasangan padamu adalah...",
+      "options": [
+        { "text": "Berbohong dan memanipulasi kenyataan", "type": "S" },
+        { "text": "Meninggalkanku tanpa sepatah kata pun (Ghosting)", "type": "A" },
+        { "text": "Mengekang, cemburuan buta, dan membaca isi ponselku diam-diam", "type": "V" }
+      ]
+    },
+    {
+      "id": "as50",
+      "question": "Bagimu, sebuah keintiman (intimacy) adalah...",
+      "options": [
+        { "text": "Tempat di mana dua orang bisa saling rapuh tanpa takut dihakimi", "type": "S" },
+        { "text": "Tempat berlindung mutlak di mana aku akhirnya merasa diterima sepenuhnya", "type": "A" },
+        { "text": "Area berbahaya yang bisa disalahgunakan untuk melukaiku", "type": "V" }
+      ]
+    }
+  ]
+}

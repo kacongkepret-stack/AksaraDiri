@@ -1,0 +1,42 @@
+{
+  "w": {
+    "type": "Words of Affirmation",
+    "name": "Praise & Words",
+    "description": "For you, encouraging words mean more than anything. You live on verbal appreciation.",
+    "traits": { "Praise": 90, "Verbal support": 85 },
+    "strengths": ["Expressive", "Easy to encourage"],
+    "weaknesses": ["Sensitive to criticism", "Needs validation"]
+  },
+  "g": {
+    "type": "Receiving Gifts",
+    "name": "Gifts",
+    "description": "You feel loved through giving. It's not about price, but the thought behind it.",
+    "traits": { "Symbolic": 85, "Attention to detail": 80 },
+    "strengths": ["Appreciative", "Knows how to make happy"],
+    "weaknesses": ["Sometimes materialistic", "Disappointed if gift is meaningless"]
+  },
+  "a": {
+    "type": "Acts of Service",
+    "name": "Service",
+    "description": "Concrete actions are proof of love for you. You feel loved when someone lightens your burden.",
+    "traits": { "Practical": 90, "Willing to help": 85 },
+    "strengths": ["Loyal to others", "Independent"],
+    "weaknesses": ["Often doesn't ask for help", "Difficulty accepting help"]
+  },
+  "p": {
+    "type": "Physical Touch",
+    "name": "Physical Touch",
+    "description": "For you, love is most real through touch: hugs, handholds, or a pat on the shoulder.",
+    "traits": { "Warmth": 90, "Physical": 85 },
+    "strengths": ["Loving", "Approachable"],
+    "weaknesses": ["Awkward in some cultures", "Sometimes seen as too aggressive"]
+  },
+  "q": {
+    "type": "Quality Time",
+    "name": "Quality Time",
+    "description": "You are happiest when spending uninterrupted time with loved ones.",
+    "traits": { "Focus": 90, "Togetherness": 85 },
+    "strengths": ["Good listener", "Clear priorities"],
+    "weaknesses": ["Difficulty multitasking", "Doesn't like partner being busy"]
+  }
+}

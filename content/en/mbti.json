@@ -1,0 +1,907 @@
+{
+  "title": "16 Personality Types Test (MBTI)",
+  "description": "Discover your personality type among 16 based on your psychological preferences. Answer honestly, not ideally.",
+  "timeEstimation": "5 Minutes",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "At a crowded event, you usually...",
+      "options": [
+        { "text": "Talk to many people, feel energized", "type": "E" },
+        { "text": "Only with 1-2 close friends, then want to go home", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q2",
+      "question": "Which better describes you?",
+      "options": [
+        { "text": "You prefer facts and concrete details", "type": "S" },
+        { "text": "You prefer ideas and abstract possibilities", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q3",
+      "question": "When making difficult decisions, you rely more on...",
+      "options": [
+        { "text": "Logic and objective analysis", "type": "T" },
+        { "text": "Feelings and impact on others", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q4",
+      "question": "You feel more comfortable if...",
+      "options": [
+        { "text": "The schedule is well planned", "type": "J" },
+        { "text": "Flexible, go with the flow", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q5",
+      "question": "When recharging your energy, you...",
+      "options": [
+        { "text": "Meet many friends and socialize", "type": "E" },
+        { "text": "Spend time alone with a book or hobby", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q6",
+      "question": "You are more interested in...",
+      "options": [
+        { "text": "What is real and can be proven", "type": "S" },
+        { "text": "What is possible and innovative", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q7",
+      "question": "If a friend vents to you, you tend to...",
+      "options": [
+        { "text": "Give practical solutions", "type": "T" },
+        { "text": "Listen and empathize", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q8",
+      "question": "Approaching a deadline, you...",
+      "options": [
+        { "text": "Work according to schedule", "type": "J" },
+        { "text": "Procrastinate then finish close to the deadline", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q9",
+      "question": "In a new place, you...",
+      "options": [
+        { "text": "Easily start conversations", "type": "E" },
+        { "text": "Wait for others to approach you", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q10",
+      "question": "You prefer to learn by...",
+      "options": [
+        { "text": "Step-by-step instructions", "type": "S" },
+        { "text": "Understanding the big concept first", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q11",
+      "question": "In a discussion, you usually...",
+      "options": [
+        { "text": "Focus on logic and truth", "type": "T" },
+        { "text": "Focus on harmony and feelings", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q12",
+      "question": "You prefer to...",
+      "options": [
+        { "text": "Finish one task before starting another", "type": "J" },
+        { "text": "Do several things at once", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q13",
+      "question": "Others often describe you as...",
+      "options": [
+        { "text": "Energetic and enthusiastic", "type": "E" },
+        { "text": "Calm and a good listener", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q14",
+      "question": "When solving a problem, you...",
+      "options": [
+        { "text": "Use past experience", "type": "S" },
+        { "text": "Look for a new approach", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q15",
+      "question": "Constructive criticism...",
+      "options": [
+        { "text": "Is useful, as long as it's objective", "type": "T" },
+        { "text": "Can be hurtful, needs to be delivered gently", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q16",
+      "question": "Your ideal vacation...",
+      "options": [
+        { "text": "Full itinerary, everything planned", "type": "J" },
+        { "text": "Go and decide on the spot", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q17",
+      "question": "After a day of work, you...",
+      "options": [
+        { "text": "Invite friends to hang out", "type": "E" },
+        { "text": "Enjoy time alone", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q18",
+      "question": "You trust more...",
+      "options": [
+        { "text": "Information that is tested and certain", "type": "S" },
+        { "text": "Hunches and intuition", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q19",
+      "question": "Justice is...",
+      "options": [
+        { "text": "Equal treatment for everyone", "type": "T" },
+        { "text": "Understanding each person's situation", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q20",
+      "question": "You value more...",
+      "options": [
+        { "text": "Order and structure", "type": "J" },
+        { "text": "Freedom and spontaneity", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q21",
+      "question": "When giving a presentation, you...",
+      "options": [
+        { "text": "Speak fluently and enjoy the audience", "type": "E" },
+        { "text": "Get nervous and prefer to send a written report", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q22",
+      "question": "Assembly instructions...",
+      "options": [
+        { "text": "You read them thoroughly first, then assemble", "type": "S" },
+        { "text": "Jump right in, look at pictures as needed", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q23",
+      "question": "Your favorite movie usually...",
+      "options": [
+        { "text": "Has logical conflict and thriller elements", "type": "T" },
+        { "text": "Is a drama that touches emotions", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q24",
+      "question": "Your desk...",
+      "options": [
+        { "text": "Neat and organized", "type": "J" },
+        { "text": "A bit messy but you know where things are", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q25",
+      "question": "A sudden call from a friend...",
+      "options": [
+        { "text": "You answer and chat for a long time", "type": "E" },
+        { "text": "You think first, sometimes just send a text", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q26",
+      "question": "When cooking, you...",
+      "options": [
+        { "text": "Follow the recipe strictly", "type": "S" },
+        { "text": "Improvise with available ingredients", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q27",
+      "question": "If there's team conflict, you...",
+      "options": [
+        { "text": "Propose new fair rules", "type": "T" },
+        { "text": "Mediate and ensure everyone is heard", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q28",
+      "question": "Before sleeping, you...",
+      "options": [
+        { "text": "Check tomorrow's agenda", "type": "J" },
+        { "text": "Let tomorrow flow as it comes", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q29",
+      "question": "At a party, you...",
+      "options": [
+        { "text": "Are the center of attention", "type": "E" },
+        { "text": "Enjoy from the sidelines", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q30",
+      "question": "You trust more...",
+      "options": [
+        { "text": "Personal experience", "type": "S" },
+        { "text": "Theories not yet proven", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q31",
+      "question": "You choose a career because...",
+      "options": [
+        { "text": "Clear salary and prospects", "type": "T" },
+        { "text": "Passion and meaning", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q32",
+      "question": "In a group project, you...",
+      "options": [
+        { "text": "Want clear task division", "type": "J" },
+        { "text": "Are flexible, help where needed", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q33",
+      "question": "When an idea strikes, you...",
+      "options": [
+        { "text": "Immediately discuss it with people around", "type": "E" },
+        { "text": "Reflect on it alone first", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q34",
+      "question": "Your favorite subject...",
+      "options": [
+        { "text": "Accounting or procedures", "type": "S" },
+        { "text": "Philosophy or literature", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q35",
+      "question": "When a friend is wrong, you...",
+      "options": [
+        { "text": "Point out their mistake directly", "type": "T" },
+        { "text": "Talk nicely so they don't get offended", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q36",
+      "question": "Weekend...",
+      "options": [
+        { "text": "Planned well in advance", "type": "J" },
+        { "text": "Spontaneously invite friends", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q37",
+      "question": "In a group chat, you...",
+      "options": [
+        { "text": "Actively send messages", "type": "E" },
+        { "text": "Just read, reply occasionally", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q38",
+      "question": "The book you choose...",
+      "options": [
+        { "text": "Non-fiction, practical guide", "type": "S" },
+        { "text": "Fantasy or speculative novel", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q39",
+      "question": "You respect people who are...",
+      "options": [
+        { "text": "Competent and objective", "type": "T" },
+        { "text": "Caring and understanding", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q40",
+      "question": "A sudden new task...",
+      "options": [
+        { "text": "You're annoyed because it messes up your plans", "type": "J" },
+        { "text": "Excited, a new variation", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q41",
+      "question": "Meeting new people, you...",
+      "options": [
+        { "text": "Are interested in hearing their stories", "type": "E" },
+        { "text": "Keep distance until you know them better", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q42",
+      "question": "When learning a new skill, you...",
+      "options": [
+        { "text": "Follow step-by-step tutorials", "type": "S" },
+        { "text": "Experiment directly, tutorials later", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q43",
+      "question": "You are more...",
+      "options": [
+        { "text": "Fair even if it hurts", "type": "T" },
+        { "text": "Kind even if it's less fair", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q44",
+      "question": "Sudden changes...",
+      "options": [
+        { "text": "Disrupt your rhythm", "type": "J" },
+        { "text": "Enjoyable, not monotonous", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q45",
+      "question": "In a team, you...",
+      "options": [
+        { "text": "Talk the most", "type": "E" },
+        { "text": "Listen more", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q46",
+      "question": "The question 'what if'...",
+      "options": [
+        { "text": "Not interesting, prefer 'what' and 'when'", "type": "S" },
+        { "text": "Spurs imagination", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q47",
+      "question": "You are impressed by...",
+      "options": [
+        { "text": "Very logical people", "type": "T" },
+        { "text": "Very empathetic people", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q48",
+      "question": "Managing finances...",
+      "options": [
+        { "text": "Detailed budget", "type": "J" },
+        { "text": "As long as it's enough, flexible", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q49",
+      "question": "When alone at a cafe, you...",
+      "options": [
+        { "text": "Chat with the barista or other customers", "type": "E" },
+        { "text": "Enjoy your own thoughts", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q50",
+      "question": "Your future dreams...",
+      "options": [
+        { "text": "Clear and step-by-step", "type": "S" },
+        { "text": "Full of endless possibilities", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q51",
+      "question": "During a long holiday, you prefer to...",
+      "options": [
+        { "text": "Go out with many people", "type": "E" },
+        { "text": "Enjoy time alone or with 1-2 people", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q52",
+      "question": "You understand something more easily through...",
+      "options": [
+        { "text": "Concrete examples", "type": "S" },
+        { "text": "Analogies and concepts", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q53",
+      "question": "When judging others' decisions, you...",
+      "options": [
+        { "text": "Look at the logic", "type": "T" },
+        { "text": "Look at their intentions and feelings", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q54",
+      "question": "Your ideal home or room...",
+      "options": [
+        { "text": "Always neat and tidy", "type": "J" },
+        { "text": "Comfortable even if a little messy", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q55",
+      "question": "During a meeting, you...",
+      "options": [
+        { "text": "Actively share opinions", "type": "E" },
+        { "text": "Prefer to listen first", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q56",
+      "question": "You are more interested in...",
+      "options": [
+        { "text": "What is happening now", "type": "S" },
+        { "text": "What might happen later", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q57",
+      "question": "A friend asks for advice, you...",
+      "options": [
+        { "text": "Be honest even if it's bitter", "type": "T" },
+        { "text": "Choose your words so they remain comfortable", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q58",
+      "question": "Shopping at the supermarket, you...",
+      "options": [
+        { "text": "Bring a shopping list", "type": "J" },
+        { "text": "Browse and decide spontaneously", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q59",
+      "question": "At a school reunion, you...",
+      "options": [
+        { "text": "Greet many people", "type": "E" },
+        { "text": "Only talk to close friends", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q60",
+      "question": "When reading the news, you focus more on...",
+      "options": [
+        { "text": "Facts and data", "type": "S" },
+        { "text": "The meaning behind the event", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q61",
+      "question": "If there's a debate, you...",
+      "options": [
+        { "text": "Enjoy arguing", "type": "T" },
+        { "text": "Avoid emotional conflict", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q62",
+      "question": "Your way of working...",
+      "options": [
+        { "text": "Systematic and sequential", "type": "J" },
+        { "text": "Jump around according to mood", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q63",
+      "question": "When you have a good idea, you...",
+      "options": [
+        { "text": "Immediately tell others", "type": "E" },
+        { "text": "Keep it to think about first", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q64",
+      "question": "You are more comfortable with...",
+      "options": [
+        { "text": "Clear instructions", "type": "S" },
+        { "text": "Free exploration", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q65",
+      "question": "In a conflict, you are more likely to...",
+      "options": [
+        { "text": "Defend what is right", "type": "T" },
+        { "text": "Defend the one who is hurt", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q66",
+      "question": "When traveling, you...",
+      "options": [
+        { "text": "Book everything from the start", "type": "J" },
+        { "text": "Figure it out on the road according to situation", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q67",
+      "question": "You feel alive when...",
+      "options": [
+        { "text": "Surrounded by many social activities", "type": "E" },
+        { "text": "Having quiet time for yourself", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q68",
+      "question": "You believe more in...",
+      "options": [
+        { "text": "What is visible", "type": "S" },
+        { "text": "What feels right", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q69",
+      "question": "In team work, you judge people by...",
+      "options": [
+        { "text": "Performance", "type": "T" },
+        { "text": "Attitude and intentions", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q70",
+      "question": "A sudden deadline...",
+      "options": [
+        { "text": "Stresses you out", "type": "J" },
+        { "text": "Spurs your motivation", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q71",
+      "question": "On a long journey, you...",
+      "options": [
+        { "text": "Enjoy chatting with new people", "type": "E" },
+        { "text": "Prefer to stay quiet and watch the scenery", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q72",
+      "question": "When choosing a gadget, you look at...",
+      "options": [
+        { "text": "Detailed specifications", "type": "S" },
+        { "text": "Potential for creative use", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q73",
+      "question": "You more often...",
+      "options": [
+        { "text": "Criticize rationally", "type": "T" },
+        { "text": "Encourage emotionally", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q74",
+      "question": "On a free day, you...",
+      "options": [
+        { "text": "Fill it with productive plans", "type": "J" },
+        { "text": "Let it flow without an agenda", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q75",
+      "question": "When a guest arrives unexpectedly...",
+      "options": [
+        { "text": "Happy, the house becomes lively", "type": "E" },
+        { "text": "A bit disturbed", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q76",
+      "question": "You prefer work that...",
+      "options": [
+        { "text": "Has clear procedures", "type": "S" },
+        { "text": "Provides room for innovation", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q77",
+      "question": "When choosing a leader, you choose one who is...",
+      "options": [
+        { "text": "Firm and objective", "type": "T" },
+        { "text": "Wise and caring", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q78",
+      "question": "Your laptop files...",
+      "options": [
+        { "text": "Neatly organized in folders", "type": "J" },
+        { "text": "Sometimes all saved on the desktop", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q79",
+      "question": "When attending a seminar...",
+      "options": [
+        { "text": "Easy to ask questions in public", "type": "E" },
+        { "text": "Prefer to stay quiet", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q80",
+      "question": "You prefer to read...",
+      "options": [
+        { "text": "Practical guides", "type": "S" },
+        { "text": "Theories or future topics", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q81",
+      "question": "When there's an unfair rule, you...",
+      "options": [
+        { "text": "Argue logically", "type": "T" },
+        { "text": "Think about its impact on people", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q82",
+      "question": "You usually wake up in the morning...",
+      "options": [
+        { "text": "With a fixed routine", "type": "J" },
+        { "text": "Depending on mood", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q83",
+      "question": "On social media, you...",
+      "options": [
+        { "text": "Often post/interact", "type": "E" },
+        { "text": "Rarely post, mostly just watch", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q84",
+      "question": "When fixing a broken item...",
+      "options": [
+        { "text": "Follow instructions", "type": "S" },
+        { "text": "Try on your own", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q85",
+      "question": "You value more...",
+      "options": [
+        { "text": "Truth", "type": "T" },
+        { "text": "Kindness", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q86",
+      "question": "A sudden task at the end of the day...",
+      "options": [
+        { "text": "Disrupts your schedule", "type": "J" },
+        { "text": "No problem", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q87",
+      "question": "In class or training, you...",
+      "options": [
+        { "text": "Often ask questions", "type": "E" },
+        { "text": "Take notes quietly", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q88",
+      "question": "When hearing a story, you are interested in...",
+      "options": [
+        { "text": "The details of the event", "type": "S" },
+        { "text": "Hidden meanings", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q89",
+      "question": "When evaluating yourself, you...",
+      "options": [
+        { "text": "Are critical and objective", "type": "T" },
+        { "text": "Reflect from an emotional side", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q90",
+      "question": "Your calendar or agenda...",
+      "options": [
+        { "text": "Often used", "type": "J" },
+        { "text": "Rarely opened", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q91",
+      "question": "When eating together, you...",
+      "options": [
+        { "text": "Often start topics", "type": "E" },
+        { "text": "Wait to be talked to", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q92",
+      "question": "When facing a problem, you...",
+      "options": [
+        { "text": "Look for a solution that has worked before", "type": "S" },
+        { "text": "Look for an idea that hasn't been tried", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q93",
+      "question": "In judging artwork, you...",
+      "options": [
+        { "text": "Look at the technique and structure", "type": "T" },
+        { "text": "Look at the emotion conveyed", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q94",
+      "question": "Your bag or wallet...",
+      "options": [
+        { "text": "Neatly organized", "type": "J" },
+        { "text": "Mixed but you can still find things", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q95",
+      "question": "At a big family gathering...",
+      "options": [
+        { "text": "You enjoy the crowd", "type": "E" },
+        { "text": "You quickly get socially tired", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q96",
+      "question": "You prefer to talk about...",
+      "options": [
+        { "text": "Real experiences", "type": "S" },
+        { "text": "Ideas and possibilities", "type": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": "q97",
+      "question": "When a friend makes a mistake, you...",
+      "options": [
+        { "text": "Explain where they went wrong", "type": "T" },
+        { "text": "Calm their feelings first", "type": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": "q98",
+      "question": "When a project is finished, you...",
+      "options": [
+        { "text": "Relieved that the target is met", "type": "J" },
+        { "text": "Sometimes want to change it again", "type": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": "q99",
+      "question": "In a new environment, you...",
+      "options": [
+        { "text": "Get along quickly", "type": "E" },
+        { "text": "Need time to adapt", "type": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": "q100",
+      "question": "In your opinion, life is better if it is...",
+      "options": [
+        { "text": "Stable and predictable", "type": "S" },
+        { "text": "Full of surprises and possibilities", "type": "N" }
+      ],
+      "dimension": "SN"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "i": {
+    "type": "Innovative",
+    "name": "Creative Innovator",
+    "description": "Your creativity manifests in unique solutions. You are a problem solver with an original touch.",
+    "traits": { "Problem Solving": 90, "Uniqueness": 85 },
+    "strengths": ["Out-of-the-box solutions", "Efficient"],
+    "weaknesses": ["Impatient with routine"]
+  },
+  "d": {
+    "type": "Dreamer",
+    "name": "Imaginative Visionary",
+    "description": "Your imagination knows no bounds. You live in a world of ideas and possibilities, always dreaming big.",
+    "traits": { "Vision": 92, "Fantasy": 90 },
+    "strengths": ["Big ideas", "Inspiring"],
+    "weaknesses": ["Difficulty executing", "Easily distracted"]
+  },
+  "a": {
+    "type": "Artistic",
+    "name": "Expressive Artist",
+    "description": "Your creativity flows through visual expression and aesthetics. Your world is full of color and beauty.",
+    "traits": { "Aesthetics": 90, "Visual Imagination": 88 },
+    "strengths": ["Original", "Bold to experiment"],
+    "weaknesses": ["Sometimes impractical"]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "s": {
+    "type": "Secure",
+    "name": "Safe & Comfortable",
+    "description": "You are comfortable with closeness. Your relationships are healthy and full of trust.",
+    "traits": { "Trust": 90, "Independence": 80 },
+    "strengths": ["Confident", "Communicative"],
+    "weaknesses": ["Sometimes too relaxed"]
+  },
+  "a": {
+    "type": "Anxious",
+    "name": "Anxious",
+    "description": "You need reassurance and often worry. Your feelings are deep.",
+    "traits": { "Intimacy": 90, "Anxiety": 80 },
+    "strengths": ["Loyal", "Sensitive"],
+    "weaknesses": ["Overthinking", "Jealous"]
+  },
+  "v": {
+    "type": "Avoidant",
+    "name": "Avoidant",
+    "description": "You are very independent and reluctant to rely on others.",
+    "traits": { "Independence": 90, "Distance": 80 },
+    "strengths": ["Self-reliant", "Not a burden"],
+    "weaknesses": ["Difficulty committing", "Cold"]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "intj": {
+    "type": "INTJ",
+    "name": "Architect",
+    "description": "INTJs are strategic thinkers who are imaginative and have a plan for everything. They are independent, confident, and like to work alone.",
+    "traits": { "introvert": 80, "intuitive": 90, "thinking": 85, "judging": 75 },
+    "strengths": ["Strategic Thinker", "Independent", "Confident"],
+    "weaknesses": ["Too Perfectionist", "Difficulty Expressing Emotions"]
+  },
+  "infj": {
+    "type": "INFJ",
+    "name": "Advocate",
+    "description": "INFJs are quiet, mysterious idealists who can inspire others. They have a strong vision and deeply care about life's meaning.",
+    "traits": { "introvert": 70, "intuitive": 95, "feeling": 80, "judging": 70 },
+    "strengths": ["Visionary", "Creative", "Inspiring"],
+    "weaknesses": ["Perfectionist", "Prone to Stress"]
+  },
+  "entj": {
+    "type": "ENTJ",
+    "name": "Commander",
+    "description": "ENTJs are natural leaders who are decisive, bold, and charismatic. They love challenges and achieve goals efficiently.",
+    "traits": { "extravert": 85, "intuitive": 80, "thinking": 90, "judging": 85 },
+    "strengths": ["Great Leader", "Confident", "Goal-oriented"],
+    "weaknesses": ["Dominant", "Impatient"]
+  },
+  "enfj": {
+    "type": "ENFJ",
+    "name": "Protagonist",
+    "description": "ENFJs are charismatic educators and mentors. They can see the best potential in others and are full of empathy.",
+    "traits": { "extravert": 80, "intuitive": 75, "feeling": 85, "judging": 75 },
+    "strengths": ["High Empathy", "Charismatic", "Inspiring"],
+    "weaknesses": ["Too Caring", "Social Burnout"]
+  },
+  "istj": {
+    "type": "ISTJ",
+    "name": "Logistician",
+    "description": "ISTJs are practical, structured, and responsible individuals. They rely on facts and order.",
+    "traits": { "introvert": 75, "sensing": 80, "thinking": 85, "judging": 90 },
+    "strengths": ["Disciplined", "Loyal", "Detail-oriented"],
+    "weaknesses": ["Rigid", "Inflexible"]
+  },
+  "isfj": {
+    "type": "ISFJ",
+    "name": "Defender",
+    "description": "ISFJs are warm, attentive protectors. They are very loyal and ready to help those around them.",
+    "traits": { "introvert": 70, "sensing": 75, "feeling": 85, "judging": 80 },
+    "strengths": ["Loyal", "Attentive", "Hardworking"],
+    "weaknesses": ["Too Altruistic", "Difficulty Saying No"]
+  },
+  "estj": {
+    "type": "ESTJ",
+    "name": "Executive",
+    "description": "ESTJs are capable administrators who like rules and structure. They are very efficient in carrying out tasks.",
+    "traits": { "extravert": 75, "sensing": 80, "thinking": 85, "judging": 90 },
+    "strengths": ["Efficient Leader", "Hardworking", "Practical"],
+    "weaknesses": ["Rigid toward Change", "Too Critical"]
+  },
+  "esfj": {
+    "type": "ESFJ",
+    "name": "Consul",
+    "description": "ESFJs are sociable and caring people. They highly value harmony and are popular in social settings.",
+    "traits": { "extravert": 85, "sensing": 70, "feeling": 80, "judging": 75 },
+    "strengths": ["Friendly", "Caring", "Good Organizer"],
+    "weaknesses": ["Too Dependent on Recognition", "Avoids Conflict"]
+  },
+  "istp": {
+    "type": "ISTP",
+    "name": "Virtuoso",
+    "description": "ISTPs are quiet, analytical observers. They excel at understanding how things work and enjoy practical challenges.",
+    "traits": { "introvert": 75, "sensing": 80, "thinking": 80, "perceiving": 70 },
+    "strengths": ["Technically Creative", "Adaptive", "Independent"],
+    "weaknesses": ["Difficulty Committing", "Not Too Emotional"]
+  },
+  "isfp": {
+    "type": "ISFP",
+    "name": "Adventurer",
+    "description": "ISFPs are gentle, imaginative artists who appreciate beauty. They live by strong personal values.",
+    "traits": { "introvert": 70, "sensing": 75, "feeling": 80, "perceiving": 75 },
+    "strengths": ["Creative", "Empathetic", "Flexible"],
+    "weaknesses": ["Too Sensitive", "Difficulty Making Quick Decisions"]
+  },
+  "estp": {
+    "type": "ESTP",
+    "name": "Entrepreneur",
+    "description": "ESTPs are energetic, spontaneous risk-takers. They are responsive, good at negotiating, and love direct action.",
+    "traits": { "extravert": 85, "sensing": 80, "thinking": 75, "perceiving": 80 },
+    "strengths": ["Bold", "Quick to Act", "Easygoing"],
+    "weaknesses": ["Impulsive", "Easily Bored"]
+  },
+  "esfp": {
+    "type": "ESFP",
+    "name": "Entertainer",
+    "description": "ESFPs are natural entertainers who are cheerful and full of energy. They love new experiences and sharing joy.",
+    "traits": { "extravert": 90, "sensing": 75, "feeling": 80, "perceiving": 80 },
+    "strengths": ["Spontaneous", "Friendly", "Good at Entertaining"],
+    "weaknesses": ["Easily Bored", "Lacks Discipline"]
+  },
+  "intp": {
+    "type": "INTP",
+    "name": "Logician",
+    "description": "INTPs are innovative thinkers who love finding patterns and theories. They are very analytical and often lost in thought.",
+    "traits": { "introvert": 85, "intuitive": 85, "thinking": 85, "perceiving": 80 },
+    "strengths": ["Analytical", "Innovative", "Abstractly Creative"],
+    "weaknesses": ["Difficulty Socializing", "Too Perfectionist"]
+  },
+  "infp": {
+    "type": "INFP",
+    "name": "Mediator",
+    "description": "INFPs are idealists loyal to their values and loved ones. They are drawn to deep meaning and harmony.",
+    "traits": { "introvert": 75, "intuitive": 85, "feeling": 85, "perceiving": 75 },
+    "strengths": ["Empathetic", "Creative", "True to Principles"],
+    "weaknesses": ["Too Idealistic", "Prone to Overthinking"]
+  },
+  "entp": {
+    "type": "ENTP",
+    "name": "Innovator",
+    "description": "ENTPs are intelligent, debate-loving thinkers. They are full of new ideas and skilled at solving complex problems.",
+    "traits": { "extravert": 80, "intuitive": 90, "thinking": 80, "perceiving": 85 },
+    "strengths": ["Creative", "Good at Arguing", "Broad-minded"],
+    "weaknesses": ["Lacks Focus", "Often Teasing"]
+  },
+  "enfp": {
+    "type": "ENFP",
+    "name": "Campaigner",
+    "description": "ENFPs are enthusiastic, imaginative dreamers. They see life as a stage of possibilities.",
+    "traits": { "extravert": 85, "intuitive": 85, "feeling": 75, "perceiving": 85 },
+    "strengths": ["Creative", "Energetic", "Easygoing"],
+    "weaknesses": ["Difficulty Focusing", "Too Emotional"]
+  }
+}{
+  "intj": {
+    "type": "INTJ",
+    "name": "Arsitek",
+    "description": "INTJ adalah pemikir strategis yang imajinatif dan memiliki rencana untuk segalanya. Mereka mandiri, percaya diri, dan suka bekerja sendiri.",
+    "traits": { "introvert": 80, "intuitive": 90, "thinking": 85, "judging": 75 },
+    "strengths": ["Pemikir Strategis", "Mandiri", "Percaya Diri"],
+    "weaknesses": ["Terlalu Perfeksionis", "Sulit Mengekspresikan Emosi"]
+  },
+  "infj": {
+    "type": "INFJ",
+    "name": "Advokat",
+    "description": "INFJ adalah idealis yang pendiam dan misterius, namun mampu menginspirasi orang lain. Mereka memiliki visi kuat dan sangat peduli pada makna hidup.",
+    "traits": { "introvert": 70, "intuitive": 95, "feeling": 80, "judging": 70 },
+    "strengths": ["Visioner", "Kreatif", "Penuh Inspirasi"],
+    "weaknesses": ["Perfeksionis", "Rentan Stres"]
+  },
+  "entj": {
+    "type": "ENTJ",
+    "name": "Komandan",
+    "description": "ENTJ adalah pemimpin alami yang tegas, berani, dan berkarisma. Mereka suka tantangan dan mencapai tujuan dengan efisien.",
+    "traits": { "extravert": 85, "intuitive": 80, "thinking": 90, "judging": 85 },
+    "strengths": ["Pemimpin Hebat", "Percaya Diri", "Berorientasi Tujuan"],
+    "weaknesses": ["Dominan", "Tidak Sabar"]
+  },
+  "enfj": {
+    "type": "ENFJ",
+    "name": "Protagonis",
+    "description": "ENFJ adalah pendidik dan pembimbing yang karismatik. Mereka mampu melihat potensi terbaik orang lain dan penuh empati.",
+    "traits": { "extravert": 80, "intuitive": 75, "feeling": 85, "judging": 75 },
+    "strengths": ["Empati Tinggi", "Karismatik", "Menginspirasi"],
+    "weaknesses": ["Terlalu Peduli", "Kelelahan Sosial"]
+  },
+  "istj": {
+    "type": "ISTJ",
+    "name": "Logistik",
+    "description": "ISTJ adalah individu yang praktis, terstruktur, dan penuh tanggung jawab. Mereka mengandalkan fakta dan keteraturan.",
+    "traits": { "introvert": 75, "sensing": 80, "thinking": 85, "judging": 90 },
+    "strengths": ["Disiplin", "Setia", "Teliti"],
+    "weaknesses": ["Kaku", "Kurang Fleksibel"]
+  },
+  "isfj": {
+    "type": "ISFJ",
+    "name": "Pembela",
+    "description": "ISFJ adalah pelindung yang hangat dan penuh perhatian. Mereka sangat setia dan siap membantu orang di sekitarnya.",
+    "traits": { "introvert": 70, "sensing": 75, "feeling": 85, "judging": 80 },
+    "strengths": ["Setia", "Perhatian", "Pekerja Keras"],
+    "weaknesses": ["Terlalu Altruis", "Sulit Berkata Tidak"]
+  },
+  "estj": {
+    "type": "ESTJ",
+    "name": "Eksekutif",
+    "description": "ESTJ adalah administrator yang handal, menyukai aturan dan struktur. Mereka sangat efisien dalam menjalankan tugas.",
+    "traits": { "extravert": 75, "sensing": 80, "thinking": 85, "judging": 90 },
+    "strengths": ["Pemimpin yang Efisien", "Pekerja Keras", "Praktis"],
+    "weaknesses": ["Kaku terhadap Perubahan", "Terlalu Kritis"]
+  },
+  "esfj": {
+    "type": "ESFJ",
+    "name": "Konsul",
+    "description": "ESFJ adalah orang yang supel dan peduli. Mereka sangat menghargai keharmonisan dan populer di lingkungan sosial.",
+    "traits": { "extravert": 85, "sensing": 70, "feeling": 80, "judging": 75 },
+    "strengths": ["Ramah", "Peduli", "Organisator Baik"],
+    "weaknesses": ["Terlalu Bergantung pada Pengakuan", "Menghindari Konflik"]
+  },
+  "istp": {
+    "type": "ISTP",
+    "name": "Virtuoso",
+    "description": "ISTP adalah pengamat yang tenang dan analitis. Mereka unggul dalam memahami cara kerja sesuatu dan menyukai tantangan praktis.",
+    "traits": { "introvert": 75, "sensing": 80, "thinking": 80, "perceiving": 70 },
+    "strengths": ["Kreatif secara Teknis", "Adaptif", "Mandiri"],
+    "weaknesses": ["Sulit Berkomitmen", "Tidak Terlalu Emosional"]
+  },
+  "isfp": {
+    "type": "ISFP",
+    "name": "Petualang",
+    "description": "ISFP adalah seniman yang lembut, penuh imajinasi, dan menghargai keindahan. Mereka hidup dengan nilai pribadi yang kuat.",
+    "traits": { "introvert": 70, "sensing": 75, "feeling": 80, "perceiving": 75 },
+    "strengths": ["Kreatif", "Penuh Empati", "Fleksibel"],
+    "weaknesses": ["Terlalu Sensitif", "Sulit Membuat Keputusan Cepat"]
+  },
+  "estp": {
+    "type": "ESTP",
+    "name": "Entrepreneur",
+    "description": "ESTP adalah pengambil risiko yang enerjik dan spontan. Mereka tanggap, pandai bernegosiasi, dan suka aksi langsung.",
+    "traits": { "extravert": 85, "sensing": 80, "thinking": 75, "perceiving": 80 },
+    "strengths": ["Berani", "Cepat Bertindak", "Mudah Bergaul"],
+    "weaknesses": ["Impulsif", "Mudah Bosan"]
+  },
+  "esfp": {
+    "type": "ESFP",
+    "name": "Penghibur",
+    "description": "ESFP adalah penghibur alami yang ceria dan penuh semangat. Mereka mencintai pengalaman baru dan berbagi kebahagiaan.",
+    "traits": { "extravert": 90, "sensing": 75, "feeling": 80, "perceiving": 80 },
+    "strengths": ["Spontan", "Ramah", "Pandai Menghibur"],
+    "weaknesses": ["Mudah Bosan", "Kurang Disiplin"]
+  },
+  "intp": {
+    "type": "INTP",
+    "name": "Logikus",
+    "description": "INTP adalah pemikir inovatif yang suka menemukan pola dan teori. Mereka sangat analitis dan sering tenggelam dalam pikirannya sendiri.",
+    "traits": { "introvert": 85, "intuitive": 85, "thinking": 85, "perceiving": 80 },
+    "strengths": ["Analitis", "Inovatif", "Kreatif secara Abstrak"],
+    "weaknesses": ["Sulit Bersosialisasi", "Terlalu Perfeksionis"]
+  },
+  "infp": {
+    "type": "INFP",
+    "name": "Mediator",
+    "description": "INFP adalah idealis yang setia pada nilai dan orang yang mereka cintai. Mereka tertarik pada makna mendalam dan harmoni.",
+    "traits": { "introvert": 75, "intuitive": 85, "feeling": 85, "perceiving": 75 },
+    "strengths": ["Berempati", "Kreatif", "Setia pada Prinsip"],
+    "weaknesses": ["Terlalu Idealis", "Rentan Overthinking"]
+  },
+  "entp": {
+    "type": "ENTP",
+    "name": "Inovator",
+    "description": "ENTP adalah pemikir yang cerdas dan suka berdebat. Mereka penuh ide baru dan terampil dalam memecahkan masalah rumit.",
+    "traits": { "extravert": 80, "intuitive": 90, "thinking": 80, "perceiving": 85 },
+    "strengths": ["Kreatif", "Pandai Berargumen", "Berwawasan Luas"],
+    "weaknesses": ["Kurang Fokus", "Sering Menggoda"]
+  },
+  "enfp": {
+    "type": "ENFP",
+    "name": "Kampanye",
+    "description": "ENFP adalah pemimpi yang antusias dan penuh imajinasi. Mereka melihat hidup sebagai panggung kemungkinan.",
+    "traits": { "extravert": 85, "intuitive": 85, "feeling": 75, "perceiving": 85 },
+    "strengths": ["Kreatif", "Bersemangat", "Mudah Bergaul"],
+    "weaknesses": ["Sulit Fokus", "Terlalu Emosional"]
+  }
+}

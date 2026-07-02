@@ -1,0 +1,97 @@
+{
+  "title": "Local Culture",
+  "icon": "📜",
+  "desc": "Nusantara ancestral wisdom, Javanese Weton, Balinese Pawukon, and Primbon predictions.",
+  "bgGradient": "from-amber-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-amber-500/10",
+  "features": [
+    {
+      "name": "Javanese Weton",
+      "id": "weton",
+      "info": "Calculate neptu & Javanese character",
+      "time": "2 min",
+      "q": "Calculator",
+      "icon": "📅"
+    },
+    {
+      "name": "Soulmate Primbon",
+      "id": "primbon-jodoh",
+      "info": "Future partner compatibility",
+      "time": "3 min",
+      "q": "Primbon",
+      "icon": "💍"
+    },
+    {
+      "name": "Wedding Date Selector",
+      "id": "hari-baik-nikah",
+      "info": "Find your sacred wedding date",
+      "time": "5 min",
+      "q": "Calculation",
+      "icon": "📆"
+    },
+    {
+      "name": "Dream Interpretation",
+      "id": "arti-mimpi",
+      "info": "Hidden meanings of your dreams",
+      "time": "Instant",
+      "q": "Search",
+      "icon": "🌙"
+    },
+    {
+      "name": "Javanese Neptu",
+      "id": "neptu",
+      "info": "Calendar day & market values",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "🔢"
+    },
+    {
+      "name": "Birth Character",
+      "id": "watak-kelahiran",
+      "info": "Dominant traits based on weton",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "👶"
+    },
+    {
+      "name": "Wealth Direction",
+      "id": "arah-rezeki",
+      "info": "Cardinal direction for fortune",
+      "time": "2 min",
+      "q": "Calculation",
+      "icon": "🧭"
+    },
+    {
+      "name": "Javanese Baby Names",
+      "id": "nama-bayi-jawa",
+      "info": "Meaningful name recommendations",
+      "time": "Instant",
+      "q": "Generator",
+      "icon": "🍼"
+    },
+    {
+      "name": "Pasaran Cycle",
+      "id": "hari-pasaran",
+      "info": "Pahing, Pon, Wage, Legi, Kliwon",
+      "time": "Instant",
+      "q": "Database",
+      "icon": "🗓️"
+    },
+    {
+      "name": "Javanese Calendar",
+      "id": "kalender-jawa",
+      "info": "Javanese dates & important days",
+      "time": "Instant",
+      "q": "Calendar",
+      "icon": "📅"
+    },
+    {
+      "name": "Balinese Calendar",
+      "id": "kalender-bali",
+      "info": "Pawukon & Sasih system",
+      "time": "Instant",
+      "q": "Calendar",
+      "icon": "🌺"
+    }
+  ]
+}

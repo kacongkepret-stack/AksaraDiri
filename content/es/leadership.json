@@ -1,0 +1,458 @@
+{
+  "title": "Estilo de Liderazgo",
+  "description": "Descubre tu estilo de liderazgo natural.",
+  "timeEstimation": "15 Minutos",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "ls1",
+      "question": "Cuando lideras un equipo, lo primero que haces es...",
+      "options": [
+        { "text": "Comunicar una gran visión inspiradora", "type": "V" },
+        { "text": "Reconocer las fortalezas individuales de cada miembro", "type": "C" },
+        { "text": "Establecer reglas y objetivos claros", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls2",
+      "question": "Cuando surge un conflicto, tú...",
+      "options": [
+        { "text": "Guias hacia una solución alineada con la visión", "type": "V" },
+        { "text": "Actúas como mediador y escuchas a todas las partes", "type": "C" },
+        { "text": "Tomas una decisión firme por el bien de la eficiencia", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls3",
+      "question": "Un miembro del equipo no alcanza un objetivo. Tú...",
+      "options": [
+        { "text": "Le recuerdas la importancia de su contribución a la visión", "type": "V" },
+        { "text": "Lo guías para mejorar sus habilidades", "type": "C" },
+        { "text": "Evalúas y das consecuencias claras", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls4",
+      "question": "En una reunión, prefieres...",
+      "options": [
+        { "text": "Motivar e inspirar al equipo", "type": "V" },
+        { "text": "Asegurarte de que todos tengan oportunidad de hablar", "type": "C" },
+        { "text": "Ir al grano y tomar decisiones", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls5",
+      "question": "Eres respetado/a por...",
+      "options": [
+        { "text": "Tus grandes ideas", "type": "V" },
+        { "text": "Tu cuidado por el desarrollo del equipo", "type": "C" },
+        { "text": "Tu firmeza y resultados", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls6",
+      "question": "Cuando enfrentas un gran cambio, tú...",
+      "options": [
+        { "text": "Lo ves como una oportunidad para una nueva visión", "type": "V" },
+        { "text": "Te aseguras de que todos estén cómodos con el cambio", "type": "C" },
+        { "text": "Haces un plan de acción detallado y medible", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls7",
+      "question": "¿Cómo das recompensas?",
+      "options": [
+        { "text": "Reconocimiento público e historias inspiradoras", "type": "V" },
+        { "text": "Regalos personalizados según sus intereses", "type": "C" },
+        { "text": "Bonos o ascensos basados en métricas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls8",
+      "question": "Bajo alta presión, tú...",
+      "options": [
+        { "text": "Te mantienes enfocado en el panorama general", "type": "V" },
+        { "text": "Te aseguras de la salud mental del equipo", "type": "C" },
+        { "text": "Aumentas la intensidad y la disciplina", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls9",
+      "question": "Para decisiones importantes, tú...",
+      "options": [
+        { "text": "Involucras al equipo para alinearlos con la visión", "type": "V" },
+        { "text": "Escuchas las aportaciones de todos antes de decidir", "type": "C" },
+        { "text": "Decides solo/a con datos y lógica", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls10",
+      "question": "Tu equipo está desmotivado, tú...",
+      "options": [
+        { "text": "Cuentas historias de éxito y la gran visión", "type": "V" },
+        { "text": "Buscas la causa y das apoyo personal", "type": "C" },
+        { "text": "Das nuevos plazos y desafíos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls11",
+      "question": "Un nuevo miembro del equipo necesita orientación, tú...",
+      "options": [
+        { "text": "Explicas la visión y le dejas encontrar su propio camino", "type": "V" },
+        { "text": "Lo guías paso a paso con paciencia", "type": "C" },
+        { "text": "Das POE claros y objetivos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls12",
+      "question": "¿De qué te sientes más orgulloso/a como líder?",
+      "options": [
+        { "text": "El impacto y el cambio que hicimos", "type": "V" },
+        { "text": "El crecimiento individual dentro de mi equipo", "type": "C" },
+        { "text": "Los objetivos y resultados que alcanzamos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls13",
+      "question": "Cuando un miembro del equipo tiene una nueva idea, tú...",
+      "options": [
+        { "text": "Ves si se alinea con la visión", "type": "V" },
+        { "text": "Aprecias y animas a desarrollarla", "type": "C" },
+        { "text": "Evalúas con datos antes de aceptar", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls14",
+      "question": "Eres más adecuado/a para liderar un equipo que...",
+      "options": [
+        { "text": "Necesita dirección e inspiración", "type": "V" },
+        { "text": "Necesita desarrollo y apoyo", "type": "C" },
+        { "text": "Necesita estructura y eficiencia", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls15",
+      "question": "El legado de liderazgo que quieres dejar...",
+      "options": [
+        { "text": "Una gran visión que cambia la industria", "type": "V" },
+        { "text": "Grandes personas que ayudé a crecer", "type": "C" },
+        { "text": "Sistemas y resultados que perduran", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls16",
+      "question": "Cuando delegas una tarea importante, tu enfoque es...",
+      "options": [
+        { "text": "Delegas el resultado final y les dejas ser creativos", "type": "V" },
+        { "text": "Eliges a la persona que más necesita aprender eso para crecer", "type": "C" },
+        { "text": "Das instrucciones detalladas y un plazo estricto", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls17",
+      "question": "Cuando reclutas nuevos miembros del equipo, buscas sobre todo...",
+      "options": [
+        { "text": "Su pasión y creencia en la misión de la empresa", "type": "V" },
+        { "text": "Actitud, empatía y encaje cultural con el equipo", "type": "C" },
+        { "text": "Historial, habilidades técnicas y portafolio sólido", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls18",
+      "question": "El lunes por la mañana, empiezas la semana...",
+      "options": [
+        { "text": "Dando un breve discurso motivador para activar al equipo", "type": "V" },
+        { "text": "Saludando a todos y preguntando por su fin de semana", "type": "C" },
+        { "text": "Revisando inmediatamente los objetivos semanales y repartiendo tareas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls19",
+      "question": "Si la empresa tiene que hacer recortes presupuestarios...",
+      "options": [
+        { "text": "Aprovechas este momento para innovar y cambiar la estrategia", "type": "V" },
+        { "text": "Intentas proteger el bienestar y las instalaciones de los empleados", "type": "C" },
+        { "text": "Recortas ineficiencias con firmeza y rapidez sin dudar", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls20",
+      "question": "Un proyecto va con retraso. Tú...",
+      "options": [
+        { "text": "Recuerdas de nuevo lo importante que es este proyecto para el futuro", "type": "V" },
+        { "text": "Compruebas si el equipo está agotado y ayudas a superar sus obstáculos", "type": "C" },
+        { "text": "Pides horas extra y reorganizas el proceso para que sea más rápido", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls21",
+      "question": "Para ti, la definición de 'éxito' en un proyecto es...",
+      "options": [
+        { "text": "Crear un nuevo avance en el mercado", "type": "V" },
+        { "text": "Un equipo sólido, feliz y que aprende muchas cosas nuevas", "type": "C" },
+        { "text": "Alcanzar o superar los KPI y los objetivos de ingresos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls22",
+      "question": "Al organizar un evento de team building, eliges...",
+      "options": [
+        { "text": "Un hackathon o una sesión de tablero de visión", "type": "V" },
+        { "text": "Un retiro relajante o una sesión profunda de intercambio", "type": "C" },
+        { "text": "Deportes competitivos o una sala de escape que active la adrenalina", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls23",
+      "question": "Tu mayor debilidad como líder podría ser...",
+      "options": [
+        { "text": "A menudo pasas por alto pequeños detalles técnicos", "type": "V" },
+        { "text": "Demasiado blando/a y a menudo evitas conflictos", "type": "C" },
+        { "text": "Demasiado duro/a, exigente y con poca empatía", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls24",
+      "question": "Hay un miembro del equipo brillante (de alto rendimiento) pero con actitud tóxica...",
+      "options": [
+        { "text": "Intentas realinear sus valores con la misión de la empresa", "type": "V" },
+        { "text": "Realizas una sesión de consejería profunda para encontrar la raíz de su comportamiento", "type": "C" },
+        { "text": "Le das una advertencia o lo despides si arruina la eficiencia del equipo", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls25",
+      "question": "Cuando alguien rompe las reglas de la oficina...",
+      "options": [
+        { "text": "Evalúas si la regla está anticuada y necesita ser cambiada", "type": "V" },
+        { "text": "Le preguntas en privado por qué lo hizo", "type": "C" },
+        { "text": "Aplicas sanciones según el manual para ser justo", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls26",
+      "question": "Enfrentar rumores negativos o chismes en la oficina...",
+      "options": [
+        { "text": "Convocas una reunión general para hablar con transparencia y aclarar la visión", "type": "V" },
+        { "text": "Te acercas a las partes involucradas personalmente para calmar el ambiente", "type": "C" },
+        { "text": "Envías un correo electrónico firme recordando la profesionalidad en el trabajo", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls27",
+      "question": "Si un empleado estrella renuncia...",
+      "options": [
+        { "text": "Le recuerdas los sueños que aún no hemos alcanzado juntos", "type": "V" },
+        { "text": "Le preguntas si hay algo que puedas hacer por su futura carrera", "type": "C" },
+        { "text": "Lo aceptas e inmediatamente le pides que prepare los documentos de transferencia", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls28",
+      "question": "Tu política de puerta de oficina es...",
+      "options": [
+        { "text": "Abierta en cualquier momento para ideas locas e innovación", "type": "V" },
+        { "text": "Abierta en cualquier momento para desahogarse o problemas personales", "type": "C" },
+        { "text": "Cerrada cuando estás concentrado/a, abierta solo para asuntos urgentes", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls29",
+      "question": "La cultura de trabajo que quieres construir es...",
+      "options": [
+        { "text": "Audaz, innovadora y que rompe límites", "type": "V" },
+        { "text": "Inclusiva, solidaria y familiar", "type": "C" },
+        { "text": "Competitiva, muy disciplinada y orientada a resultados", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls30",
+      "question": "Cuando un subordinado pregunta algo que no sabes...",
+      "options": [
+        { "text": "Lo enmarcas como 'un misterio que debemos resolver juntos'", "type": "V" },
+        { "text": "Pides ayuda y opinión al equipo abiertamente", "type": "C" },
+        { "text": "Pides un momento para investigarlo y dar una respuesta definitiva", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls31",
+      "question": "La analogía de tu función en la empresa es como...",
+      "options": [
+        { "text": "Un capitán que dirige el barco hacia un nuevo continente", "type": "V" },
+        { "text": "Un jardinero que cuida las plantas hasta que dan fruto", "type": "C" },
+        { "text": "Un general que lidera tropas hacia la victoria", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls32",
+      "question": "Si una reunión está demasiado callada, harás...",
+      "options": [
+        { "text": "Lanzar una idea provocativa para que empiecen a debatir con entusiasmo", "type": "V" },
+        { "text": "Nombrar a cada persona suavemente para pedir su opinión", "type": "C" },
+        { "text": "Asumir que todos están de acuerdo y cerrar la reunión", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls33",
+      "question": "Tu opinión sobre el fracaso es...",
+      "options": [
+        { "text": "Un trampolín hacia un descubrimiento mayor", "type": "V" },
+        { "text": "Un momento valioso para aprender y madurar al equipo", "type": "C" },
+        { "text": "Un desperdicio de recursos que debe evitarse en la medida de lo posible", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls34",
+      "question": "Cuando un empleado llega tarde a menudo...",
+      "options": [
+        { "text": "Le preguntas si ha perdido la pasión por nuestra visión", "type": "V" },
+        { "text": "Compruebas si tiene problemas personales en casa", "type": "C" },
+        { "text": "Le das una carta de advertencia por violar la disciplina", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls35",
+      "question": "Tu estilo de comunicación más fuerte es...",
+      "options": [
+        { "text": "Grandes presentaciones carismáticas", "type": "V" },
+        { "text": "Sesiones profundas uno a uno", "type": "C" },
+        { "text": "Correos/memos cortos, concisos y directos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls36",
+      "question": "Cuando dos departamentos se echan la culpa mutuamente...",
+      "options": [
+        { "text": "Los reúnes y les recuerdas el objetivo final compartido", "type": "V" },
+        { "text": "Actúas como facilitador para que se tengan empatía mutua", "type": "C" },
+        { "text": "Aclaras los límites de los POE y SLA entre divisiones por escrito", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls37",
+      "question": "Lo que te quita el sueño es...",
+      "options": [
+        { "text": "El temor de que la empresa se quede atrás en las tendencias de innovación", "type": "V" },
+        { "text": "Pensar en algún miembro del equipo que podría estar infeliz/estresado", "type": "C" },
+        { "text": "La ansiedad por no cumplir el objetivo de fin de trimestre", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls38",
+      "question": "Cuando recibes a un gran cliente nuevo...",
+      "options": [
+        { "text": "Presentas los sueños y el gran impacto que lograremos juntos", "type": "V" },
+        { "text": "Construyes relaciones personales y confianza sólida", "type": "C" },
+        { "text": "Presentas cronogramas detallados, estructuras de costos y métricas", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls39",
+      "question": "Al monitorear el trabajo remoto (teletrabajo)...",
+      "options": [
+        { "text": "A menudo realizas reuniones virtuales para mantener la moral", "type": "V" },
+        { "text": "Llamas más a menudo para preguntar cómo están", "type": "C" },
+        { "text": "Usas software de seguimiento estricto e informes diarios", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls40",
+      "question": "Si el equipo celebra una pequeña victoria...",
+      "options": [
+        { "text": "Aprovechas la euforia para desafiarlos con un objetivo más grande", "type": "V" },
+        { "text": "Los invitas a comer algo informal para fortalecer los lazos", "type": "C" },
+        { "text": "Das un breve elogio y luego vuelves a centrarte en el objetivo principal", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls41",
+      "question": "Al elegir una herramienta de gestión de proyectos...",
+      "options": [
+        { "text": "Eliges una herramienta con una interfaz futurista y atractiva", "type": "V" },
+        { "text": "Eliges la herramienta más fácil de aprender para todo el equipo", "type": "C" },
+        { "text": "Eliges una herramienta con las mejores funciones de análisis e informes", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls42",
+      "question": "Cuando estás muy estresado/a como líder...",
+      "options": [
+        { "text": "Te aíslas para imaginar una mejor visión de futuro", "type": "V" },
+        { "text": "Buscas un amigo o mentor de confianza para desahogarte", "type": "C" },
+        { "text": "Te vuelves loco/a con el trabajo y aumentas las horas laborales", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls43",
+      "question": "Te decepcionará mucho si un miembro del equipo es...",
+      "options": [
+        { "text": "Pesimista, cínico y no cree en el objetivo común", "type": "V" },
+        { "text": "Egoísta, socava a los demás y no quiere compartir conocimientos", "type": "C" },
+        { "text": "Perezoso, pone excusas y no alcanza los KPI", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls44",
+      "question": "Una idea brillante es rechazada por inversores/jefe...",
+      "options": [
+        { "text": "Sigues creyendo que es una buena idea y buscas otra forma de realizarla", "type": "V" },
+        { "text": "Consuelas al equipo decepcionado y les aseguras que lo intentamos", "type": "C" },
+        { "text": "Analizas las razones del rechazo y revisas los números/datos", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls45",
+      "question": "¿Cómo te posicionas en una foto de equipo?",
+      "options": [
+        { "text": "En el medio o un poco adelante como símbolo de liderazgo", "type": "V" },
+        { "text": "En el borde o detrás para que el equipo destaque", "type": "C" },
+        { "text": "En cualquier lugar siempre que la formación se vea ordenada y simétrica", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls46",
+      "question": "El objetivo final de tu liderazgo es...",
+      "options": [
+        { "text": "Dejar un legado reconocido por el mundo", "type": "V" },
+        { "text": "Producir nuevos líderes aún más grandes que yo", "type": "C" },
+        { "text": "Dominar el mercado y ser el más rentable", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls47",
+      "question": "Cuando tienes que despedir a alguien...",
+      "options": [
+        { "text": "Explicas que es un paso difícil para salvar el barco", "type": "V" },
+        { "text": "Das empatía, la mejor indemnización y lo recomiendas a otro lugar", "type": "C" },
+        { "text": "Lo haces profesionalmente, rápido y sin demasiado drama emocional", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls48",
+      "question": "Tus libros o programas favoritos suelen ser del género...",
+      "options": [
+        { "text": "Biografías de grandes figuras o predicciones de tendencias futuras", "type": "V" },
+        { "text": "Psicología, inteligencia emocional o autoayuda", "type": "C" },
+        { "text": "Estrategia empresarial, finanzas o tácticas militares", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls49",
+      "question": "Un cliente se queja en voz alta a tu equipo...",
+      "options": [
+        { "text": "Tranquilizas al cliente con promesas de mejor calidad", "type": "V" },
+        { "text": "Calmas al cliente y te aseguras de que la salud mental del equipo no decaiga", "type": "C" },
+        { "text": "Buscas inmediatamente la raíz del problema técnico y lo arreglas ese mismo día", "type": "D" }
+      ]
+    },
+    {
+      "id": "ls50",
+      "question": "¿Cuál es el mejor consejo que le darías a un joven líder?",
+      "options": [
+        { "text": "Nunca temas soñar demasiado", "type": "V" },
+        { "text": "Cuida a tu gente, y ellos cuidarán de tu negocio", "type": "C" },
+        { "text": "Concéntrate en los números y no dejes que los sentimientos superen a la lógica", "type": "D" }
+      ]
+    }
+  ]
+}

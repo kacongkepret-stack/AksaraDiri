@@ -1,0 +1,458 @@
+{
+  "title": "Attachment Style",
+  "description": "Discover your attachment style in relationships. Choose the most honest answer that describes you.",
+  "timeEstimation": "15 Minutes",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "as1",
+      "question": "When your partner doesn't reply to your message immediately, you...",
+      "options": [
+        { "text": "It's fine, they must be busy", "type": "S" },
+        { "text": "Worry, overthink, and check your phone repeatedly", "type": "A" },
+        { "text": "Don't care, you also rarely reply quickly", "type": "V" }
+      ]
+    },
+    {
+      "id": "as2",
+      "question": "An ideal partner in your opinion is someone who...",
+      "options": [
+        { "text": "Gives freedom and balanced trust", "type": "S" },
+        { "text": "Is always there, responsive, and gives full attention", "type": "A" },
+        { "text": "Isn't too demanding and highly respects privacy", "type": "V" }
+      ]
+    },
+    {
+      "id": "as3",
+      "question": "When facing a conflict with your partner, you prefer to...",
+      "options": [
+        { "text": "Discuss the problem calmly until it's resolved", "type": "S" },
+        { "text": "Be very emotional, cry, and want to make up right away", "type": "A" },
+        { "text": "Withdraw, give the silent treatment, and need time alone", "type": "V" }
+      ]
+    },
+    {
+      "id": "as4",
+      "question": "How do you feel when you're single?",
+      "options": [
+        { "text": "Comfortable, I can enjoy my time alone well", "type": "S" },
+        { "text": "Restless, lonely, and feel like something is missing in life", "type": "A" },
+        { "text": "Very relieved, I prefer freedom over being tied down", "type": "V" }
+      ]
+    },
+    {
+      "id": "as5",
+      "question": "When someone tries to get too emotionally close to you, you...",
+      "options": [
+        { "text": "Feel happy, that process feels natural to build a connection", "type": "S" },
+        { "text": "Get very enthusiastic, you are hungry for closeness and validation", "type": "A" },
+        { "text": "Feel awkward, slowly retreat because you feel you're losing private space", "type": "V" }
+      ]
+    },
+    {
+      "id": "as6",
+      "question": "Your general level of trust in your partner is...",
+      "options": [
+        { "text": "High, I trust them until proven otherwise", "type": "S" },
+        { "text": "Fluctuating, I am often suspicious and need constant reassurance", "type": "A" },
+        { "text": "Low, I find it hard to fully trust anyone but myself", "type": "V" }
+      ]
+    },
+    {
+      "id": "as7",
+      "question": "When your partner wants to spend time with their friends without you, you...",
+      "options": [
+        { "text": "Fully support it, having your own social life is healthy", "type": "S" },
+        { "text": "Feel jealous and abandoned, 'why not take me?'", "type": "A" },
+        { "text": "Feel relieved, that means you also have time for yourself", "type": "V" }
+      ]
+    },
+    {
+      "id": "as8",
+      "question": "How do you express love?",
+      "options": [
+        { "text": "Openly and naturally, I easily say 'I love you'", "type": "S" },
+        { "text": "Very intensely, but I always demand the same affirmation back", "type": "A" },
+        { "text": "Verbally difficult, I prefer to keep a safe distance", "type": "V" }
+      ]
+    },
+    {
+      "id": "as9",
+      "question": "When a relationship ends, your main reaction is...",
+      "options": [
+        { "text": "Sad, process the heartbreak appropriately, then move on", "type": "S" },
+        { "text": "Shattered, feel like the world is ending, and beg to get back together", "type": "A" },
+        { "text": "Act cold, move on quickly, and convince yourself you're fine", "type": "V" }
+      ]
+    },
+    {
+      "id": "as10",
+      "question": "In your opinion, emotional dependence on a partner is...",
+      "options": [
+        { "text": "Normal within healthy limits (interdependent)", "type": "S" },
+        { "text": "Very important, I need them to feel whole and secure", "type": "A" },
+        { "text": "A sign of weakness, I refuse to depend on anyone", "type": "V" }
+      ]
+    },
+    {
+      "id": "as11",
+      "question": "When your partner is very sad or stressed, you...",
+      "options": [
+        { "text": "Listen, be emotionally present, and offer support", "type": "S" },
+        { "text": "Panic a lot, get stressed too, and feel it might be your fault", "type": "A" },
+        { "text": "Feel awkward and prefer to give them space", "type": "V" }
+      ]
+    },
+    {
+      "id": "as12",
+      "question": "When you are the one feeling down, you hope your partner will...",
+      "options": [
+        { "text": "Be by my side and willing to listen to my complaints", "type": "S" },
+        { "text": "Drop everything to comfort me right away", "type": "A" },
+        { "text": "Not interfere too much, I can handle it myself", "type": "V" }
+      ]
+    },
+    {
+      "id": "as13",
+      "question": "How do you define an ideal relationship?",
+      "options": [
+        { "text": "Two independent individuals who complement each other and grow together", "type": "S" },
+        { "text": "Two souls completely merged with no secrets", "type": "A" },
+        { "text": "Two people living together but maintaining absolute independence", "type": "V" }
+      ]
+    },
+    {
+      "id": "as14",
+      "question": "When you feel doubtful or insecure in a relationship, you...",
+      "options": [
+        { "text": "Talk about it honestly and openly with your partner", "type": "S" },
+        { "text": "Become very clingy and seek excessive validation", "type": "A" },
+        { "text": "Withdraw emotionally and prepare for the worst-case scenario", "type": "V" }
+      ]
+    },
+    {
+      "id": "as15",
+      "question": "What is your biggest fear in a romantic commitment?",
+      "options": [
+        { "text": "Being in an unhealthy relationship full of unresolved conflict", "type": "S" },
+        { "text": "Being left, rejected, or replaced by someone else", "type": "A" },
+        { "text": "Losing freedom, being controlled, and losing your identity", "type": "V" }
+      ]
+    },
+    {
+      "id": "as16",
+      "question": "If your partner wants to discuss marriage/serious future plans...",
+      "options": [
+        { "text": "Respond enthusiastically and realistically", "type": "S" },
+        { "text": "Very happy because it's the security I've been wanting", "type": "A" },
+        { "text": "Feel pressured, avoid, or try to change the topic", "type": "V" }
+      ]
+    },
+    {
+      "id": "as17",
+      "question": "If you have a secret or past trauma, you...",
+      "options": [
+        { "text": "Will tell it naturally when you feel safe enough", "type": "S" },
+        { "text": "Tell everything early so they won't leave you later", "type": "A" },
+        { "text": "Keep it tightly sealed, no one needs to know your weaknesses", "type": "V" }
+      ]
+    },
+    {
+      "id": "as18",
+      "question": "When your partner is quiet and looks sullen for no apparent reason...",
+      "options": [
+        { "text": "Ask them gently if they want to talk", "type": "S" },
+        { "text": "Panic and assume you've made a fatal mistake", "type": "A" },
+        { "text": "Leave them alone, can't be bothered with emotional drama", "type": "V" }
+      ]
+    },
+    {
+      "id": "as19",
+      "question": "How do you feel when your partner gives excessive compliments?",
+      "options": [
+        { "text": "Happy and genuinely grateful", "type": "S" },
+        { "text": "Happy but often doubt if they're being honest", "type": "A" },
+        { "text": "Feel awkward, cringey, and uncomfortable", "type": "V" }
+      ]
+    },
+    {
+      "id": "as20",
+      "question": "Regarding your partner's phone password privacy...",
+      "options": [
+        { "text": "We know each other's passwords but never snoop because we trust each other", "type": "S" },
+        { "text": "I must know to make sure they're not cheating", "type": "A" },
+        { "text": "That's absolute privacy, I don't want to know and they can't know mine", "type": "V" }
+      ]
+    },
+    {
+      "id": "as21",
+      "question": "A friend says your partner is very attractive and many people like them...",
+      "options": [
+        { "text": "Proud because you are the one they chose", "type": "S" },
+        { "text": "Immediately feel insecure and monitor their movements extra tightly", "type": "A" },
+        { "text": "Don't care, if they want to cheat then go ahead", "type": "V" }
+      ]
+    },
+    {
+      "id": "as22",
+      "question": "Your partner gets a big promotion that makes them much busier...",
+      "options": [
+        { "text": "Support their career and find new ways to manage time", "type": "S" },
+        { "text": "Worried they will find someone better and leave you", "type": "A" },
+        { "text": "Actually glad because you can have more time to yourself", "type": "V" }
+      ]
+    },
+    {
+      "id": "as23",
+      "question": "When jealousy strikes, your natural response is...",
+      "options": [
+        { "text": "Communicate honestly with them without accusing", "type": "S" },
+        { "text": "Get angry, sulk, or make sarcastic remarks so they realize", "type": "A" },
+        { "text": "Suppress the feeling deeply and act cold towards them", "type": "V" }
+      ]
+    },
+    {
+      "id": "as24",
+      "question": "When you are invited to meet their immediate family for the first time...",
+      "options": [
+        { "text": "Enthusiastic and prepare calmly", "type": "S" },
+        { "text": "Very stressed, afraid they won't like you and ruin your relationship", "type": "A" },
+        { "text": "See it as a burden and look for excuses to postpone", "type": "V" }
+      ]
+    },
+    {
+      "id": "as25",
+      "question": "If you disagree about weekend hobbies...",
+      "options": [
+        { "text": "Compromise or occasionally do your own hobbies separately", "type": "S" },
+        { "text": "I'll go along with their hobby even if I don't like it, as long as we're together", "type": "A" },
+        { "text": "Just do your own thing, I don't want the hassle", "type": "V" }
+      ]
+    },
+    {
+      "id": "as26",
+      "question": "When your partner gives constructive criticism about your attitude...",
+      "options": [
+        { "text": "Evaluate yourself and accept it if it's true", "type": "S" },
+        { "text": "Feel attacked, unloved, and immediately feel worthless", "type": "A" },
+        { "text": "Get angry, shut down, and retaliate by criticizing their flaws", "type": "V" }
+      ]
+    },
+    {
+      "id": "as27",
+      "question": "When you really need help...",
+      "options": [
+        { "text": "Ask them directly without guilt", "type": "S" },
+        { "text": "Give strong hints and get angry if they're not sensitive enough to help", "type": "A" },
+        { "text": "Try hard to solve it yourself without involving them", "type": "V" }
+      ]
+    },
+    {
+      "id": "as28",
+      "question": "How often do you think about the status of your relationship?",
+      "options": [
+        { "text": "Just the right amount, I enjoy the process as it goes", "type": "S" },
+        { "text": "Almost all the time, I often analyze their every move", "type": "A" },
+        { "text": "Rarely, I have many other focuses in life", "type": "V" }
+      ]
+    },
+    {
+      "id": "as29",
+      "question": "Your view on 'Me Time' in a relationship...",
+      "options": [
+        { "text": "A healthy need to maintain balance", "type": "S" },
+        { "text": "Feel it's a threat, like they want to distance themselves from me", "type": "A" },
+        { "text": "An absolute need, I could go crazy if we have to stick together all the time", "type": "V" }
+      ]
+    },
+    {
+      "id": "as30",
+      "question": "If your partner says, 'I need some time alone' during an argument...",
+      "options": [
+        { "text": "Give them space and agree to discuss it later", "type": "S" },
+        { "text": "Panic intensely and force them to resolve the issue right away", "type": "A" },
+        { "text": "Go ahead, I'd actually prefer if we don't have to discuss it again", "type": "V" }
+      ]
+    },
+    {
+      "id": "as31",
+      "question": "When there's a problem, you more often...",
+      "options": [
+        { "text": "Call or meet directly for clear communication", "type": "S" },
+        { "text": "Send long text messages full of emotion and demands", "type": "A" },
+        { "text": "Read their message and leave them on read until you're in the mood", "type": "V" }
+      ]
+    },
+    {
+      "id": "as32",
+      "question": "If an ex suddenly contacts you...",
+      "options": [
+        { "text": "Tell your current partner to avoid misunderstandings", "type": "S" },
+        { "text": "Panic and hide it because you're afraid your partner will get angry and leave", "type": "A" },
+        { "text": "Delete it quietly, that's my personal business and they don't need to know", "type": "V" }
+      ]
+    },
+    {
+      "id": "as33",
+      "question": "Seeing a very independent and successful partner makes you...",
+      "options": [
+        { "text": "Admire them and feel lucky to have them", "type": "S" },
+        { "text": "Afraid they will realize they don't actually need me", "type": "A" },
+        { "text": "Very relieved because they surely won't be a burden to me", "type": "V" }
+      ]
+    },
+    {
+      "id": "as34",
+      "question": "Public displays of affection (PDA) in your opinion...",
+      "options": [
+        { "text": "Fine as long as it's within the bounds of decency", "type": "S" },
+        { "text": "Very important to show the world that we belong to each other", "type": "A" },
+        { "text": "Very uncomfortable and excessive", "type": "V" }
+      ]
+    },
+    {
+      "id": "as35",
+      "question": "Responsibility for happiness in the relationship...",
+      "options": [
+        { "text": "We both try to create that happiness together", "type": "S" },
+        { "text": "It's my partner's job to make me feel secure and happy", "type": "A" },
+        { "text": "I am only responsible for my own happiness", "type": "V" }
+      ]
+    },
+    {
+      "id": "as36",
+      "question": "Your partner forgets to celebrate your anniversary...",
+      "options": [
+        { "text": "A little disappointed but remind them jokingly", "type": "S" },
+        { "text": "Cry and feel it's definite proof they don't love me anymore", "type": "A" },
+        { "text": "No problem at all, I also hate troublesome celebrations", "type": "V" }
+      ]
+    },
+    {
+      "id": "as37",
+      "question": "When you strongly disagree with your partner's big decision...",
+      "options": [
+        { "text": "State your logic clearly while still respecting their choice", "type": "S" },
+        { "text": "Reluctantly agree and give in for fear of triggering a big fight", "type": "A" },
+        { "text": "Ignore it and secretly do what you think is right", "type": "V" }
+      ]
+    },
+    {
+      "id": "as38",
+      "question": "Your view on absolute loyalty...",
+      "options": [
+        { "text": "It's the foundation of mutual respect", "type": "S" },
+        { "text": "It's the promise that makes me most anxious if broken", "type": "A" },
+        { "text": "It's just a concept that often limits one's freedom", "type": "V" }
+      ]
+    },
+    {
+      "id": "as39",
+      "question": "Your partner has a close friend of the opposite sex...",
+      "options": [
+        { "text": "It's fine, as long as they know the professional/friendship boundaries", "type": "S" },
+        { "text": "Very jealous, always suspicious, and often check their closeness", "type": "A" },
+        { "text": "Good, so there's someone else to deal with them when they're being annoying", "type": "V" }
+      ]
+    },
+    {
+      "id": "as40",
+      "question": "When you're in a long-distance relationship (LDR) or rarely meet...",
+      "options": [
+        { "text": "Keep in touch reasonably and stay focused on your activities", "type": "S" },
+        { "text": "Tormented by longing and demand calls every moment to feel secure", "type": "A" },
+        { "text": "Actually feel more comfortable because you don't have to meet every day", "type": "V" }
+      ]
+    },
+    {
+      "id": "as41",
+      "question": "If the relationship starts to feel flat and boring...",
+      "options": [
+        { "text": "Take the initiative to invite your partner to try new activities together", "type": "S" },
+        { "text": "Panic and overthink that their love is fading", "type": "A" },
+        { "text": "Naturally start looking for other activities or new friends outside", "type": "V" }
+      ]
+    },
+    {
+      "id": "as42",
+      "question": "About lending a very valuable item/large sum of money to your partner...",
+      "options": [
+        { "text": "Help them if the reason is rational and it won't hurt my finances", "type": "S" },
+        { "text": "Will definitely give it even if I struggle, so they know my sacrifice", "type": "A" },
+        { "text": "Refuse firmly, romance and finances must be completely separate", "type": "V" }
+      ]
+    },
+    {
+      "id": "as43",
+      "question": "About changing your habits/appearance for your partner...",
+      "options": [
+        { "text": "Only willing to change if it makes me a better person", "type": "S" },
+        { "text": "Ready to change myself 180 degrees as long as they keep liking me", "type": "A" },
+        { "text": "Strongly refuse, take it or leave it", "type": "V" }
+      ]
+    },
+    {
+      "id": "as44",
+      "question": "How often does the thought 'they will leave me' cross your mind?",
+      "options": [
+        { "text": "Rarely, I'm quite confident in our relationship's foundation", "type": "S" },
+        { "text": "Very often, it's a nightmare that always haunts my mind", "type": "A" },
+        { "text": "Don't care, if they want to leave then go ahead, I can live alone", "type": "V" }
+      ]
+    },
+    {
+      "id": "as45",
+      "question": "In terms of apologizing after a big fight...",
+      "options": [
+        { "text": "I'm not ashamed to apologize first if I was indeed wrong", "type": "S" },
+        { "text": "I often apologize even when not wrong, just so they're not angry anymore", "type": "A" },
+        { "text": "I find it very hard to apologize and prefer to give silent treatment for days", "type": "V" }
+      ]
+    },
+    {
+      "id": "as46",
+      "question": "When your partner cancels a plan because they suddenly got sick...",
+      "options": [
+        { "text": "Understand, offer help, or visit them", "type": "S" },
+        { "text": "Suspect whether they're really sick or just making excuses to avoid me", "type": "A" },
+        { "text": "Alright, I'll immediately make fun plans with my friends", "type": "V" }
+      ]
+    },
+    {
+      "id": "as47",
+      "question": "If you have to move to a faraway city for your career...",
+      "options": [
+        { "text": "Discuss it thoroughly together to find a win-win solution", "type": "S" },
+        { "text": "Willing to sacrifice my career as long as we don't have to separate", "type": "A" },
+        { "text": "Leave immediately, career is my priority, love comes later", "type": "V" }
+      ]
+    },
+    {
+      "id": "as48",
+      "question": "Seeing parents or friends divorce/break up badly...",
+      "options": [
+        { "text": "Take it as a lesson to be better at communicating", "type": "S" },
+        { "text": "Become more anxious and afraid the same thing will surely happen to me", "type": "A" },
+        { "text": "Reinforce my belief that commitment is nonsense that restricts", "type": "V" }
+      ]
+    },
+    {
+      "id": "as49",
+      "question": "The worst thing a partner could do to you is...",
+      "options": [
+        { "text": "Lie and manipulate reality", "type": "S" },
+        { "text": "Leave you without a word (Ghosting)", "type": "A" },
+        { "text": "Restrict you, be blindly jealous, and secretly read your phone", "type": "V" }
+      ]
+    },
+    {
+      "id": "as50",
+      "question": "To you, intimacy is...",
+      "options": [
+        { "text": "A place where two people can be vulnerable without fear of judgment", "type": "S" },
+        { "text": "An absolute sanctuary where I finally feel completely accepted", "type": "A" },
+        { "text": "A dangerous area that can be used to hurt me", "type": "V" }
+      ]
+    }
+  ]
+}

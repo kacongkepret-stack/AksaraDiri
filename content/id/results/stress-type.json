@@ -1,0 +1,26 @@
+{
+  "o": {
+    "type": "Overthinker",
+    "name": "Pemikir Berat",
+    "description": "Stresmu berasal dari terlalu banyak menganalisis. Pikiranmu tak pernah berhenti.",
+    "traits": { "Pikiran": 95, "Kewaspadaan": 90 },
+    "strengths": ["Detail", "Antisipatif"],
+    "weaknesses": ["Cemas", "Insomnia"]
+  },
+  "a": {
+    "type": "Avoider",
+    "name": "Penghindar",
+    "description": "Kamu cenderung menghindari sumber stres. Kadang masalah menumpuk.",
+    "traits": { "Penghindaran": 88, "Tenang Semu": 80 },
+    "strengths": ["Tampak kalem", "Tidak mudah panik"],
+    "weaknesses": ["Menunda", "Ledakan emosi tiba-tiba"]
+  },
+  "f": {
+    "type": "Fighter",
+    "name": "Pejuang",
+    "description": "Kamu langsung menghadapi stres dengan kepala dingin. Action-oriented.",
+    "traits": { "Keberanian": 88, "Rasional": 85 },
+    "strengths": ["Cepat bertindak", "Solutif"],
+    "weaknesses": ["Kurang sabar dengan orang yang lambat"]
+  }
+}

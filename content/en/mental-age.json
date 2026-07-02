@@ -1,0 +1,458 @@
+{
+  "title": "Mental Age",
+  "description": "Find out your mental age based on your way of thinking.",
+  "timeEstimation": "15 Minutes",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "ma1",
+      "question": "When facing a problem, you tend to...",
+      "options": [
+        { "text": "Look for creative and spontaneous solutions", "type": "Y" },
+        { "text": "Analyze and make a mature plan", "type": "A" },
+        { "text": "Stay calm, this has happened often", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma2",
+      "question": "How do you respond to sudden change?",
+      "options": [
+        { "text": "Excited, something new!", "type": "Y" },
+        { "text": "A bit stressed but can adapt", "type": "A" },
+        { "text": "Annoyed, I don't like change", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma3",
+      "question": "On weekends, you prefer to...",
+      "options": [
+        { "text": "Try new activities and hang out outside", "type": "Y" },
+        { "text": "Balance between relaxing at home and being a bit productive", "type": "A" },
+        { "text": "Rest quietly at home all day", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma4",
+      "question": "Your opinion on rules...",
+      "options": [
+        { "text": "Often stifle creativity and freedom", "type": "Y" },
+        { "text": "Needed for order, but can be flexible", "type": "A" },
+        { "text": "Must be followed strictly without compromise", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma5",
+      "question": "When someone offends you...",
+      "options": [
+        { "text": "Immediately retaliate and show emotion", "type": "Y" },
+        { "text": "Talk to them nicely after I've calmed down", "type": "A" },
+        { "text": "Stay quiet, no need to prolong the issue", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma6",
+      "question": "How do you manage your finances?",
+      "options": [
+        { "text": "Often impulsive, buy whatever I like", "type": "Y" },
+        { "text": "Have a monthly budget, though sometimes a little off", "type": "A" },
+        { "text": "Very planned, frugal, and focused on savings", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma7",
+      "question": "When meeting new people, you...",
+      "options": [
+        { "text": "Enthusiastic, easy to get along with, and talk a lot", "type": "Y" },
+        { "text": "Friendly but keep your boundaries at first", "type": "A" },
+        { "text": "Polite, formal, and tend to observe first", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma8",
+      "question": "Your view on the future...",
+      "options": [
+        { "text": "Full of possibilities, surprises, and adventures", "type": "Y" },
+        { "text": "Optimistic with realistic and measurable plans", "type": "A" },
+        { "text": "Hopefully safe, stable, and far from chaos", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma9",
+      "question": "When sad or heartbroken, you...",
+      "options": [
+        { "text": "Cry hard, vent everywhere, then move on quickly", "type": "Y" },
+        { "text": "Reflect, process emotions, and find the mistake", "type": "A" },
+        { "text": "Keep it to yourself, don't want to look weak in front of others", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma10",
+      "question": "What is your top priority right now?",
+      "options": [
+        { "text": "Fun, new experiences, and freedom", "type": "Y" },
+        { "text": "Balance between career, family, and personal time", "type": "A" },
+        { "text": "Financial security, peace, and life stability", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma11",
+      "question": "When planning a vacation, you choose...",
+      "options": [
+        { "text": "Trendy, viral destinations full of fun activities", "type": "Y" },
+        { "text": "A mix of cultural exploration and relaxation", "type": "A" },
+        { "text": "Quiet, comfortable places with guaranteed facilities", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma12",
+      "question": "What advice do you most often hear from others?",
+      "options": [
+        { "text": "You're still childish / too careless", "type": "Y" },
+        { "text": "You're quite wise and reliable", "type": "A" },
+        { "text": "You're too rigid / too serious", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma13",
+      "question": "A new gadget or technology is released. Your reaction...",
+      "options": [
+        { "text": "Very enthusiastic (FOMO) and want to buy it immediately", "type": "Y" },
+        { "text": "Study the specs, buy only if needed", "type": "A" },
+        { "text": "Skeptical, more comfortable using old stuff that still works", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma14",
+      "question": "Your daily fashion style...",
+      "options": [
+        { "text": "Follows the latest trends, flashy, or expressive", "type": "Y" },
+        { "text": "Comfortable, neat, and appropriate for the situation", "type": "A" },
+        { "text": "Classic, formal, or don't care about trends", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma15",
+      "question": "The type of humor that makes you laugh the most...",
+      "options": [
+        { "text": "Absurd memes, viral videos, or silly jokes", "type": "Y" },
+        { "text": "Witty sarcasm, situational comedy (sitcoms), or dark jokes", "type": "A" },
+        { "text": "Classic jokes, old jokes, or very rarely laugh out loud", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma16",
+      "question": "Your attitude toward the past...",
+      "options": [
+        { "text": "Rarely think about it, more focused on today and tomorrow", "type": "Y" },
+        { "text": "Use it as a lesson not to repeat mistakes", "type": "A" },
+        { "text": "Often feel nostalgic and think the old days were much better", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma17",
+      "question": "Your choice of entertainment viewing is usually...",
+      "options": [
+        { "text": "Short fast videos (TikTok/Reels) or favorite vloggers", "type": "Y" },
+        { "text": "Movies or series (Netflix) with solid story plots", "type": "A" },
+        { "text": "TV news, historical documentaries, or old shows", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma18",
+      "question": "When having a fight with a close friend...",
+      "options": [
+        { "text": "Get angry, sulk, or immediately unfollow/block on social media", "type": "Y" },
+        { "text": "Take a pause, then have a mature discussion", "type": "A" },
+        { "text": "Slowly distance yourself and let the friendship fade without drama", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma19",
+      "question": "Your current career or job goal is...",
+      "options": [
+        { "text": "Pursue passion, seek fun, and freedom", "type": "Y" },
+        { "text": "Balance good salary with a rational career path", "type": "A" },
+        { "text": "Prepare for a quiet retirement and stability without stress", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma20",
+      "question": "If forced to stay up until morning, usually because...",
+      "options": [
+        { "text": "Playing games, watching series, or hanging out with friends", "type": "Y" },
+        { "text": "Finishing work close to deadline or overthinking", "type": "A" },
+        { "text": "I can't stay up, by 10 PM I'm already very sleepy", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma21",
+      "question": "When very bored at home...",
+      "options": [
+        { "text": "Look for escape by constantly playing on your phone or immediately go out", "type": "Y" },
+        { "text": "Do a relaxing hobby, read, or tidy the house", "type": "A" },
+        { "text": "Boredom is normal, I enjoy the peace while sitting quietly", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma22",
+      "question": "Seeing a toddler having a tantrum (crying and rolling) at the mall...",
+      "options": [
+        { "text": "Feel very annoyed, disturbed, and immediately walk away", "type": "Y" },
+        { "text": "Understand the situation and sympathize with the parents", "type": "A" },
+        { "text": "Feel sorry, but secretly think parenting styles are different nowadays", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma23",
+      "question": "The music playlist you play most often contains...",
+      "options": [
+        { "text": "Latest Top Hits, EDM, or viral internet songs", "type": "Y" },
+        { "text": "Pop/Indie songs, according to mood, or songs from high school/college", "type": "A" },
+        { "text": "Old nostalgic songs, instrumentals, or relaxation music", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma24",
+      "question": "Your phone storage is full. You will...",
+      "options": [
+        { "text": "Delete random apps/photos as long as you can use the phone now", "type": "Y" },
+        { "text": "Move data to the cloud or external hard drive neatly", "type": "A" },
+        { "text": "Confused how to delete, leave it until the phone crashes", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma25",
+      "question": "Your attitude about keeping appointments...",
+      "options": [
+        { "text": "Often late or cancel suddenly because of mood", "type": "Y" },
+        { "text": "Try to be on time, if late definitely notify far in advance", "type": "A" },
+        { "text": "Absolutely disciplined, often arrive 15-30 minutes early", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma26",
+      "question": "Invited to a wedding or large social event...",
+      "options": [
+        { "text": "Very excited to dress up maximally and make content", "type": "Y" },
+        { "text": "Come as you are, chat with acquaintances, then leave after eating", "type": "A" },
+        { "text": "Feel tired just imagining the crowd, find an excuse to be absent", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma27",
+      "question": "Regarding daily food preferences...",
+      "options": [
+        { "text": "Junk food, extreme spicy, or viral sweet foods", "type": "Y" },
+        { "text": "Balanced nutritious food although sometimes cheat day with good food", "type": "A" },
+        { "text": "Home-cooked food, boiled, healthy, and avoid forbidden items", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma28",
+      "question": "Someone writes a negative/harsh comment on your social media...",
+      "options": [
+        { "text": "Get angry and emotional, reply aggressively", "type": "Y" },
+        { "text": "Evaluate briefly, if unreasonable (toxic) just ignore/delete", "type": "A" },
+        { "text": "I rarely active on social media so I don't care much about virtual things", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma29",
+      "question": "Heavy rain falls on the weekend...",
+      "options": [
+        { "text": "Very annoyed because plans to go outside are totally ruined", "type": "Y" },
+        { "text": "Consider it the perfect time for me-time and tidying the house", "type": "A" },
+        { "text": "Enjoy the peace of the rain while sipping warm coffee/tea", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma30",
+      "question": "The definition of 'True Love' in your mind is...",
+      "options": [
+        { "text": "Very romantic, heart-pounding, and dramatic like in movies", "type": "Y" },
+        { "text": "Teamwork, strong commitment, and complementing each other's weaknesses", "type": "A" },
+        { "text": "Habit, comfort, and accompanying each other until old age", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma31",
+      "question": "When faced with a very boring task...",
+      "options": [
+        { "text": "Procrastinate until the last second because you're not in the mood", "type": "Y" },
+        { "text": "Do it little by little in between other activities", "type": "A" },
+        { "text": "Do it immediately until finished so the burden of thought goes away quickly", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma32",
+      "question": "How do you consume news or political issues?",
+      "options": [
+        { "text": "Follow opinion trends on Twitter/TikTok and react reactively", "type": "Y" },
+        { "text": "Read from multiple sources to find an objective point of view", "type": "A" },
+        { "text": "Stay true to the conservative views I've held since long ago", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma33",
+      "question": "How you feel on your birthday...",
+      "options": [
+        { "text": "Very excited, waiting for gifts, surprises, and messages from many people", "type": "Y" },
+        { "text": "Grateful, celebrate privately with closest people", "type": "A" },
+        { "text": "Indifferent, just another day reminding you that age is decreasing", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma34",
+      "question": "If you suddenly get an unexpected 10 million rupiah...",
+      "options": [
+        { "text": "Immediately checkout dream items or spend it on a lavish vacation", "type": "Y" },
+        { "text": "Save/invest some, enjoy a little as a reward", "type": "A" },
+        { "text": "Save it all safely for emergency/health fund", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma35",
+      "question": "Getting on the wrong train/bus while traveling alone...",
+      "options": [
+        { "text": "Panic, confused wanting to cry, and immediately call a friend", "type": "Y" },
+        { "text": "Open maps, find the fastest alternative route to turn back", "type": "A" },
+        { "text": "Stay calm, get off at the next stop and ask locals/officers", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma36",
+      "question": "Your opinion on current slang used by young people...",
+      "options": [
+        { "text": "I use them every day to stay relatable and cool", "type": "Y" },
+        { "text": "I understand the meaning, but rarely use them in my real conversations", "type": "A" },
+        { "text": "I don't get it, the language is weird and ruins good language structure", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma37",
+      "question": "Your attitude towards physical condition and health...",
+      "options": [
+        { "text": "Feel strong, eat whatever, and rarely care about sleep schedules", "type": "Y" },
+        { "text": "Starting to realize the importance of regular exercise and limiting sugar intake", "type": "A" },
+        { "text": "Very careful, often take vitamins, and have regular medical check-ups", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma38",
+      "question": "The gift choice that makes you happiest right now...",
+      "options": [
+        { "text": "Hype items, concert tickets, or trendy clothes", "type": "Y" },
+        { "text": "Electronics or functional furniture that I currently need", "type": "A" },
+        { "text": "Grocery vouchers, joint supplements, or just peace and quiet", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma39",
+      "question": "When a long argument occurs...",
+      "options": [
+        { "text": "Be stubborn and insist others admit I'm right", "type": "Y" },
+        { "text": "Look for a middle ground or agree to disagree", "type": "A" },
+        { "text": "Give in, stay quiet, and leave because arguing wastes energy", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma40",
+      "question": "The essential items you must carry in your bag when traveling...",
+      "options": [
+        { "text": "Large power bank, earphones, and skincare/makeup", "type": "Y" },
+        { "text": "Wallet, house keys, charger, and enough personal medication", "type": "A" },
+        { "text": "Liniment oil, wet wipes, umbrella, and massage oil", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma41",
+      "question": "When you know you made a big mistake...",
+      "options": [
+        { "text": "Apologize but look for justifications (make excuses)", "type": "Y" },
+        { "text": "Admit the mistake honestly and offer a solution to fix it", "type": "A" },
+        { "text": "Be haunted by guilt and deep regret for a long time", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma42",
+      "question": "Your view on friendship circles...",
+      "options": [
+        { "text": "The more friends/circles, the more fun and popular", "type": "Y" },
+        { "text": "Few friends but high quality and mutually supportive", "type": "A" },
+        { "text": "My old friends from many years ago are the only ones I trust", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma43",
+      "question": "Your phone home screen...",
+      "options": [
+        { "text": "Messy, many red notification badges, and cute widgets", "type": "Y" },
+        { "text": "Neat, apps grouped into folders by function", "type": "A" },
+        { "text": "Very standard factory setting, font enlarged for easy reading", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma44",
+      "question": "When WiFi disconnects or slows down drastically...",
+      "options": [
+        { "text": "Complain, get emotional, and keep restarting the modem", "type": "Y" },
+        { "text": "Find offline activities while waiting for connection to recover", "type": "A" },
+        { "text": "Stay calm, life without internet for a few hours isn't a big deal", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma45",
+      "question": "The definition of 'Success' by your current life standards...",
+      "options": [
+        { "text": "Being popular, rich, and able to travel the world freely", "type": "Y" },
+        { "text": "Financial stability, career growth, and a supportive family", "type": "A" },
+        { "text": "Living a quiet life in the village, healthy, and without a penny of debt", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma46",
+      "question": "Dealing with elderly parents who are slow at using ATMs or phones in front of you...",
+      "options": [
+        { "text": "Feel annoyed, tsk, and impatient waiting for them", "type": "Y" },
+        { "text": "Offer help politely to speed up the process", "type": "A" },
+        { "text": "Wait patiently without complaining, realizing that age does slow people down", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma47",
+      "question": "Your habit of waking up on weekends/holidays...",
+      "options": [
+        { "text": "Wake up very late (past 10 AM) because you stay up late revenge", "type": "Y" },
+        { "text": "Wake up at the usual weekday time, but laze in bed a while", "type": "A" },
+        { "text": "Still wake up at 5 AM automatically even without an alarm", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma48",
+      "question": "If invited by friends to hang out until midnight...",
+      "options": [
+        { "text": "Let's go! Won't go home until morning", "type": "Y" },
+        { "text": "Okay, as long as tomorrow is a holiday and I'm not tired", "type": "A" },
+        { "text": "Politely decline, by 9 PM my body is already begging for bed", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma49",
+      "question": "Your reaction seeing a couple of teenagers being overly affectionate in public...",
+      "options": [
+        { "text": "Secretly record them or gossip with the friend next to you", "type": "Y" },
+        { "text": "Feel awkward, look away, and ignore it", "type": "A" },
+        { "text": "Shake your head lamenting the morals of today's generation", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma50",
+      "question": "Honestly from the bottom of your heart, you feel your mental age is...",
+      "options": [
+        { "text": "Still like a teenager who refuses to grow up", "type": "Y" },
+        { "text": "Quite aligned with my biological age on my ID card", "type": "A" },
+        { "text": "Very old, tired of the world, and have a truly elderly soul", "type": "O" }
+      ]
+    }
+  ]
+}

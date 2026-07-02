@@ -1,0 +1,42 @@
+{
+  "w": {
+    "type": "Words of Affirmation",
+    "name": "Pujian & Kata-Kata",
+    "description": "Bagimu, kata-kata membangun lebih berarti dari apapun. Kamu hidup dari apresiasi verbal.",
+    "traits": { "Pujian": 90, "Dukungan Verbal": 85 },
+    "strengths": ["Ekspresif", "Mudah memberi semangat"],
+    "weaknesses": ["Sensitif terhadap kritik", "Butuh validasi"]
+  },
+  "g": {
+    "type": "Receiving Gifts",
+    "name": "Hadiah",
+    "description": "Kamu merasa dicintai lewat pemberian. Bukan soal harga, tapi perhatian di baliknya.",
+    "traits": { "Simbolis": 85, "Perhatian Detail": 80 },
+    "strengths": ["Apresiatif", "Tahu cara membahagiakan"],
+    "weaknesses": ["Kadang materialistis", "Kecewa jika hadiah tak bermakna"]
+  },
+  "a": {
+    "type": "Acts of Service",
+    "name": "Pelayanan",
+    "description": "Tindakan konkret adalah bukti cintamu. Kamu merasa dicintai saat ada yang meringankan bebanmu.",
+    "traits": { "Praktis": 90, "Rela Membantu": 85 },
+    "strengths": ["Setia kawan", "Mandiri"],
+    "weaknesses": ["Sering tak minta tolong", "Sulit terima bantuan"]
+  },
+  "p": {
+    "type": "Physical Touch",
+    "name": "Sentuhan Fisik",
+    "description": "Bagimu, cinta paling nyata lewat sentuhan: pelukan, genggaman, atau tepukan di bahu.",
+    "traits": { "Hangat": 90, "Fisik": 85 },
+    "strengths": ["Penuh kasih", "Mudah didekati"],
+    "weaknesses": ["Canggung di budaya tertentu", "Kadang dianggap terlalu agresif"]
+  },
+  "q": {
+    "type": "Quality Time",
+    "name": "Waktu Berkualitas",
+    "description": "Kamu paling bahagia saat menghabiskan waktu tanpa gangguan bersama orang tersayang.",
+    "traits": { "Fokus": 90, "Kebersamaan": 85 },
+    "strengths": ["Pendengar baik", "Prioritas jelas"],
+    "weaknesses": ["Sulit multitasking", "Tidak suka pasangan sibuk"]
+  }
+}

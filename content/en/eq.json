@@ -1,0 +1,563 @@
+{
+  "title": "Emotional Intelligence (EQ) Test",
+  "description": "Measure how well you recognize, manage, and use emotions in daily life. Choose the answer that best describes you.",
+  "timeEstimation": "15 Minutes",
+  "resultMapping": {
+    "em": "A",
+    "sr": "B",
+    "ss": "C",
+    "sa": "D"
+  },
+  "questions": [
+    {
+      "id": "eq1",
+      "question": "When your friend gets angry for no apparent reason, you...",
+      "options": [
+        { "text": "Listen and try to understand why", "type": "A" },
+        { "text": "Get angry too because you feel disrespected", "type": "B" },
+        { "text": "Avoid them until they calm down on their own", "type": "C" },
+        { "text": "Blame them for ruining the mood", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq2",
+      "question": "You fail an important exam. Your first reaction...",
+      "options": [
+        { "text": "Disappointed, then immediately think of how to improve", "type": "A" },
+        { "text": "Get angry at yourself and others", "type": "B" },
+        { "text": "Feel worthless and want to give up", "type": "C" },
+        { "text": "Don't care, because you think it's not important", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq3",
+      "question": "When two of your friends are arguing, you...",
+      "options": [
+        { "text": "Listen to both sides and help find a solution", "type": "A" },
+        { "text": "Take the side you think is right", "type": "B" },
+        { "text": "Leave them alone to avoid getting involved", "type": "C" },
+        { "text": "Join the argument to make it more exciting", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq4",
+      "question": "When receiving harsh criticism from your boss...",
+      "options": [
+        { "text": "Accept it calmly and look for lessons", "type": "A" },
+        { "text": "Defend yourself with long excuses", "type": "B" },
+        { "text": "Feel hurt and find it hard to continue working", "type": "C" },
+        { "text": "Ignore the criticism completely", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq5",
+      "question": "You see someone crying alone in a public place...",
+      "options": [
+        { "text": "Approach them and offer help", "type": "A" },
+        { "text": "Glance briefly then walk away", "type": "B" },
+        { "text": "Feel uncomfortable and move away", "type": "C" },
+        { "text": "Take a photo to post on social media", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq6",
+      "question": "Vacation plans change completely due to a friend's unilateral decision...",
+      "options": [
+        { "text": "Disappointed, but try to adjust and enjoy it", "type": "A" },
+        { "text": "Get angry and blame the friend", "type": "B" },
+        { "text": "Stay silent and not enjoy the vacation at all", "type": "C" },
+        { "text": "Go home immediately and cancel the vacation", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq7",
+      "question": "How often do you notice changes in your mood?",
+      "options": [
+        { "text": "Quite often, I know the triggers", "type": "A" },
+        { "text": "Sometimes, but I don't pay much attention", "type": "B" },
+        { "text": "Rarely, I focus more on other things", "type": "C" },
+        { "text": "Almost never, emotions just come and go", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq8",
+      "question": "Someone cancels an appointment without notice...",
+      "options": [
+        { "text": "Annoyed, but immediately find another activity", "type": "A" },
+        { "text": "Very angry and confront that person", "type": "B" },
+        { "text": "Sad and feel unappreciated all day", "type": "C" },
+        { "text": "Don't care, because you didn't want to meet anyway", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq9",
+      "question": "You prefer to resolve conflicts by...",
+      "options": [
+        { "text": "Talking honestly and finding a solution together", "type": "A" },
+        { "text": "Staying silent and hoping time resolves it", "type": "B" },
+        { "text": "Blaming the other party until they give in", "type": "C" },
+        { "text": "Ending the relationship immediately", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq10",
+      "question": "When you see a friend succeed, you...",
+      "options": [
+        { "text": "Feel happy and motivated", "type": "A" },
+        { "text": "Feel envious and compare yourself", "type": "B" },
+        { "text": "Feel indifferent, don't care", "type": "C" },
+        { "text": "Feel inferior", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq11",
+      "question": "Work/college tasks pile up and deadlines are approaching...",
+      "options": [
+        { "text": "Set priorities and do them one by one", "type": "A" },
+        { "text": "Get angry and complain to everyone", "type": "B" },
+        { "text": "Panic to the point of crying and wanting to give up", "type": "C" },
+        { "text": "Don't care and instead play games/sleep", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq12",
+      "question": "A colleague gets a promotion you were aiming for...",
+      "options": [
+        { "text": "Congratulate them and reflect on my own shortcomings", "type": "A" },
+        { "text": "Look for their faults behind their back", "type": "B" },
+        { "text": "Feel very stupid and lose work motivation", "type": "C" },
+        { "text": "Don't care, think the system is indeed unfair", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq13",
+      "question": "You make a big mistake at work...",
+      "options": [
+        { "text": "Immediately report, apologize, and bring a solution", "type": "A" },
+        { "text": "Cover up the mistake and blame the situation", "type": "B" },
+        { "text": "Avoid your boss because you're too scared", "type": "C" },
+        { "text": "Don't care, the company won't go bankrupt anyway", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq14",
+      "question": "There's a team member who is always passive...",
+      "options": [
+        { "text": "Talk to them nicely to find out their obstacles", "type": "A" },
+        { "text": "Scold them in front of other members", "type": "B" },
+        { "text": "Do their part yourself while feeling resentful", "type": "C" },
+        { "text": "Remove their name from the task without warning", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq15",
+      "question": "A new rule is suddenly imposed and burdens you...",
+      "options": [
+        { "text": "Find out the reason and try to adapt", "type": "A" },
+        { "text": "Protest immediately with a loud tone", "type": "B" },
+        { "text": "Accept it and feel like a victim", "type": "C" },
+        { "text": "Intentionally break the rule", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq16",
+      "question": "Your partner or close friend criticizes your bad habit...",
+      "options": [
+        { "text": "Listen openly and try to change", "type": "A" },
+        { "text": "Retaliate by criticizing their bad habit", "type": "B" },
+        { "text": "Sulk and ignore them for days", "type": "C" },
+        { "text": "Tell them to find another friend/partner", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq17",
+      "question": "You experience rejection (love, job, or project)...",
+      "options": [
+        { "text": "Accept it gracefully and move on", "type": "A" },
+        { "text": "Badmouth the party that rejected you", "type": "B" },
+        { "text": "Isolate yourself for days feeling worthless", "type": "C" },
+        { "text": "Act arrogantly as if you don't need it", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq18",
+      "question": "Someone keeps interrupting while you speak...",
+      "options": [
+        { "text": "Politely ask them to let you finish", "type": "A" },
+        { "text": "Yell at them to be quiet", "type": "B" },
+        { "text": "Stop talking altogether and feel annoyed alone", "type": "C" },
+        { "text": "Raise your voice too to drown theirs out", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq19",
+      "question": "Dealing with an angry customer or stranger...",
+      "options": [
+        { "text": "Stay calm and find the core of the problem", "type": "A" },
+        { "text": "Get emotional too and argue back", "type": "B" },
+        { "text": "Confused, trembling, and don't know what to do", "type": "C" },
+        { "text": "Leave them talking to themselves", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq20",
+      "question": "Disagreeing on politics or principles with a friend...",
+      "options": [
+        { "text": "Respect the differences without having to agree", "type": "A" },
+        { "text": "Argue fiercely until they give in", "type": "B" },
+        { "text": "Slowly distance yourself because you feel incompatible", "type": "C" },
+        { "text": "Intentionally mock their views continuously", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq21",
+      "question": "A friend borrows your favorite item and breaks it...",
+      "options": [
+        { "text": "Gently reprimand them and ask for accountability", "type": "A" },
+        { "text": "Rage and break their belongings too", "type": "B" },
+        { "text": "Cry silently but say 'it's okay'", "type": "C" },
+        { "text": "Sarcastically hint at them continuously on social media", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq22",
+      "question": "You receive great praise in public...",
+      "options": [
+        { "text": "Say thank you humbly", "type": "A" },
+        { "text": "Be arrogant and feel the greatest", "type": "B" },
+        { "text": "Feel very embarrassed and deny the praise", "type": "C" },
+        { "text": "Think the praise is just fake pleasantry", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq23",
+      "question": "Seeing a friend bullied or mocked in a group chat...",
+      "options": [
+        { "text": "Defend the friend or reprimand in the group", "type": "A" },
+        { "text": "Join in the laughter or add more mockery", "type": "B" },
+        { "text": "Stay silent because you're afraid of being bullied too", "type": "C" },
+        { "text": "Leave the group without explanation", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq24",
+      "question": "Losing an important item due to your own carelessness...",
+      "options": [
+        { "text": "Accept the reality and try to search logically", "type": "A" },
+        { "text": "Rage and throw things around", "type": "B" },
+        { "text": "Blame yourself excessively all day", "type": "C" },
+        { "text": "Look for a scapegoat to blame", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq25",
+      "question": "Waiting in a long line and someone cuts in front...",
+      "options": [
+        { "text": "Reprimand them firmly but politely", "type": "A" },
+        { "text": "Immediately yell and pull that person", "type": "B" },
+        { "text": "Stay silent and suppress your annoyance inside", "type": "C" },
+        { "text": "Intentionally push that person from behind", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq26",
+      "question": "Feeling very anxious before a big presentation...",
+      "options": [
+        { "text": "Do breathing techniques and focus on the material", "type": "A" },
+        { "text": "Vent your nervousness by yelling at friends", "type": "B" },
+        { "text": "So scared you want to fake being sick", "type": "C" },
+        { "text": "Go ahead unprepared because you underestimate it", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq27",
+      "question": "Hearing bad rumors about yourself at work/campus...",
+      "options": [
+        { "text": "Find the source and clarify calmly", "type": "A" },
+        { "text": "Confront the people talking about you", "type": "B" },
+        { "text": "Cry and refuse to go to work/college", "type": "C" },
+        { "text": "Start a counter-rumor about them", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq28",
+      "question": "You have to give negative feedback to a teammate...",
+      "options": [
+        { "text": "Deliver it professionally and supportively", "type": "A" },
+        { "text": "Speak harshly so they learn", "type": "B" },
+        { "text": "Don't reprimand because you feel bad", "type": "C" },
+        { "text": "Ask someone else to deliver it", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq29",
+      "question": "A friend hasn't repaid a debt, but they post about buying luxury items...",
+      "options": [
+        { "text": "Ask them directly and firmly", "type": "A" },
+        { "text": "Rant in the comments on their social media", "type": "B" },
+        { "text": "Only feel annoyed inside but dare not ask", "type": "C" },
+        { "text": "Post sarcastic statuses without tagging them", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq30",
+      "question": "Being in a new environment and not knowing anyone yet...",
+      "options": [
+        { "text": "Take the initiative to smile and greet first", "type": "A" },
+        { "text": "Act arrogant to be respected", "type": "B" },
+        { "text": "Hide in a corner and play on your phone continuously", "type": "C" },
+        { "text": "Wait for someone to worship/greet you first", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq31",
+      "question": "After working hard, your efforts are underappreciated...",
+      "options": [
+        { "text": "Know your own worth even without external validation", "type": "A" },
+        { "text": "Get angry and threaten to quit", "type": "B" },
+        { "text": "Feel very sad and start slacking off", "type": "C" },
+        { "text": "Sabotage others' work to stand out", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq32",
+      "question": "Reprimanded by your boss/lecturer in front of many people...",
+      "options": [
+        { "text": "Restrain yourself, apologize, then evaluate later", "type": "A" },
+        { "text": "Talk back and argue right there", "type": "B" },
+        { "text": "Cry on the spot because you're so embarrassed", "type": "C" },
+        { "text": "Roll your eyes and act indifferent", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq33",
+      "question": "Someone else deliberately takes credit for your brilliant idea...",
+      "options": [
+        { "text": "Clarify the facts professionally to the decision maker", "type": "A" },
+        { "text": "Rage and curse them in front of everyone", "type": "B" },
+        { "text": "Stay silent, resigned to being a victim", "type": "C" },
+        { "text": "Take them down secretly later", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq34",
+      "question": "Stuck in a massive traffic jam while in a hurry...",
+      "options": [
+        { "text": "Take a deep breath, notify your delay, and accept it", "type": "A" },
+        { "text": "Honk continuously and curse", "type": "B" },
+        { "text": "Feel very stressed, panic, and want to cry", "type": "C" },
+        { "text": "Recklessly overtake dangerously", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq35",
+      "question": "Facing repeated failures on the same thing...",
+      "options": [
+        { "text": "Analyze new strategies not yet tried", "type": "A" },
+        { "text": "Get angry at fate and feel the world is unfair", "type": "B" },
+        { "text": "Give up completely, convinced you're stupid", "type": "C" },
+        { "text": "Look for someone else to blame for the failure", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq36",
+      "question": "Having a very bad day (everything goes wrong)...",
+      "options": [
+        { "text": "Give yourself time to rest for a while", "type": "A" },
+        { "text": "Vent your anger on family/friends", "type": "B" },
+        { "text": "Feel endless self-pity", "type": "C" },
+        { "text": "Get drunk or do destructive things", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq37",
+      "question": "Someone is crying hysterically asking for help near you...",
+      "options": [
+        { "text": "Stay calm and ask what help they need", "type": "A" },
+        { "text": "Tell them to be quiet because they're noisy", "type": "B" },
+        { "text": "Panic too, get confused, and cry as well", "type": "C" },
+        { "text": "Just record them from afar without helping", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq38",
+      "question": "Being on a team whose work principles don't align with yours...",
+      "options": [
+        { "text": "Compromise on technicalities while maintaining integrity", "type": "A" },
+        { "text": "Force everyone to follow your way", "type": "B" },
+        { "text": "Be passive, silently follow the flow to stay safe", "type": "C" },
+        { "text": "Intentionally slow down the work to make the team fail", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq39",
+      "question": "Realizing you have been very rude to a friend...",
+      "options": [
+        { "text": "Apologize sincerely without many excuses", "type": "A" },
+        { "text": "Deny it and think they're too sensitive", "type": "B" },
+        { "text": "Feel embarrassed and intentionally avoid them forever", "type": "C" },
+        { "text": "Don't care, think it's normal", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq40",
+      "question": "Seeing a colleague struggling while you have many tasks yourself...",
+      "options": [
+        { "text": "Offer small help or advice without sacrificing my priorities", "type": "A" },
+        { "text": "Mock them for being slow", "type": "B" },
+        { "text": "Drop all my tasks to help them completely", "type": "C" },
+        { "text": "Pretend not to see so I'm not asked to help", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq41",
+      "question": "Facing very sensitive/personal questions at a family gathering...",
+      "options": [
+        { "text": "Answer diplomatically or deflect with a smile", "type": "A" },
+        { "text": "Get angry and yell at the family member who asked", "type": "B" },
+        { "text": "Feel sad, pressured, then go to your room", "type": "C" },
+        { "text": "Retaliate by asking about their shameful secrets", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq42",
+      "question": "Hearing complaints from many friends at once...",
+      "options": [
+        { "text": "Be a good listener but maintain your energy boundaries", "type": "A" },
+        { "text": "Tell them all to stop complaining", "type": "B" },
+        { "text": "Get swept up in their negative emotions until you're stressed too", "type": "C" },
+        { "text": "Ignore them, pretend to listen while playing on your phone", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq43",
+      "question": "Being excluded or not invited to a group hangout...",
+      "options": [
+        { "text": "Don't care, find positive activities yourself", "type": "A" },
+        { "text": "Confront them about why you weren't invited", "type": "B" },
+        { "text": "Feel very depressed and feel like you have no friends", "type": "C" },
+        { "text": "Badmouth their event elsewhere", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq44",
+      "question": "Someone keeps bringing up your past mistakes...",
+      "options": [
+        { "text": "Assert your boundary that the past is over", "type": "A" },
+        { "text": "Rage because you can't stand being reminded", "type": "B" },
+        { "text": "Cry because you still feel guilty", "type": "C" },
+        { "text": "Retaliate by exposing their past", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq45",
+      "question": "Facing a breakup with a close friend/partner...",
+      "options": [
+        { "text": "Process the sadness appropriately and move on with life", "type": "A" },
+        { "text": "Blame them entirely for the breakup", "type": "B" },
+        { "text": "Be shattered for months without wanting to move", "type": "C" },
+        { "text": "Immediately look for a new distraction the next day", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq46",
+      "question": "An emergency occurs (minor accident, small fire)...",
+      "options": [
+        { "text": "Act quickly, control emotions, and look for a solution", "type": "A" },
+        { "text": "Rage and blame people around", "type": "B" },
+        { "text": "Panic, scream hysterically without doing anything", "type": "C" },
+        { "text": "Run to save yourself, leave others behind", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq47",
+      "question": "Given a task outside your main responsibility...",
+      "options": [
+        { "text": "Professionally discuss capacity and compensation", "type": "A" },
+        { "text": "Immediately refuse curtly", "type": "B" },
+        { "text": "Reluctantly accept while grumbling behind the scenes", "type": "C" },
+        { "text": "Accept but do it carelessly", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq48",
+      "question": "Seeing someone win by cheating...",
+      "options": [
+        { "text": "Report them with solid evidence", "type": "A" },
+        { "text": "Physically attack them directly", "type": "B" },
+        { "text": "Accept it, think the world is indeed dirty", "type": "C" },
+        { "text": "Start cheating too next time", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq49",
+      "question": "Realizing you are burned out (severe emotional exhaustion)...",
+      "options": [
+        { "text": "Ask for leave, rest, and dare to say 'no'", "type": "A" },
+        { "text": "Vent curses at the workplace", "type": "B" },
+        { "text": "Withdraw socially and feel numb", "type": "C" },
+        { "text": "Force yourself to keep working while taking medication", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "eq50",
+      "question": "Your main goal in studying emotional intelligence is...",
+      "options": [
+        { "text": "To understand myself and respond to situations more wisely", "type": "A" },
+        { "text": "To be able to manipulate others", "type": "B" },
+        { "text": "To appear psychologically smart", "type": "C" },
+        { "text": "Just for fun, taking a test", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

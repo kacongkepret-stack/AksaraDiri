@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "badge": "AksaraDiri Global",
+    "title": "Descubre Tu Potencial Oculto",
+    "subtitle": "Portal de psicología y adivinación moderna. Comprende tu carácter, carrera y destino.",
+    "ctaText": "Empezar a Explorar",
+    "ctaLink": "/id/test/mbti"
+  },
+  "categories": [
+    {
+      "id": "personality",
+      "icon": "🧠",
+      "title": "Tests de Personalidad",
+      "desc": "MBTI, EQ y más",
+      "href": "/id/category/personality",
+      "color": "from-cyan-500/20 to-indigo-500/20"
+    },
+    {
+      "id": "astrology",
+      "icon": "⭐",
+      "title": "Astrología",
+      "desc": "Zodiaco y numerología",
+      "href": "/id/category/astrology",
+      "color": "from-purple-500/20 to-pink-500/20"
+    },
+    {
+      "id": "local",
+      "icon": "📜",
+      "title": "Cultura Local",
+      "desc": "Weton y primbon javaneses",
+      "href": "/id/category/local",
+      "color": "from-amber-500/20 to-yellow-500/20"
+    },
+    {
+      "id": "viral",
+      "icon": "🎭",
+      "title": "Entretenimiento Viral",
+      "desc": "Calculadora de amor y diversión",
+      "href": "/id/category/viral",
+      "color": "from-pink-500/20 to-rose-500/20"
+    }
+  ],
+  "popular": [
+    {
+      "id": "mbti",
+      "icon": "🧠",
+      "title": "Test MBTI de 16 Personalidades",
+      "users": "2.1M",
+      "href": "/id/test/mbti"
+    },
+    {
+      "id": "love-calc",
+      "icon": "💘",
+      "title": "Calculadora de Amor",
+      "users": "3.6M",
+      "href": "/id/tools/love-calculator"
+    },
+    {
+      "id": "weton",
+      "icon": "📜",
+      "title": "Calculadora Weton Javanesa",
+      "users": "1.4M",
+      "href": "/id/tools/weton"
+    }
+  ],
+  "popularTitle": "🔥 Más Popular"
+}

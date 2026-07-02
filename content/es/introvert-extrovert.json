@@ -1,0 +1,27 @@
+{
+  "title": "Introvertido vs Extrovertido",
+  "description": "Descubre en qué parte del espectro de energía social te encuentras.",
+  "timeEstimation": "3 Minutos",
+  "resultMapping": {
+    "extrovert": "E",
+    "introvert": "I"
+  },
+  "questions": [
+    { "id": "ie1", "question": "En una fiesta, tú...", "options": [{"text": "Hablas con mucha gente", "type": "E"}, {"text": "Solo hablas con amigos cercanos", "type": "I"}] },
+    { "id": "ie2", "question": "Los fines de semana, prefieres...", "options": [{"text": "Salir con amigos", "type": "E"}, {"text": "Quedarte en casa solo/a", "type": "I"}] },
+    { "id": "ie3", "question": "Una llamada repentina de un amigo...", "options": [{"text": "Me alegra, contesto de inmediato", "type": "E"}, {"text": "Pienso primero, a veces solo respondo por mensaje", "type": "I"}] },
+    { "id": "ie4", "question": "En el trabajo, tienes más éxito si...", "options": [{"text": "Trabajas en equipo", "type": "E"}, {"text": "Trabajas solo/a", "type": "I"}] },
+    { "id": "ie5", "question": "Después de un día de socializar, tú...", "options": [{"text": "Tienes más energía", "type": "E"}, {"text": "Te sientes cansado/a y necesitas estar solo/a", "type": "I"}] },
+    { "id": "ie6", "question": "Te sientes más cómodo/a...", "options": [{"text": "Siendo el centro de atención", "type": "E"}, {"text": "Detrás del escenario", "type": "I"}] },
+    { "id": "ie7", "question": "En tu opinión, el silencio es...", "options": [{"text": "Incómodo", "type": "E"}, {"text": "Oro", "type": "I"}] },
+    { "id": "ie8", "question": "Cuando tienes un problema, tú...", "options": [{"text": "Se lo cuentas a muchos amigos", "type": "E"}, {"text": "Lo guardas y lo resuelves solo/a", "type": "I"}] },
+    { "id": "ie9", "question": "Normalmente...", "options": [{"text": "Hablas primero, piensas después", "type": "E"}, {"text": "Piensas primero, hablas después", "type": "I"}] },
+    { "id": "ie10", "question": "Tu círculo de amigos...", "options": [{"text": "Es amplio, muchos amigos", "type": "E"}, {"text": "Es pequeño, pero profundo", "type": "I"}] },
+    { "id": "ie11", "question": "Durante una reunión en línea, tú...", "options": [{"text": "Discutes activamente", "type": "E"}, {"text": "Sueles estar en silencio", "type": "I"}] },
+    { "id": "ie12", "question": "En el gimnasio, tú...", "options": [{"text": "Charlas con la gente alrededor", "type": "E"}, {"text": "Te concentras solo/a con auriculares", "type": "I"}] },
+    { "id": "ie13", "question": "Te resulta más fácil dar críticas...", "options": [{"text": "Directamente", "type": "E"}, {"text": "Por escrito", "type": "I"}] },
+    { "id": "ie14", "question": "De vacaciones, tú...", "options": [{"text": "Buscas un compañero de viaje", "type": "E"}, {"text": "Disfrutas viajando solo/a", "type": "I"}] },
+    { "id": "ie15", "question": "En redes sociales, tú...", "options": [{"text": "Publicas y comentas a menudo", "type": "E"}, {"text": "Publicas poco, solo miras", "type": "I"}] },
+    { "id": "ie16", "question": "Tu energía se recarga más rápido...", "options": [{"text": "Conociendo gente", "type": "E"}, {"text": "Con tiempo a solas", "type": "I"}] }
+  ]
+}

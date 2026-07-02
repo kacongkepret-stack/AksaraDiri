@@ -1,0 +1,26 @@
+{
+  "y": {
+    "type": "Young",
+    "name": "Childlike Soul",
+    "description": "You are full of curiosity and spontaneity.",
+    "traits": { "Creative": 88, "Spontaneous": 85 },
+    "strengths": ["Imaginative", "Quick learner"],
+    "weaknesses": ["Not serious enough", "Easily bored"]
+  },
+  "a": {
+    "type": "Adult",
+    "name": "Mature Mind",
+    "description": "You are balanced between responsibility and flexibility.",
+    "traits": { "Wise": 80, "Responsible": 82 },
+    "strengths": ["Trustworthy", "Calm"],
+    "weaknesses": ["Sometimes too serious"]
+  },
+  "o": {
+    "type": "Old",
+    "name": "Ancestral Wisdom",
+    "description": "You are very mature, patient, and reflective.",
+    "traits": { "Patient": 90, "Reflective": 85 },
+    "strengths": ["Deep advice", "Reliable"],
+    "weaknesses": ["Tends to be rigid", "Lacks spontaneity"]
+  }
+}

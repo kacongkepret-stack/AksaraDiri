@@ -1,0 +1,89 @@
+{
+  "title": "Viral Entertainment",
+  "icon": "🎭",
+  "desc": "Collection of lighthearted trending tools, perfect for sharing on social media.",
+  "bgGradient": "from-pink-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-pink-500/10",
+  "features": [
+    {
+      "name": "Love Calculator",
+      "id": "love-calculator",
+      "info": "Test couple name compatibility",
+      "time": "1 min",
+      "q": "Fun",
+      "icon": "💘"
+    },
+    {
+      "name": "Ship Name Maker",
+      "id": "ship-name-generator",
+      "info": "Unique and funny name fusion",
+      "time": "Instant",
+      "q": "Generator",
+      "icon": "🚢"
+    },
+    {
+      "name": "Soulmate Initials",
+      "id": "soulmate-initials",
+      "info": "Predict your soulmate's initial",
+      "time": "1 min",
+      "q": "Random",
+      "icon": "🔤"
+    },
+    {
+      "name": "Spirit Animal",
+      "id": "spirit-animal",
+      "info": "Discover your guardian animal",
+      "time": "3 min",
+      "q": "Quiz",
+      "icon": "🐺"
+    },
+    {
+      "name": "Aura Color",
+      "id": "aura-color",
+      "info": "Detect today's energy color",
+      "time": "2 min",
+      "q": "Scanner",
+      "icon": "🌈"
+    },
+    {
+      "name": "Hidden Talent",
+      "id": "hidden-talent",
+      "info": "Find your secret skill",
+      "time": "3 min",
+      "q": "Quiz",
+      "icon": "🎭"
+    },
+    {
+      "name": "Ideal Country",
+      "id": "which-country",
+      "info": "The best country for you",
+      "time": "2 min",
+      "q": "Quiz",
+      "icon": "🌍"
+    },
+    {
+      "name": "Past Life",
+      "id": "past-life",
+      "info": "Your reincarnation mystery",
+      "time": "2 min",
+      "q": "Generator",
+      "icon": "⏳"
+    },
+    {
+      "name": "Fortune Wheel",
+      "id": "fortune-wheel",
+      "info": "Spin the wheel of destiny",
+      "time": "Instant",
+      "q": "Spin",
+      "icon": "🎡"
+    },
+    {
+      "name": "Random Destiny Card",
+      "id": "destiny-card",
+      "info": "Pull a secret message from the universe",
+      "time": "Instant",
+      "q": "Draw",
+      "icon": "🃏"
+    }
+  ]
+}

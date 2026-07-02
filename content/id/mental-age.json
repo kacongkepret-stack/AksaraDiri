@@ -1,0 +1,458 @@
+{
+  "title": "Mental Age",
+  "description": "Cari tahu usia mentalmu berdasarkan cara berpikir.",
+  "timeEstimation": "15 Menit",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "ma1",
+      "question": "Saat menghadapi masalah, kamu cenderung...",
+      "options": [
+        { "text": "Mencari solusi kreatif dan spontan", "type": "Y" },
+        { "text": "Menganalisis dan membuat rencana matang", "type": "A" },
+        { "text": "Tenang, ini sudah sering terjadi", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma2",
+      "question": "Bagaimana kamu merespons perubahan mendadak?",
+      "options": [
+        { "text": "Bersemangat, sesuatu yang baru!", "type": "Y" },
+        { "text": "Sedikit stres tapi bisa beradaptasi", "type": "A" },
+        { "text": "Kesal, aku tidak suka perubahan", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma3",
+      "question": "Saat akhir pekan, kamu lebih suka...",
+      "options": [
+        { "text": "Mencoba aktivitas baru dan nongkrong di luar", "type": "Y" },
+        { "text": "Seimbang antara santai di rumah dan sedikit produktif", "type": "A" },
+        { "text": "Istirahat tenang di rumah seharian", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma4",
+      "question": "Pendapatmu tentang aturan...",
+      "options": [
+        { "text": "Sering mengekang kreativitas dan kebebasan", "type": "Y" },
+        { "text": "Perlu ada untuk ketertiban, tapi bisa fleksibel", "type": "A" },
+        { "text": "Harus diikuti dengan ketat tanpa kompromi", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma5",
+      "question": "Saat seseorang menyinggung perasaanmu...",
+      "options": [
+        { "text": "Langsung membalas dan menunjukkan emosi", "type": "Y" },
+        { "text": "Bicara baik-baik dengannya setelah aku tenang", "type": "A" },
+        { "text": "Diam saja, tidak perlu memperpanjang masalah", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma6",
+      "question": "Bagaimana kamu mengelola keuangan?",
+      "options": [
+        { "text": "Sering impulsif, langsung beli barang yang kusuka", "type": "Y" },
+        { "text": "Ada anggaran bulanan, meski kadang sedikit meleset", "type": "A" },
+        { "text": "Sangat terencana, hemat, dan fokus pada tabungan", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma7",
+      "question": "Saat bertemu orang baru, kamu...",
+      "options": [
+        { "text": "Antusias, mudah akrab, dan banyak bercerita", "type": "Y" },
+        { "text": "Ramah tapi tetap menjaga batas privasi di awal", "type": "A" },
+        { "text": "Sopan, formal, dan cenderung mengamati dulu", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma8",
+      "question": "Pandanganmu tentang masa depan...",
+      "options": [
+        { "text": "Penuh kemungkinan, kejutan, dan petualangan", "type": "Y" },
+        { "text": "Optimis dengan rencana yang realistis dan terukur", "type": "A" },
+        { "text": "Semoga aman, stabil, dan jauh dari kekacauan", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma9",
+      "question": "Saat sedih atau patah hati, kamu...",
+      "options": [
+        { "text": "Menangis keras, curhat ke mana-mana, lalu cepat move on", "type": "Y" },
+        { "text": "Merenung, memproses emosi, dan mencari letak kesalahannya", "type": "A" },
+        { "text": "Menyimpannya sendiri, merasa tak perlu terlihat lemah di depan orang", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma10",
+      "question": "Apa yang paling kamu prioritaskan saat ini?",
+      "options": [
+        { "text": "Kesenangan, pengalaman baru, dan kebebasan", "type": "Y" },
+        { "text": "Keseimbangan antara karir, keluarga, dan waktu pribadi", "type": "A" },
+        { "text": "Keamanan finansial, kedamaian, dan stabilitas hidup", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma11",
+      "question": "Saat merencanakan liburan, kamu memilih...",
+      "options": [
+        { "text": "Destinasi hits, viral, dan penuh aktivitas seru", "type": "Y" },
+        { "text": "Campuran antara eksplorasi budaya dan relaksasi", "type": "A" },
+        { "text": "Tempat yang tenang, nyaman, dan fasilitasnya terjamin", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma12",
+      "question": "Nasihat apa yang paling sering kamu dengar dari orang lain?",
+      "options": [
+        { "text": "Kamu masih kekanak-kanakan / terlalu ceroboh", "type": "Y" },
+        { "text": "Kamu cukup bijaksana dan bisa diandalkan", "type": "A" },
+        { "text": "Kamu terlalu kaku / terlalu serius", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma13",
+      "question": "Ada gadget atau teknologi terbaru yang baru rilis. Reaksimu...",
+      "options": [
+        { "text": "Sangat antusias (FOMO) dan ingin segera membelinya", "type": "Y" },
+        { "text": "Mempelajari spesifikasinya, jika butuh baru beli", "type": "A" },
+        { "text": "Skeptis, lebih nyaman pakai barang lama yang masih fungsi", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma14",
+      "question": "Gaya berpakaian (fashion) sehari-harimu...",
+      "options": [
+        { "text": "Mengikuti tren terbaru, mencolok, atau ekspresif", "type": "Y" },
+        { "text": "Nyaman, rapi, dan pantas untuk situasi yang didatangi", "type": "A" },
+        { "text": "Klasik, formal, atau tidak terlalu peduli pada tren", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma15",
+      "question": "Tipe humor yang paling membuatmu tertawa...",
+      "options": [
+        { "text": "Meme absurd, video viral acak, atau candaan konyol (receh)", "type": "Y" },
+        { "text": "Sarkasme cerdas, komedi situasi (sitkom), atau *dark jokes*", "type": "A" },
+        { "text": "Lelucon klasik, candaan masa lalu, atau sangat jarang tertawa ngakak", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma16",
+      "question": "Sikapmu terhadap masa lalu...",
+      "options": [
+        { "text": "Jarang memikirkannya, lebih peduli pada hari ini dan esok", "type": "Y" },
+        { "text": "Menjadikannya pelajaran agar tidak mengulangi kesalahan", "type": "A" },
+        { "text": "Sering bernostalgia dan merasa zaman dulu jauh lebih baik", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma17",
+      "question": "Pilihan hiburan tontonanmu biasanya...",
+      "options": [
+        { "text": "Video singkat cepat (TikTok/Reels) atau Vlogger kesukaan", "type": "Y" },
+        { "text": "Film atau serial (Netflix) dengan plot cerita yang solid", "type": "A" },
+        { "text": "Berita televisi, dokumenter sejarah, atau acara jadul", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma18",
+      "question": "Saat terjadi pertengkaran dengan sahabat...",
+      "options": [
+        { "text": "Marah, ngambek, atau langsung unfollow/block di medsos", "type": "Y" },
+        { "text": "Mengambil jeda, lalu mengajaknya diskusi secara dewasa", "type": "A" },
+        { "text": "Menjauh perlahan dan membiarkan pertemanan itu memudar tanpa drama", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma19",
+      "question": "Tujuan karir atau pekerjaanmu saat ini adalah...",
+      "options": [
+        { "text": "Mengejar passion, mencari keseruan, dan kebebasan", "type": "Y" },
+        { "text": "Menyeimbangkan gaji yang bagus dengan jenjang karir yang rasional", "type": "A" },
+        { "text": "Persiapan pensiun yang tenang dan stabilitas tanpa stres", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma20",
+      "question": "Kalau terpaksa begadang sampai pagi, biasanya karena...",
+      "options": [
+        { "text": "Main game, nonton series, atau nongkrong bareng teman", "type": "Y" },
+        { "text": "Menyelesaikan pekerjaan yang mepet deadline atau *overthinking*", "type": "A" },
+        { "text": "Aku tidak kuat begadang, jam 10 malam sudah sangat mengantuk", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma21",
+      "question": "Saat sedang sangat bosan di rumah...",
+      "options": [
+        { "text": "Mencari pelarian dengan main HP terus-terusan atau langsung pergi keluar", "type": "Y" },
+        { "text": "Melakukan hobi santai, membaca, atau membereskan rumah", "type": "A" },
+        { "text": "Bosan itu wajar, aku menikmati ketenangan sambil duduk santai", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma22",
+      "question": "Melihat anak kecil tantrum (menangis berguling-guling) di mall...",
+      "options": [
+        { "text": "Merasa sangat risih, terganggu, dan segera menjauh", "type": "Y" },
+        { "text": "Memaklumi situasinya dan bersimpati pada orang tuanya", "type": "A" },
+        { "text": "Kasihan, tapi dalam hati merasa pola asuh anak zaman sekarang berbeda", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma23",
+      "question": "Playlist musik yang paling sering kamu putar berisi...",
+      "options": [
+        { "text": "Top Hits terbaru, EDM, atau lagu-lagu viral di internet", "type": "Y" },
+        { "text": "Lagu Pop/Indie, sesuai mood, atau lagu dari masa kuliah/SMA", "type": "A" },
+        { "text": "Tembang kenangan lama, instrumental, atau musik relaksasi", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma24",
+      "question": "Memori penyimpanan HP-mu penuh. Kamu akan...",
+      "options": [
+        { "text": "Hapus sembarang aplikasi/foto asalkan bisa pakai HP lagi sekarang", "type": "Y" },
+        { "text": "Memindahkan data ke cloud atau hardisk eksternal dengan rapi", "type": "A" },
+        { "text": "Bingung cara hapusnya, biarkan saja sampai HP-nya error", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma25",
+      "question": "Sikapmu tentang menepati janji pertemuan...",
+      "options": [
+        { "text": "Sering telat atau membatalkan mendadak karena alasan *mood*", "type": "Y" },
+        { "text": "Berusaha tepat waktu, jika telat pasti mengabari jauh-jauh hari", "type": "A" },
+        { "text": "Disiplin mutlak, sering datang 15-30 menit lebih awal", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma26",
+      "question": "Diundang ke acara pernikahan atau keramaian besar...",
+      "options": [
+        { "text": "Sangat bersemangat untuk dandan maksimal dan bikin konten", "type": "Y" },
+        { "text": "Datang sewajarnya, ngobrol dengan kenalan, lalu pulang setelah makan", "type": "A" },
+        { "text": "Merasa lelah duluan membayangkan keramaian, mencari alasan absen", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma27",
+      "question": "Soal selera makanan sehari-hari...",
+      "options": [
+        { "text": "Junk food, pedas ekstrem berlevel, atau makanan manis viral", "type": "Y" },
+        { "text": "Makanan bergizi seimbang walau kadang *cheat day* makan enak", "type": "A" },
+        { "text": "Masakan rumahan, rebus-rebusan, sehat, dan menghindari pantangan", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma28",
+      "question": "Ada yang menulis komentar negatif/kritik pedas di sosmed-mu...",
+      "options": [
+        { "text": "Marah terbawa perasaan (baper) dan membalasnya dengan agresif", "type": "Y" },
+        { "text": "Evaluasi sesaat, jika tidak masuk akal (toxic) langsung abaikan/hapus", "type": "A" },
+        { "text": "Aku jarang aktif di sosmed jadi tidak terlalu memusingkan hal maya", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma29",
+      "question": "Hujan deras turun saat akhir pekan...",
+      "options": [
+        { "text": "Sangat sebal karena rencana main ke luar rumah jadi gagal total", "type": "Y" },
+        { "text": "Menganggapnya waktu yang pas untuk *me-time* beres-beres di rumah", "type": "A" },
+        { "text": "Menikmati kedamaian suara hujan sambil meminum kopi/teh hangat", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma30",
+      "question": "Definisi 'Cinta Sejati' menurut pikiranmu adalah...",
+      "options": [
+        { "text": "Sangat romantis, berdebar-debar, dan dramatis seperti di film", "type": "Y" },
+        { "text": "Kerja sama tim, komitmen kuat, dan saling melengkapi kekurangan", "type": "A" },
+        { "text": "Kebiasaan, kenyamanan, dan saling menemani sampai hari tua tiba", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma31",
+      "question": "Saat dihadapkan pada tugas yang sangat membosankan...",
+      "options": [
+        { "text": "Menunda-nunda sampai detik terakhir karena tidak *mood*", "type": "Y" },
+        { "text": "Mencicilnya sedikit demi sedikit di sela-sela aktivitas lain", "type": "A" },
+        { "text": "Langsung mengerjakannya sampai tuntas agar beban pikiran cepat hilang", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma32",
+      "question": "Bagaimana caramu mengonsumsi berita atau isu politik?",
+      "options": [
+        { "text": "Mengikuti tren opini di Twitter/TikTok dan bereaksi reaktif", "type": "Y" },
+        { "text": "Membaca dari beberapa sumber untuk mencari sudut pandang objektif", "type": "A" },
+        { "text": "Setia pada pandangan konservatif yang sudah kuyakini sejak dulu", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma33",
+      "question": "Perasaanmu setiap kali merayakan hari ulang tahunmu...",
+      "options": [
+        { "text": "Sangat *excited*, menunggu kado, kejutan, dan ucapan dari banyak orang", "type": "Y" },
+        { "text": "Bersyukur, cukup merayakan secara privat dengan orang-orang terdekat", "type": "A" },
+        { "text": "Biasa saja, hanya hari biasa yang mengingatkan umur makin berkurang", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma34",
+      "question": "Jika tiba-tiba mendapat rezeki nomplok Rp 10 Juta...",
+      "options": [
+        { "text": "Langsung *check-out* barang impian atau dipakai liburan foya-foya", "type": "Y" },
+        { "text": "Sebagian ditabung/investasi, sebagian kecil dinikmati untuk *reward*", "type": "A" },
+        { "text": "Disimpan semuanya dengan aman untuk dana darurat/kesehatan", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma35",
+      "question": "Salah naik jurusan kereta/bus saat bepergian sendirian...",
+      "options": [
+        { "text": "Panik, bingung mau menangis, dan langsung menelepon teman", "type": "Y" },
+        { "text": "Buka aplikasi maps, cari rute alternatif tercepat untuk putar balik", "type": "A" },
+        { "text": "Santai, turun di halte berikutnya dan bertanya pada warga/petugas", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma36",
+      "question": "Pendapatmu soal tren *slang* (bahasa gaul) anak muda zaman sekarang...",
+      "options": [
+        { "text": "Aku ikut menggunakannya setiap hari biar tetap *relate* dan asyik", "type": "Y" },
+        { "text": "Aku paham artinya, tapi jarang memakainya di percakapan asliku", "type": "A" },
+        { "text": "Gagal paham, bahasanya aneh dan merusak tatanan bahasa yang baik", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma37",
+      "question": "Sikapmu soal kondisi fisik dan kesehatan tubuh...",
+      "options": [
+        { "text": "Merasa kuat, makan sembarangan, dan jarang peduli pada jam tidur", "type": "Y" },
+        { "text": "Mulai sadar pentingnya olahraga rutin dan membatasi asupan gula", "type": "A" },
+        { "text": "Sangat berhati-hati, sering minum vitamin, dan rutin *medical check-up*", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma38",
+      "question": "Pilihan kado yang paling membuatmu bahagia saat ini...",
+      "options": [
+        { "text": "Barang *hype*, tiket konser, atau pakaian trendi", "type": "Y" },
+        { "text": "Barang elektronik atau perabotan fungsional yang sedang aku butuhkan", "type": "A" },
+        { "text": "Voucher belanja sembako, suplemen sendi, atau sekadar ketenangan", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma39",
+      "question": "Saat terjadi perdebatan beda pendapat yang panjang...",
+      "options": [
+        { "text": "Ngeyel dan bersikeras agar orang lain mengakui bahwa aku benar", "type": "Y" },
+        { "text": "Mencari jalan tengah atau sepakat untuk tidak sepakat (*agree to disagree*)", "type": "A" },
+        { "text": "Mengalah, diam, dan pergi karena berdebat membuang-buang energi", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma40",
+      "question": "Barang bawaan wajib di dalam tasmu saat bepergian...",
+      "options": [
+        { "text": "Powerbank kapasitas besar, earphone, dan *skincare/makeup*", "type": "Y" },
+        { "text": "Dompet, kunci rumah, charger, dan obat pribadi secukupnya", "type": "A" },
+        { "text": "Minyak angin/kayu putih, tisu basah, payung, dan obat gosok", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma41",
+      "question": "Saat kamu tahu kamu melakukan kesalahan besar...",
+      "options": [
+        { "text": "Minta maaf tapi mencari-cari alasan pembenaran (ngeles)", "type": "Y" },
+        { "text": "Mengakui kesalahan secara jantan dan menawarkan solusi perbaikan", "type": "A" },
+        { "text": "Dihantui rasa bersalah dan penyesalan mendalam untuk waktu yang lama", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma42",
+      "question": "Pandanganmu tentang lingkaran pertemanan...",
+      "options": [
+        { "text": "Semakin banyak teman/circle semakin asyik dan populer", "type": "Y" },
+        { "text": "Sedikit teman tapi berkualitas tinggi dan saling *support*", "type": "A" },
+        { "text": "Teman lamaku dari belasan tahun lalu adalah satu-satunya yang kupercaya", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma43",
+      "question": "Tampilan layar HP (*Home Screen*) milikmu...",
+      "options": [
+        { "text": "Berantakan, banyak *badge* notifikasi merah, dan ada *widget* lucu", "type": "Y" },
+        { "text": "Rapi, aplikasi dikelompokkan ke dalam folder sesuai fungsi", "type": "A" },
+        { "text": "Sangat standar bawaan pabrik, font dibesarkan agar mudah dibaca", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma44",
+      "question": "Ketika koneksi WiFi mati atau melambat drastis...",
+      "options": [
+        { "text": "Ngomel-ngomel, emosi, dan terus me-restart modem berkali-kali", "type": "Y" },
+        { "text": "Mencari kesibukan *offline* sementara menunggu koneksi pulih", "type": "A" },
+        { "text": "Santai saja, toh hidup tanpa internet beberapa jam bukan masalah besar", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma45",
+      "question": "Definisi 'Sukses' menurut standar hidupmu saat ini...",
+      "options": [
+        { "text": "Menjadi populer, kaya raya, dan bisa keliling dunia bebas", "type": "Y" },
+        { "text": "Finansial stabil, karir berkembang, dan keluarga yang suportif", "type": "A" },
+        { "text": "Hidup tenang di desa, sehat walafiat, dan tidak punya hutang sepeserpun", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma46",
+      "question": "Menyikapi orang tua yang lambat saat mengoperasikan ATM atau HP di depanmu...",
+      "options": [
+        { "text": "Merasa kesal, mendecak, dan tidak sabar menunggunya", "type": "Y" },
+        { "text": "Menawarkan bantuan dengan sopan agar prosesnya lebih cepat", "type": "A" },
+        { "text": "Sabar menunggu tanpa mengeluh, menyadari bahwa usia memang memperlambat orang", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma47",
+      "question": "Kebiasaan bangun pagi di hari libur/Minggu...",
+      "options": [
+        { "text": "Kesiangan parah (jam 10 ke atas) karena balas dendam begadang", "type": "Y" },
+        { "text": "Bangun di jam biasa seperti hari kerja, tapi bersantai di tempat tidur dulu", "type": "A" },
+        { "text": "Tetap bangun jam 5 pagi secara otomatis meskipun tidak pasang alarm", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma48",
+      "question": "Kalau diajak nongkrong oleh teman sampai tengah malam...",
+      "options": [
+        { "text": "Gass! Pantang pulang sebelum pagi tiba", "type": "Y" },
+        { "text": "Boleh, asalkan besok libur dan aku sedang tidak lelah", "type": "A" },
+        { "text": "Menolak halus, jam 9 malam tubuhku sudah menuntut kasur", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma49",
+      "question": "Reaksimu melihat sepasang ABG pacaran berlebihan di tempat umum...",
+      "options": [
+        { "text": "Merekamnya diam-diam atau bergosip dengan teman di sebelah", "type": "Y" },
+        { "text": "Merasa risih, membuang muka, dan mengabaikannya", "type": "A" },
+        { "text": "Menggeleng-gelengkan kepala meratapi moral generasi zaman sekarang", "type": "O" }
+      ]
+    },
+    {
+      "id": "ma50",
+      "question": "Jujur dari lubuk hati terdalam, kamu merasa usia mentalmu...",
+      "options": [
+        { "text": "Masih seperti remaja belasan tahun yang menolak dewasa", "type": "Y" },
+        { "text": "Cukup selaras dengan umur biologisku di KTP saat ini", "type": "A" },
+        { "text": "Sangat tua, lelah dengan dunia, dan memiliki jiwa jompo sejati", "type": "O" }
+      ]
+    }
+  ]
+}

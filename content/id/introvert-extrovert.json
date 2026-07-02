@@ -1,0 +1,27 @@
+{
+  "title": "Introvert vs Extrovert",
+  "description": "Cari tahu di mana kamu berada dalam spektrum energi sosial.",
+  "timeEstimation": "3 Menit",
+  "resultMapping": {
+    "extrovert": "E",
+    "introvert": "I"
+  },
+  "questions": [
+    { "id": "ie1", "question": "Saat di pesta, kamu...", "options": [{"text": "Berbicara dengan banyak orang", "type": "E"}, {"text": "Hanya bicara dengan teman dekat", "type": "I"}] },
+    { "id": "ie2", "question": "Di akhir pekan, kamu lebih suka...", "options": [{"text": "Pergi keluar bersama teman", "type": "E"}, {"text": "Sendirian di rumah", "type": "I"}] },
+    { "id": "ie3", "question": "Telepon mendadak dari teman...", "options": [{"text": "Senang, langsung angkat", "type": "E"}, {"text": "Berpikir dulu, kadang pesan saja", "type": "I"}] },
+    { "id": "ie4", "question": "Saat bekerja, kamu lebih sukses jika...", "options": [{"text": "Bekerja dalam tim", "type": "E"}, {"text": "Bekerja sendiri", "type": "I"}] },
+    { "id": "ie5", "question": "Setelah seharian sosialisasi, kamu...", "options": [{"text": "Makin berenergi", "type": "E"}, {"text": "Lelah dan butuh sendiri", "type": "I"}] },
+    { "id": "ie6", "question": "Kamu lebih nyaman...", "options": [{"text": "Jadi pusat perhatian", "type": "E"}, {"text": "Di belakang layar", "type": "I"}] },
+    { "id": "ie7", "question": "Pendapatmu: diam itu...", "options": [{"text": "Canggung", "type": "E"}, {"text": "Emas", "type": "I"}] },
+    { "id": "ie8", "question": "Saat ada masalah, kamu...", "options": [{"text": "Cerita ke banyak teman", "type": "E"}, {"text": "Pendam dan selesaikan sendiri", "type": "I"}] },
+    { "id": "ie9", "question": "Kamu lebih sering...", "options": [{"text": "Bicara dulu, pikir kemudian", "type": "E"}, {"text": "Pikir dulu, bicara kemudian", "type": "I"}] },
+    { "id": "ie10", "question": "Lingkaran pertemananmu...", "options": [{"text": "Luas, banyak teman", "type": "E"}, {"text": "Kecil, tapi mendalam", "type": "I"}] },
+    { "id": "ie11", "question": "Saat meeting online, kamu...", "options": [{"text": "Aktif berdiskusi", "type": "E"}, {"text": "Lebih sering mute", "type": "I"}] },
+    { "id": "ie12", "question": "Di gym, kamu...", "options": [{"text": "Ngobrol dengan orang sekitar", "type": "E"}, {"text": "Fokus sendiri pakai headset", "type": "I"}] },
+    { "id": "ie13", "question": "Kritik lebih mudah kamu...", "options": [{"text": "Sampaikan langsung", "type": "E"}, {"text": "Tulis dalam chat", "type": "I"}] },
+    { "id": "ie14", "question": "Saat liburan, kamu...", "options": [{"text": "Cari teman perjalanan", "type": "E"}, {"text": "Nikmati solo traveling", "type": "I"}] },
+    { "id": "ie15", "question": "Di sosial media, kamu...", "options": [{"text": "Sering posting & komen", "type": "E"}, {"text": "Jarang posting, scroll saja", "type": "I"}] },
+    { "id": "ie16", "question": "Energimu lebih cepat terisi dengan...", "options": [{"text": "Bertemu orang", "type": "E"}, {"text": "Waktu sendiri", "type": "I"}] }
+  ]
+}

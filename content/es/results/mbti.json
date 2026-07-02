@@ -1,0 +1,130 @@
+{
+  "intj": {
+    "type": "INTJ",
+    "name": "Arquitecto",
+    "description": "Los INTJ son pensadores estratégicos, imaginativos y tienen un plan para todo. Son independientes, seguros y les gusta trabajar solos.",
+    "traits": { "introvertido": 80, "intuitivo": 90, "pensamiento": 85, "juicio": 75 },
+    "strengths": ["Pensador estratégico", "Independiente", "Seguro de sí mismo"],
+    "weaknesses": ["Demasiado perfeccionista", "Dificultad para expresar emociones"]
+  },
+  "infj": {
+    "type": "INFJ",
+    "name": "Abogado",
+    "description": "Los INFJ son idealistas callados y misteriosos que pueden inspirar a otros. Tienen una visión fuerte y se preocupan profundamente por el significado de la vida.",
+    "traits": { "introvertido": 70, "intuitivo": 95, "sentimiento": 80, "juicio": 70 },
+    "strengths": ["Visionario", "Creativo", "Inspirador"],
+    "weaknesses": ["Perfeccionista", "Propenso al estrés"]
+  },
+  "entj": {
+    "type": "ENTJ",
+    "name": "Comandante",
+    "description": "Los ENTJ son líderes natos, decididos, audaces y carismáticos. Aman los desafíos y logran objetivos con eficiencia.",
+    "traits": { "extrovertido": 85, "intuitivo": 80, "pensamiento": 90, "juicio": 85 },
+    "strengths": ["Gran líder", "Seguro de sí mismo", "Orientado a metas"],
+    "weaknesses": ["Dominante", "Impaciente"]
+  },
+  "enfj": {
+    "type": "ENFJ",
+    "name": "Protagonista",
+    "description": "Los ENFJ son educadores y mentores carismáticos. Pueden ver el mejor potencial en los demás y están llenos de empatía.",
+    "traits": { "extrovertido": 80, "intuitivo": 75, "sentimiento": 85, "juicio": 75 },
+    "strengths": ["Alta empatía", "Carismático", "Inspirador"],
+    "weaknesses": ["Demasiado preocupado", "Agotamiento social"]
+  },
+  "istj": {
+    "type": "ISTJ",
+    "name": "Logístico",
+    "description": "Los ISTJ son individuos prácticos, estructurados y responsables. Se basan en hechos y orden.",
+    "traits": { "introvertido": 75, "sensorial": 80, "pensamiento": 85, "juicio": 90 },
+    "strengths": ["Disciplinado", "Leal", "Detallista"],
+    "weaknesses": ["Rígido", "Inflexible"]
+  },
+  "isfj": {
+    "type": "ISFJ",
+    "name": "Defensor",
+    "description": "Los ISFJ son protectores cálidos y atentos. Son muy leales y están listos para ayudar a quienes los rodean.",
+    "traits": { "introvertido": 70, "sensorial": 75, "sentimiento": 85, "juicio": 80 },
+    "strengths": ["Leal", "Atento", "Trabajador"],
+    "weaknesses": ["Demasiado altruista", "Dificultad para decir no"]
+  },
+  "estj": {
+    "type": "ESTJ",
+    "name": "Ejecutivo",
+    "description": "Los ESTJ son administradores capaces a los que les gustan las reglas y la estructura. Son muy eficientes en la ejecución de tareas.",
+    "traits": { "extrovertido": 75, "sensorial": 80, "pensamiento": 85, "juicio": 90 },
+    "strengths": ["Líder eficiente", "Trabajador", "Práctico"],
+    "weaknesses": ["Rígido ante el cambio", "Demasiado crítico"]
+  },
+  "esfj": {
+    "type": "ESFJ",
+    "name": "Cónsul",
+    "description": "Los ESFJ son personas sociables y cariñosas. Valoran mucho la armonía y son populares en entornos sociales.",
+    "traits": { "extrovertido": 85, "sensorial": 70, "sentimiento": 80, "juicio": 75 },
+    "strengths": ["Amigable", "Cariñoso", "Buen organizador"],
+    "weaknesses": ["Demasiado dependiente del reconocimiento", "Evita conflictos"]
+  },
+  "istp": {
+    "type": "ISTP",
+    "name": "Virtuoso",
+    "description": "Los ISTP son observadores callados y analíticos. Sobresalen en entender cómo funcionan las cosas y disfrutan los desafíos prácticos.",
+    "traits": { "introvertido": 75, "sensorial": 80, "pensamiento": 80, "percepción": 70 },
+    "strengths": ["Creativo técnicamente", "Adaptable", "Independiente"],
+    "weaknesses": ["Dificultad para comprometerse", "No muy emocional"]
+  },
+  "isfp": {
+    "type": "ISFP",
+    "name": "Aventurero",
+    "description": "Los ISFP son artistas gentiles, imaginativos que aprecian la belleza. Viven según fuertes valores personales.",
+    "traits": { "introvertido": 70, "sensorial": 75, "sentimiento": 80, "percepción": 75 },
+    "strengths": ["Creativo", "Empático", "Flexible"],
+    "weaknesses": ["Demasiado sensible", "Dificultad para tomar decisiones rápidas"]
+  },
+  "estp": {
+    "type": "ESTP",
+    "name": "Emprendedor",
+    "description": "Los ESTP son audaces, enérgicos y espontáneos. Son receptivos, buenos negociando y aman la acción directa.",
+    "traits": { "extrovertido": 85, "sensorial": 80, "pensamiento": 75, "percepción": 80 },
+    "strengths": ["Audaz", "Actúa rápido", "Afable"],
+    "weaknesses": ["Impulsivo", "Se aburre fácilmente"]
+  },
+  "esfp": {
+    "type": "ESFP",
+    "name": "Artista",
+    "description": "Los ESFP son artistas naturales alegres y llenos de energía. Aman las experiencias nuevas y compartir alegría.",
+    "traits": { "extrovertido": 90, "sensorial": 75, "sentimiento": 80, "percepción": 80 },
+    "strengths": ["Espontáneo", "Amigable", "Bueno para entretener"],
+    "weaknesses": ["Se aburre fácilmente", "Falta de disciplina"]
+  },
+  "intp": {
+    "type": "INTP",
+    "name": "Lógico",
+    "description": "Los INTP son pensadores innovadores que aman encontrar patrones y teorías. Son muy analíticos y a menudo perdidos en sus pensamientos.",
+    "traits": { "introvertido": 85, "intuitivo": 85, "pensamiento": 85, "percepción": 80 },
+    "strengths": ["Analítico", "Innovador", "Creativo abstracto"],
+    "weaknesses": ["Dificultad para socializar", "Demasiado perfeccionista"]
+  },
+  "infp": {
+    "type": "INFP",
+    "name": "Mediador",
+    "description": "Los INFP son idealistas leales a sus valores y seres queridos. Se sienten atraídos por el significado profundo y la armonía.",
+    "traits": { "introvertido": 75, "intuitivo": 85, "sentimiento": 85, "percepción": 75 },
+    "strengths": ["Empático", "Creativo", "Fiel a sus principios"],
+    "weaknesses": ["Demasiado idealista", "Propenso a pensar demasiado"]
+  },
+  "entp": {
+    "type": "ENTP",
+    "name": "Innovador",
+    "description": "Los ENTP son pensadores inteligentes a los que les gusta debatir. Están llenos de ideas nuevas y son hábiles para resolver problemas complejos.",
+    "traits": { "extrovertido": 80, "intuitivo": 90, "pensamiento": 80, "percepción": 85 },
+    "strengths": ["Creativo", "Bueno argumentando", "Mente amplia"],
+    "weaknesses": ["Falta de enfoque", "A menudo burlón"]
+  },
+  "enfp": {
+    "type": "ENFP",
+    "name": "Activista",
+    "description": "Los ENFP son soñadores entusiastas e imaginativos. Ven la vida como un escenario de posibilidades.",
+    "traits": { "extrovertido": 85, "intuitivo": 85, "sentimiento": 75, "percepción": 85 },
+    "strengths": ["Creativo", "Energético", "Afable"],
+    "weaknesses": ["Dificultad para concentrarse", "Demasiado emocional"]
+  }
+}

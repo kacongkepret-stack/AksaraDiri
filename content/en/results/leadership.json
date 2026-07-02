@@ -1,0 +1,26 @@
+{
+  "v": {
+    "type": "Visionary",
+    "name": "Inspirational Leader",
+    "description": "You lead with a big vision. People follow you because they are inspired.",
+    "traits": { "Vision": 90, "Charisma": 85, "Strategy": 80 },
+    "strengths": ["Motivator", "Forward-thinking"],
+    "weaknesses": ["Lacks detail"]
+  },
+  "c": {
+    "type": "Coach",
+    "name": "Developmental Leader",
+    "description": "You develop team potential. You focus on individual growth.",
+    "traits": { "Empathy": 88, "Patience": 85, "Teaching skills": 82 },
+    "strengths": ["Good listener", "Encourager"],
+    "weaknesses": ["Difficulty making firm decisions"]
+  },
+  "d": {
+    "type": "Commander",
+    "name": "Decisive Leader",
+    "description": "You lead with efficiency. Targets must be achieved.",
+    "traits": { "Decisiveness": 95, "Discipline": 90 },
+    "strengths": ["Decides quickly", "Clear instructions"],
+    "weaknesses": ["Inflexible", "Sometimes feared"]
+  }
+}

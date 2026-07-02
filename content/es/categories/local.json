@@ -1,0 +1,97 @@
+{
+  "title": "Cultura Local",
+  "icon": "📜",
+  "desc": "Sabiduría ancestral nusantara, Weton javanés, Pawukon balinés y predicciones Primbon.",
+  "bgGradient": "from-amber-950 via-slate-950 to-slate-950",
+  "glowColor": "bg-amber-500/10",
+  "features": [
+    {
+      "name": "Calculadora Weton",
+      "id": "weton",
+      "info": "Calcula neptu y carácter javanés",
+      "time": "2 min",
+      "q": "Calculadora",
+      "icon": "📅"
+    },
+    {
+      "name": "Compatibilidad Primbon",
+      "id": "primbon-jodoh",
+      "info": "Compatibilidad con futura pareja",
+      "time": "3 min",
+      "q": "Primbon",
+      "icon": "💍"
+    },
+    {
+      "name": "Selector de Fecha de Boda",
+      "id": "hari-baik-nikah",
+      "info": "Encuentra tu fecha sagrada para casarte",
+      "time": "5 min",
+      "q": "Cálculo",
+      "icon": "📆"
+    },
+    {
+      "name": "Interpretación de Sueños",
+      "id": "arti-mimpi",
+      "info": "Significados ocultos de tus sueños",
+      "time": "Instantáneo",
+      "q": "Búsqueda",
+      "icon": "🌙"
+    },
+    {
+      "name": "Neptu Javanés",
+      "id": "neptu",
+      "info": "Valores de día y mercado del calendario",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "🔢"
+    },
+    {
+      "name": "Carácter de Nacimiento",
+      "id": "watak-kelahiran",
+      "info": "Rasgos dominantes según weton",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "👶"
+    },
+    {
+      "name": "Dirección de Riqueza",
+      "id": "arah-rezeki",
+      "info": "Dirección cardinal de la fortuna",
+      "time": "2 min",
+      "q": "Cálculo",
+      "icon": "🧭"
+    },
+    {
+      "name": "Nombres de Bebé Javaneses",
+      "id": "nama-bayi-jawa",
+      "info": "Recomendaciones de nombres con significado",
+      "time": "Instantáneo",
+      "q": "Generador",
+      "icon": "🍼"
+    },
+    {
+      "name": "Ciclo Pasaran",
+      "id": "hari-pasaran",
+      "info": "Pahing, Pon, Wage, Legi, Kliwon",
+      "time": "Instantáneo",
+      "q": "Base de datos",
+      "icon": "🗓️"
+    },
+    {
+      "name": "Calendario Javanés",
+      "id": "kalender-jawa",
+      "info": "Fechas javanesas y días importantes",
+      "time": "Instantáneo",
+      "q": "Calendario",
+      "icon": "📅"
+    },
+    {
+      "name": "Calendario Balinés",
+      "id": "kalender-bali",
+      "info": "Sistema Pawukon y Sasih",
+      "time": "Instantáneo",
+      "q": "Calendario",
+      "icon": "🌺"
+    }
+  ]
+}

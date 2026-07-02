@@ -1,0 +1,11 @@
+# Lingkungan & Kunci Rahasia
+.env
+.env.*
+.env.local
+
+# Folder Sistem & Build (Meringankan Upload)
+node_modules/
+.next/
+out/
+build/
+.DS_Store

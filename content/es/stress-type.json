@@ -1,0 +1,458 @@
+{
+  "title": "Tipo de Estrés",
+  "description": "Identifica tu tipo de estrés y la mejor manera de afrontarlo.",
+  "timeEstimation": "15 Minutos",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "st1",
+      "question": "Cuando se acerca una fecha límite, tú...",
+      "options": [
+        { "text": "Te desvelas pensando en todo lo que podría salir mal", "type": "O" },
+        { "text": "Postergas hasta el último momento buscando distracciones", "type": "A" },
+        { "text": "Actúas de inmediato, tomas el control y trabajas rápido", "type": "F" }
+      ]
+    },
+    {
+      "id": "st2",
+      "question": "Tu reacción física al estrés...",
+      "options": [
+        { "text": "Dificultad para dormir, dolores de cabeza, pensamientos acelerados", "type": "O" },
+        { "text": "Somnolencia excesiva, letargo y ganas de solo estar acostado/a", "type": "A" },
+        { "text": "Corazón latiendo fuerte, músculos tensos, ganas de actuar de inmediato", "type": "F" }
+      ]
+    },
+    {
+      "id": "st3",
+      "question": "Cuando surge un conflicto con alguien, tú...",
+      "options": [
+        { "text": "Analizas todas las partes y organizas palabras en tu cabeza hasta agotarte", "type": "O" },
+        { "text": "Evitas, das el tratamiento silencioso, esperando que el problema desaparezca", "type": "A" },
+        { "text": "Enfrentas directamente, discutes con fuerza para que termine rápido", "type": "F" }
+      ]
+    },
+    {
+      "id": "st4",
+      "question": "Cuando muchas tareas se acumulan a la vez, tú...",
+      "options": [
+        { "text": "Te confundes, entras en pánico y te bloqueas sin saber por dónde empezar", "type": "O" },
+        { "text": "Haces las muy fáciles primero, o simplemente juegas con el móvil", "type": "A" },
+        { "text": "Haces una lista estricta, modo robot activado, y las eliminas una a una", "type": "F" }
+      ]
+    },
+    {
+      "id": "st5",
+      "question": "¿Cuál es tu mayor desencadenante de estrés?",
+      "options": [
+        { "text": "La incertidumbre y no saber qué pasará mañana", "type": "O" },
+        { "text": "La presión, las expectativas altas y la confrontación de otros", "type": "A" },
+        { "text": "Los obstáculos, la ineficiencia y las personas que trabajan lento", "type": "F" }
+      ]
+    },
+    {
+      "id": "st6",
+      "question": "Cuando el estrés te afecta, tiendes a...",
+      "options": [
+        { "text": "Darle demasiadas vueltas y quedarte atrapado/a en tus pensamientos", "type": "O" },
+        { "text": "Aislarte y distraerte con cosas sin importancia", "type": "A" },
+        { "text": "Volverte más agresivo/a, irritable y súper concentrado/a", "type": "F" }
+      ]
+    },
+    {
+      "id": "st7",
+      "question": "Tu forma más natural de calmarte...",
+      "options": [
+        { "text": "Desahogarte largo y tendido, escribir un diario o buscar certeza", "type": "O" },
+        { "text": "Ver películas, jugar, dormir o tener tiempo a solas total", "type": "A" },
+        { "text": "Ejercicio vigoroso, limpiar la casa o actividad física", "type": "F" }
+      ]
+    },
+    {
+      "id": "st8",
+      "question": "Cuando alguien critica tu trabajo...",
+      "options": [
+        { "text": "Me lo tomo a pecho y pienso en ello durante días", "type": "O" },
+        { "text": "Lo ignoro, finjo que no me importa para proteger mi ego", "type": "A" },
+        { "text": "Me pongo a la defensiva de inmediato, respondo y demuestro que están equivocados", "type": "F" }
+      ]
+    },
+    {
+      "id": "st9",
+      "question": "Tu relación con el trabajo/las tareas...",
+      "options": [
+        { "text": "Siempre me preocupo de que los resultados no sean lo suficientemente perfectos (perfeccionista ansioso)", "type": "O" },
+        { "text": "Trabajo lo justo, no quiero complicarme", "type": "A" },
+        { "text": "Siempre doy el 100% y asumo las tareas de otros si son lentos", "type": "F" }
+      ]
+    },
+    {
+      "id": "st10",
+      "question": "Cuando enfrentas un cambio repentino que cancela tus planes...",
+      "options": [
+        { "text": "Te estresas mucho pensando en todos los nuevos escenarios desordenados", "type": "O" },
+        { "text": "Te resignas, te decepcionas en silencio y dejas que la corriente te lleve", "type": "A" },
+        { "text": "Buscas alternativas de inmediato, haces planes B, C y D en el acto", "type": "F" }
+      ]
+    },
+    {
+      "id": "st11",
+      "question": "A ojos de los demás, cuando estás bajo presión pareces...",
+      "options": [
+        { "text": "Inquieto/a, haciendo muchas preguntas y pareciendo indeciso/a", "type": "O" },
+        { "text": "Callado/a, frío/a, difícil de contactar e indiferente", "type": "A" },
+        { "text": "Tenso/a, intimidante, rígido/a y mandón/a", "type": "F" }
+      ]
+    },
+    {
+      "id": "st12",
+      "question": "Cuando todo parece fuera de control...",
+      "options": [
+        { "text": "Me siento destrozado/a, lloro e imagino lo peor", "type": "O" },
+        { "text": "Me retiro emocionalmente y entro en modo 'insensible'", "type": "A" },
+        { "text": "Fuerzo agresivamente recuperar aunque sea un pequeño control", "type": "F" }
+      ]
+    },
+    {
+      "id": "st13",
+      "question": "¿Qué necesitas más cuando estás muy estresado/a?",
+      "options": [
+        { "text": "Alguien que escuche, valide y dé certeza", "type": "O" },
+        { "text": "Espacio a solas sin que nadie te moleste", "type": "A" },
+        { "text": "Soluciones reales, recursos y libertad para actuar", "type": "F" }
+      ]
+    },
+    {
+      "id": "st14",
+      "question": "Después de un largo período estresante que termina, tú...",
+      "options": [
+        { "text": "Todavía tienes ansiedad residual y miedo de que el problema vuelva", "type": "O" },
+        { "text": "Duermes todo el día y te da pereza hacer cualquier cosa (agotamiento pasivo)", "type": "A" },
+        { "text": "Buscas nuevos objetivos/actividades de inmediato porque no puedes estar quieto/a", "type": "F" }
+      ]
+    },
+    {
+      "id": "st15",
+      "question": "¿Qué consejo escuchas más a menudo de tus amigos?",
+      "options": [
+        { "text": "'No le des tantas vueltas, relájate un poco.'", "type": "O" },
+        { "text": "'No huyas del problema, resuélvelo ahora.'", "type": "A" },
+        { "text": "'Ten paciencia, no te pongas nervioso/a, tómalo con calma.'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st16",
+      "question": "Ver cientos de correos/mensajes no leídos...",
+      "options": [
+        { "text": "Te da ansiedad pensar que te pierdes algo importante, los lees repetidamente", "type": "O" },
+        { "text": "Marcas todo como leído o los ignoras por completo", "type": "A" },
+        { "text": "Respondes rápido a todos con respuestas cortas, rápidas y firmes", "type": "F" }
+      ]
+    },
+    {
+      "id": "st17",
+      "question": "Durante una presentación o reunión, surge un problema técnico repentino (se va la luz/se rompe el proyector)...",
+      "options": [
+        { "text": "Tiemblas, entras en pánico pensando que tu presentación será un desastre", "type": "O" },
+        { "text": "Te sientes secretamente aliviado/a, esperas que la presentación se aplace", "type": "A" },
+        { "text": "Improvisas hablando sin medios visuales, el espectáculo debe continuar", "type": "F" }
+      ]
+    },
+    {
+      "id": "st18",
+      "question": "Atrapado/a en un atasco total cuando tienes un horario urgente...",
+      "options": [
+        { "text": "Miras el reloj constantemente, estresado/a pensando en excusas por llegar tarde", "type": "O" },
+        { "text": "Te resignas, pones música y te convences de que 'no es mi culpa'", "type": "A" },
+        { "text": "Tocas el claxon, te pones nervioso/a, buscas rutas alternativas extremas", "type": "F" }
+      ]
+    },
+    {
+      "id": "st19",
+      "question": "Tu pareja envía un mensaje: 'Necesitamos hablar seriamente esta noche.'",
+      "options": [
+        { "text": "Analizas todos tus errores pasados desde hace 3 años", "type": "O" },
+        { "text": "Respondes 'Estoy ocupado/a trabajando hasta tarde' para posponer la conversación", "type": "A" },
+        { "text": "Respondes 'Hablemos ahora, ¿cuál es el problema?'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st20",
+      "question": "Haces una transferencia de dinero equivocada accidentalmente...",
+      "options": [
+        { "text": "Te maldices a ti mismo/a por tu estupidez sin parar todo el día", "type": "O" },
+        { "text": "Te consuelas 'Bueno, que sea por quitarte la mala suerte'", "type": "A" },
+        { "text": "Llamas al banco de inmediato, vas a la sucursal, lo gestionas en el acto", "type": "F" }
+      ]
+    },
+    {
+      "id": "st21",
+      "question": "Llegan las vacaciones, pero tu trabajo del proyecto no está terminado...",
+      "options": [
+        { "text": "Cuerpo de vacaciones, pero mente atormentada pensando constantemente en el trabajo", "type": "O" },
+        { "text": "Apagas las notificaciones del móvil, olvidas por completo el mundo laboral", "type": "A" },
+        { "text": "Te llevas el portátil al destino de vacaciones, te fuerzas a avanzar en el trabajo", "type": "F" }
+      ]
+    },
+    {
+      "id": "st22",
+      "question": "Un compañero de equipo resulta ser muy tóxico y vago...",
+      "options": [
+        { "text": "No dejas de pensar en ello y te estresa cómo manejarlo", "type": "O" },
+        { "text": "Te alejas de él/ella lo máximo posible y minimizas la interacción", "type": "A" },
+        { "text": "Lo enfrentas o lo denuncias directamente al jefe", "type": "F" }
+      ]
+    },
+    {
+      "id": "st23",
+      "question": "Olvidar llevar la cartera/tarjeta cuando ya estás en la caja...",
+      "options": [
+        { "text": "Te da mucha vergüenza, ansiedad por las miradas y te disculpas repetidamente", "type": "O" },
+        { "text": "Cancelas la compra, dejas los artículos y te vas a casa de inmediato", "type": "A" },
+        { "text": "Buscas una solución rápida: transferencia por móvil, QRIS, o llamas a un amigo cercano", "type": "F" }
+      ]
+    },
+    {
+      "id": "st24",
+      "question": "No cumplir tu objetivo de dieta o ejercicio de la semana...",
+      "options": [
+        { "text": "Te sientes muy culpable y te consideras un fracaso total", "type": "O" },
+        { "text": "Racionalizas el fracaso y sigues comiendo bien", "type": "A" },
+        { "text": "Al día siguiente, haces ejercicio extremo de venganza durante 3 horas seguidas", "type": "F" }
+      ]
+    },
+    {
+      "id": "st25",
+      "question": "El WiFi se muere repentinamente durante una presentación en línea (Zoom)...",
+      "options": [
+        { "text": "Entras en pánico pensando que los participantes te considerarán poco profesional", "type": "O" },
+        { "text": "Esperas pasivamente a que vuelva, si no, cierras el portátil", "type": "A" },
+        { "text": "Compartes datos del móvil de inmediato, reinicias el módem, te enfadas con el proveedor", "type": "F" }
+      ]
+    },
+    {
+      "id": "st26",
+      "question": "Alguien te interrumpe mientras explicas una idea importante...",
+      "options": [
+        { "text": "Te callas, sobrepiensas si tu idea era realmente mala/aburrida", "type": "O" },
+        { "text": "Dejas de hablar por completo y pierdes las ganas de continuar", "type": "A" },
+        { "text": "Lo interrumpes: 'Disculpa, no he terminado de hablar.'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st27",
+      "question": "Se te derrama café sobre tu camiseta favorita justo antes de un evento...",
+      "options": [
+        { "text": "Te estresas, te da mucha vergüenza imaginando que todos lo verán", "type": "O" },
+        { "text": "Cubres la mancha con un bolso/chaqueta y esperas que nadie se dé cuenta", "type": "A" },
+        { "text": "Corres al baño, lo restriegas con jabón hasta que se limpie/compras una camiseta nueva", "type": "F" }
+      ]
+    },
+    {
+      "id": "st28",
+      "question": "Te dan la responsabilidad de un nuevo proyecto que nunca has hecho...",
+      "options": [
+        { "text": "Te da ansiedad pensar en la posibilidad de fracasar y decepcionar al jefe", "type": "O" },
+        { "text": "Te da pereza imaginar la carga de trabajo extra", "type": "A" },
+        { "text": "Lo ves como un desafío para conquistar y dominar", "type": "F" }
+      ]
+    },
+    {
+      "id": "st29",
+      "question": "Ver una factura mensual inesperadamente más alta de lo estimado...",
+      "options": [
+        { "text": "Sobrepiensas de inmediato en una futura bancarrota", "type": "O" },
+        { "text": "Cierras los ojos, pagas la cuota mínima, lo olvidas un rato", "type": "A" },
+        { "text": "Abres Excel, revisas los movimientos y recortas radicalmente el presupuesto del próximo mes", "type": "F" }
+      ]
+    },
+    {
+      "id": "st30",
+      "question": "Un número desconocido llama repetidamente...",
+      "options": [
+        { "text": "Temes que sean malas noticias, una estafa o una factura, solo miras la pantalla", "type": "O" },
+        { "text": "Rechazas la llamada o silencias el móvil", "type": "A" },
+        { "text": "Contestas de inmediato y saludas con un tono firme exigiendo identidad", "type": "F" }
+      ]
+    },
+    {
+      "id": "st31",
+      "question": "Batería del móvil al 2% mientras estás fuera de casa...",
+      "options": [
+        { "text": "Te preocupa que haya una emergencia o alguien importante te busque", "type": "O" },
+        { "text": "Te resignas, dejas que se apague, lo consideras una 'desconexión digital' momentánea", "type": "A" },
+        { "text": "Corres a buscar un enchufe, pides prestado un powerbank a un amigo o entras a la cafetería más cercana", "type": "F" }
+      ]
+    },
+    {
+      "id": "st32",
+      "question": "Te pillan en una pequeña mentira por un amigo...",
+      "options": [
+        { "text": "Entras en pánico, buscas excusas y explicaciones largas para justificarte", "type": "O" },
+        { "text": "Sonríes con vergüenza y cambias de tema de inmediato", "type": "A" },
+        { "text": "Lo admites abiertamente o incluso te pones a la defensiva", "type": "F" }
+      ]
+    },
+    {
+      "id": "st33",
+      "question": "Tu pedido de comida en un restaurante es erróneo y no es lo que pediste...",
+      "options": [
+        { "text": "Te quedas callado/a, temes molestar al camarero o armar un escándalo", "type": "O" },
+        { "text": "Lo comes tal cual, demasiado vago/a para esperar más", "type": "A" },
+        { "text": "Llamas al camarero con firmeza y pides que lo cambien por lo pedido", "type": "F" }
+      ]
+    },
+    {
+      "id": "st34",
+      "question": "Te das cuenta de que tu grupo de amigos se reúne sin invitarte...",
+      "options": [
+        { "text": "Te analizas a ti mismo/a: '¿Hice algo malo?'", "type": "O" },
+        { "text": "No te importa, mejor busca tu propia actividad o juega", "type": "A" },
+        { "text": "Escribes de inmediato en el grupo: '¿Oye, quedáis sin invitarme?'", "type": "F" }
+      ]
+    },
+    {
+      "id": "st35",
+      "question": "Las llaves del coche/moto se quedan dentro o se pierden...",
+      "options": [
+        { "text": "Te maldices a ti mismo/a por tu estupidez mientras imaginas el lío", "type": "O" },
+        { "text": "Te sientas sin fuerzas, llamas a casa para que te lo solucionen", "type": "A" },
+        { "text": "Buscas un cable, fuerzas la ventana o llamas a un cerrajero al instante", "type": "F" }
+      ]
+    },
+    {
+      "id": "st36",
+      "question": "Pierdes el avión o el tren...",
+      "options": [
+        { "text": "Lloras/entras en pánico lamentando el dinero perdido y los planes arruinados", "type": "O" },
+        { "text": "Te vas a casa a dormir, piensas que no era tu destino", "type": "A" },
+        { "text": "Vas a la taquilla/abres el móvil y compras el próximo billete disponible a cualquier precio", "type": "F" }
+      ]
+    },
+    {
+      "id": "st37",
+      "question": "Tu inversión o ahorro sufre una gran pérdida...",
+      "options": [
+        { "text": "Te arrepientes sin parar y sigues la gráfica estresado/a", "type": "O" },
+        { "text": "Borras la aplicación, cierras los ojos, no quieres ver tu cartera", "type": "A" },
+        { "text": "Buscas la forma de cortar pérdidas o encuentras un trabajo extra para cubrir la pérdida", "type": "F" }
+      ]
+    },
+    {
+      "id": "st38",
+      "question": "Tu habitación/escritorio está extremadamente desordenado...",
+      "options": [
+        { "text": "Te estresa verlo pero no sabes por dónde empezar a limpiar", "type": "O" },
+        { "text": "Lo dejas, duermes en el espacio libre que queda", "type": "A" },
+        { "text": "De repente te da un ataque de limpieza, ordenas todo rápidamente y tiras cosas", "type": "F" }
+      ]
+    },
+    {
+      "id": "st39",
+      "question": "Un amigo te recuerda una deuda que tienes pero aún no tienes dinero...",
+      "options": [
+        { "text": "Te da ansiedad, mucha vergüenza y entras en pánico pensando en pedir prestado", "type": "O" },
+        { "text": "Finges no haber leído el mensaje (ghosting) hasta que cobres", "type": "A" },
+        { "text": "Respondes honestamente que aún no tienes, pides un plazo y prometes una fecha concreta", "type": "F" }
+      ]
+    },
+    {
+      "id": "st40",
+      "question": "Clima muy malo/tormenta cuando has planeado un evento al aire libre...",
+      "options": [
+        { "text": "Estás muy triste y te quejas de la mala suerte todo el día", "type": "O" },
+        { "text": "Lo cancelas todo, vuelves a meterte en la cama y duermes otra vez", "type": "A" },
+        { "text": "Trasladas el evento al interior de inmediato o lo fuerzas con chubasqueros", "type": "F" }
+      ]
+    },
+    {
+      "id": "st41",
+      "question": "En una reunión, el jefe busca voluntarios para un proyecto difícil...",
+      "options": [
+        { "text": "Bajas la mirada, sopesas los riesgos de fracasar si lo aceptas", "type": "O" },
+        { "text": "Finges estar ocupado/a tomando notas para que no te elijan", "type": "A" },
+        { "text": "Levantas la mano para aprovechar la oportunidad", "type": "F" }
+      ]
+    },
+    {
+      "id": "st42",
+      "question": "Desacuerdo sobre principios con tus padres/suegros...",
+      "options": [
+        { "text": "Te lo guardas pero te sientes muy dolido/a y le das vueltas", "type": "O" },
+        { "text": "Les das la razón superficialmente para terminar rápido, pero no lo haces", "type": "A" },
+        { "text": "Te plantas, discutes y defiendes tus principios con firmeza", "type": "F" }
+      ]
+    },
+    {
+      "id": "st43",
+      "question": "Solo has dormido menos de 3 horas la noche anterior...",
+      "options": [
+        { "text": "Te da ansiedad y te sugestionas pensando que hoy seguro será un desastre", "type": "O" },
+        { "text": "Llamas diciendo que estás enfermo/a y faltas al trabajo/universidad para seguir durmiendo", "type": "A" },
+        { "text": "Bebes 3 tazas de café solo fuerte y te fuerzas a trabajar el doble", "type": "F" }
+      ]
+    },
+    {
+      "id": "st44",
+      "question": "Cuando un familiar cercano se queja continuamente (desahogo tóxico)...",
+      "options": [
+        { "text": "Absorbes su energía negativa y también te sientes estresado/a y agobiado/a", "type": "O" },
+        { "text": "Empiezas a responderle poco a poco y evitas quedar", "type": "A" },
+        { "text": "Interrumpes su desahogo y le fuerzas a seguir la solución que le sugieres", "type": "F" }
+      ]
+    },
+    {
+      "id": "st45",
+      "question": "Ocurre una emergencia física (por ejemplo, suena la alarma de incendios)...",
+      "options": [
+        { "text": "Entras en pánico, te confundes y te quedas paralizado/a (congelado)", "type": "O" },
+        { "text": "Corres a salvarte a ti mismo/a lo más rápido posible a la zona segura sin pensar", "type": "A" },
+        { "text": "Gritas instrucciones a los demás y buscas un extintor", "type": "F" }
+      ]
+    },
+    {
+      "id": "st46",
+      "question": "Un objeto electrónico caro (portátil/móvil) se queda en blanco de repente mientras lo usas...",
+      "options": [
+        { "text": "Te estresa pensar en los datos no guardados y el coste de reparación", "type": "O" },
+        { "text": "Cierras el portátil/móvil, lo dejas un rato esperando que se arregle solo mañana", "type": "A" },
+        { "text": "Fuerzas el botón de encendido repetidamente, lo golpeas fuerte o lo desmontas tú mismo", "type": "F" }
+      ]
+    },
+    {
+      "id": "st47",
+      "question": "Cuando lees noticias negativas/crisis en redes sociales...",
+      "options": [
+        { "text": "Desplazas sin parar, lees comentarios y también te preocupas por el futuro", "type": "O" },
+        { "text": "Cierras la aplicación, bloqueas palabras clave, no quieres saber nada del mundo", "type": "A" },
+        { "text": "Te unes a debates acalorados en los comentarios para defender lo correcto", "type": "F" }
+      ]
+    },
+    {
+      "id": "st48",
+      "question": "Cuando te enfrentas a una elección difícil (A o B)...",
+      "options": [
+        { "text": "Haces una larga lista de pros y contras pero sigues sin poder decidir", "type": "O" },
+        { "text": "Dejas la decisión a otro para no tener que asumir la carga", "type": "A" },
+        { "text": "Confías en tu instinto, eliges una y te preparas para afrontar los riesgos", "type": "F" }
+      ]
+    },
+    {
+      "id": "st49",
+      "question": "Si suspendes una entrevista de trabajo importante...",
+      "options": [
+        { "text": "Repites mentalmente las respuestas estúpidas que diste durante la entrevista", "type": "O" },
+        { "text": "Dejas de buscar trabajo temporalmente porque has perdido la motivación", "type": "A" },
+        { "text": "Te enfadas con el sistema de contratación y solicitas empleo en otras 10 empresas", "type": "F" }
+      ]
+    },
+    {
+      "id": "st50",
+      "question": "Al final, ¿qué significa el 'Estrés' para ti?",
+      "options": [
+        { "text": "Tortura mental que hace que mi vida se sienta pesada y aterradora", "type": "O" },
+        { "text": "Una molestia que debo evitar en la medida de lo posible", "type": "A" },
+        { "text": "Combustible (adrenalina) que me obliga a seguir adelante", "type": "F" }
+      ]
+    }
+  ]
+}

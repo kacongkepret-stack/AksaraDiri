@@ -1,0 +1,458 @@
+{
+  "title": "Test de Creatividad",
+  "description": "Descubre cómo se manifiesta tu creatividad en la vida diaria.",
+  "timeEstimation": "15 Minutos",
+  "scoringType": "frequency",
+  "questions": [
+    {
+      "id": "cr1",
+      "question": "Cuando enfrentas un problema, normalmente...",
+      "options": [
+        { "text": "Buscas una solución única nunca antes probada", "type": "I" },
+        { "text": "Imaginas posibilidades infinitas", "type": "D" },
+        { "text": "Expresas ideas mediante dibujos o garabatos", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr2",
+      "question": "En tu tiempo libre, te gusta...",
+      "options": [
+        { "text": "Hacer algo con objetos usados", "type": "I" },
+        { "text": "Escribir cuentos o poesías", "type": "D" },
+        { "text": "Dibujar, pintar o hacer fotografía", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr3",
+      "question": "¿Cómo plasmas tus ideas?",
+      "options": [
+        { "text": "Directamente pruebas y experimentas", "type": "I" },
+        { "text": "Las imaginas en detalle en tu mente", "type": "D" },
+        { "text": "Haces bocetos o diagramas visuales", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr4",
+      "question": "Durante una lluvia de ideas, tú...",
+      "options": [
+        { "text": "Propones ideas prácticas pero fuera de lo común", "type": "I" },
+        { "text": "Dejas fluir ideas locas sin límites lógicos", "type": "D" },
+        { "text": "Ayudas a visualizar las ideas con garabatos/dibujos", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr5",
+      "question": "¿Qué haces con los objetos rotos?",
+      "options": [
+        { "text": "Intentas repararlos con los medios/herramientas que tengas", "type": "I" },
+        { "text": "Imaginas que el objeto podría convertirse en otra herramienta", "type": "D" },
+        { "text": "Los conviertes en decoración o arte", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr6",
+      "question": "Cuando tienes que hacer una presentación, tú...",
+      "options": [
+        { "text": "Haces materiales didácticos interactivos únicos", "type": "I" },
+        { "text": "Abres con una narrativa imaginativa", "type": "D" },
+        { "text": "Diseñas diapositivas muy ordenadas y estéticas", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr7",
+      "question": "Prefieres trabajar...",
+      "options": [
+        { "text": "Con método experimental y de ensayo y error", "type": "I" },
+        { "text": "Con total libertad sin reglas fijas", "type": "D" },
+        { "text": "En un entorno bello, fragante e inspirador", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr8",
+      "question": "La inspiración suele venir de...",
+      "options": [
+        { "text": "Problemas complejos que necesitan solución", "type": "I" },
+        { "text": "Ensoñaciones y sueños nocturnos", "type": "D" },
+        { "text": "La belleza de la naturaleza, museos o exposiciones de arte", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr9",
+      "question": "Tus amigos suelen admirarte por tu...",
+      "options": [
+        { "text": "Soluciones ingeniosas (Life-hacks)", "type": "I" },
+        { "text": "Imaginación e historias locas", "type": "D" },
+        { "text": "Gusto estético y estilo", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr10",
+      "question": "Tu proyecto soñado es...",
+      "options": [
+        { "text": "Crear un producto innovador y útil", "type": "I" },
+        { "text": "Escribir una novela de éxito o un guion de cine", "type": "D" },
+        { "text": "Realizar una exposición de arte o diseño en solitario", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr11",
+      "question": "Cuando surge una nueva idea repentinamente, tú...",
+      "options": [
+        { "text": "Buscas inmediatamente formas lógicas de realizarla", "type": "I" },
+        { "text": "La desarrollas en tu imaginación hasta hacerla muy grande", "type": "D" },
+        { "text": "La anotas o dibujas para que no se pierda su forma", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr12",
+      "question": "Lo que más valoras en una obra de arte...",
+      "options": [
+        { "text": "La funcionalidad y utilidad práctica", "type": "I" },
+        { "text": "El significado filosófico y la historia detrás", "type": "D" },
+        { "text": "La belleza visual y la armonía del color", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr13",
+      "question": "Al organizar tu escritorio, te centras en...",
+      "options": [
+        { "text": "La disposición de las herramientas para fácil acceso y eficiencia", "type": "I" },
+        { "text": "Pegar frases y cosas que despierten el recuerdo", "type": "D" },
+        { "text": "El color de la mesa, adornos estéticos y la iluminación", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr14",
+      "question": "Si haces un regalo para un amigo, harías...",
+      "options": [
+        { "text": "Un objeto DIY que le facilite la vida", "type": "I" },
+        { "text": "Escribirías un poema o carta larga que le emocione", "type": "D" },
+        { "text": "Harías un scrapbook o artesanía bonita", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr15",
+      "question": "Al planificar unas vacaciones, te gusta...",
+      "options": [
+        { "text": "Buscar rutas secretas y trucos para viajar barato", "type": "I" },
+        { "text": "Imaginar una aventura emocionante sin itinerario estricto", "type": "D" },
+        { "text": "Buscar lugares con los paisajes más bonitos para fotografiar", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr16",
+      "question": "La mejor manera de memorizar algo para ti es...",
+      "options": [
+        { "text": "Crear un sistema de fórmulas o reglas mnemotécnicas", "type": "I" },
+        { "text": "Tejerlo en una historia absurda", "type": "D" },
+        { "text": "Dibujar un mapa mental con rotuladores de colores", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr17",
+      "question": "Cuando ves una película de Ciencia Ficción, te centras en...",
+      "options": [
+        { "text": "La lógica de la tecnología y las máquinas mostradas", "type": "I" },
+        { "text": "El mundo alternativo y la libertad del guion", "type": "D" },
+        { "text": "Los efectos CGI, el vestuario y la cinematografía", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr18",
+      "question": "Probar una ruta nueva al trabajo/universidad, tu razón es...",
+      "options": [
+        { "text": "Averiguar si esta ruta ahorra 5 minutos", "type": "I" },
+        { "text": "Ver si ocurre algún evento aleatorio interesante", "type": "D" },
+        { "text": "Ver paisajes diferentes de edificios o árboles", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr19",
+      "question": "Si ves un montón de bloques de Lego al azar, harías...",
+      "options": [
+        { "text": "Construir una torre o puente resistente", "type": "I" },
+        { "text": "Inventar una historia sobre héroes en la ciudad de Lego", "type": "D" },
+        { "text": "Ordenarlos formando un degradado de colores", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr20",
+      "question": "Te sientes más frustrado/a si...",
+      "options": [
+        { "text": "Tienes que seguir procedimientos ineficientes", "type": "I" },
+        { "text": "Te limitan reglas que reprimen tus ideas locas", "type": "D" },
+        { "text": "Te colocan en una habitación fea, desordenada y mustia", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr21",
+      "question": "Cuando lees un libro de recetas de cocina, tú...",
+      "options": [
+        { "text": "Modificas las cantidades para optimizar el sabor", "type": "I" },
+        { "text": "Imaginas sabores nuevos que nunca se han creado", "type": "D" },
+        { "text": "Te importa más la forma de presentar el plato", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr22",
+      "question": "Si llevas un diario, su contenido es mayormente...",
+      "options": [
+        { "text": "Tablas de seguimiento de hábitos y gráficos", "type": "I" },
+        { "text": "Narraciones largas sobre sentimientos e ideas aleatorias", "type": "D" },
+        { "text": "Garabatos, pegatinas y escritura caligráfica", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr23",
+      "question": "Si quedas atrapado/a en una isla desierta, tu contribución sería...",
+      "options": [
+        { "text": "Hacer un filtro de agua y trampas para animales", "type": "I" },
+        { "text": "Contar historias alrededor de la fogata para mantener la moral alta", "type": "D" },
+        { "text": "Hacer artesanías con conchas para embellecer el campamento", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr24",
+      "question": "Cuando juegas videojuegos, lo que más te gusta es...",
+      "options": [
+        { "text": "Buscar fallos del sistema o crear los objetos más poderosos", "type": "I" },
+        { "text": "Explorar la historia del mundo fantástico (Lore/RPG)", "type": "D" },
+        { "text": "Admirar los detalles gráficos y el diseño de personajes", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr25",
+      "question": "Cuando te piden hacer un informe...",
+      "options": [
+        { "text": "Crear tablas de datos y fórmulas automáticas avanzadas", "type": "I" },
+        { "text": "Escribir un párrafo inicial que despierte la curiosidad", "type": "D" },
+        { "text": "Elegir combinaciones de fuentes y colores elegantes para el informe", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr26",
+      "question": "Cuando escuchas música instrumental sin letra, tú...",
+      "options": [
+        { "text": "Analizas el tempo, la estructura y los instrumentos", "type": "I" },
+        { "text": "Automáticamente imaginas una escena de cine en tu cabeza", "type": "D" },
+        { "text": "Asocias la nota con una emoción o color de pintura", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr27",
+      "question": "Tu ropa favorita suele ser...",
+      "options": [
+        { "text": "Funcional, cómoda para moverse y con muchos bolsillos", "type": "I" },
+        { "text": "Única, excéntrica o con mensajes impresos raros", "type": "D" },
+        { "text": "De colores armoniosos, corte estético y con estilo", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr28",
+      "question": "Si fueras director/a de cine, tu enfoque principal sería...",
+      "options": [
+        { "text": "Efectos especiales, trucos de cámara y cinematografía", "type": "I" },
+        { "text": "La profundidad del guion y los giros de la trama", "type": "D" },
+        { "text": "La dirección artística del set, el maquillaje y el vestuario", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr29",
+      "question": "Ver un objeto antiguo misterioso en un mercadillo...",
+      "options": [
+        { "text": "Piensas en el mecanismo de cómo funciona este objeto", "type": "I" },
+        { "text": "Imaginas quién fue su dueño original hace 100 años", "type": "D" },
+        { "text": "Admiras los tallados, los colores envejecidos y la forma clásica", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr30",
+      "question": "En discusiones de equipo, sueltas a menudo...",
+      "options": [
+        { "text": "'¿Y si cambiamos el flujo para que sea más rápido?'", "type": "I" },
+        { "text": "'¡Imagina si hiciéramos esta locura!'", "type": "D" },
+        { "text": "'¿Y si hacemos la presentación más bonita?'", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr31",
+      "question": "Dar indicaciones a un desconocido, tú...",
+      "options": [
+        { "text": "Das referencias de distancia (metros) y direcciones (Norte/Sur)", "type": "I" },
+        { "text": "Cuentas una historia ('Más adelante hay un puesto rojo, allí hay un gato...')", "type": "D" },
+        { "text": "Dibujas rápido un pequeño mapa en papel", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr32",
+      "question": "Cuando tu habitación te parece aburrida, tú...",
+      "options": [
+        { "text": "Ordenas los cables y montas nuevas estanterías funcionales", "type": "I" },
+        { "text": "Imaginas si esta habitación fuera una cabina de nave espacial", "type": "D" },
+        { "text": "Cambias las sábanas, ajustas la iluminación y pones pósters", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr33",
+      "question": "Cuando te relajas viendo nubes en el cielo...",
+      "options": [
+        { "text": "Calculas la presión del viento y la posibilidad de lluvia", "type": "I" },
+        { "text": "Ves formas de animales o dragones en las nubes", "type": "D" },
+        { "text": "Te cautiva la composición de luz anaranjada en las nubes al atardecer", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr34",
+      "question": "Mirando las aplicaciones de tu móvil, la mayoría son...",
+      "options": [
+        { "text": "Apps de productividad, herramientas de medición, hogar inteligente o finanzas", "type": "I" },
+        { "text": "Apps de lectura de cuentos, escritura o juegos narrativos", "type": "D" },
+        { "text": "Apps de edición de fotos, ilustración o Pinterest", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr35",
+      "question": "El hobby que es más probable que practiques...",
+      "options": [
+        { "text": "Programación, montar PCs o carpintería", "type": "I" },
+        { "text": "Juegos de rol, escribir ficción o debatir", "type": "D" },
+        { "text": "Pintura, fotografía o diseño de moda", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr36",
+      "question": "Tu forma más rápida de aprender algo nuevo es...",
+      "options": [
+        { "text": "Desmontarlo y practicar cómo funciona directamente", "type": "I" },
+        { "text": "Hacer analogías y conectarlo con otros conceptos", "type": "D" },
+        { "text": "Ver tutoriales en vídeo muy visuales", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr37",
+      "question": "Si te pidieran crear un canal de YouTube, tu contenido sería...",
+      "options": [
+        { "text": "Experimentos científicos, reseñas de gadgets o life-hacks", "type": "I" },
+        { "text": "Discutir teorías conspirativas, historias misteriosas o reseñas de libros", "type": "D" },
+        { "text": "Vlogs estéticos sin voz (cinemáticos) o tutoriales de arte", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr38",
+      "question": "Tu lado creativo al cocinar fideos instantáneos...",
+      "options": [
+        { "text": "Encontrar un método de cocción de 2 minutos para una textura perfecta", "type": "I" },
+        { "text": "Mezclar ingredientes extraños con un sabor inimaginable", "type": "D" },
+        { "text": "Colocar verduras, huevo y salsa para que parezca un plato de restaurante", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr39",
+      "question": "Cuando tienes un bloqueo creativo, tú...",
+      "options": [
+        { "text": "Cambias de software o ordenas tus herramientas", "type": "I" },
+        { "text": "Duermes o sueñas despierto esperando tener un '¡Eureka!'", "type": "D" },
+        { "text": "Buscas referencias visuales frescas en galerías o museos", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr40",
+      "question": "Si te dan una hoja de papel en blanco cuando estás aburrido/a...",
+      "options": [
+        { "text": "La doblas en un avión de papel aerodinámico", "type": "I" },
+        { "text": "Escribes una lista de ideas locas o un poema corto", "type": "D" },
+        { "text": "Haces garabatos de patrones de ojos o flores", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr41",
+      "question": "Tu juguete favorito de la infancia...",
+      "options": [
+        { "text": "Bloques de construcción, coches Tamiya o cubo de Rubik", "type": "I" },
+        { "text": "Muñecos o figuras de acción para crear historias de guerra/reino", "type": "D" },
+        { "text": "Libros para colorear, lápices de colores o plastilina", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr42",
+      "question": "El regalo de cumpleaños que más te gustaría recibir...",
+      "options": [
+        { "text": "El último gadget sofisticado multifunción", "type": "I" },
+        { "text": "Una novela gruesa con una historia fantástica épica", "type": "D" },
+        { "text": "Materiales de pintura premium o adornos de pared estéticos", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr43",
+      "question": "Tu forma creativa de ordenar el armario...",
+      "options": [
+        { "text": "Ordenar por tipo de categoría y facilidad de acceso", "type": "I" },
+        { "text": "Mientras recuerdas la historia detrás de cada prenda vieja", "type": "D" },
+        { "text": "Ordenar por degradado de color de oscuro a claro", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr44",
+      "question": "En un festival, lo que más te interesa es...",
+      "options": [
+        { "text": "Los puestos de tecnología, robótica e innovación", "type": "I" },
+        { "text": "Espectáculos de teatro, cuentacuentos o stand-up comedy", "type": "D" },
+        { "text": "Exposiciones de bellas artes, artesanía o instalaciones de luz", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr45",
+      "question": "Comentando el coche nuevo de un amigo, hablas de...",
+      "options": [
+        { "text": "La capacidad del motor, las funciones inteligentes y la eficiencia de combustible", "type": "I" },
+        { "text": "Imaginar lo divertido que sería este coche para un viaje por carretera a la montaña", "type": "D" },
+        { "text": "Alabar el elegante color de la pintura y el diseño de la carrocería", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr46",
+      "question": "Si fueras el arquitecto de tu casa soñada...",
+      "options": [
+        { "text": "Construirías una casa con tecnología de hogar inteligente y paneles solares", "type": "I" },
+        { "text": "Crearías un sótano secreto detrás de una estantería", "type": "D" },
+        { "text": "Construirías una casa de concepto abierto con hermosa luz natural", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr47",
+      "question": "Al comprar una libreta en la tienda...",
+      "options": [
+        { "text": "Buscas una con papel cuadriculado y sujetador de bolígrafo", "type": "I" },
+        { "text": "Buscas una con cubierta de piel que parezca misteriosa como un libro de hechizos", "type": "D" },
+        { "text": "Buscas una con la cubierta ilustrada más bonita", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr48",
+      "question": "Comentando la distribución de una ciudad...",
+      "options": [
+        { "text": "Te molesta mucho si la distribución del transporte es ilógica/congestionada", "type": "I" },
+        { "text": "Te gustan los pueblos antiguos que tienen mitos y leyendas urbanas", "type": "D" },
+        { "text": "Admiras la arquitectura de los edificios históricos y la belleza de sus parques", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr49",
+      "question": "Tu estilo de publicación en redes sociales es normalmente...",
+      "options": [
+        { "text": "Compartir artículos, infografías o consejos para la vida", "type": "I" },
+        { "text": "Escribir hilos de opinión largos o historias sobre la vida diaria", "type": "D" },
+        { "text": "Subir fotos estéticas editadas con tono perfecto", "type": "A" }
+      ]
+    },
+    {
+      "id": "cr50",
+      "question": "Al final, la creatividad para ti es...",
+      "options": [
+        { "text": "La capacidad de hackear problemas para encontrar mejores soluciones", "type": "I" },
+        { "text": "La capacidad de la mente para trascender la aburrida realidad", "type": "D" },
+        { "text": "La capacidad de crear armonía y belleza que se pueda sentir", "type": "A" }
+      ]
+    }
+  ]
+}

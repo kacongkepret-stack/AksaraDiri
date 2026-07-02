@@ -1,0 +1,608 @@
+{
+  "title": "Test de CI Mini Completo",
+  "description": "Pon a prueba tu lógica, razonamiento visual y matemáticas básicas. Elige la respuesta correcta.",
+  "timeEstimation": "25 Minutos",
+  "scoringType": "correct",
+  "questions": [
+    {
+      "id": "q1",
+      "dimension": "logic",
+      "question": "¿Cuál no sigue el patrón?",
+      "options": [
+        { "text": "Triángulo", "type": "A" },
+        { "text": "Círculo", "type": "B" },
+        { "text": "Cuadrado", "type": "C" },
+        { "text": "Cubo", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q2",
+      "dimension": "math",
+      "question": "2, 4, 8, 16, ... ¿El siguiente número es?",
+      "options": [
+        { "text": "24", "type": "A" },
+        { "text": "32", "type": "B" },
+        { "text": "30", "type": "C" },
+        { "text": "20", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q3",
+      "dimension": "logic",
+      "question": "Si A > B y B > C, entonces...",
+      "options": [
+        { "text": "C > A", "type": "A" },
+        { "text": "A > C", "type": "B" },
+        { "text": "A = C", "type": "C" },
+        { "text": "No se puede determinar", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q4",
+      "dimension": "math",
+      "question": "Una manzana y dos naranjas cuestan 10.000. Dos manzanas y una naranja cuestan 11.000. ¿Cuánto cuesta una manzana?",
+      "options": [
+        { "text": "3.000", "type": "A" },
+        { "text": "4.000", "type": "B" },
+        { "text": "5.000", "type": "C" },
+        { "text": "6.000", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q5",
+      "dimension": "visual",
+      "question": "¿Cuál es la siguiente figura en la secuencia: 🔴🔵🔴🔵...?",
+      "options": [
+        { "text": "🔴", "type": "A" },
+        { "text": "🔵", "type": "B" },
+        { "text": "🟢", "type": "C" },
+        { "text": "🟡", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q6",
+      "dimension": "math",
+      "question": "Si 3x + 5 = 20, entonces x = ?",
+      "options": [
+        { "text": "3", "type": "A" },
+        { "text": "4", "type": "B" },
+        { "text": "5", "type": "C" },
+        { "text": "6", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q7",
+      "dimension": "logic",
+      "question": "Todos los gatos son mamíferos. Todos los mamíferos respiran con pulmones. Por lo tanto...",
+      "options": [
+        { "text": "Todos los gatos respiran con branquias", "type": "A" },
+        { "text": "Todos los gatos respiran con pulmones", "type": "B" },
+        { "text": "No hay relación", "type": "C" },
+        { "text": "Algunos gatos no respiran", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q8",
+      "dimension": "visual",
+      "question": "¿Cuántos grados suman los ángulos interiores de un triángulo?",
+      "options": [
+        { "text": "90°", "type": "A" },
+        { "text": "180°", "type": "B" },
+        { "text": "270°", "type": "C" },
+        { "text": "360°", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q9",
+      "dimension": "math",
+      "question": "1, 1, 2, 3, 5, 8, ... ¿El siguiente número es?",
+      "options": [
+        { "text": "10", "type": "A" },
+        { "text": "11", "type": "B" },
+        { "text": "12", "type": "C" },
+        { "text": "13", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q10",
+      "dimension": "logic",
+      "question": "¿Cuál es más diferente?",
+      "options": [
+        { "text": "Manzana", "type": "A" },
+        { "text": "Naranja", "type": "B" },
+        { "text": "Plátano", "type": "C" },
+        { "text": "Zanahoria", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q11",
+      "dimension": "math",
+      "question": "¿Cuánto es el 15% de 200?",
+      "options": [
+        { "text": "20", "type": "A" },
+        { "text": "25", "type": "B" },
+        { "text": "30", "type": "C" },
+        { "text": "35", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q12",
+      "dimension": "logic",
+      "question": "Algunos pájaros pueden volar. Todos los pájaros son animales. Por lo tanto...",
+      "options": [
+        { "text": "Todos los animales pueden volar", "type": "A" },
+        { "text": "Algunos animales pueden volar", "type": "B" },
+        { "text": "Ningún animal puede volar", "type": "C" },
+        { "text": "Todo lo que vuela es un pájaro", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q13",
+      "dimension": "visual",
+      "question": "La imagen en el espejo de la letra 'p' es?",
+      "options": [
+        { "text": "q", "type": "A" },
+        { "text": "b", "type": "B" },
+        { "text": "d", "type": "C" },
+        { "text": "p", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q14",
+      "dimension": "math",
+      "question": "Si 5 trabajadores completan una tarea en 6 días, ¿cuántos trabajadores se necesitan para terminarla en 3 días?",
+      "options": [
+        { "text": "8 trabajadores", "type": "A" },
+        { "text": "10 trabajadores", "type": "B" },
+        { "text": "12 trabajadores", "type": "C" },
+        { "text": "15 trabajadores", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q15",
+      "dimension": "logic",
+      "question": "¿Cuál no es un planeta de nuestro sistema solar?",
+      "options": [
+        { "text": "Marte", "type": "A" },
+        { "text": "Venus", "type": "B" },
+        { "text": "Plutón", "type": "C" },
+        { "text": "Saturno", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q16",
+      "dimension": "visual",
+      "question": "Un dado muestra frente 2, arriba 1, derecha 3. ¿Cuál es el lado izquierdo?",
+      "options": [
+        { "text": "4", "type": "A" },
+        { "text": "5", "type": "B" },
+        { "text": "6", "type": "C" },
+        { "text": "No se puede determinar", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q17",
+      "dimension": "math",
+      "question": "Ordena de menor a mayor: 0.5, 1/3, 25%, 2/5",
+      "options": [
+        { "text": "0.5, 1/3, 25%, 2/5", "type": "A" },
+        { "text": "25%, 0.5, 2/5, 1/3", "type": "B" },
+        { "text": "25%, 2/5, 1/3, 0.5", "type": "C" },
+        { "text": "25%, 1/3, 2/5, 0.5", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q18",
+      "dimension": "logic",
+      "question": "Si hoy es miércoles, ¿dentro de 50 días será...?",
+      "options": [
+        { "text": "Lunes", "type": "A" },
+        { "text": "Martes", "type": "B" },
+        { "text": "Jueves", "type": "C" },
+        { "text": "Sábado", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q19",
+      "dimension": "visual",
+      "question": "Siguiente patrón: ♠♥♠♥...",
+      "options": [
+        { "text": "♠", "type": "A" },
+        { "text": "♥", "type": "B" },
+        { "text": "♣", "type": "C" },
+        { "text": "♦", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q20",
+      "dimension": "math",
+      "question": "Un libro se compra por 40.000 y se vende por 50.000. El porcentaje de ganancia es?",
+      "options": [
+        { "text": "20%", "type": "A" },
+        { "text": "25%", "type": "B" },
+        { "text": "30%", "type": "C" },
+        { "text": "10%", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q21",
+      "dimension": "logic",
+      "question": "Todos los árboles tienen hojas. El cactus es un árbol. ¿Conclusión?",
+      "options": [
+        { "text": "El cactus tiene espinas", "type": "A" },
+        { "text": "El cactus tiene hojas", "type": "B" },
+        { "text": "El cactus no es un árbol", "type": "C" },
+        { "text": "No hay conclusión válida", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q22",
+      "dimension": "math",
+      "question": "Secuencia numérica: 3, 6, 12, 24, ... ¿El siguiente número es?",
+      "options": [
+        { "text": "36", "type": "A" },
+        { "text": "42", "type": "B" },
+        { "text": "48", "type": "C" },
+        { "text": "60", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q23",
+      "dimension": "visual",
+      "question": "¿Cuál es el ángulo más pequeño que forman las manecillas del reloj a las 03:00?",
+      "options": [
+        { "text": "45°", "type": "A" },
+        { "text": "90°", "type": "B" },
+        { "text": "120°", "type": "C" },
+        { "text": "180°", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q24",
+      "dimension": "logic",
+      "question": "Antón es más alto que Budi. Cici es más alta que Antón. ¿Quién es el más bajo?",
+      "options": [
+        { "text": "Antón", "type": "A" },
+        { "text": "Budi", "type": "B" },
+        { "text": "Cici", "type": "C" },
+        { "text": "No se sabe", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q25",
+      "dimension": "math",
+      "question": "El precio de una camisa después de un descuento del 20% es 80.000. El precio original es?",
+      "options": [
+        { "text": "90.000", "type": "A" },
+        { "text": "96.000", "type": "B" },
+        { "text": "100.000", "type": "C" },
+        { "text": "120.000", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q26",
+      "dimension": "visual",
+      "question": "Una figura plana de 5 lados rectos se llama?",
+      "options": [
+        { "text": "Triángulo", "type": "A" },
+        { "text": "Cuadrilátero", "type": "B" },
+        { "text": "Pentágono", "type": "C" },
+        { "text": "Hexágono", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q27",
+      "dimension": "logic",
+      "question": "Si llueve, entonces la calle se moja. Actualmente la calle está mojada. ¿Conclusión?",
+      "options": [
+        { "text": "Debe estar lloviendo", "type": "A" },
+        { "text": "No necesariamente por la lluvia", "type": "B" },
+        { "text": "La calle está resbaladiza", "type": "C" },
+        { "text": "Hay una inundación", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q28",
+      "dimension": "math",
+      "question": "La raíz cuadrada de 144 es?",
+      "options": [
+        { "text": "10", "type": "A" },
+        { "text": "12", "type": "B" },
+        { "text": "14", "type": "C" },
+        { "text": "16", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q29",
+      "dimension": "visual",
+      "question": "¿Cuántas aristas tiene un cubo?",
+      "options": [
+        { "text": "8", "type": "A" },
+        { "text": "10", "type": "B" },
+        { "text": "12", "type": "C" },
+        { "text": "16", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q30",
+      "dimension": "logic",
+      "question": "El antónimo de 'Progresivo' es...",
+      "options": [
+        { "text": "Regresivo", "type": "A" },
+        { "text": "Agresivo", "type": "B" },
+        { "text": "Innovador", "type": "C" },
+        { "text": "Pasivo", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q31",
+      "dimension": "math",
+      "question": "¿Cuál es el resultado de 5 + 5 x 5?",
+      "options": [
+        { "text": "50", "type": "A" },
+        { "text": "30", "type": "B" },
+        { "text": "25", "type": "C" },
+        { "text": "125", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q32",
+      "dimension": "logic",
+      "question": "Si P = Q y Q ≠ R, entonces la relación entre P y R es?",
+      "options": [
+        { "text": "P = R", "type": "A" },
+        { "text": "P ≠ R", "type": "B" },
+        { "text": "P > R", "type": "C" },
+        { "text": "P < R", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q33",
+      "dimension": "visual",
+      "question": "¿Qué letra mayúscula NO tiene simetría vertical?",
+      "options": [
+        { "text": "A", "type": "A" },
+        { "text": "M", "type": "B" },
+        { "text": "O", "type": "C" },
+        { "text": "J", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q34",
+      "dimension": "math",
+      "question": "Un coche recorre 120 km en 2 horas. Su velocidad media es?",
+      "options": [
+        { "text": "50 km/h", "type": "A" },
+        { "text": "60 km/h", "type": "B" },
+        { "text": "70 km/h", "type": "C" },
+        { "text": "80 km/h", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q35",
+      "dimension": "logic",
+      "question": "Todos los médicos pueden curar pacientes. Ani es médico. ¿Conclusión?",
+      "options": [
+        { "text": "Ani es enfermera", "type": "A" },
+        { "text": "Ani es muy inteligente", "type": "B" },
+        { "text": "Ani puede curar pacientes", "type": "C" },
+        { "text": "Ani trabaja en un hospital", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q36",
+      "dimension": "visual",
+      "question": "¿Cuál es el número total de puntos en un par de dados estándar?",
+      "options": [
+        { "text": "21", "type": "A" },
+        { "text": "36", "type": "B" },
+        { "text": "42", "type": "C" },
+        { "text": "48", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q37",
+      "dimension": "math",
+      "question": "La distancia entre la ciudad X y Y es de 100 km. Si la escala del mapa es 1:1.000.000, la distancia en el mapa es?",
+      "options": [
+        { "text": "1 cm", "type": "A" },
+        { "text": "10 cm", "type": "B" },
+        { "text": "100 cm", "type": "C" },
+        { "text": "0.1 cm", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q38",
+      "dimension": "logic",
+      "question": "A es hermano de B. B es hermana de C. ¿Qué relación hay entre A y C?",
+      "options": [
+        { "text": "Tío", "type": "A" },
+        { "text": "Sobrino", "type": "B" },
+        { "text": "Hermano", "type": "C" },
+        { "text": "Hermana", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q39",
+      "dimension": "visual",
+      "question": "La imagen en el espejo de la palabra 'WOW' colocada frente a un espejo plano es?",
+      "options": [
+        { "text": "MOM", "type": "A" },
+        { "text": "WOW", "type": "B" },
+        { "text": "VUV", "type": "C" },
+        { "text": "WMW", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q40",
+      "dimension": "math",
+      "question": "Continúa la secuencia: 10, 9, 7, 4, ...",
+      "options": [
+        { "text": "0", "type": "A" },
+        { "text": "1", "type": "B" },
+        { "text": "2", "type": "C" },
+        { "text": "-1", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q41",
+      "dimension": "logic",
+      "question": "Los pájaros vuelan en el aire, los peces nadan en...",
+      "options": [
+        { "text": "Tierra", "type": "A" },
+        { "text": "Lago", "type": "B" },
+        { "text": "Agua", "type": "C" },
+        { "text": "Mar", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q42",
+      "dimension": "visual",
+      "question": "Un tablero de ajedrez estándar tiene ¿cuántos cuadrados pequeños (blancos y negros)?",
+      "options": [
+        { "text": "64", "type": "A" },
+        { "text": "81", "type": "B" },
+        { "text": "100", "type": "C" },
+        { "text": "144", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q43",
+      "dimension": "math",
+      "question": "El 20% de X es 50. ¿Cuál es el valor de X?",
+      "options": [
+        { "text": "100", "type": "A" },
+        { "text": "200", "type": "B" },
+        { "text": "250", "type": "C" },
+        { "text": "500", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q44",
+      "dimension": "logic",
+      "question": "¿Cuál de los siguientes objetos no pertenece al grupo?",
+      "options": [
+        { "text": "Mesa", "type": "A" },
+        { "text": "Silla", "type": "B" },
+        { "text": "Armario", "type": "C" },
+        { "text": "Zapato", "type": "D" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": "q45",
+      "dimension": "visual",
+      "question": "La forma tridimensional de un círculo es...",
+      "options": [
+        { "text": "Esfera", "type": "A" },
+        { "text": "Cilindro", "type": "B" },
+        { "text": "Cono", "type": "C" },
+        { "text": "Elipse", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q46",
+      "dimension": "math",
+      "question": "La temperatura de una habitación sube de -5°C a 12°C. ¿Cuál es el aumento total de temperatura?",
+      "options": [
+        { "text": "7°C", "type": "A" },
+        { "text": "17°C", "type": "B" },
+        { "text": "-17°C", "type": "C" },
+        { "text": "12°C", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q47",
+      "dimension": "logic",
+      "question": "El oro es un metal. Todos los metales son duros. Basado en esta declaración...",
+      "options": [
+        { "text": "El oro es barato", "type": "A" },
+        { "text": "El oro es blando", "type": "B" },
+        { "text": "El oro es duro", "type": "C" },
+        { "text": "El oro es una joya", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": "q48",
+      "dimension": "visual",
+      "question": "Si un reloj analógico marca exactamente las 06:00, las dos manecillas forman una...",
+      "options": [
+        { "text": "Línea curva", "type": "A" },
+        { "text": "Línea recta", "type": "B" },
+        { "text": "Ángulo recto", "type": "C" },
+        { "text": "Línea paralela", "type": "D" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "q49",
+      "dimension": "math",
+      "question": "En una clase de 40 estudiantes, 25 prefieren Matemáticas y el resto Ciencias. ¿Qué porcentaje de estudiantes prefiere Ciencias?",
+      "options": [
+        { "text": "37.5%", "type": "A" },
+        { "text": "40%", "type": "B" },
+        { "text": "50%", "type": "C" },
+        { "text": "62.5%", "type": "D" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "q50",
+      "dimension": "logic",
+      "question": "Completa la analogía: Bosque : Árbol = Desierto : ...",
+      "options": [
+        { "text": "Calor", "type": "A" },
+        { "text": "Camello", "type": "B" },
+        { "text": "Arena", "type": "C" },
+        { "text": "Seco", "type": "D" }
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}
