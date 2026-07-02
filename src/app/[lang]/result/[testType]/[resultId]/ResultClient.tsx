@@ -109,7 +109,7 @@ export default function ResultClient({
   // BENTENG PERTAHANAN SKELETON
   if (!isMounted) {
     return (
-      <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center px-4">
+      <div className="min-h-screen bg-transparent flex flex-col items-center justify-center px-4">
         <div className="w-12 h-12 border-4 border-cyan-500 border-t-transparent rounded-full animate-spin mb-4 shadow-[0_0_15px_rgba(34,211,238,0.4)]"></div>
         <p className="text-cyan-400 text-xs font-bold uppercase tracking-widest animate-pulse">Menyiapkan Hasil...</p>
       </div>
@@ -117,7 +117,7 @@ export default function ResultClient({
   }
 
   return (
-    <div suppressHydrationWarning className="relative min-h-screen bg-slate-950 text-white flex flex-col items-center justify-center px-4 py-10">
+    <div suppressHydrationWarning className="relative min-h-screen bg-transparent text-white flex flex-col items-center justify-center px-4 py-10">
       <div className="relative z-10 max-w-xl w-full bg-slate-900/70 backdrop-blur-2xl border border-white/20 rounded-3xl p-8 text-center shadow-2xl">
         
         <h2 className="text-sm text-cyan-400 font-bold uppercase tracking-widest mb-2">
@@ -141,7 +141,7 @@ export default function ResultClient({
 
         <div className="space-y-3 mb-8 text-left">
           {Object.entries(result.traits).map(([key, val]) => (
-            <div key={key} className="bg-slate-950/40 p-2.5 rounded-lg border border-white/[0.02]">
+            <div key={key} className="bg-transparent/40 p-2.5 rounded-lg border border-white/[0.02]">
               <div className="flex justify-between text-xs font-bold text-slate-400 mb-1.5 uppercase tracking-wider">
                 <span>{key}</span>
                 <span className="text-cyan-400">{val}%</span>

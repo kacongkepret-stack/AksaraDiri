@@ -299,7 +299,7 @@ export default function HomePage({ params }: { params: { lang: string } }) {
   };
 
   return (
-    <div className="relative min-h-screen bg-slate-950 text-white flex flex-col overflow-x-hidden">
+    <div className="relative min-h-screen bg-transparent text-white flex flex-col overflow-x-hidden">
       <Script id="json-ld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       
       {/* Background Glow Premium - Transisi gradasi yang lebih halus dan elegan */}

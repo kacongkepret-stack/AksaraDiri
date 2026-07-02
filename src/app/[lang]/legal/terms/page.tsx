@@ -45,7 +45,7 @@ export default function TermsOfServicePage({ params }: { params: { lang: string 
   const data = DICT[lang] || DICT.id;
 
   return (
-    <main className="min-h-screen bg-slate-950 text-slate-300 py-20 px-4">
+    <main className="min-h-screen bg-transparent text-slate-300 py-20 px-4">
       <div className="max-w-3xl mx-auto bg-slate-900/50 border border-white/10 p-8 md:p-12 rounded-3xl backdrop-blur-sm shadow-xl">
         <h1 className="text-3xl md:text-5xl font-black text-white mb-4">{data.title}</h1>
         <p className="text-purple-400 text-sm font-bold tracking-widest uppercase mb-10">{data.lastUpdated}</p>

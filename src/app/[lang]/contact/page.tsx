@@ -47,7 +47,7 @@ export default function ContactPage() {
   };
 
   return (
-    <main className="min-h-[80vh] flex flex-col justify-center bg-slate-950 text-white py-16 px-4 relative overflow-hidden">
+    <main className="min-h-[80vh] flex flex-col justify-center bg-transparent text-white py-16 px-4 relative overflow-hidden">
       {/* Background Effect */}
       <div className="absolute top-20 left-1/2 -translate-x-1/2 w-[300px] md:w-[600px] h-[300px] md:h-[400px] bg-cyan-500/10 blur-[100px] rounded-full pointer-events-none" />
 
