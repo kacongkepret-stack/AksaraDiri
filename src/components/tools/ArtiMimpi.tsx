@@ -447,18 +447,20 @@ export default function DreamMeaning() {
           
           {/* INJEKSI PAYWALL GATEWAY */}
           
-            <div className="flex justify-center mt-6 mb-8 border-t border-white/10 pt-6">
+            <>
+<div className="flex justify-center mt-6 mb-8 border-t border-white/10 pt-6">
               <button 
                 onClick={handleShare} 
                 className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-sm font-bold uppercase tracking-wider transition-all active:scale-95 gap-2"
               >
-                📤 {dict.shareBtn || "Bagikan Hasil"}
+                📤 "Bagikan Hasil"
               </button>
             </div>
             <PremiumPaywall 
             toolName={dict.title} 
             resultId={`dream-${results.map(r => r.keyword.replace(/\s+/g, "_")).join("-")}`} 
           />
+</>
         </div>
       )}
 
