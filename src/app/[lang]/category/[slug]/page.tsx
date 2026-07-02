@@ -56,7 +56,7 @@ export default function CategoryPage({ params }: { params: { lang: string; slug:
   if (!category) notFound();
 
   return (
-    <div className={`relative min-h-screen bg-gradient-to-b ${category.bgGradient} text-white py-10 px-4 sm:px-6 overflow-hidden`}>
+    <div className={`relative min-h-screen bg-transparent text-white py-10 px-4 sm:px-6 overflow-hidden`}>
       <div className={`absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] rounded-full ${category.glowColor} blur-[100px] -z-10 pointer-events-none`} />
 
       <div className="max-w-6xl mx-auto">
