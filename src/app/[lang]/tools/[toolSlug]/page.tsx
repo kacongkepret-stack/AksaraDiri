@@ -66,6 +66,19 @@ const activeTools: Record<string, React.ComponentType<any>> = {
   "lucky-color": LuckyColor,
 };
 
+export async function generateMetadata({ params }: { params: { lang: string; toolSlug: string } }) {
+  const formattedName = params.toolSlug
+    .split("-")
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
+
+  return {
+    title: `${formattedName} | AksaraDiri`,
+    description: `Gunakan fitur ${formattedName} secara gratis di AksaraDiri. Analisis akurat untuk zodiak, primbon, dan kepribadian.`,
+    keywords: `${formattedName}, kalkulator ${params.toolSlug.replace("-", " ")}, primbon jawa, zodiak, aksaradiri`,
+  };
+}
+
 export default function ToolPage({ params }: { params: { lang: string; toolSlug: string } }) {
   const Component = activeTools[params.toolSlug];
 

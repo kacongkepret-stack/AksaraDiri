@@ -45,6 +45,17 @@ export async function generateStaticParams() {
   );
 }
 
+export async function generateMetadata({ params }: { params: { lang: string; slug: string } }) {
+  const data = getTestData(params.lang, params.slug);
+  if (!data) return {};
+  
+  return {
+    title: `${data.title} | AksaraDiri`,
+    description: data.description || `Ikuti ${data.title} secara gratis di AksaraDiri.`,
+    keywords: `${data.title.toLowerCase()}, tes psikologi gratis, aksaradiri, tes ${params.slug}`,
+  };
+}
+
 export default function TestPage({ params }: { params: { lang: string; slug: string } }) {
   const data = getTestData(params.lang, params.slug);
 
