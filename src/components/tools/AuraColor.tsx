@@ -547,14 +547,7 @@ export default function AuraColor() {
           </span>
         </h2>
         <p className="text-slate-300 text-sm mt-2 max-w-xl mx-auto">{dict.subtitle}</p>
-        {analyzed && resultAura && (
-          <button
-            onClick={handleShare}
-            className="absolute right-0 top-0 md:relative md:mt-3 inline-flex items-center gap-1 text-xs bg-white/5 hover:bg-white/10 rounded-full px-3 py-1.5 transition"
-          >
-            📤 {dict.shareBtn}
-          </button>
-        )}
+        
       </div>
 
       {/* Input Section */}
@@ -713,7 +706,16 @@ export default function AuraColor() {
           </div>
 
           {/* INJEKSI PAYWALL */}
-          <PremiumPaywall 
+          
+            <div className="flex justify-center mt-6 mb-8 border-t border-white/10 pt-6">
+              <button 
+                onClick={handleShare} 
+                className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-sm font-bold uppercase tracking-wider transition-all active:scale-95 gap-2"
+              >
+                📤 {dict.shareBtn || "Bagikan Hasil"}
+              </button>
+            </div>
+            <PremiumPaywall 
             toolName={dict.title} 
             resultId={resultAura} 
           />

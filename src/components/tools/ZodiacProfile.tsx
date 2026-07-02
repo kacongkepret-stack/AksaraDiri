@@ -821,9 +821,7 @@ export default function ZodiacProfilePremium({ lang = "id" }: { lang?: string })
           ✨ {dict.title} <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500">{dict.badge}</span>
         </h1>
         <p className="text-slate-400 text-sm md:text-base max-w-2xl mx-auto px-4">{dict.subtitle}</p>
-        <button onClick={handleShare} className="absolute right-0 top-0 md:relative md:mt-4 inline-flex items-center gap-1 text-xs bg-white/5 hover:bg-white/10 rounded-full px-3 py-1.5 transition">
-          📤 {dict.shareBtn}
-        </button>
+        
       </div>
 
       {/* DROPDOWN SELECTOR */}
@@ -1038,7 +1036,16 @@ export default function ZodiacProfilePremium({ lang = "id" }: { lang?: string })
       {/* 🟢 INJEKSI PREMIUM PAYWALL 🟢 */}
       {/* ============================================= */}
       <div className="lg:col-span-12 mt-8">
-        <PremiumPaywall 
+        
+            <div className="flex justify-center mt-6 mb-8 border-t border-white/10 pt-6">
+              <button 
+                onClick={handleShare} 
+                className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-sm font-bold uppercase tracking-wider transition-all active:scale-95 gap-2"
+              >
+                📤 {dict.shareBtn || "Bagikan Hasil"}
+              </button>
+            </div>
+            <PremiumPaywall 
           toolName={dict.title} 
           resultId={`zodiac-profile-${selected.toLowerCase()}`} 
         />

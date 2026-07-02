@@ -363,11 +363,7 @@ export default function ZodiacMatch() {
           {dict.title} <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 text-base align-top">✨{dict.badge}</span>
         </h2>
         <p className="text-slate-300 text-sm max-w-xl mx-auto">{dict.subtitle}</p>
-        {analyzed && resultData && (
-          <button onClick={handleShare} className="absolute right-0 top-0 md:relative md:mt-3 inline-flex items-center gap-1 text-xs bg-white/5 hover:bg-white/10 rounded-full px-3 py-1.5 transition">
-            📤 {dict.shareBtn}
-          </button>
-        )}
+        
       </div>
 
       {/* Input Section (compact) */}
@@ -484,6 +480,15 @@ export default function ZodiacMatch() {
             {/* ============================================= */}
             {/* 🟢 INJEKSI PREMIUM PAYWALL DILETAKKAN DI SINI 🟢 */}
             {/* ============================================= */}
+            
+            <div className="flex justify-center mt-6 mb-8 border-t border-white/10 pt-6">
+              <button 
+                onClick={handleShare} 
+                className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-sm font-bold uppercase tracking-wider transition-all active:scale-95 gap-2"
+              >
+                📤 {dict.shareBtn || "Bagikan Hasil"}
+              </button>
+            </div>
             <PremiumPaywall 
               toolName={dict.title} 
               resultId={`zodiac-match-${z1}-${z2}`} 

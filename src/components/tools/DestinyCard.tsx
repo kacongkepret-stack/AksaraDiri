@@ -256,14 +256,7 @@ export default function DestinyCard({ lang = "id" }: { lang?: string }) {
           {dict.subtitle}
         </p>
         
-        {analyzed && drawnCard && (
-          <button
-            onClick={handleShare}
-            className="absolute right-0 top-0 md:relative md:mt-6 inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider bg-white/10 hover:bg-white/20 border border-white/20 rounded-full px-5 py-2.5 transition-all shadow-lg"
-          >
-            📤 {dict.shareBtn}
-          </button>
-        )}
+        
       </div>
 
       {/* Arena Kartu 3D dengan Gambar Asli */}
@@ -451,7 +444,16 @@ export default function DestinyCard({ lang = "id" }: { lang?: string }) {
       </div>
 
 {drawnCard && (
-  <PremiumPaywall 
+  
+            <div className="flex justify-center mt-6 mb-8 border-t border-white/10 pt-6">
+              <button 
+                onClick={handleShare} 
+                className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-sm font-bold uppercase tracking-wider transition-all active:scale-95 gap-2"
+              >
+                📤 {dict.shareBtn || "Bagikan Hasil"}
+              </button>
+            </div>
+            <PremiumPaywall 
     toolName="Kartu Takdir Semesta" 
     resultId={drawnCard.id} 
   />
