@@ -2,8 +2,8 @@ import Link from "next/link";
 import "../globals.css";
 import LanguageSwitcher from "../../components/LanguageSwitcher";
 import { Metadata } from "next";
-import Script from "next/script"; // <-- TAMBAHAN IMPORT SCRIPT
-
+import Script from "next/script";
+import AnimatedBackground from "../../components/AnimatedBackground";
 // ========== TRANSLASI & SEO METADATA ==========
 const translations: Record<string, any> = {
   id: {
@@ -87,7 +87,8 @@ export default function LanguageLayout({
 
   return (
     <html lang={params.lang} className="text-[14px]">
-      <body className="bg-slate-950 text-slate-200 font-sans antialiased flex flex-col min-h-screen selection:bg-cyan-500/30">
+      <body className="bg-slate-950 text-slate-200 font-sans antialiased flex flex-col min-h-screen selection:bg-cyan-500/30 relative">
+        <AnimatedBackground />
         
         {/* ========== INJEKSI SCRIPT MIDTRANS GLOBAL ========== */}
         {/* Memastikan Snap berjalan independen dari siklus re-render React */}
@@ -153,12 +154,12 @@ export default function LanguageLayout({
         </header>
 
         {/* KONTEN UTAMA */}
-        <main className="flex-grow flex flex-col">
+        <main className="flex-grow flex flex-col relative z-10">
           {children}
         </main>
 
         {/* FOOTER */}
-        <footer className="border-t border-white/5 bg-slate-950 text-slate-500 py-6 mt-auto">
+        <footer className="border-t border-white/5 bg-slate-950/80 backdrop-blur-md text-slate-500 py-6 mt-auto relative z-10">
           <div className="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-6 text-xs">
             <div>
               <span className="font-bold text-white mb-1.5 block text-base">{t.brand}</span>
