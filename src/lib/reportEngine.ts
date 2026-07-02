@@ -173,7 +173,7 @@ async function fetchChapterWithRetry(
           "Authorization": `Bearer ${apiKey}`
         },
         body: JSON.stringify({
-          model: "llama-3.3-70b-versatile", // atau "llama-3.1-8b-instant" untuk kuota lebih besar
+          model: "qwen-qwq-32b", // Changed based on Groq deprecation notice
           messages: [
             { 
               role: "system", 
