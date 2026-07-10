@@ -173,7 +173,7 @@ async function fetchChapterWithRetry(
           "Authorization": `Bearer ${apiKey}`
         },
         body: JSON.stringify({
-          model: "qwen-qwq-32b", // Changed based on Groq deprecation notice
+          model: "openai/gpt-oss-120b",
           messages: [
             { 
               role: "system", 
@@ -200,6 +200,9 @@ async function fetchChapterWithRetry(
       let rawText = data.choices?.[0]?.message?.content;
       if (rawText) {
         rawText = rawText.replace(/```html/gi, "").replace(/```/gi, "").replace(/style="[^"]*"/gi, "").trim();
+        if (!rawText.includes("<p>") && !rawText.includes("<br")) {
+          rawText = rawText.split(/\n\s*\n/).map((paragraph: string) => `<p class="mb-3">${paragraph.replace(/\n/g, "<br/>")}</p>`).join("");
+        }
         return rawText;
       }
       return null;
