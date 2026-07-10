@@ -7,7 +7,7 @@ import { useParams } from "next/navigation";
 // =====================================================================
 // ⚠️ SAKLAR DEV BYPASS (Ubah ke FALSE sebelum deploy ke Production!) ⚠️
 // =====================================================================
-const ENABLE_DEV_BYPASS = true;
+const ENABLE_DEV_BYPASS = false;
 // =====================================================================
 
 // ========== MULTI-LANGUAGE DICTIONARY DENGAN SISTEM TIER (REVAMPED) ==========
