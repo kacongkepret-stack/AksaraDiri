@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { createPortal } from "react-dom";
 import { useParams } from "next/navigation";
 
 // =====================================================================
@@ -365,6 +366,11 @@ export default function PremiumPaywall({
   const [showModal, setShowModal] = useState(false);
   const [isProcessing, setIsProcessing] = useState(false);
   const [fetchError, setFetchError] = useState(false);
+  const [mounted, setMounted] = useState(false);
+  
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   // ========== COUNTDOWN TIMER (10 menit) ==========
   const [timeLeft, setTimeLeft] = useState(600); // 10 menit dalam detik
@@ -529,60 +535,63 @@ export default function PremiumPaywall({
       <style dangerouslySetInnerHTML={{ __html: styleInjected }} suppressHydrationWarning />
 
       {/* MODAL PEMBAYARAN (ditingkatkan) */}
-      <div
-        className={`fixed inset-0 z-[999] flex items-center justify-center bg-black/70 backdrop-blur-sm print:hidden transition-all duration-300 ${
-          showModal
-            ? "opacity-100 visible"
-            : "opacity-0 invisible pointer-events-none"
-        }`}
-      >
-        <div className="bg-stone-800 rounded-2xl max-w-md w-full mx-4 shadow-2xl border border-amber-500/30 overflow-hidden transform transition-all duration-300">
-          <div className="p-5 border-b border-stone-700 flex justify-between items-center">
-            <h3 className="font-bold text-white">{dict.modalTitle}</h3>
-            <button
-              onClick={() => setShowModal(false)}
-              className="text-stone-400 hover:text-white"
-            >
-              ✕
-            </button>
-          </div>
-          <div className="p-5">
-            <p className="text-sm text-stone-300 mb-2">
-              {dict.modalDesc}{" "}
-              <span className="font-bold text-amber-400">
-                {activePkg.name}
-              </span>
-              .
-            </p>
-            <div className="bg-stone-700/50 p-3 rounded-lg mb-2">
-              <div className="flex justify-between text-sm">
-                <span className="text-stone-300">Total</span>
-                <span className="font-bold text-amber-400">
-                  Rp {activePkg.price.toLocaleString("id-ID")}
-                </span>
-              </div>
+      {mounted && typeof document !== "undefined" && createPortal(
+        <div
+          className={`fixed inset-0 z-[99999] flex items-center justify-center bg-black/70 backdrop-blur-sm print:hidden transition-all duration-300 ${
+            showModal
+              ? "opacity-100 visible"
+              : "opacity-0 invisible pointer-events-none"
+          }`}
+        >
+          <div className="bg-stone-800 rounded-2xl max-w-md w-full mx-4 shadow-2xl border border-amber-500/30 overflow-hidden transform transition-all duration-300">
+            <div className="p-5 border-b border-stone-700 flex justify-between items-center">
+              <h3 className="font-bold text-white">{dict.modalTitle}</h3>
+              <button
+                onClick={() => setShowModal(false)}
+                className="text-stone-400 hover:text-white"
+              >
+                ✕
+              </button>
             </div>
-            <p className="text-xs text-stone-400 mb-4">
-              {dict.modalSummary.replace(
-                "{chapters}",
-                selectedTier === "basic" ? "2" : "5"
-              )}
-            </p>
-            <button
-              onClick={handlePayment}
-              disabled={isProcessing}
-              className="w-full py-2.5 bg-amber-500 hover:bg-amber-600 text-stone-900 font-bold rounded-lg transition disabled:opacity-50"
-            >
-              {isProcessing
-                ? dict.processing
-                : `${dict.payButton} ${activePkg.priceLabel}`}
-            </button>
-            <p className="text-[10px] text-stone-500 text-center mt-3">
-              {dict.footer}
-            </p>
+            <div className="p-5">
+              <p className="text-sm text-stone-300 mb-2">
+                {dict.modalDesc}{" "}
+                <span className="font-bold text-amber-400">
+                  {activePkg.name}
+                </span>
+                .
+              </p>
+              <div className="bg-stone-700/50 p-3 rounded-lg mb-2">
+                <div className="flex justify-between text-sm">
+                  <span className="text-stone-300">Total</span>
+                  <span className="font-bold text-amber-400">
+                    Rp {activePkg.price.toLocaleString("id-ID")}
+                  </span>
+                </div>
+              </div>
+              <p className="text-xs text-stone-400 mb-4">
+                {dict.modalSummary.replace(
+                  "{chapters}",
+                  selectedTier === "basic" ? "2" : "5"
+                )}
+              </p>
+              <button
+                onClick={handlePayment}
+                disabled={isProcessing}
+                className="w-full py-2.5 bg-amber-500 hover:bg-amber-600 text-stone-900 font-bold rounded-lg transition disabled:opacity-50"
+              >
+                {isProcessing
+                  ? dict.processing
+                  : `${dict.payButton} ${activePkg.priceLabel}`}
+              </button>
+              <p className="text-[10px] text-stone-500 text-center mt-3">
+                {dict.footer}
+              </p>
+            </div>
           </div>
-        </div>
-      </div>
+        </div>,
+        document.body
+      )}
 
       {/* KONDISI 1: TAMPILAN LAPORAN */}
       <div className={isPaid && reportContent ? "block" : "hidden"}>
