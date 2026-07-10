@@ -1,6 +1,5 @@
-User-Agent: *
+User-agent: *
 Allow: /
-Disallow: /api/
-Disallow: /_next/
 
 Sitemap: https://aksaradiri.my.id/sitemap.xml
+Host: https://aksaradiri.my.id

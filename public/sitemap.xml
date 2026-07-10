@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- ID ROUTES -->
+<url><loc>https://aksaradiri.my.id/id</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://aksaradiri.my.id/id/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/legal/privacy</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/legal/terms</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/category/personality</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/category/astrology</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/category/local</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/category/viral</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/id/test/mbti</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/id/tools/weton</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/id/tools/destiny-card</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/id/tools/which-country</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/id/tools/zodiac</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/id/tools/soulmate-initials</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+<!-- EN ROUTES -->
+<url><loc>https://aksaradiri.my.id/en</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://aksaradiri.my.id/en/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/legal/privacy</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/legal/terms</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/category/personality</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/category/astrology</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/category/local</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/category/viral</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/en/test/mbti</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/en/tools/weton</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/en/tools/destiny-card</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/en/tools/which-country</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/en/tools/zodiac</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/en/tools/soulmate-initials</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+<!-- ES ROUTES -->
+<url><loc>https://aksaradiri.my.id/es</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://aksaradiri.my.id/es/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/legal/privacy</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/legal/terms</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/category/personality</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/category/astrology</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/category/local</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/category/viral</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://aksaradiri.my.id/es/test/mbti</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/es/tools/weton</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/es/tools/destiny-card</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/es/tools/which-country</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/es/tools/zodiac</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://aksaradiri.my.id/es/tools/soulmate-initials</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+</urlset>
