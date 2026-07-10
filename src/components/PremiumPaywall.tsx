@@ -662,8 +662,8 @@ export default function PremiumPaywall({
                   [&>h3]:font-mystic [&>h3]:text-2xl [&>h3]:font-black [&>h3]:text-stone-900 [&>h3]:uppercase [&>h3]:tracking-[0.2em]
                   [&>h3]:mt-20 [&>h3]:mb-12 [&>h3]:border-l-4 [&>h3]:border-amber-800 [&>h3]:pl-6
                   [&>h3]:print:break-before-page
-                  [&>p]:font-lora [&>p]:text-[16px] [&>p]:leading-[2.1] [&>p]:mb-10 [&>p]:text-justify [&>p]:text-stone-800/90
-                  [&>h3+p]:first-letter:float-left [&>h3+p]:first-letter:text-7xl [&>h3+p]:first-letter:font-black [&>h3+p]:first-letter:font-mystic [&>h3+p]:first-letter:text-amber-900 [&>h3+p]:first-letter:pr-5 [&>h3+p]:first-letter:leading-[0.8] [&>h3+p]:first-letter:mt-2
+                  [&>p]:font-lora [&>p]:text-[14px] md:[&>p]:text-[15px] [&>p]:leading-[1.85] [&>p]:mb-6 [&>p]:text-justify [&>p]:text-stone-800/90
+                  [&>h3+p]:first-letter:float-left [&>h3+p]:first-letter:text-6xl [&>h3+p]:first-letter:font-black [&>h3+p]:first-letter:font-mystic [&>h3+p]:first-letter:text-amber-900 [&>h3+p]:first-letter:pr-4 [&>h3+p]:first-letter:leading-[0.85] [&>h3+p]:first-letter:mt-1
                   [&>ul]:my-14 [&>ul]:space-y-12 [&>ul]:border-t [&>ul]:border-stone-900/10 [&>ul]:pt-12
                   [&>ul>li]:font-lora [&>ul>li]:text-[16px] [&>ul>li]:leading-[2.1] [&>ul>li]:text-stone-700
                   [&>ul>li>strong]:block [&>ul>li>strong]:font-cinzel [&>ul>li>strong]:text-amber-900 [&>ul>li>strong]:text-xs [&>ul>li>strong]:tracking-[0.2em] [&>ul>li>strong]:mb-2 [&>ul>li>strong]:uppercase
