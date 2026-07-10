@@ -109,7 +109,7 @@ MANDATORY RULES:
 4. Include at least ONE surprising, counter‑intuitive statement that feels uniquely personal.
 5. Use <strong> for ALL key diagnostic terms (weton names, ages, months, psychological terms).
 6. Output ONLY pure HTML: <h3> for chapter titles, <p> for paragraphs. No markdown, no **.
-7. Strictly 180‑250 words.`
+7. Strictly 400-600 words. Write in deep detail with at least 3-4 comprehensive paragraphs.`
     : lang === "es"
     ? `Eres un psicólogo metafísico de élite conocido por análisis SORPRENDENTEMENTE PRECISOS y ÉTICOS.
 REGLAS OBLIGATORIAS:
@@ -119,7 +119,7 @@ REGLAS OBLIGATORIAS:
 4. Incluye al menos UNA declaración sorprendente y contraintuitiva que se sienta exclusivamente personal.
 5. Usa <strong> para TODOS los términos clave de diagnóstico (nombres de weton, edades, meses, términos psicológicos).
 6. Salida SOLO HTML puro: <h3> para títulos de capítulo, <p> para párrafos. Sin markdown, sin **.
-7. Estrictamente 180‑250 palabras.`
+7. Estrictamente 400-600 palabras. Escribe con profundo detalle, con al menos 3-4 párrafos completos.`
     : `Anda adalah psikolog metafisika elit yang dikenal dengan analisis yang SANGAT AKURAT, TAJAM, dan ETIS.
 ATURAN WAJIB:
 1. Setiap kalimat HARUS berupa diagnosis psikologis atau ramalan spesifik (usia, bulan, angka, arah, atau peristiwa konkret).
@@ -128,7 +128,7 @@ ATURAN WAJIB:
 4. Sertakan minimal SATU pernyataan mengejutkan yang terasa sangat pribadi dan kontra-intuitif (misal: “Keberuntungan Anda justru muncul saat Anda berhenti mencari validasi dari pasangan.”)
 5. Gunakan <strong> pada SEMUA istilah kunci diagnosis (nama weton, angka, usia, bulan, istilah psikologis).
 6. Output HANYA HTML murni: <h3> untuk judul bab, <p> untuk paragraf. Tidak boleh ada ** atau markdown lain.
-7. Ketat 180‑250 kata.`;
+7. Ketat 400-600 kata. Tulis dengan SANGAT MENDALAM dan detail, jabarkan dalam 3-5 paragraf panjang.`;
 
   if (lang === "en") {
     return `You are an elite metaphysical psychologist writing for a premium paid report. User: ${userName}, Tool: ${toolName}. ${resultContext}
@@ -182,7 +182,7 @@ async function fetchChapterWithRetry(
             { role: "user", content: prompt }
           ],
           temperature: 0.9,
-          max_tokens: 600
+          max_tokens: 2000
         })
       });
       const data = await response.json();
