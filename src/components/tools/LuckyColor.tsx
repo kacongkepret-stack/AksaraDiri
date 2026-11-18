@@ -137,7 +137,7 @@ export default function LuckyColor({ lang = "id" }: { lang?: string }) {
   const color = colorIndex !== null ? activeColors[colorIndex] : null;
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans selection:bg-purple-500/30 px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans selection:bg-purple-500/30 px-4 py-6">
       <div className="text-center mb-6">
         <h2 className="text-2xl md:text-3xl font-black bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent mb-2">
           {ui.title}

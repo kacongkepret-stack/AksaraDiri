@@ -493,7 +493,7 @@ export default function PastLife({ lang = "id" }: { lang?: string }) {
   const activeData = result ? (result.data[activeLang] || result.data["id"]) : null;
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       <div className="text-center mb-8">
         <div className="text-7xl mb-3 animate-spin-slow drop-shadow-xl">⏳</div>
         <h2 className="text-3xl md:text-5xl font-black bg-gradient-to-r from-amber-200 via-yellow-400 to-amber-600 bg-clip-text text-transparent pb-2">

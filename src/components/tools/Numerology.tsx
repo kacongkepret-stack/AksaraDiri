@@ -208,7 +208,7 @@ export default function Numerology() {
   }, [finalResult, database]);
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       {/* Header with badge & share */}
       <div className="text-center mb-8 relative">
         <div className="text-6xl mb-2">🔢✨</div>

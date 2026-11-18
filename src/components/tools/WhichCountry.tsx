@@ -323,7 +323,7 @@ export default function WhichCountry({ lang = "id" }: { lang?: string }) {
 
   if (step === "INTRO") {
     return (
-      <div className="max-w-3xl mx-auto text-white font-sans px-4 py-12 text-center">
+      <div className="max-w-4xl mx-auto text-white font-sans px-4 py-12 text-center">
         <div className="text-7xl mb-4 animate-bounce" style={{ animationDuration: '3s' }}>🌍✈️</div>
         <h2 className="text-3xl md:text-5xl font-black bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent drop-shadow-lg pb-2">
           {dict.title}{" "}
@@ -346,7 +346,7 @@ export default function WhichCountry({ lang = "id" }: { lang?: string }) {
 
   if (step === "LOADING") {
     return (
-      <div className="max-w-3xl mx-auto text-white flex flex-col justify-center items-center py-20 px-4">
+      <div className="max-w-4xl mx-auto text-white flex flex-col justify-center items-center py-20 px-4">
         <div className="relative w-24 h-24 flex items-center justify-center mb-6">
           <div className="absolute inset-0 border-4 border-blue-500/20 border-t-cyan-400 rounded-full animate-spin"></div>
           <div className="absolute inset-3 border-4 border-indigo-500/20 border-b-blue-500 rounded-full animate-spin animate-reverse"></div>
@@ -365,7 +365,7 @@ export default function WhichCountry({ lang = "id" }: { lang?: string }) {
     const progress = ((currentQIndex + 1) / questions.length) * 100;
 
     return (
-      <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6 animate-in fade-in duration-300">
+      <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6 animate-in fade-in duration-300">
         <div className="mb-8">
           <div className="flex justify-between text-xs font-bold text-slate-400 mb-2 uppercase tracking-widest">
             <span>{dict.progressLabel}</span>
@@ -409,7 +409,7 @@ export default function WhichCountry({ lang = "id" }: { lang?: string }) {
 
   if (step === "RESULT" && resultData && countryData) {
     return (
-      <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6 animate-in fade-in slide-in-from-bottom-5 duration-700">
+      <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6 animate-in fade-in slide-in-from-bottom-5 duration-700">
         
         <div className="text-center mb-6">
           <span className="inline-block px-4 py-1.5 bg-white/10 border border-white/20 rounded-full text-[10px] font-bold tracking-widest text-slate-300 uppercase mb-4 shadow-sm">

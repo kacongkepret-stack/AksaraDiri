@@ -257,7 +257,7 @@ export default function InitialSoulmate({ lang = "id" }: { lang?: string }) {
   const data = displayInit ? db[displayInit] : null;
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       {/* Header Section */}
       <div className="text-center mb-8">
         <div className="text-6xl mb-3 animate-bounce drop-shadow-lg" style={{ animationDuration: '3s' }}>🔤💕</div>

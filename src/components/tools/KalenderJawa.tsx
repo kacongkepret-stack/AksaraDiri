@@ -291,7 +291,7 @@ export default function KalenderJawaBulanan({ lang = "id" }: { lang?: string }) 
   const tahunSaka = getTahunSaka(currentDate);
 
   return (
-    <div className="max-w-5xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       <div className="text-center mb-6">
         <div className="text-5xl mb-2">📅🌾</div>
         <h2 className="text-3xl md:text-4xl font-black bg-gradient-to-r from-amber-400 via-yellow-500 to-orange-500 bg-clip-text text-transparent pb-1">

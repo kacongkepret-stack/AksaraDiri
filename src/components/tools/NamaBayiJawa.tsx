@@ -439,7 +439,7 @@ export default function NamaBayiJawa({ lang = "id" }: { lang?: string }) {
   };
 
   return (
-    <div className="max-w-5xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       {/* Header */}
       <div className="text-center mb-8">
         <div className="text-6xl mb-2">👶🌾</div>

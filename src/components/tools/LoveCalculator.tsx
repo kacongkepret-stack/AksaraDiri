@@ -369,7 +369,7 @@ export default function LoveCalculator() {
   const category = result ? getCategory(result.score, dict) : null;
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       {/* Header with badge & share */}
       <div className="text-center mb-8 relative">
         <div className="text-6xl mb-2 animate-bounce drop-shadow-lg" style={{ animationDuration: '3s' }}>💘✨</div>

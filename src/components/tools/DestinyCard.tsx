@@ -240,7 +240,7 @@ export default function DestinyCard({ lang = "id" }: { lang?: string }) {
   };
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-8">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-8">
       {/* Header with badge & share */}
       <div className="text-center mb-10 relative">
         <div className="text-6xl mb-4 drop-shadow-2xl">🃏✨</div>

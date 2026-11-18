@@ -545,7 +545,7 @@ export default function ChineseZodiacPremium({ lang = "id" }: { lang?: string })
   const activeData = result ? SHIO_DATA_ML[result].data[activeLang] : null;
 
   return (
-    <div className="w-full max-w-5xl mx-auto px-4 md:px-6 pb-20 text-white font-sans selection:bg-red-500/30">
+    <div className="w-full max-w-4xl mx-auto px-4 md:px-6 pb-20 text-white font-sans selection:bg-red-500/30">
       
       <div className="text-center mb-10 relative">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-black mb-4 tracking-tight drop-shadow-2xl flex justify-center items-center gap-3">

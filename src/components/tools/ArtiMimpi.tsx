@@ -329,7 +329,7 @@ export default function DreamMeaning() {
   };
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       {/* HEADER SECTION */}
       <div className="text-center mb-8 relative">
         <div className="text-6xl mb-2">🌙🔍</div>

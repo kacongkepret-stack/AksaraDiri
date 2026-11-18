@@ -353,7 +353,7 @@ export default function WetonCalculator() {
   // Empty State
   if (!loading && !analyzed && !result) {
     return (
-      <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+      <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
         <div className="text-center mb-8">
           <div className="text-6xl mb-2">📅🧭</div>
           <h2 className="text-3xl md:text-4xl font-black bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent">
@@ -382,7 +382,7 @@ export default function WetonCalculator() {
   }
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
       <div className="text-center mb-8 relative">
         <div className="text-6xl mb-2">📅🧭</div>
         <h2 className="text-3xl md:text-4xl font-black bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent">

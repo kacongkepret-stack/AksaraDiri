@@ -662,7 +662,7 @@ export default function NameMeaning({ lang = "id" }: { lang?: string }) {
   };
 
   return (
-    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6 selection:bg-teal-500/30">
+    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6 selection:bg-teal-500/30">
       
       {/* HEADER */}
       <div className="text-center mb-10">

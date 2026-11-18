@@ -813,7 +813,7 @@ export default function ZodiacProfilePremium({ lang = "id" }: { lang?: string })
   };
 
   return (
-    <div className="w-full max-w-5xl mx-auto px-4 md:px-6 pb-20 text-white font-sans selection:bg-cyan-500/30">
+    <div className="w-full max-w-4xl mx-auto px-4 md:px-6 pb-20 text-white font-sans selection:bg-cyan-500/30">
       
       {/* HEADER */}
       <div className="text-center mb-10 relative">

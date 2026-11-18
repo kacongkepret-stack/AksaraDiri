@@ -764,7 +764,7 @@ export default function PremiumPaywall({
         </div>
 
         {/* Preview buram yang memancing rasa ingin tahu */}
-        <div className="w-full max-w-xl bg-stone-800/20 rounded-xl p-6 mb-8 border border-stone-700/50 relative overflow-hidden">
+        <div className="w-full max-w-4xl bg-stone-800/20 rounded-xl p-6 mb-8 border border-stone-700/50 relative overflow-hidden">
           <h3 className="text-amber-400 font-bold mb-3 text-sm tracking-wider">
             {dict.previewTitle}
           </h3>
@@ -787,8 +787,8 @@ export default function PremiumPaywall({
           </div>
         </div>
 
-        {/* Kartu tier */}
-        <div className="flex flex-col gap-6 w-full max-w-md mx-auto">
+        {/* Kartu tier (Dijejer ke samping di layar md ke atas) */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-4xl mx-auto items-stretch">
           {/* BASIC */}
           <div
             onClick={() => setSelectedTier("basic")}
