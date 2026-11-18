@@ -118,7 +118,7 @@ export default function ResultClient({
 
   return (
     <div suppressHydrationWarning className="relative min-h-screen bg-transparent text-white flex flex-col items-center justify-center px-4 py-10">
-      <div className="relative z-10 max-w-xl w-full bg-slate-900/70 backdrop-blur-2xl border border-white/20 rounded-3xl p-8 text-center shadow-2xl">
+      <div className="relative z-10 max-w-2xl w-full bg-slate-900/70 backdrop-blur-2xl border border-white/20 rounded-3xl p-8 text-center shadow-2xl">
         
         <h2 className="text-sm text-cyan-400 font-bold uppercase tracking-widest mb-2">
           {t.resultTitle}

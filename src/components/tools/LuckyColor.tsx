@@ -137,7 +137,7 @@ export default function LuckyColor({ lang = "id" }: { lang?: string }) {
   const color = colorIndex !== null ? activeColors[colorIndex] : null;
 
   return (
-    <div className="w-full max-w-md mx-auto font-sans selection:bg-purple-500/30 px-4 py-6">
+    <div className="max-w-3xl mx-auto text-white font-sans selection:bg-purple-500/30 px-4 py-6">
       <div className="text-center mb-6">
         <h2 className="text-2xl md:text-3xl font-black bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent mb-2">
           {ui.title}
@@ -145,23 +145,25 @@ export default function LuckyColor({ lang = "id" }: { lang?: string }) {
         <p className="text-slate-400 text-xs">{ui.subtitle}</p>
       </div>
 
-      <button
-        onClick={handleGenerate}
-        disabled={isLoading}
-        className="w-full py-3 rounded-xl bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold hover:scale-[1.02] active:scale-95 transition-all disabled:opacity-60 shadow-lg shadow-purple-500/25"
-      >
-        {isLoading ? (
-          <span className="flex items-center justify-center gap-2">
-            <svg className="animate-spin h-4 w-4 text-white" viewBox="0 0 24 24" fill="none">
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
-            </svg>
-            {ui.loading}
-          </span>
-        ) : (
-          ui.btn
-        )}
-      </button>
+      <div className="max-w-md mx-auto">
+        <button
+          onClick={handleGenerate}
+          disabled={isLoading}
+          className="w-full py-3 rounded-xl bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold hover:scale-[1.02] active:scale-95 transition-all disabled:opacity-60 shadow-lg shadow-purple-500/25"
+        >
+          {isLoading ? (
+            <span className="flex items-center justify-center gap-2">
+              <svg className="animate-spin h-4 w-4 text-white" viewBox="0 0 24 24" fill="none">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
+              </svg>
+              {ui.loading}
+            </span>
+          ) : (
+            ui.btn
+          )}
+        </button>
+      </div>
 
       {isGenerated && color && (
         <div className="mt-8 animate-in fade-in slide-in-from-bottom-4 duration-500">

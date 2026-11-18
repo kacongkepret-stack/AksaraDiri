@@ -448,7 +448,7 @@ export default function WatakKelahiran({ lang = "id" }: { lang?: string }) {
   };
 
   return (
-    <div className="max-w-4xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
       <div className="text-center mb-8">
         <div className="text-6xl mb-2 drop-shadow-lg">🧬📜</div>
         <h2 className="text-3xl md:text-4xl font-black bg-gradient-to-r from-amber-400 via-orange-500 to-purple-500 bg-clip-text text-transparent pb-1">

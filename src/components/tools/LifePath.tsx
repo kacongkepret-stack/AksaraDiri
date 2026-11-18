@@ -618,7 +618,7 @@ export default function LifePathNumber({ lang = "id" }: { lang?: string }) {
   // PART 4: ANTARMUKA UI (ULTRA PREMIUM)
   // ==========================================
   return (
-    <div className="max-w-2xl mx-auto text-white font-sans px-4 py-6">
+    <div className="max-w-3xl mx-auto text-white font-sans px-4 py-6">
       {/* HEADER */}
       <div className="text-center mb-10">
         <div className="text-6xl mb-2 drop-shadow-2xl">🔢✨</div>
