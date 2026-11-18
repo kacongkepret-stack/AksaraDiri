@@ -5,44 +5,54 @@ import midtransClient from 'midtrans-client';
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    
-    // Tangkap data dari frontend
-    const { toolName, resultId, amount } = body;
+    const { toolName, resultId, amount, selectedTier } = body;
 
-    // Proteksi Keamanan Dasar
-    if (!amount || amount < 5000) {
-       return NextResponse.json({ error: 'Harga tidak valid' }, { status: 400 });
+    const serverKey = process.env.MIDTRANS_SERVER_KEY;
+    const clientKey = process.env.NEXT_PUBLIC_MIDTRANS_CLIENT_KEY;
+
+    if (!serverKey) {
+      return NextResponse.json({ error: 'Server key is missing' }, { status: 500 });
+    }
+
+    // PENGAMANAN HARGA RESMI (Anti Client-Side Price Tampering):
+    // Paket Basic = Rp 5.000, Paket VIP / Lengkap = Rp 10.000
+    let authoritativePrice = 5000;
+    if (amount === 10000 || selectedTier === 'vip' || selectedTier === 'comprehensive') {
+      authoritativePrice = 10000;
     }
 
     // Inisialisasi Snap Midtrans
-    // Pastikan Key dari .env SAMA dengan LatihanOnline / PersonaHub
-    let snap = new midtransClient.Snap({
-      isProduction: true, // Ubah ke true jika sudah live di production
-      serverKey: process.env.MIDTRANS_SERVER_KEY,
-      clientKey: process.env.NEXT_PUBLIC_MIDTRANS_CLIENT_KEY
+    const snap = new midtransClient.Snap({
+      isProduction: process.env.NEXT_PUBLIC_MIDTRANS_IS_PRODUCTION === 'true' || !serverKey.startsWith('SB-'),
+      serverKey: serverKey,
+      clientKey: clientKey || ''
     });
 
-    // 🔒 CETAK ORDER ID KHUSUS AKSARADIRI
-    const secureOrderId = `AKSD-${Date.now()}-${Math.floor(Math.random() * 1000)}`;
+    // CETAK ORDER ID KHUSUS AKSARADIRI (Prefix AKSD-)
+    const secureOrderId = `AKSD-${Date.now()}-${Math.floor(Math.random() * 9000) + 1000}`;
 
-    let parameter = {
-      "transaction_details": {
-        "order_id": secureOrderId, 
-        "gross_amount": amount 
+    const parameter = {
+      transaction_details: {
+        order_id: secureOrderId, 
+        gross_amount: authoritativePrice 
       },
-      "item_details": [{
-        "id": resultId || "premium-report",
-        "price": amount,
-        "quantity": 1,
-        "name": `Paket Analisis: ${toolName || 'Premium'}`
+      item_details: [{
+        id: resultId ? String(resultId).slice(0, 40) : "premium-report",
+        price: authoritativePrice,
+        quantity: 1,
+        name: `Paket Analisis: ${(toolName || 'Premium').slice(0, 40)}`
       }],
-      // Membatasi hanya QRIS dan E-Wallet agar konversi lebih cepat
-      "enabled_payments": ["gopay", "shopeepay", "other_qris"]
+      // Membatasi pembayaran agar instan
+      enabled_payments: ["gopay", "shopeepay", "other_qris", "bca_va", "bni_va", "bri_va", "mandiri_clickpay"]
     };
 
     const transaction = await snap.createTransaction(parameter);
     
-    return NextResponse.json({ token: transaction.token });
+    return NextResponse.json({ 
+      token: transaction.token,
+      order_id: secureOrderId,
+      amount: authoritativePrice 
+    });
 
   } catch (error: any) {
     console.error("Midtrans Error:", error.message);
